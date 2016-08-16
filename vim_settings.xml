@@ -110,10 +110,11 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1471251832517">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1471334130736">
+        <mark key="[" line="13" column="64" />
+        <mark key="]" line="13" column="64" />
+        <mark key="." line="13" column="64" />
+        <mark key="^" line="13" column="64" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/index.js" timestamp="1469699931708">
         <mark key="[" line="63" column="10" />
@@ -278,11 +279,11 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1470911870634">
-        <mark key="[" line="32" column="30" />
-        <mark key="]" line="33" column="65" />
-        <mark key="^" line="33" column="65" />
-        <mark key="." line="33" column="65" />
+      <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1471334402566">
+        <mark key="[" line="26" column="55" />
+        <mark key="]" line="26" column="55" />
+        <mark key="^" line="26" column="55" />
+        <mark key="." line="26" column="55" />
       </file>
       <file name="/workspace/website/gowild-manage-system/node_modules/react-dom/dist/react-dom.js" timestamp="1469590794768">
         <mark key="[" line="23" column="9" />
