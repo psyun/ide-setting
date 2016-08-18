@@ -103,11 +103,11 @@
         <mark key="." line="53" column="19" />
         <mark key="^" line="53" column="19" />
       </file>
-      <file name="/workspace/website/awardRotate/index.html" timestamp="1471441630406">
-        <mark key="[" line="93" column="38" />
-        <mark key="]" line="93" column="53" />
-        <mark key="^" line="93" column="53" />
-        <mark key="." line="93" column="53" />
+      <file name="/workspace/website/awardRotate/index.html" timestamp="1471488404397">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="149" column="11" />
       </file>
       <file name="/workspace/website/gwai/www/components/checkbox/checkbox.html" timestamp="1470304385703">
         <mark key="'" line="1" column="7" />
@@ -646,8 +646,8 @@
       <jump line="40" column="16" filename="/workspace/website/gwai/www/css/iconfont.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbSwgdHh0KTsK</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -659,22 +659,22 @@
         <text encoding="base64">ICAgICAgICAgIGRldmljZVV0aWwuZGV2aWNlSW5mby5zbiA9IHhiTmF0aXZlLmdldFNuKCkucmVwbGFjZSgnOicsICcnKTsKICAgICAgICAgIGFsZXJ0KGRldmljZVV0aWwuZGV2aWNlSW5mby5zbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gOTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbSwgdHh0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocm5kIDw9IC41KSByZXR1cm4gNDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbSA9IGl0ZW0gJSB0dXJucGxhdGUucmVzdGFyYXVudHMubGVuZ3RoOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCh0eHQpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZ2xlcyA9IDM2MCAtIGFuZ2xlcyArIDI3MDsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFuZ2xlcyA9IGl0ZW0gKiAoMzYwIC8gdHVybnBsYXRlLnJlc3RhcmF1bnRzLmxlbmd0aCkgLSAoMzYwIC8gKHR1cm5wbGF0ZS5yZXN0YXJhdW50cy5sZW5ndGggKiAyKSkgLSA3MjsKICAgICAgICAgICAgaWYgKGFuZ2xlcyA8IDI3MCkgewogICAgICAgICAgICAgICAgYW5nbGVzID0gMjcwIC0gYW5nbGVzOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYW5nbGVzID0gMzYwIC0gYW5nbGVzICsgMjcwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFuZ2xlcyA9IGl0ZW0gKiAoMzYwIC8gdHVybnBsYXRlLnJlc3RhcmF1bnRzLmxlbmd0aCkgLSAoMzYwIC8gKHR1cm5wbGF0ZS5yZXN0YXJhdW50cy5sZW5ndGggKiAyKSkgLSA3MjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZ2xlcyA9IDI3MCAtIGFuZ2xlczsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGFuZ2xlcyA8IDI3MCkgewo=</text>
@@ -683,10 +683,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZ2xlcyA9IDI3MCAtIGFuZ2xlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
