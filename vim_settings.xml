@@ -197,17 +197,18 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
+      <file name="/workspace/website/mhome/www/typekit.js" timestamp="1471491801317">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="44" column="5" />
+        <mark key="^" line="44" column="5" />
+        <mark key="." line="44" column="5" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/grid.scss" timestamp="1469691409537">
         <mark key="'" line="37" column="8" />
         <mark key="[" line="46" column="30" />
         <mark key="]" line="46" column="18" />
         <mark key="." line="46" column="18" />
         <mark key="^" line="46" column="18" />
-      </file>
-      <file name="/workspace/website/gwai/www/views/vocabulary/list/list.js" timestamp="1470988807456">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/list/list.html" timestamp="1470794750586">
         <mark key="'" line="28" column="48" />
@@ -241,6 +242,7 @@
         <mark key="^" line="2105" column="72" />
         <mark key="." line="2105" column="72" />
       </file>
+      <file name="/workspace/website/mhome/www/index.html" timestamp="1471491673669" />
       <file name="/workspace/website/gwai/www/views/memory/list/list.scss" timestamp="1470645230793">
         <mark key="[" line="8" column="2" />
         <mark key="]" line="7" column="21" />
@@ -689,7 +691,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gOTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -740,11 +742,11 @@
         <entry>w'</entry>
         <entry>we</entry>
         <entry>all</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>qa</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
