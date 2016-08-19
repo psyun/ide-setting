@@ -153,12 +153,12 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" timestamp="1471502719785">
-        <mark key="'" line="23" column="1" />
-        <mark key="[" line="58" column="6" />
-        <mark key="]" line="59" column="11" />
-        <mark key="." line="59" column="11" />
-        <mark key="^" line="59" column="11" />
+      <file name="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" timestamp="1471573195322">
+        <mark key="'" line="60" column="5" />
+        <mark key="[" line="60" column="2" />
+        <mark key="]" line="60" column="6" />
+        <mark key="." line="60" column="6" />
+        <mark key="^" line="60" column="6" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_transitions.scss" timestamp="1470989636577">
         <mark key="[" line="6" column="43" />
@@ -197,7 +197,6 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="/workspace/website/mhome/www/bundle.js" timestamp="1471503435239" />
       <file name="/workspace/website/gwai/www/views/memory/help/help.html" timestamp="1470641790967">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="30" column="33" />
@@ -261,7 +260,6 @@
         <mark key="^" line="2105" column="72" />
         <mark key="." line="2105" column="72" />
       </file>
-      <file name="/workspace/website/mhome/www/index.html" timestamp="1471491673669" />
       <file name="/workspace/website/gwai/www/views/memory/list/list.scss" timestamp="1470645230793">
         <mark key="[" line="8" column="2" />
         <mark key="]" line="7" column="21" />
@@ -363,7 +361,6 @@
         <mark key="^" line="313" column="20" />
         <mark key="." line="313" column="20" />
       </file>
-      <file name="/workspace/website/mhome/www/app.js" timestamp="1471513191432" />
       <file name="/workspace/website/gwai/package.json" timestamp="1470365719948">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="23" />
@@ -585,7 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="17" filename="/workspace/website/gwai/www/scss/util.scss" />
       <jump line="0" column="0" filename="/workspace/website/gwai/www/scss/util.scss" />
       <jump line="44" column="1" filename="/workspace/website/gwai/www/scss/util.scss" />
       <jump line="48" column="49" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
@@ -685,6 +681,7 @@
       <jump line="33" column="4" filename="/workspace/website/mhome/www/components/footer/footer.js" />
       <jump line="23" column="1" filename="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="60" column="5" filename="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
