@@ -81,11 +81,11 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1472032469832">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-        <mark key="^" line="13" column="27" />
+      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1472036295346">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="13" column="64" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/app.js" timestamp="1471332306256">
         <mark key="'" line="76" column="27" />
@@ -751,7 +751,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KGRldmljZVV0aWwuZGV2aWNlSW5mby5waG9uZSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -763,37 +763,37 @@
         <text encoding="base64">ICAgICAgPHA+6L+R5pel77yMR293aWxk5pm66IO956eR5oqA5q2j5byP5oiQ5Li65Lit5Zu95pm66IO95a625bGF5Lqn5Lia6IGU55uf77yIQ1NISUHvvInnkIbkuovljZXkvY3vvIzlsIblhajpnaLlj4LkuI7ogZTnm5/nmoTlkITpobnlt6XkvZzvvIzlubbooYzkvb/nkIbkuovljZXkvY3nmoTmnYPliKk8L3A+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KGRldmljZVV0aWwuZGV2aWNlSW5mby5waG9uZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHNjb3BlLnNyZWYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KGRldmljZVV0aWwuZGV2aWNlSW5mby5zbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2NvcGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRldmljZVV0aWwuZGV2aWNlSW5mby5hY2Nlc3NUb2tlbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2NvcGUudWlTcmVmKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkaW9uaWNIaXN0b3J5LmNsZWFySGlzdG9yeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHNjb3BlLnNyZWYpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkaW9uaWNIaXN0b3J5LmNsZWFySGlzdG9yeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2NvcGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2NvcGUudWlTcmVmKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICMzYTNhM2E7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAkaW9uaWNIaXN0b3J5LmNsZWFySGlzdG9yeSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxNHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAkaW9uaWNIaXN0b3J5LmNsZWFySGlzdG9yeSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -847,8 +847,8 @@
         <entry>qq</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
