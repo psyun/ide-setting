@@ -451,7 +451,12 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="/workspace/website/home/src/index.html" timestamp="1472005682651" />
+      <file name="/workspace/website/home/src/index.html" timestamp="1472008520231">
+        <mark key="[" line="283" column="76" />
+        <mark key="]" line="283" column="103" />
+        <mark key="." line="283" column="103" />
+        <mark key="^" line="283" column="103" />
+      </file>
       <file name="/workspace/website/gwai/www/views/memory/add/add.js" timestamp="1471332258117">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -767,7 +772,7 @@
         <text encoding="base64">CkBmb250LWZhY2Uge2ZvbnQtZmFtaWx5OiAiaWNvbiI7CiAgc3JjOiB1cmwoJ2ljb25mb250LmVvdD90PTE0NzE1ODg1NzAnKTsgLyogSUU5Ki8KICBzcmM6IHVybCgnaWNvbmZvbnQuZW90P3Q9MTQ3MTU4ODU3MCNpZWZpeCcpIGZvcm1hdCgnZW1iZWRkZWQtb3BlbnR5cGUnKSwgLyogSUU2LUlFOCAqLwogIHVybCgnaWNvbmZvbnQud29mZj90PTE0NzE1ODg1NzAnKSBmb3JtYXQoJ3dvZmYnKSwgLyogY2hyb21lLCBmaXJlZm94ICovCiAgdXJsKCdpY29uZm9udC50dGY/dD0xNDcxNTg4NTcwJykgZm9ybWF0KCd0cnVldHlwZScpLCAvKiBjaHJvbWUsIGZpcmVmb3gsIG9wZXJhLCBTYWZhcmksIEFuZHJvaWQsIGlPUyA0LjIrKi8KICB1cmwoJ2ljb25mb250LnN2Zz90PTE0NzE1ODg1NzAjaWNvbicpIGZvcm1hdCgnc3ZnJyk7IC8qIGlPUyA0LjEtICovCn0KCi5pY29uIHsKICBmb250LWZhbWlseToiaWNvbiIgIWltcG9ydGFudDsKICBmb250LXNpemU6MTZweDsKICBmb250LXN0eWxlOm5vcm1hbDsKICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsKICAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwLjJweDsKICAtbW96LW9zeC1mb250LXNtb290aGluZzogZ3JheXNjYWxlOwp9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -821,8 +826,8 @@
         <entry>W</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
