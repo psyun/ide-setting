@@ -451,11 +451,12 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="/workspace/website/home/src/index.html" timestamp="1472008520231">
-        <mark key="[" line="283" column="76" />
-        <mark key="]" line="283" column="103" />
-        <mark key="." line="283" column="103" />
-        <mark key="^" line="283" column="103" />
+      <file name="/workspace/website/home/src/index.html" timestamp="1472009412654">
+        <mark key="'" line="279" column="107" />
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="25" column="3" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/add/add.js" timestamp="1471332258117">
         <mark key="[" line="10" column="0" />
@@ -627,7 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/workspace/website/gwai/www/views/vocabulary/add/add.html" />
       <jump line="89" column="10" filename="/workspace/website/gwai/www/app.js" />
       <jump line="14" column="0" filename="/workspace/website/gwai/www/app.js" />
       <jump line="4" column="16" filename="/workspace/website/gwai/www/views/vocabulary/vocabulary.html" />
@@ -727,10 +727,11 @@
       <jump line="80" column="55" filename="/workspace/website/home/src/home/product/gwais.html" />
       <jump line="71" column="23" filename="/workspace/website/home/src/css/gwais.css" />
       <jump line="239" column="16" filename="/workspace/website/home/src/css/gwais.css" />
+      <jump line="274" column="107" filename="/workspace/website/home/src/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">PCEtLVtpZiBsdCBJRSA5XT4K</text>
       </register>
       <register name="-" type="4">
         <text>$ionicHistory.backView()</text>
@@ -742,34 +743,34 @@
         <text>starter.components</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">PCEtLVtpZiBsdCBJRSA5XT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtc2l6ZTpjb250YWluOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICpiYWNrZ3JvdW5kLWltYWdlOnVybCgnLi4vaW1nL2ljb24vY2xvc2UucG5nJyk7Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtc2l6ZTpjb250YWluOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMjRweDsK</text>
+        <text encoding="base64">ICAgICpiYWNrZ3JvdW5kLWltYWdlOnVybCgnLi4vaW1nL2ljb24vY2xvc2UucG5nJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAyNHB4Owo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMjRweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Lmljb24tY2xvc2V7Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAyNHB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Lmljb24tY2xvc2U6YmVmb3JlIHsgY29udGVudDogIlxlNjVlIjsgfQo=</text>
+        <text encoding="base64">Lmljb24tY2xvc2V7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC13ZWJraXQtYmFja2dyb3VuZC1zaXplOjsK</text>
+        <text encoding="base64">Lmljb24tY2xvc2U6YmVmb3JlIHsgY29udGVudDogIlxlNjVlIjsgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CkBmb250LWZhY2Uge2ZvbnQtZmFtaWx5OiAiaWNvbiI7CiAgc3JjOiB1cmwoJ2ljb25mb250LmVvdD90PTE0NzE1ODg1NzAnKTsgLyogSUU5Ki8KICBzcmM6IHVybCgnaWNvbmZvbnQuZW90P3Q9MTQ3MTU4ODU3MCNpZWZpeCcpIGZvcm1hdCgnZW1iZWRkZWQtb3BlbnR5cGUnKSwgLyogSUU2LUlFOCAqLwogIHVybCgnaWNvbmZvbnQud29mZj90PTE0NzE1ODg1NzAnKSBmb3JtYXQoJ3dvZmYnKSwgLyogY2hyb21lLCBmaXJlZm94ICovCiAgdXJsKCdpY29uZm9udC50dGY/dD0xNDcxNTg4NTcwJykgZm9ybWF0KCd0cnVldHlwZScpLCAvKiBjaHJvbWUsIGZpcmVmb3gsIG9wZXJhLCBTYWZhcmksIEFuZHJvaWQsIGlPUyA0LjIrKi8KICB1cmwoJ2ljb25mb250LnN2Zz90PTE0NzE1ODg1NzAjaWNvbicpIGZvcm1hdCgnc3ZnJyk7IC8qIGlPUyA0LjEtICovCn0KCi5pY29uIHsKICBmb250LWZhbWlseToiaWNvbiIgIWltcG9ydGFudDsKICBmb250LXNpemU6MTZweDsKICBmb250LXN0eWxlOm5vcm1hbDsKICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsKICAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwLjJweDsKICAtbW96LW9zeC1mb250LXNtb290aGluZzogZ3JheXNjYWxlOwp9Cg==</text>
+        <text encoding="base64">ICAgIC13ZWJraXQtYmFja2dyb3VuZC1zaXplOjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
