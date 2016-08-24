@@ -451,12 +451,12 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="/workspace/website/home/src/index.html" timestamp="1472009412654">
-        <mark key="'" line="279" column="107" />
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="25" column="3" />
+      <file name="/workspace/website/home/src/index.html" timestamp="1472010391046">
+        <mark key="'" line="280" column="107" />
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="24" column="42" />
+        <mark key="." line="24" column="42" />
+        <mark key="^" line="24" column="42" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/add/add.js" timestamp="1471332258117">
         <mark key="[" line="10" column="0" />
@@ -553,12 +553,12 @@
         <mark key="." line="68" column="43" />
         <mark key="^" line="68" column="43" />
       </file>
-      <file name="/workspace/website/home/src/css/base.css" timestamp="1470125133608">
-        <mark key="'" line="867" column="0" />
-        <mark key="[" line="1115" column="14" />
-        <mark key="]" line="1115" column="13" />
-        <mark key="." line="1115" column="13" />
-        <mark key="^" line="1115" column="13" />
+      <file name="/workspace/website/home/src/css/base.css" timestamp="1472010375235">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1139" column="0" />
+        <mark key="]" line="1149" column="22" />
+        <mark key="." line="1149" column="22" />
+        <mark key="^" line="1149" column="22" />
       </file>
       <file name="/workspace/website/mhome/www/views/support/support-detail-List/support-detail-list.html" timestamp="1471576713654">
         <mark key="'" line="367" column="26" />
@@ -628,8 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="10" filename="/workspace/website/gwai/www/app.js" />
-      <jump line="14" column="0" filename="/workspace/website/gwai/www/app.js" />
       <jump line="4" column="16" filename="/workspace/website/gwai/www/views/vocabulary/vocabulary.html" />
       <jump line="20" column="0" filename="/workspace/website/gwai/www/views/vocabulary/vocabulary.js" />
       <jump line="27" column="0" filename="/workspace/website/gwai/www/views/qa/list/list.html" />
@@ -728,6 +726,8 @@
       <jump line="71" column="23" filename="/workspace/website/home/src/css/gwais.css" />
       <jump line="239" column="16" filename="/workspace/website/home/src/css/gwais.css" />
       <jump line="274" column="107" filename="/workspace/website/home/src/index.html" />
+      <jump line="1118" column="22" filename="/workspace/website/home/src/css/base.css" />
+      <jump line="0" column="0" filename="/workspace/website/home/src/css/base.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
