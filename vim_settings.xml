@@ -37,12 +37,12 @@
         <mark key="^" line="21" column="61" />
         <mark key="." line="21" column="61" />
       </file>
-      <file name="/workspace/website/gwai/www/views/libraries/dash/dash.html" timestamp="1470910405953">
+      <file name="/workspace/website/gwai/www/views/libraries/dash/dash.html" timestamp="1472092780467">
         <mark key="'" line="4" column="45" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="9" column="39" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="32" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/guide/guide.js" timestamp="1470794798975">
         <mark key="[" line="8" column="12" />
@@ -80,11 +80,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1472040578533">
-        <mark key="[" line="13" column="64" />
-        <mark key="]" line="13" column="63" />
-        <mark key="." line="13" column="63" />
-        <mark key="^" line="13" column="63" />
+      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1472091996336">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="49" column="66" />
+        <mark key="]" line="49" column="67" />
+        <mark key="." line="49" column="67" />
+        <mark key="^" line="49" column="67" />
       </file>
       <file name="/workspace/website/gwai/www/app.js" timestamp="1471332306256">
         <mark key="'" line="76" column="27" />
@@ -237,7 +238,6 @@
         <mark key="^" line="4" column="101" />
         <mark key="." line="4" column="101" />
       </file>
-      <file name="/workspace/website/gwai/www/lib/ionic/js/ionic-angular.js" timestamp="1472034288417" />
       <file name="/workspace/website/gwai/www/views/memory/guide/guide.html" timestamp="1472034727202">
         <mark key="'" line="32" column="13" />
         <mark key="[" line="0" column="42" />
@@ -245,12 +245,12 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="/workspace/website/gwai/www/views/qa/add/add.html" timestamp="1470736245061">
+      <file name="/workspace/website/gwai/www/views/qa/add/add.html" timestamp="1472092025799">
         <mark key="'" line="1" column="37" />
-        <mark key="[" line="11" column="66" />
-        <mark key="]" line="11" column="62" />
-        <mark key="." line="11" column="62" />
-        <mark key="^" line="11" column="62" />
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="/workspace/website/gwai/www/views/libraries/dash/dash.js" timestamp="1472019949043">
         <mark key="[" line="52" column="37" />
@@ -354,7 +354,6 @@
         <mark key="^" line="134" column="41" />
         <mark key="." line="134" column="41" />
       </file>
-      <file name="/workspace/website/mhome/www/views/news/news-detail/news-detail.html" timestamp="1472025372136" />
       <file name="/workspace/website/mhome/www/views/news/news-detail/news-detail.scss" timestamp="1472025514873">
         <mark key="[" line="23" column="24" />
         <mark key="]" line="26" column="21" />
@@ -407,6 +406,12 @@
         <mark key="^" line="30" column="57" />
         <mark key="." line="30" column="57" />
       </file>
+      <file name="/workspace/website/gwai/www/views/vocabulary/list/list.js" timestamp="1472092411717">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="42" column="37" />
+        <mark key="^" line="42" column="37" />
+        <mark key="." line="42" column="37" />
+      </file>
       <file name="/workspace/website/gwai/www/views/memory/list/list.html" timestamp="1470794750586">
         <mark key="'" line="28" column="48" />
         <mark key="[" line="0" column="61" />
@@ -432,11 +437,6 @@
         <mark key="]" line="2105" column="72" />
         <mark key="^" line="2105" column="72" />
         <mark key="." line="2105" column="72" />
-      </file>
-      <file name="/workspace/website/mhome/www/index.html" timestamp="1472022949093">
-        <mark key="'" line="0" column="3" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="7" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/list/list.scss" timestamp="1470645230793">
         <mark key="[" line="8" column="2" />
@@ -524,10 +524,6 @@
         <mark key="]" line="2" column="1" />
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="1" />
-      </file>
-      <file name="/workspace/website/mhome/www/views/news/news.html" timestamp="1472021557213">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
       </file>
       <file name="/workspace/website/gwai/www/css/iconfont.css" timestamp="1471332043106">
         <mark key="'" line="40" column="16" />
@@ -649,8 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="/workspace/website/gwai/www/views/vocabulary/add/add.html" />
-      <jump line="0" column="0" filename="/workspace/website/gwai/www/views/vocabulary/add/add.scss" />
       <jump line="5" column="0" filename="/workspace/website/gwai/www/views/vocabulary/list/list.html" />
       <jump line="15" column="33" filename="/workspace/website/gwai/www/views/vocabulary/list/list.js" />
       <jump line="20" column="42" filename="/workspace/website/gwai/www/views/vocabulary/list/list.js" />
@@ -749,10 +743,12 @@
       <jump line="0" column="38" filename="/workspace/website/gwai/www/views/vocabulary/guide/guide.html" />
       <jump line="33" column="65" filename="/workspace/website/gwai/www/utils/rest-hapi.js" />
       <jump line="9" column="0" filename="/workspace/website/gwai/www/services/vocabulary.js" />
+      <jump line="49" column="64" filename="/workspace/website/gwai/www/utils/device-util.js" />
+      <jump line="55" column="0" filename="/workspace/website/gwai/www/utils/device-util.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50aGVuKGNoZWNrU2VydmVyRGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGRldmljZVV0aWwuZGV2aWNlSW5mby5nb0JhY2soKTsK</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -764,34 +760,34 @@
         <text encoding="base64">ICAgICAgPHA+6L+R5pel77yMR293aWxk5pm66IO956eR5oqA5q2j5byP5oiQ5Li65Lit5Zu95pm66IO95a625bGF5Lqn5Lia6IGU55uf77yIQ1NISUHvvInnkIbkuovljZXkvY3vvIzlsIblhajpnaLlj4LkuI7ogZTnm5/nmoTlkITpobnlt6XkvZzvvIzlubbooYzkvb/nkIbkuovljZXkvY3nmoTmnYPliKk8L3A+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50aGVuKGNoZWNrU2VydmVyRGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGRldmljZVV0aWwuZGV2aWNlSW5mby5nb0JhY2soKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGRldmljZVV0aWwuZGV2aWNlSW5mbykpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmKHJlcy5kYXRhLikK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMuZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlVXRpbC5nb0JhY2soKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmKHJlcy5kYXRhLmNvZGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRldmljZVV0aWwub25CYWNrUHJlc3MgPSBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC50aGVuKGNoZWNrU2VydmVyRGF0YSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihyZXMuc3RhKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VydmVyIHJlc3BvbnNlIGRhdGEnKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
