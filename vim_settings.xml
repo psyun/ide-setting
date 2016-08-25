@@ -130,6 +130,12 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="/workspace/website/mhome/www/views/dash/dash.html" timestamp="1472116754306">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+      </file>
       <file name="/workspace/website/gowild-xb-webpage/.babelrc" timestamp="1470220622110">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="11" />
@@ -380,6 +386,13 @@
         <mark key="^" line="134" column="41" />
         <mark key="." line="134" column="41" />
       </file>
+      <file name="/workspace/website/mhome/www/views/about/about.scss" timestamp="1472117893457">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="174" column="22" />
+        <mark key="]" line="175" column="25" />
+        <mark key="." line="175" column="25" />
+        <mark key="^" line="175" column="25" />
+      </file>
       <file name="/workspace/website/mhome/www/views/news/news-detail/news-detail.scss" timestamp="1472025514873">
         <mark key="[" line="23" column="24" />
         <mark key="]" line="26" column="21" />
@@ -468,6 +481,12 @@
         <mark key="]" line="1633" column="19" />
         <mark key="^" line="1633" column="19" />
         <mark key="." line="1633" column="19" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/about/about.html" timestamp="1472117306708">
+        <mark key="[" line="12" column="169" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/list/list.scss" timestamp="1470645230793">
         <mark key="[" line="8" column="2" />
@@ -662,10 +681,10 @@
         <mark key="^" line="17" column="34" />
       </file>
       <file name="/workspace/website/mhome/www/views/views.scss" timestamp="1472113311197">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="^" line="1" column="8" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/add/add.html" timestamp="1470625546015">
         <mark key="'" line="4" column="0" />
@@ -689,8 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="/workspace/website/gwai/www/views/memory/add/add.html" />
-      <jump line="20" column="0" filename="/workspace/website/gwai/www/views/memory/add/add.html" />
       <jump line="4" column="0" filename="/workspace/website/gwai/www/views/memory/add/add.html" />
       <jump line="249" column="3" filename="/workspace/website/gwai/www/lib/ionic/scss/_bar.scss" />
       <jump line="37" column="64" filename="/workspace/website/gwai/www/views/memory/list/list.html" />
@@ -789,55 +806,51 @@
       <jump line="48" column="8" filename="/workspace/website/mhome/www/views/news.scss" />
       <jump line="39" column="17" filename="/workspace/website/mhome/www/lib/ionic/scss/_variables.scss" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/lib/ionic/scss/_type.scss" />
+      <jump line="164" column="0" filename="/workspace/website/mhome/www/views/about/about.scss" />
+      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/about/about.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-              state: 'xxb',
-              title: '公子小白|青春版',
-            },</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>15799</text>
       </register>
       <register name="0" type="4">
-        <text>{
-              state: 'xxb',
-              title: '公子小白|青春版',
-            },</text>
+        <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogMTUwcHg7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOjYycHg7Cg==</text>
+        <text encoding="base64">ICAgIHAgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZsb2F0OnJpZ2h0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0ibGluIGxpbmttYW4xIj4KICAgICAgICAgICAgICAgIDx0YWJsZT4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iaWNvbiBpY29uLXRvdXhpYW5nIHR1cGlhbyI+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJjb2wyIj7ogZQmbmJzcDsmbmJzcDvns7smbmJzcDsmbmJzcDvkuro6PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPum7hOe7j+eQhjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iaWNvbiBpY29uLXNob3VqaSB0dXBpYW8iPjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iY29sMiI+6IGU57O755S16K+dOjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4xODUtODg0OS0zODkwPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJpY29uIGljb24teGlueGkgdHVwaWFvIj48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9ImNvbDIiPumCriZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwO+eusTo8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+PGEgaHJlZj0ibWFpbHRvOmh1YW5nX2ppZ3VhbmdAZ293aWxkLmNuIj5odWFuZ19qaWd1YW5nQGdvd2lsZC5jbjwvYT48L3RkPgogICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9Imljb24gaWNvbi1kaXpoaSB0dXBpYW8iPjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iY29sMiI+5ZywJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A75Z2AOjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD7mt7HlnLPluILljZflsbHljLrnp5Hoi5HljJfot6/kuJzmlrnnp5HmioDlpKfljqYxM0YmbmJzcDsxMzA3LTEzMDk8L3RkPgogICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICA8L3RhYmxlPgogICAgICAgICAgICA8L2Rpdj4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogMzc0cHgpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGltcG9ydCAic21hcnQtcGx1cy9zbWFydC1wbHVzIjsK</text>
+        <text encoding="base64">CiAgICAgICAgZm9udC1zaXplOiAxMXB4OwogICAgICAgIGNvbG9yOiAjZGRkZWUwOwogICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICBsaW5lLWhlaWdodDogMTRweDsKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAic3VwcG9ydC9kb3dubG9hZC9kb3dubG9hZCI7Cg==</text>
+        <text encoding="base64">ICAgICAgcCB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGltcG9ydCAic3VwcG9ydC9zdXBwb3J0LWRldGFpbC1saXN0L3N1cHBvcnQtZGV0YWlsLWxpc3QiOwo=</text>
+        <text encoding="base64">ICAgIC5hYm91dC10aXRsZTIgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGltcG9ydCAic3VwcG9ydC9zdXBwb3J0LWxpc3Qvc3VwcG9ydC1saXN0IjsK</text>
+        <text encoding="base64">ICAuc2xpZGVyLXdyYXBwZXIxIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -891,10 +904,10 @@
         <entry>all</entry>
         <entry>W</entry>
         <entry>qq</entry>
-        <entry>qa</entry>
-        <entry>.w</entry>
         <entry>wq</entry>
+        <entry>qa</entry>
         <entry>q</entry>
+        <entry>.w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
