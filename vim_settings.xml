@@ -75,6 +75,12 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="149" column="11" />
       </file>
+      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1472112379242">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="/workspace/website/gwai/www/app.js" timestamp="1471332306256">
         <mark key="'" line="76" column="27" />
         <mark key="[" line="6" column="162" />
@@ -88,12 +94,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" timestamp="1472114969880">
+      <file name="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" timestamp="1472207851404">
         <mark key="'" line="63" column="5" />
-        <mark key="[" line="43" column="25" />
-        <mark key="]" line="43" column="25" />
-        <mark key="." line="43" column="25" />
-        <mark key="^" line="43" column="25" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="40" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_transitions.scss" timestamp="1470989636577">
         <mark key="[" line="6" column="43" />
@@ -119,11 +125,19 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="/workspace/website/mhome/www/views/dash/dash.html" timestamp="1472196700830">
-        <mark key="[" line="42" column="24" />
+      <file name="/workspace/website/mhome/www/views/dash/dash.scss" timestamp="1472206838664">
+        <mark key="'" line="67" column="19" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="353" column="17" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/dash/dash.html" timestamp="1472206259243">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="42" column="15" />
         <mark key="]" line="42" column="29" />
-        <mark key="^" line="42" column="29" />
         <mark key="." line="42" column="29" />
+        <mark key="^" line="42" column="29" />
       </file>
       <file name="/workspace/website/gowild-xb-webpage/.babelrc" timestamp="1470220622110">
         <mark key="[" line="3" column="12" />
@@ -137,8 +151,11 @@
         <mark key="^" line="44" column="5" />
         <mark key="." line="44" column="5" />
       </file>
-      <file name="/workspace/website/mhome/www/lib/ionic/scss/_type.scss" timestamp="1472114612100">
-        <mark key="'" line="0" column="0" />
+      <file name="/workspace/website/mhome/www/lib/ionic/scss/_type.scss" timestamp="1472206715446">
+        <mark key="[" line="188" column="21" />
+        <mark key="]" line="189" column="22" />
+        <mark key="^" line="189" column="22" />
+        <mark key="." line="189" column="22" />
       </file>
       <file name="/workspace/website/mhome/www/css/iconfont.css" timestamp="1471588934614">
         <mark key="[" line="12" column="0" />
@@ -191,11 +208,11 @@
         <mark key="." line="150" column="16" />
         <mark key="^" line="150" column="16" />
       </file>
-      <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472114682567">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
+      <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472207690482">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+        <mark key="." line="2" column="45" />
       </file>
       <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1472040720202">
         <mark key="'" line="33" column="65" />
@@ -230,17 +247,16 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="/workspace/website/mhome/www/components/swiper/swiper.scss" timestamp="1472204308595">
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="28" column="5" />
-        <mark key="^" line="28" column="5" />
+      <file name="/workspace/website/mhome/www/components/swiper/swiper.scss" timestamp="1472206121001">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="/workspace/website/mhome/www/app.js" timestamp="1472127264520">
-        <mark key="[" line="19" column="51" />
-        <mark key="]" line="19" column="51" />
-        <mark key="." line="19" column="51" />
-        <mark key="^" line="19" column="51" />
+      <file name="/workspace/website/mhome/www/app.js" timestamp="1472209176276">
+        <mark key="[" line="78" column="80" />
+        <mark key="]" line="78" column="79" />
+        <mark key="." line="78" column="79" />
+        <mark key="^" line="78" column="79" />
       </file>
       <file name="/workspace/website/gwai/package.json" timestamp="1470365719948">
         <mark key="[" line="5" column="24" />
@@ -280,12 +296,10 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="/workspace/website/mhome/www/components/swiper/swiper.html" timestamp="1472204232436">
-        <mark key="'" line="9" column="27" />
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="70" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="35" />
+      <file name="/workspace/website/mhome/www/components/swiper/swiper.html" timestamp="1472205572764">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/views/libraries/dash/dash.js" timestamp="1472019949043">
         <mark key="[" line="52" column="37" />
@@ -311,12 +325,11 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="/workspace/website/mhome/www/views/dash/dash.js" timestamp="1472204147190">
+      <file name="/workspace/website/mhome/www/views/dash/dash.js" timestamp="1472206347876">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="60" />
-        <mark key="]" line="31" column="66" />
-        <mark key="." line="31" column="66" />
-        <mark key="^" line="31" column="66" />
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="20" />
       </file>
       <file name="/workspace/website/gwai/www/css/iconfont1.css" timestamp="1470296199845">
         <mark key="'" line="18" column="0" />
@@ -330,6 +343,12 @@
         <mark key="]" line="12" column="45" />
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
+      </file>
+      <file name="/workspace/website/home/src/home/where-to-buy/partner.html" timestamp="1472113652460">
+        <mark key="'" line="33" column="32" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/scss/_items.scss" timestamp="1470303336640">
         <mark key="[" line="4" column="0" />
@@ -449,13 +468,6 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/workspace/website/mhome/www/components/components.scss" timestamp="1472196326401">
-        <mark key="i" line="4" column="0" />
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="5" column="21" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-      </file>
       <file name="/workspace/website/gwai/www/services/qa.js" timestamp="1472110279243">
         <mark key="[" line="30" column="38" />
         <mark key="]" line="31" column="19" />
@@ -475,6 +487,12 @@
         <mark key="]" line="30" column="57" />
         <mark key="^" line="30" column="57" />
         <mark key="." line="30" column="57" />
+      </file>
+      <file name="/workspace/website/mhome/www/components/nav-bar/nav-bar.html" timestamp="1472209328524">
+        <mark key="[" line="13" column="78" />
+        <mark key="]" line="13" column="73" />
+        <mark key="^" line="13" column="73" />
+        <mark key="." line="13" column="73" />
       </file>
       <file name="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" timestamp="1472193514220">
         <mark key="'" line="3888" column="17" />
@@ -696,8 +714,8 @@
         <mark key="." line="1149" column="22" />
         <mark key="^" line="1149" column="22" />
       </file>
-      <file name="/workspace/website/mhome/www/views/support/support-detail-List/support-detail-list.html" timestamp="1471576713654">
-        <mark key="'" line="367" column="26" />
+      <file name="/workspace/website/mhome/www/views/support/support-detail-List/support-detail-list.html" timestamp="1472206385390">
+        <mark key="'" line="347" column="26" />
         <mark key="[" line="367" column="20" />
         <mark key="]" line="367" column="19" />
         <mark key="^" line="367" column="19" />
@@ -717,12 +735,12 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
-      <file name="/workspace/website/mhome/www/views/support/support-list/support-list.html" timestamp="1472118575584">
+      <file name="/workspace/website/mhome/www/views/support/support-list/support-list.html" timestamp="1472206705149">
         <mark key="'" line="54" column="16" />
-        <mark key="[" line="39" column="63" />
-        <mark key="]" line="39" column="58" />
-        <mark key="^" line="39" column="58" />
-        <mark key="." line="39" column="58" />
+        <mark key="[" line="81" column="7" />
+        <mark key="]" line="81" column="19" />
+        <mark key="^" line="81" column="19" />
+        <mark key="." line="81" column="19" />
       </file>
       <file name="/workspace/website/gwai/www/views/qa/add/add.js" timestamp="1471523211785">
         <mark key="[" line="20" column="0" />
@@ -768,6 +786,12 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
+      <file name="/workspace/website/mhome/www/views/support/support-list/support-list.scss" timestamp="1472207241638">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+      </file>
       <file name="/workspace/website/mhome/www/lib/ionic/scss/_variables.scss" timestamp="1472114587563">
         <mark key="'" line="39" column="17" />
         <mark key="[" line="41" column="39" />
@@ -777,39 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="681" column="50" filename="/workspace/website/home/src/home/product/gwais.html" />
-      <jump line="80" column="55" filename="/workspace/website/home/src/home/product/gwais.html" />
-      <jump line="71" column="23" filename="/workspace/website/home/src/css/gwais.css" />
-      <jump line="239" column="16" filename="/workspace/website/home/src/css/gwais.css" />
-      <jump line="274" column="107" filename="/workspace/website/home/src/index.html" />
-      <jump line="1118" column="22" filename="/workspace/website/home/src/css/base.css" />
-      <jump line="0" column="0" filename="/workspace/website/home/src/css/base.css" />
-      <jump line="23" column="0" filename="/workspace/website/gwai/www/scss/article.scss" />
-      <jump line="4" column="23" filename="/workspace/website/mhome/www/news.html" />
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/news.html" />
-      <jump line="9" column="0" filename="/workspace/website/mhome/www/news.html" />
-      <jump line="0" column="3" filename="/workspace/website/mhome/www/index.html" />
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/news/news.html" />
-      <jump line="52" column="17" filename="/workspace/website/mhome/www/views/news/news.html" />
-      <jump line="19" column="0" filename="/workspace/website/mhome/www/views/news/news.html" />
-      <jump line="52" column="17" filename="/workspace/website/mhome/www/news.html" />
-      <jump line="76" column="13" filename="/workspace/website/mhome/www/news.html" />
-      <jump line="24" column="6" filename="/workspace/website/mhome/www/news.html" />
-      <jump line="0" column="38" filename="/workspace/website/gwai/www/views/vocabulary/guide/guide.html" />
-      <jump line="33" column="65" filename="/workspace/website/gwai/www/utils/rest-hapi.js" />
-      <jump line="9" column="0" filename="/workspace/website/gwai/www/services/vocabulary.js" />
-      <jump line="49" column="64" filename="/workspace/website/gwai/www/utils/device-util.js" />
-      <jump line="55" column="0" filename="/workspace/website/gwai/www/utils/device-util.js" />
-      <jump line="0" column="0" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
-      <jump line="11" column="18" filename="/workspace/website/gwai/www/views/qa/edit/edit.js" />
-      <jump line="10" column="17" filename="/workspace/website/gwai/www/utils/device-util.js" />
-      <jump line="33" column="32" filename="/workspace/website/home/src/home/where-to-buy/partner.html" />
-      <jump line="1641" column="14" filename="/workspace/website/home/src/css/site.css" />
-      <jump line="46" column="28" filename="/workspace/website/mhome/www/views/news.scss" />
-      <jump line="20" column="10" filename="/workspace/website/mhome/www/views/news.scss" />
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/news.scss" />
-      <jump line="48" column="8" filename="/workspace/website/mhome/www/views/news.scss" />
-      <jump line="39" column="17" filename="/workspace/website/mhome/www/lib/ionic/scss/_variables.scss" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/lib/ionic/scss/_type.scss" />
       <jump line="164" column="0" filename="/workspace/website/mhome/www/views/about/about.scss" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/views/about/about.scss" />
@@ -877,68 +868,98 @@
       <jump line="31" column="64" filename="/workspace/website/mhome/www/views/dash/dash.js" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/views/dash/dash.js" />
       <jump line="10" column="27" filename="/workspace/website/mhome/www/components/swiper/swiper.html" />
+      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="99" column="8" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="350" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="358" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="361" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="364" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="367" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="370" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="106" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="114" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="117" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="120" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="123" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="126" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="229" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="237" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="240" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="243" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="246" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="249" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="334" column="13" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="86" column="19" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="159" column="19" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="190" column="19" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="320" column="21" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="346" column="21" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="420" column="21" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="2" column="15" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="24" column="17" filename="/workspace/website/mhome/www/components/swiper/swiper.scss" />
+      <jump line="42" column="29" filename="/workspace/website/mhome/www/views/dash/dash.html" />
+      <jump line="10" column="16" filename="/workspace/website/mhome/www/views/dash/dash.html" />
+      <jump line="347" column="26" filename="/workspace/website/mhome/www/views/support/support-detail-List/support-detail-list.html" />
+      <jump line="67" column="19" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50OiAnICc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdGF0ZTogJ25ld3MnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>style=&quot;background-color:{{slide.color}}&quot;</text>
+        <text>#323232</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text>swiper</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50OiAnICc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdGF0ZTogJ25ld3MnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZAo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDMwJTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHotaW5kZXg6IDEwMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogLTEwcHg7Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA4MCU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDEwcHg7CiAgICAgIGhlaWdodDogMTBweDsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgIGJhY2tncm91bmQ6ICNjY2M7CiAgICAgIGJvcmRlci1yYWRpdXM6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAwOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+        <text encoding="base64">KiB7CiAgbWFyZ2luOiAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search>swiper</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern>swiper</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>138px</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxbXD4=</entry>
-        <entry>font-size</entry>
-        <entry>400-8239</entry>
         <entry>400</entry>
         <entry>15799</entry>
         <entry>tel</entry>
@@ -956,9 +977,11 @@
         <entry>onscroll</entry>
         <entry>scroll</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry>main-banner-goods</entry>
+        <entry>20px;</entry>
+        <entry>swiper</entry>
       </history-search>
       <history-cmd>
-        <entry>tabpreview</entry>
         <entry>U</entry>
         <entry>2w</entry>
         <entry>Q</entry>
@@ -966,17 +989,18 @@
         <entry>.,.+24q</entry>
         <entry>&quot;w</entry>
         <entry>qall</entry>
-        <entry>q:q</entry>
         <entry>w'</entry>
         <entry>we</entry>
         <entry>all</entry>
         <entry>qq</entry>
-        <entry>qa</entry>
-        <entry>q</entry>
         <entry>.w</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>qa</entry>
+        <entry>q</entry>
+        <entry>q:q</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
