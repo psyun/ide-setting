@@ -755,8 +755,9 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="/workspace/website/gwai/www/utils/hapi.js" timestamp="1471424828105">
-        <mark key="[" line="27" column="46" />
+      <file name="/workspace/website/gwai/www/utils/hapi.js" timestamp="1472210284635">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="27" column="43" />
         <mark key="]" line="27" column="46" />
         <mark key="^" line="27" column="46" />
         <mark key="." line="27" column="46" />
@@ -801,8 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/lib/ionic/scss/_type.scss" />
-      <jump line="164" column="0" filename="/workspace/website/mhome/www/views/about/about.scss" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/views/about/about.scss" />
       <jump line="54" column="16" filename="/workspace/website/mhome/www/views/support/support-list/support-list.html" />
       <jump line="75" column="0" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
@@ -901,6 +900,8 @@
       <jump line="10" column="16" filename="/workspace/website/mhome/www/views/dash/dash.html" />
       <jump line="347" column="26" filename="/workspace/website/mhome/www/views/support/support-detail-List/support-detail-list.html" />
       <jump line="67" column="19" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="78" column="35" filename="/workspace/website/gwai/www/utils/hapi.js" />
+      <jump line="83" column="0" filename="/workspace/website/gwai/www/utils/hapi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
