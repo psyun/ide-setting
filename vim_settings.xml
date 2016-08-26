@@ -230,11 +230,11 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="/workspace/website/mhome/www/components/swiper/swiper.scss" timestamp="1472197966135">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="25" column="24" />
-        <mark key="^" line="25" column="24" />
-        <mark key="." line="25" column="24" />
+      <file name="/workspace/website/mhome/www/components/swiper/swiper.scss" timestamp="1472204308595">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="28" column="5" />
       </file>
       <file name="/workspace/website/mhome/www/app.js" timestamp="1472127264520">
         <mark key="[" line="19" column="51" />
@@ -280,11 +280,12 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="/workspace/website/mhome/www/components/swiper/swiper.html" timestamp="1472198693647">
-        <mark key="[" line="2" column="84" />
-        <mark key="]" line="2" column="85" />
-        <mark key="." line="2" column="85" />
-        <mark key="^" line="2" column="85" />
+      <file name="/workspace/website/mhome/www/components/swiper/swiper.html" timestamp="1472204232436">
+        <mark key="'" line="9" column="27" />
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="70" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="35" />
       </file>
       <file name="/workspace/website/gwai/www/views/libraries/dash/dash.js" timestamp="1472019949043">
         <mark key="[" line="52" column="37" />
@@ -310,10 +311,12 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="/workspace/website/mhome/www/views/dash/dash.js" timestamp="1472196910948">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="/workspace/website/mhome/www/views/dash/dash.js" timestamp="1472204147190">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="60" />
+        <mark key="]" line="31" column="66" />
+        <mark key="." line="31" column="66" />
+        <mark key="^" line="31" column="66" />
       </file>
       <file name="/workspace/website/gwai/www/css/iconfont1.css" timestamp="1470296199845">
         <mark key="'" line="18" column="0" />
@@ -571,11 +574,12 @@
         <mark key="^" line="313" column="20" />
         <mark key="." line="313" column="20" />
       </file>
-      <file name="/workspace/website/mhome/www/components/swiper/swiper.js" timestamp="1472200207011">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="13" />
-        <mark key="^" line="46" column="13" />
-        <mark key="." line="46" column="13" />
+      <file name="/workspace/website/mhome/www/components/swiper/swiper.js" timestamp="1472203193891">
+        <mark key="'" line="55" column="31" />
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="51" column="30" />
+        <mark key="." line="51" column="30" />
+        <mark key="^" line="51" column="30" />
       </file>
       <file name="/workspace/website/gowild-manage-system/bin/index.html" timestamp="1469590815389">
         <mark key="[" line="3" column="0" />
@@ -773,11 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="16" filename="/workspace/website/mhome/www/views/support/support-list/support-list.html" />
-      <jump line="358" column="54" filename="/workspace/website/home/src/home/product/gwais.html" />
-      <jump line="639" column="50" filename="/workspace/website/home/src/home/product/gwais.html" />
-      <jump line="653" column="50" filename="/workspace/website/home/src/home/product/gwais.html" />
-      <jump line="667" column="50" filename="/workspace/website/home/src/home/product/gwais.html" />
       <jump line="681" column="50" filename="/workspace/website/home/src/home/product/gwais.html" />
       <jump line="80" column="55" filename="/workspace/website/home/src/home/product/gwais.html" />
       <jump line="71" column="23" filename="/workspace/website/home/src/css/gwais.css" />
@@ -873,73 +872,70 @@
       <jump line="3697" column="28" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
       <jump line="3878" column="8" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
       <jump line="3888" column="17" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="4" column="9" filename="/workspace/website/mhome/www/components/swiper/swiper.html" />
+      <jump line="53" column="31" filename="/workspace/website/mhome/www/components/swiper/swiper.js" />
+      <jump line="31" column="64" filename="/workspace/website/mhome/www/views/dash/dash.js" />
+      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/dash/dash.js" />
+      <jump line="10" column="27" filename="/workspace/website/mhome/www/components/swiper/swiper.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50OiAnICc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgYm9yZGVyLXJhZGl1czoxOw==</text>
+        <text>style=&quot;background-color:{{slide.color}}&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>scroll</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7IGltYWdlVXJsOiAnLi9pbWcvaW5kZXgveGlhb3hpYW9iYWk0LnBuZycsIGNvbG9yOiAnJywgfSwK</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50OiAnICc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzbGlkZS5zY2FsZSA9Owo=</text>
+        <text encoding="base64">ICAgICAgZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzbGlkZS50cmFuc2Zvcm0gPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogLTEwcHg7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>var calcPosAndScale = function (activeIndex, index) {
-            var diffVal = index - activeIndex;
-            var absDiffVal = Math.abs(diffVal);
-
-            var scale = 1 - absDiffVal * 0.2;
-
-
-          }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgd2lkdGg6IDEwcHg7CiAgICAgIGhlaWdodDogMTBweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNjYWxlID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzbGlkZS53aWR0aCA9IHNsaWRlSXRlbVdpZHRoOwo=</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgIGJhY2tncm91bmQ6ICNjY2M7CiAgICAgIGJvcmRlci1yYWRpdXM6IDEwMCU7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scroll</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern>scroll</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>138px</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDxbXD4=</entry>
         <entry>font-size</entry>
         <entry>400-8239</entry>
@@ -959,9 +955,9 @@
         <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
         <entry>onscroll</entry>
         <entry>scroll</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>tabnew</entry>
         <entry>tabpreview</entry>
         <entry>U</entry>
         <entry>2w</entry>
@@ -974,12 +970,13 @@
         <entry>w'</entry>
         <entry>we</entry>
         <entry>all</entry>
-        <entry>W</entry>
         <entry>qq</entry>
-        <entry>.w</entry>
         <entry>qa</entry>
         <entry>q</entry>
+        <entry>.w</entry>
         <entry>wq</entry>
+        <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
