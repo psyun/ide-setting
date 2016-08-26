@@ -75,17 +75,6 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="149" column="11" />
       </file>
-      <file name="/workspace/website/gwai/www/components/headers/header-with-return-btn.js" timestamp="1472039537152">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1472112379242">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="/workspace/website/gwai/www/app.js" timestamp="1471332306256">
         <mark key="'" line="76" column="27" />
         <mark key="[" line="6" column="162" />
@@ -164,6 +153,13 @@
         <mark key="." line="46" column="18" />
         <mark key="^" line="46" column="18" />
       </file>
+      <file name="/workspace/website/mhome/www/components/scroll-view/scroll-view.js" timestamp="1472181952537">
+        <mark key="'" line="33" column="35" />
+        <mark key="[" line="33" column="63" />
+        <mark key="]" line="34" column="9" />
+        <mark key="^" line="34" column="9" />
+        <mark key="." line="34" column="9" />
+      </file>
       <file name="/workspace/website/gwai/www/scss/app.scss" timestamp="1470470667355">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="16" column="12" />
@@ -188,6 +184,13 @@
         <mark key="]" line="29" column="18" />
         <mark key="^" line="29" column="18" />
         <mark key="." line="29" column="18" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/product/star/star.html" timestamp="1472181521651">
+        <mark key="'" line="150" column="16" />
+        <mark key="[" line="150" column="17" />
+        <mark key="]" line="150" column="16" />
+        <mark key="." line="150" column="16" />
+        <mark key="^" line="150" column="16" />
       </file>
       <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472114682567">
         <mark key="[" line="4" column="27" />
@@ -228,11 +231,11 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="/workspace/website/mhome/www/app.js" timestamp="1472113259356">
-        <mark key="[" line="5" column="48" />
-        <mark key="]" line="5" column="49" />
-        <mark key="." line="5" column="49" />
-        <mark key="^" line="5" column="49" />
+      <file name="/workspace/website/mhome/www/app.js" timestamp="1472127264520">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="19" column="51" />
+        <mark key="." line="19" column="51" />
+        <mark key="^" line="19" column="51" />
       </file>
       <file name="/workspace/website/gwai/package.json" timestamp="1470365719948">
         <mark key="[" line="5" column="24" />
@@ -309,22 +312,11 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="/workspace/website/home/src/home/where-to-buy/partner.html" timestamp="1472113652460">
-        <mark key="'" line="33" column="32" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="/workspace/website/gwai/www/scss/_items.scss" timestamp="1470303336640">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="/workspace/website/gwai/www/views/vocabulary/add/add.js" timestamp="1472034272083">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="/workspace/website/mhome/www/views/news.scss" timestamp="1472114535614">
         <mark key="'" line="48" column="8" />
@@ -412,6 +404,13 @@
         <mark key="^" line="61" column="45" />
         <mark key="." line="61" column="45" />
       </file>
+      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.html" timestamp="1472125840622">
+        <mark key="'" line="148" column="15" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="147" column="36" />
+        <mark key="." line="151" column="0" />
+      </file>
       <file name="/workspace/website/gwai/www/services/memory.js" timestamp="1470713590267">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="30" />
@@ -431,16 +430,25 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/workspace/website/mhome/www/components/components.scss" timestamp="1472113180528">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/workspace/website/mhome/www/components/components.scss" timestamp="1472181062721">
+        <mark key="i" line="4" column="0" />
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
       </file>
       <file name="/workspace/website/gwai/www/services/qa.js" timestamp="1472110279243">
         <mark key="[" line="30" column="38" />
         <mark key="]" line="31" column="19" />
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="19" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.scss" timestamp="1472126394711">
+        <mark key="'" line="390" column="1" />
+        <mark key="[" line="395" column="25" />
+        <mark key="]" line="395" column="23" />
+        <mark key="." line="395" column="23" />
+        <mark key="^" line="395" column="23" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/help/help.html" timestamp="1470641790967">
         <mark key="'" line="38" column="0" />
@@ -575,6 +583,18 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="1" />
       </file>
+      <file name="/workspace/website/mhome/www/components/scroll-view/scroll-view.html" timestamp="1472181428971">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
+      <file name="/workspace/website/mhome/www/components/scroll-view/scroll-view.scss" timestamp="1472181665523">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+      </file>
       <file name="/workspace/website/mhome/www/views/product/xb/xb.scss" timestamp="1472121020889">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="2" column="15" />
@@ -633,6 +653,12 @@
         <mark key="]" line="68" column="43" />
         <mark key="." line="68" column="43" />
         <mark key="^" line="68" column="43" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/product/star/star.js" timestamp="1472127038969">
+        <mark key="[" line="25" column="50" />
+        <mark key="]" line="26" column="27" />
+        <mark key="^" line="26" column="27" />
+        <mark key="." line="26" column="27" />
       </file>
       <file name="/workspace/website/home/src/css/base.css" timestamp="1472010375235">
         <mark key="'" line="0" column="0" />
@@ -722,21 +748,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="/workspace/website/gwai/www/views/memory/help/help.html" />
-      <jump line="2" column="0" filename="/workspace/website/gwai/www/scss/util.scss" />
-      <jump line="49" column="0" filename="/workspace/website/gwai/www/views/memory/list/list.js" />
-      <jump line="21" column="46" filename="/workspace/website/gwai/www/views/memory/list/list.js" />
-      <jump line="66" column="34" filename="/workspace/website/gwai/www/views/memory/list/list.js" />
-      <jump line="8" column="13" filename="/workspace/website/gwai/www/scss/qa.scss" />
-      <jump line="294" column="1" filename="/workspace/website/gwai/www/lib/ionic/scss/_variables.scss" />
-      <jump line="328" column="42" filename="/workspace/website/gwai/www/lib/ionic/scss/_variables.scss" />
-      <jump line="329" column="6" filename="/workspace/website/gwai/www/lib/ionic/scss/_variables.scss" />
-      <jump line="93" column="34" filename="/workspace/website/gwai/www/app.js" />
-      <jump line="0" column="0" filename="/workspace/website/gwai/www/views/libraries/dash/dash.html" />
-      <jump line="1" column="37" filename="/workspace/website/gwai/www/views/qa/add/add.html" />
-      <jump line="7" column="44" filename="/workspace/website/gwai/www/views/libraries/dash/dash.html" />
-      <jump line="4" column="45" filename="/workspace/website/gwai/www/views/libraries/dash/dash.html" />
-      <jump line="27" column="34" filename="/workspace/website/gwai/www/views/libraries/dash/dash.js" />
       <jump line="40" column="28" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
       <jump line="16" column="16" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
       <jump line="31" column="25" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
@@ -822,111 +833,80 @@
       <jump line="350" column="3" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
       <jump line="562" column="0" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
       <jump line="0" column="1" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
+      <jump line="4" column="0" filename="/workspace/website/mhome/www/views/product/xxb/xxb.html" />
+      <jump line="26" column="22" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="120" column="0" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="121" column="9" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="135" column="48" filename="/workspace/website/mhome/www/views/product/xxb/xxb.html" />
+      <jump line="146" column="15" filename="/workspace/website/mhome/www/views/product/xxb/xxb.html" />
+      <jump line="45" column="0" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="390" column="1" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="49" column="32" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="98" column="45" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="4" column="16" filename="/workspace/website/mhome/www/components/scroll-view/scroll-view.html" />
+      <jump line="125" column="12" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="5" column="12" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="150" column="16" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="33" column="35" filename="/workspace/website/mhome/www/components/scroll-view/scroll-view.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+      <register name="&quot;" type="4">
+        <text>ele[0].querySelector('.container-star')</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
-      </register>
-      <register name="/" type="4">
-        <text>container-xb3</text>
-      </register>
-      <register name="0" type="4">
         <text>&quot;</text>
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjb250YWluZXJcPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>ele[0].querySelector('.container-star')</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">PC9pb24tY29udGVudD4K</text>
       </register>
-      <register name="2" type="4">
-        <text>container-xb3 {
-      width: 100%;
-      height: 570px;
-      background-color: #eeeeee;
-      .tips {
-        width: 55%;
-        margin: 81px auto;
-        div {
-          display: inline-block;
-          margin-left: 17%;
-          span {
-            color: #5cc8f0;
-            font-size: 28px;
-          }
-          p {
-            font-size: 16px;
-            line-height: 18px;
-          }
-        }
-      }
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">PGlvbi1jb250ZW50IGNsYXNzPSJoYXMtaGVhZGVyIj4K</text>
       </register>
-      <register name="3" type="4">
-        <text>.container-xb3 {
-      width: 100%;
-      height: 330px;
-      background-color: #eeeeee;
-      .tips {
-        width: 64%;
-        margin: 22px auto;
-        div {
-          display: inline-block;
-          margin-left: 10%;
-          p {
-            font-size: 12px;
-            line-height: 20px;
-            span {
-              color: #5cc8f0;
-              font-size: 24px;
-            }
-          }
-        }
-      }
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cn0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IC5jb250YWluZXIteGIzIHsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIGhlaWdodDogMjgwcHg7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICNlZWVlZWU7CiAgICAgIC50aXBzIHsKICAgICAgICB3aWR0aDogMTAwJTsKICAgICAgICBtYXJnaW46IDIwcHggYXV0bzsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgZGl2IHsKICAgICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgICAgICAgIHAgewogICAgICAgICAgICBmb250LXNpemU6IDEycHg7CiAgICAgICAgICAgIGxpbmUtaGVpZ2h0OiAxNnB4OwogICAgICAgICAgICBzcGFuIHsKICAgICAgICAgICAgICBjb2xvcjogIzVjYzhmMDsKICAgICAgICAgICAgICBmb250LXNpemU6IDIycHg7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICB0ZXh0LW91dGxpbmU6MDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcmdpbi1sZWZ0OiA4JTsK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHAgewo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGxpIGNsYXNzPSJuYW96aG9uZyI+CiAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uIGljb24tY2xvY2siPjwvaT4KICAgICAgICAgICAgPHNwYW4+CiAgICAgICAgICAgICAgPGgxPumXuemSn+WumuWItjwvaDE+CiAgICAgICAgICAgICAgPGgyPueUteW9seS4u+mimOabsuS9nOS4uuWumuWItumXuemSn+mTg+WjsCzorqnkvaDpmo/ml7bmhJ/lj5fpnZLmmKXnmoTml4vlvos8L2gyPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICA8L2xpPg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxsaT4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BhbiB7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgIDxsaSBjbGFzcz0ibmFvemhvbmciPgogICAgICAgICAgICA8aSBjbGFzcz0iaWNvbiBpY29uLWNsb2NrIj48L2k+CiAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgIDxoMT7pl7npkp/lrprliLY8L2gxPgogICAgICAgICAgICAgIDxoMj7nlLXlvbHkuLvpopjmm7LkvZzkuLrlrprliLbpl7npkp/pk4Plo7As6K6p5L2g6ZqP5pe25oSf5Y+X6Z2S5pil55qE5peL5b6LPC9oMj4KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgPC9saT4KIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>container-xb3</last-search>
+      <last-search encoding="base64">XDxjb250YWluZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>container-xb3</last-pattern>
+      <last-pattern encoding="base64">XDxjb250YWluZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>qa</last-substitute>
-      <last-dir>1</last-dir>
+      <last-substitute>138px</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.ng-hide-animate</entry>
-        <entry encoding="base64">XDw7XD4=</entry>
-        <entry>go</entry>
-        <entry>positive</entry>
-        <entry encoding="base64">XDxyaWdodFw+</entry>
-        <entry>loadData</entry>
         <entry>qa</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">XDx7XD4=</entry>
@@ -941,6 +921,12 @@
         <entry>.container-xb .container-xb3 .tips div</entry>
         <entry>xb3</entry>
         <entry>container-xb3</entry>
+        <entry>军事</entry>
+        <entry>220px</entry>
+        <entry>icon-group</entry>
+        <entry>icon-hezi</entry>
+        <entry>138px</entry>
+        <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>tabnew</entry>
@@ -958,10 +944,10 @@
         <entry>all</entry>
         <entry>W</entry>
         <entry>qq</entry>
-        <entry>wq</entry>
-        <entry>q</entry>
         <entry>.w</entry>
         <entry>qa</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
