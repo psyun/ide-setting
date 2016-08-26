@@ -153,11 +153,10 @@
         <mark key="." line="46" column="18" />
         <mark key="^" line="46" column="18" />
       </file>
-      <file name="/workspace/website/mhome/www/components/scroll-view/scroll-view.js" timestamp="1472184817639">
-        <mark key="[" line="32" column="43" />
-        <mark key="]" line="33" column="29" />
-        <mark key="." line="33" column="29" />
-        <mark key="^" line="33" column="29" />
+      <file name="/workspace/website/mhome/www/components/scroll-view/scroll-view.js" timestamp="1472193524563">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/scss/app.scss" timestamp="1470470667355">
         <mark key="[" line="15" column="28" />
@@ -456,6 +455,9 @@
         <mark key="^" line="30" column="57" />
         <mark key="." line="30" column="57" />
       </file>
+      <file name="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" timestamp="1472193514220">
+        <mark key="'" line="3888" column="17" />
+      </file>
       <file name="/workspace/website/gwai/www/views/vocabulary/list/list.js" timestamp="1472092411717">
         <mark key="[" line="42" column="36" />
         <mark key="]" line="42" column="37" />
@@ -747,37 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="28" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
-      <jump line="16" column="16" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
-      <jump line="31" column="25" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
-      <jump line="65" column="28" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
-      <jump line="27" column="90" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
-      <jump line="32" column="50" filename="/workspace/website/gwai/www/services/qa.js" />
-      <jump line="55" column="7" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
-      <jump line="78" column="0" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
-      <jump line="35" column="0" filename="/workspace/website/gwai/www/views/qa/help/help.html" />
-      <jump line="104" column="13" filename="/workspace/website/gwai/www/app.js" />
-      <jump line="76" column="27" filename="/workspace/website/gwai/www/app.js" />
-      <jump line="56" column="0" filename="/workspace/website/gwai/www/scss/qa.scss" />
-      <jump line="12" column="19" filename="/workspace/website/gwai/www/components/headers/header-with-return-btn.js" />
-      <jump line="0" column="0" filename="/workspace/website/gwai/www/components/headers/header-with-return-btn.js" />
-      <jump line="32" column="13" filename="/workspace/website/gwai/www/views/memory/guide/guide.html" />
-      <jump line="28" column="48" filename="/workspace/website/gwai/www/views/memory/list/list.html" />
-      <jump line="26" column="54" filename="/workspace/website/gwai/www/utils/rest-hapi.js" />
-      <jump line="28" column="27" filename="/workspace/website/gwai/www/services/vocabulary.js" />
-      <jump line="52" column="23" filename="/workspace/website/gwai/www/views/vocabulary/list/list.js" />
-      <jump line="11" column="0" filename="/workspace/website/gwai/www/lib/ionic/scss/_bar.scss" />
-      <jump line="165" column="0" filename="/workspace/website/gwai/www/lib/ionic/scss/_variables.scss" />
-      <jump line="148" column="29" filename="/workspace/website/gwai/www/lib/ionic/scss/_bar.scss" />
-      <jump line="40" column="16" filename="/workspace/website/gwai/www/css/iconfont.css" />
-      <jump line="33" column="4" filename="/workspace/website/mhome/www/components/footer/footer.js" />
-      <jump line="23" column="1" filename="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" />
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/product/star/star.html" />
-      <jump line="60" column="5" filename="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" />
-      <jump line="1" column="0" filename="/workspace/website/mhome/www/views/support/support-detail-List/support-detail-list.html" />
-      <jump line="323" column="47" filename="/workspace/website/mhome/www/views/support/support-detail-List/support-detail-list.html" />
-      <jump line="367" column="26" filename="/workspace/website/mhome/www/views/support/support-detail-List/support-detail-list.html" />
-      <jump line="3" column="0" filename="/workspace/website/mhome/www/views/support/support-list/support-list.html" />
       <jump line="6" column="16" filename="/workspace/website/mhome/www/views/support/support-list/support-list.html" />
       <jump line="358" column="54" filename="/workspace/website/home/src/home/product/gwais.html" />
       <jump line="639" column="50" filename="/workspace/website/home/src/home/product/gwais.html" />
@@ -847,40 +818,71 @@
       <jump line="5" column="12" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="150" column="16" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="33" column="35" filename="/workspace/website/mhome/www/components/scroll-view/scroll-view.js" />
+      <jump line="0" column="0" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="233" column="25" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="294" column="28" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="295" column="28" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="651" column="52" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="1050" column="34" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="1760" column="70" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="1762" column="17" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="1995" column="23" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="2642" column="9" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="2665" column="46" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="2689" column="37" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="2777" column="100" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="2778" column="112" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="2837" column="43" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="2963" column="13" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3049" column="52" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3110" column="12" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3179" column="8" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3264" column="35" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3566" column="62" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3572" column="55" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3601" column="74" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3631" column="54" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3632" column="34" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3664" column="7" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3666" column="4" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3695" column="30" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3697" column="28" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3878" column="8" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
+      <jump line="3888" column="17" filename="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVsZVswXS5xdWVyeVNlbGVjdG9yKCcuY29udGFpbmVyLXN0YXInKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVsZVswXSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWluZXJcPg==</text>
+        <text>scroll</text>
       </register>
       <register name="0" type="4">
         <text>ele[0].querySelector('.container-star')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVsZVswXS5xdWVyeVNlbGVjdG9yKCcuY29udGFpbmVyLXN0YXInKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVsZVswXSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVsZVswXS5xdWVyeVNlbGVjdG9yKCcuY29udGFpbmVyLXN0YXInKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsZVswXS5xdWVyeVNlbGVjdG9yKCcuY29udGFpbmVyLXN0YXInKS5vbnNjcm9sbCA9IGZ1bmN0aW9uIChlKSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVsZVswXS5xdWVyeVNlbGVjdG9yKCcuY29udGFpbmVyLXN0YXInKS5vbnNjcm9sbCA9IGZ1bmN0aW9uIChlKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -889,25 +891,23 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5zY3JvbGwgPSBmdW5jdGlvbiAoZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250YWluZXJcPg==</last-search>
+      <last-search>scroll</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWluZXJcPg==</last-pattern>
+      <last-pattern>scroll</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>138px</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>qa</entry>
-        <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDxbXD4=</entry>
         <entry>font-size</entry>
@@ -926,6 +926,8 @@
         <entry>icon-hezi</entry>
         <entry>138px</entry>
         <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
+        <entry>onscroll</entry>
+        <entry>scroll</entry>
       </history-search>
       <history-cmd>
         <entry>tabnew</entry>
@@ -946,8 +948,8 @@
         <entry>.w</entry>
         <entry>qa</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
