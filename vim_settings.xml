@@ -94,12 +94,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" timestamp="1472207851404">
+      <file name="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" timestamp="1472438661545">
         <mark key="'" line="63" column="5" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="40" />
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="25" />
+        <mark key="^" line="49" column="25" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_transitions.scss" timestamp="1470989636577">
         <mark key="[" line="6" column="43" />
@@ -905,7 +905,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzdGF0ZTogJ25ld3MnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBocmVmOiAnbmUnLAo=</text>
       </register>
       <register name="-" type="4">
         <text>#323232</text>
@@ -917,34 +917,34 @@
         <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzdGF0ZTogJ25ld3MnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBocmVmOiAnbmUnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDMwJTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdGF0ZTogJ25ld3MnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHotaW5kZXg6IDEwMDsK</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDMwJTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA4MCU7Cg==</text>
+        <text encoding="base64">ICAgIHotaW5kZXg6IDEwMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA4MCU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiB7CiAgbWFyZ2luOiAwOwo=</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">KiB7CiAgbWFyZ2luOiAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
