@@ -201,15 +201,15 @@
         <mark key="^" line="29" column="18" />
         <mark key="." line="29" column="18" />
       </file>
-      <file name="/workspace/website/mhome/www/views/product/star/star.html" timestamp="1472181521651">
-        <mark key="'" line="150" column="16" />
-        <mark key="[" line="150" column="17" />
-        <mark key="]" line="150" column="16" />
-        <mark key="." line="150" column="16" />
-        <mark key="^" line="150" column="16" />
+      <file name="/workspace/website/mhome/www/views/product/star/star.html" timestamp="1472440455083">
+        <mark key="'" line="142" column="26" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="29" />
       </file>
-      <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472207690482">
-        <mark key="[" line="2" column="33" />
+      <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472440230866">
+        <mark key="[" line="28" column="21" />
         <mark key="]" line="2" column="45" />
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
@@ -442,12 +442,12 @@
         <mark key="^" line="61" column="45" />
         <mark key="." line="61" column="45" />
       </file>
-      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.html" timestamp="1472125840622">
-        <mark key="'" line="148" column="15" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="^" line="147" column="36" />
-        <mark key="." line="151" column="0" />
+      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.html" timestamp="1472439881440">
+        <mark key="'" line="109" column="15" />
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="15" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="15" />
       </file>
       <file name="/workspace/website/gwai/www/services/memory.js" timestamp="1470713590267">
         <mark key="[" line="12" column="28" />
@@ -636,11 +636,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="/workspace/website/mhome/www/components/scroll-view/scroll-view.scss" timestamp="1472181665523">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="20" />
+      <file name="/workspace/website/mhome/www/components/scroll-view/scroll-view.scss" timestamp="1472440437261">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="13" />
       </file>
       <file name="/workspace/website/mhome/www/views/product/xb/xb.scss" timestamp="1472121020889">
         <mark key="'" line="0" column="1" />
@@ -802,9 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/about/about.scss" />
-      <jump line="54" column="16" filename="/workspace/website/mhome/www/views/support/support-list/support-list.html" />
-      <jump line="75" column="0" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
       <jump line="86" column="18" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
       <jump line="28" column="32" filename="/workspace/website/mhome/www/views/product/xb/xb.html" />
       <jump line="40" column="23" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
@@ -902,16 +899,19 @@
       <jump line="67" column="19" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="78" column="35" filename="/workspace/website/gwai/www/utils/hapi.js" />
       <jump line="83" column="0" filename="/workspace/website/gwai/www/utils/hapi.js" />
+      <jump line="109" column="15" filename="/workspace/website/mhome/www/views/product/xxb/xxb.html" />
+      <jump line="7" column="29" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="142" column="26" filename="/workspace/website/mhome/www/views/product/star/star.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBocmVmOiAnbmUnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>们</text>
       </register>
       <register name="-" type="4">
-        <text>#323232</text>
+        <text>们</text>
       </register>
       <register name="/" type="4">
-        <text>swiper</text>
+        <text>与</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
@@ -951,9 +951,9 @@
       </register>
     </registers>
     <search>
-      <last-search>swiper</last-search>
+      <last-search>与</last-search>
       <last-offset />
-      <last-pattern>swiper</last-pattern>
+      <last-pattern>与</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>138px</last-substitute>
       <last-dir>1</last-dir>
@@ -961,7 +961,6 @@
     </search>
     <history>
       <history-search>
-        <entry>400</entry>
         <entry>15799</entry>
         <entry>tel</entry>
         <entry>94%</entry>
@@ -981,6 +980,7 @@
         <entry>main-banner-goods</entry>
         <entry>20px;</entry>
         <entry>swiper</entry>
+        <entry>与</entry>
       </history-search>
       <history-cmd>
         <entry>U</entry>
@@ -997,10 +997,10 @@
         <entry>.w</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>qa</entry>
         <entry>q</entry>
         <entry>q:q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
+        <entry>qa</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
