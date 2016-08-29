@@ -183,11 +183,11 @@
         <mark key="." line="46" column="18" />
         <mark key="^" line="46" column="18" />
       </file>
-      <file name="/workspace/website/mhome/www/components/scroll-view/scroll-view.js" timestamp="1472468025101">
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="25" />
-        <mark key="." line="41" column="25" />
-        <mark key="^" line="41" column="25" />
+      <file name="/workspace/website/mhome/www/components/scroll-view/scroll-view.js" timestamp="1472471598583">
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="42" column="45" />
+        <mark key="." line="42" column="45" />
+        <mark key="^" line="42" column="45" />
       </file>
       <file name="/workspace/website/gwai/www/scss/app.scss" timestamp="1470470667355">
         <mark key="[" line="15" column="28" />
@@ -220,12 +220,12 @@
         <mark key="^" line="29" column="18" />
         <mark key="." line="29" column="18" />
       </file>
-      <file name="/workspace/website/mhome/www/views/product/star/star.html" timestamp="1472468874157">
+      <file name="/workspace/website/mhome/www/views/product/star/star.html" timestamp="1472471182007">
         <mark key="'" line="110" column="63" />
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472458685123">
         <mark key="'" line="28" column="0" />
@@ -579,7 +579,7 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
-      <file name="/workspace/website/mhome/www/index.html" timestamp="1472462155837">
+      <file name="/workspace/website/mhome/www/index.html" timestamp="1472472162082">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -755,11 +755,11 @@
         <mark key="." line="68" column="43" />
         <mark key="^" line="68" column="43" />
       </file>
-      <file name="/workspace/website/mhome/www/views/product/star/star.js" timestamp="1472468893867">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="29" />
-        <mark key="^" line="27" column="29" />
-        <mark key="." line="27" column="29" />
+      <file name="/workspace/website/mhome/www/views/product/star/star.js" timestamp="1472472075750">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="25" column="45" />
+        <mark key="." line="25" column="45" />
       </file>
       <file name="/workspace/website/home/src/css/base.css" timestamp="1472010375235">
         <mark key="'" line="0" column="0" />
@@ -959,49 +959,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8cD7lhazlrZDlsI/nmb3pnZLmmKXniYhJUOWumuWItuasvjwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>nsole.log(elePath[i])</text>
       </register>
       <register name="/" type="4">
         <text>star</text>
       </register>
       <register name="0" type="4">
-        <text>star</text>
+        <text>currentMovedTitle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8cD7lhazlrZDlsI/nmb3pnZLmmKXniYhJUOWumuWItuasvjwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aXRsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlbGVQYXRoW2ldLmNsYXNzTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aXRsZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZWxlUGF0aC5xdWVyeVNlbGVjdG9yKCcuc3RhcicpKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnLT09PT09PT09PT09PT0nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZ2Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoZWxlUGF0aFtpXSkgewo=</text>
+      <register name="6" type="4">
+        <text>scope.onChangeTitle({
+              $title:
+            });</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXZlbnQucGF0aCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVsZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICA8cD7lhazlrZDlsI/nmb3pnZLmmKXniYhJUOWumuWItuasvjwvcD4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -1009,7 +1011,7 @@
       <last-offset />
       <last-pattern>star</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>icon-group</last-substitute>
+      <last-substitute>star</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1037,7 +1039,6 @@
         <entry>star</entry>
       </history-search>
       <history-cmd>
-        <entry>U</entry>
         <entry>2w</entry>
         <entry>Q</entry>
         <entry>&quot;q</entry>
@@ -1050,13 +1051,14 @@
         <entry>qq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q:q</entry>
-        <entry encoding="base64">JzwsJz5x</entry>
-        <entry>qa</entry>
-        <entry>W</entry>
         <entry>.w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5xYQ==</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
