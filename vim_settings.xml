@@ -57,6 +57,12 @@
         <mark key="." line="53" column="19" />
         <mark key="^" line="53" column="19" />
       </file>
+      <file name="/workspace/website/mhome/www/services/news.js" timestamp="1472454604011">
+        <mark key="'" line="41" column="16" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="/workspace/website/mhome/www/news-details.html" timestamp="1472115824123">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="75" />
@@ -74,12 +80,6 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
         <mark key="^" line="149" column="11" />
-      </file>
-      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1472112379242">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/app.js" timestamp="1471332306256">
         <mark key="'" line="76" column="27" />
@@ -131,6 +131,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="353" column="17" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="/workspace/website/mhome/gulpfile.js" timestamp="1472454095114">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
       </file>
       <file name="/workspace/website/mhome/www/views/dash/dash.html" timestamp="1472206259243">
         <mark key="'" line="10" column="16" />
@@ -247,16 +253,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="/workspace/website/mhome/www/components/swiper/swiper.scss" timestamp="1472206121001">
+      <file name="/workspace/website/mhome/www/app.js" timestamp="1472454797510">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/workspace/website/mhome/www/app.js" timestamp="1472209176276">
-        <mark key="[" line="78" column="80" />
-        <mark key="]" line="78" column="79" />
-        <mark key="." line="78" column="79" />
-        <mark key="^" line="78" column="79" />
+        <mark key="^" line="94" column="2" />
       </file>
       <file name="/workspace/website/gwai/package.json" timestamp="1470365719948">
         <mark key="[" line="5" column="24" />
@@ -289,17 +291,18 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
       </file>
+      <file name="/workspace/website/mhome/www/utils/utils.js" timestamp="1472454530661">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/workspace/website/gwai/www/views/qa/add/add.html" timestamp="1472092025799">
         <mark key="'" line="1" column="37" />
         <mark key="[" line="3" column="45" />
         <mark key="]" line="3" column="33" />
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
-      </file>
-      <file name="/workspace/website/mhome/www/components/swiper/swiper.html" timestamp="1472205572764">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/views/libraries/dash/dash.js" timestamp="1472019949043">
         <mark key="[" line="52" column="37" />
@@ -325,12 +328,6 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="/workspace/website/mhome/www/views/dash/dash.js" timestamp="1472206347876">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="20" />
-        <mark key="." line="34" column="20" />
-      </file>
       <file name="/workspace/website/gwai/www/css/iconfont1.css" timestamp="1470296199845">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="18" column="1" />
@@ -344,17 +341,18 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="/workspace/website/home/src/home/where-to-buy/partner.html" timestamp="1472113652460">
-        <mark key="'" line="33" column="32" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="/workspace/website/gwai/www/scss/_items.scss" timestamp="1470303336640">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/news/news.js" timestamp="1472453476927">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
       </file>
       <file name="/workspace/website/mhome/www/views/news.scss" timestamp="1472114535614">
         <mark key="'" line="48" column="8" />
@@ -387,6 +385,12 @@
         <mark key="]" line="127" column="44" />
         <mark key="." line="127" column="44" />
         <mark key="^" line="127" column="44" />
+      </file>
+      <file name="/workspace/website/mhome/www/services/services.js" timestamp="1472454508311">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/Header.js" timestamp="1470040130311">
         <mark key="'" line="55" column="45" />
@@ -428,6 +432,11 @@
         <mark key="]" line="26" column="21" />
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/news/news-detail/news-detail.html" timestamp="1472453042627">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="75" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/components/checkbox/checkbox.html" timestamp="1470304385703">
         <mark key="'" line="1" column="7" />
@@ -488,18 +497,22 @@
         <mark key="^" line="30" column="57" />
         <mark key="." line="30" column="57" />
       </file>
+      <file name="/workspace/website/mhome/www/utils/rest-hapi.js" timestamp="1472454865115">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="25" column="55" />
+        <mark key="]" line="25" column="39" />
+        <mark key="^" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+      </file>
       <file name="/workspace/website/mhome/www/components/nav-bar/nav-bar.html" timestamp="1472209328524">
         <mark key="[" line="13" column="78" />
         <mark key="]" line="13" column="73" />
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
-      <file name="/workspace/website/mhome/www/lib/ionic/js/ionic.bundle.js" timestamp="1472193514220">
-        <mark key="'" line="3888" column="17" />
-      </file>
-      <file name="/workspace/website/gwai/www/views/vocabulary/list/list.js" timestamp="1472092411717">
-        <mark key="[" line="42" column="36" />
-        <mark key="]" line="42" column="37" />
+      <file name="/workspace/website/gwai/www/views/vocabulary/list/list.js" timestamp="1472453189208">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="42" column="39" />
         <mark key="^" line="42" column="37" />
         <mark key="." line="42" column="37" />
       </file>
@@ -802,18 +815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="18" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
-      <jump line="28" column="32" filename="/workspace/website/mhome/www/views/product/xb/xb.html" />
-      <jump line="40" column="23" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
-      <jump line="18" column="6" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
-      <jump line="765" column="0" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
-      <jump line="53" column="0" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
-      <jump line="115" column="2" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
-      <jump line="23" column="0" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
-      <jump line="350" column="3" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
-      <jump line="562" column="0" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
-      <jump line="0" column="1" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
-      <jump line="4" column="0" filename="/workspace/website/mhome/www/views/product/xxb/xxb.html" />
       <jump line="26" column="22" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
       <jump line="120" column="0" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
       <jump line="121" column="9" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
@@ -902,58 +903,70 @@
       <jump line="109" column="15" filename="/workspace/website/mhome/www/views/product/xxb/xxb.html" />
       <jump line="7" column="29" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="142" column="26" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="63" column="36" filename="/workspace/website/mhome/www/utils/rest-hapi.js" />
+      <jump line="80" column="19" filename="/workspace/website/mhome/www/app.js" />
+      <jump line="9" column="6" filename="/workspace/website/mhome/www/views/news/news.js" />
+      <jump line="65" column="0" filename="/workspace/website/mhome/www/utils/rest-hapi.js" />
+      <jump line="41" column="16" filename="/workspace/website/mhome/www/services/news.js" />
+      <jump line="39" column="8" filename="/workspace/website/mhome/www/utils/rest-hapi.js" />
+      <jump line="75" column="0" filename="/workspace/website/mhome/www/utils/rest-hapi.js" />
+      <jump line="91" column="5" filename="/workspace/website/mhome/www/app.js" />
+      <jump line="2" column="1" filename="/workspace/website/mhome/www/app.js" />
+      <jump line="0" column="0" filename="/workspace/website/mhome/www/app.js" />
+      <jump line="23" column="17" filename="/workspace/website/mhome/www/utils/rest-hapi.js" />
+      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/news/news.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>们</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PC9ib2R5Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>们</text>
+        <text>}]);</text>
       </register>
       <register name="/" type="4">
-        <text>与</text>
+        <text>device</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
+      <register name="0" type="4">
+        <text>starter.services</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBocmVmOiAnbmUnLAo=</text>
+        <text encoding="base64">PC9ib2R5Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzdGF0ZTogJ25ld3MnLAo=</text>
+        <text encoding="base64">PC9odG1sPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDMwJTsK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHotaW5kZXg6IDEwMDsK</text>
+        <text encoding="base64">PGh0bWwgbGFuZz0iZW4iPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA4MCU7Cg==</text>
+        <text encoding="base64">PGhlYWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICA8bWV0YSBjb250ZW50PSJ5ZXMiIG5hbWU9ImFwcGxlLW1vYmlsZS13ZWItYXBwLWNhcGFibGUiLz4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwOwo=</text>
+        <text encoding="base64">ICA8bWV0YSBjb250ZW50PSJ5ZXMiIG5hbWU9ImFwcGxlLXRvdWNoLWZ1bGxzY3JlZW4iLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiB7CiAgbWFyZ2luOiAwOwo=</text>
+        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEsIG1heGltdW0tc2NhbGU9MSwgdXNlci1zY2FsYWJsZT1ubyI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>与</last-search>
+      <last-search>device</last-search>
       <last-offset />
-      <last-pattern>与</last-pattern>
+      <last-pattern>device</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>138px</last-substitute>
       <last-dir>1</last-dir>
@@ -961,7 +974,6 @@
     </search>
     <history>
       <history-search>
-        <entry>15799</entry>
         <entry>tel</entry>
         <entry>94%</entry>
         <entry>电视</entry>
@@ -981,6 +993,7 @@
         <entry>20px;</entry>
         <entry>swiper</entry>
         <entry>与</entry>
+        <entry>device</entry>
       </history-search>
       <history-cmd>
         <entry>U</entry>
@@ -995,12 +1008,12 @@
         <entry>all</entry>
         <entry>qq</entry>
         <entry>.w</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>q:q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
+        <entry>q</entry>
         <entry>qa</entry>
+        <entry>W</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
