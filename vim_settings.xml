@@ -23,7 +23,7 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="/workspace/website/gwai/www/views/qa/list/list.js" timestamp="1472546556911">
+      <file name="/workspace/website/gwai/www/views/qa/list/list.js" timestamp="1472547532518">
         <mark key="'" line="4" column="7" />
         <mark key="[" line="34" column="42" />
         <mark key="]" line="34" column="43" />
@@ -538,12 +538,6 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
-      <file name="/workspace/website/gwai/www/views/vocabulary/list/list.js" timestamp="1472453189208">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="42" column="39" />
-        <mark key="^" line="42" column="37" />
-        <mark key="." line="42" column="37" />
-      </file>
       <file name="/workspace/website/gwai/www/views/memory/list/list.html" timestamp="1470794750586">
         <mark key="'" line="28" column="48" />
         <mark key="[" line="0" column="61" />
@@ -963,7 +957,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUucWFMaXN0LnBhZ2UucGFnZU51bSsrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>window</text>
@@ -975,36 +969,36 @@
         <text>currentMovedTitle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUucWFMaXN0LnBhZ2UucGFnZU51bSsrOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIHRoaXMucGFnZS5wYWdlTnVtKys7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUucWFMaXN0LnBhZ2UucGFnZU51bSsrOwo=</text>
+      </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucGFnZS5wYWdlTnVtKys7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLy8K</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>$ionicLoading.show({
           template: 'Loading...'
         });</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkc2NvcGUuJHN0YXRlUGFyYW1zKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLiRzdGF0ZVBhcmFtcyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT0nKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkc2NvcGUuJHN0YXRlUGFyYW1zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT0nKQogICAgICBjb25zb2xlLmxvZygkc2NvcGUuJHN0YXRlUGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLiRzdGF0ZVBhcmFtcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1060,8 +1054,8 @@
         <entry>%</entry>
         <entry>Wq</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>qa</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
