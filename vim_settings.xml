@@ -220,12 +220,12 @@
         <mark key="^" line="29" column="18" />
         <mark key="." line="29" column="18" />
       </file>
-      <file name="/workspace/website/mhome/www/views/product/star/star.html" timestamp="1472471182007">
-        <mark key="'" line="110" column="63" />
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="14" />
+      <file name="/workspace/website/mhome/www/views/product/star/star.html" timestamp="1472528926729">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="113" column="44" />
+        <mark key="]" line="113" column="43" />
+        <mark key="^" line="113" column="43" />
+        <mark key="." line="113" column="43" />
       </file>
       <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472458685123">
         <mark key="'" line="28" column="0" />
@@ -855,9 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="364" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
-      <jump line="367" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
-      <jump line="370" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="106" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="114" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="117" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
@@ -933,7 +930,6 @@
       <jump line="119" column="28" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="120" column="19" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="121" column="20" filename="/workspace/website/mhome/www/views/product/star/star.html" />
-      <jump line="7" column="24" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="14" column="0" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="16" column="54" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="26" column="9" filename="/workspace/website/mhome/www/views/product/star/star.html" />
@@ -955,13 +951,17 @@
       <jump line="111" column="47" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="112" column="19" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="110" column="63" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="5" column="67" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="7" column="24" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="149" column="0" filename="/workspace/website/mhome/www/views/product/star/star.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>致</text>
       </register>
       <register name="-" type="4">
-        <text>nsole.log(elePath[i])</text>
+        <text>致</text>
       </register>
       <register name="/" type="4">
         <text>star</text>
@@ -1002,7 +1002,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>%</text>
       </register>
     </registers>
     <search>
@@ -1038,7 +1038,6 @@
         <entry>star</entry>
       </history-search>
       <history-cmd>
-        <entry>2w</entry>
         <entry>Q</entry>
         <entry>&quot;q</entry>
         <entry>.,.+24q</entry>
@@ -1053,11 +1052,12 @@
         <entry>.w</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>qa</entry>
         <entry>wq</entry>
+        <entry>w</entry>
+        <entry>%</entry>
       </history-cmd>
       <history-expr />
       <history-input />
