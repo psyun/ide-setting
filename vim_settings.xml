@@ -336,6 +336,12 @@
         <mark key="." line="8" column="44" />
         <mark key="^" line="8" column="44" />
       </file>
+      <file name="/workspace/website/mhome/www/views/purchase/purchse.js" timestamp="1472538081317">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="10" column="9" />
+      </file>
       <file name="/workspace/website/gwai/www/views/qa/edit/edit.js" timestamp="1472110434394">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="13" column="31" />
@@ -958,10 +964,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>致</text>
+        <text>window</text>
       </register>
       <register name="-" type="4">
-        <text>致</text>
+        <text>window</text>
       </register>
       <register name="/" type="4">
         <text>star</text>
@@ -1002,7 +1008,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1056,8 +1062,8 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>qa</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>%</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
