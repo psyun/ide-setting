@@ -274,6 +274,13 @@
         <mark key="." line="59" column="30" />
         <mark key="^" line="59" column="30" />
       </file>
+      <file name="/workspace/website/gwai/www/components/text-box/text-box.js" timestamp="1472552819011">
+        <mark key="'" line="29" column="23" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="30" column="37" />
+        <mark key="." line="30" column="37" />
+        <mark key="^" line="30" column="37" />
+      </file>
       <file name="/workspace/website/gwai/package.json" timestamp="1470365719948">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="23" />
@@ -426,9 +433,9 @@
         <mark key="." line="51" column="15" />
         <mark key="^" line="51" column="15" />
       </file>
-      <file name="/workspace/website/gwai/www/views/vocabulary/add/add.scss" timestamp="1472112259701">
+      <file name="/workspace/website/gwai/www/views/vocabulary/add/add.scss" timestamp="1472549879516">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="27" />
+        <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="30" />
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
@@ -557,6 +564,12 @@
         <mark key="]" line="6" column="50" />
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
+      </file>
+      <file name="/workspace/website/gwai/www/scss/components/text-box.scss" timestamp="1472551179077">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="6" />
       </file>
       <file name="/workspace/website/home/src/css/site.css" timestamp="1472113874333">
         <mark key="'" line="1648" column="14" />
@@ -854,7 +867,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="240" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="243" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="246" column="9" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
@@ -954,51 +966,50 @@
       <jump line="67" column="10" filename="/workspace/website/gwai/www/utils/rest-hapi.js" />
       <jump line="25" column="117" filename="/workspace/website/gwai/www/utils/rest-hapi.js" />
       <jump line="0" column="0" filename="/workspace/website/gwai/www/utils/rest-hapi.js" />
+      <jump line="29" column="23" filename="/workspace/website/gwai/www/components/text-box/text-box.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocmVnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>window</text>
+        <text>\u4e00-\u9fa50-9</text>
       </register>
       <register name="/" type="4">
         <text>handleItem</text>
       </register>
       <register name="0" type="4">
-        <text>currentMovedTitle</text>
+        <text>#f32c2c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocmVnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucGFnZS5wYWdlTnVtKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHZhbGlkID0gdmFsaWRhdGlvbih2YWx1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUucWFMaXN0LnBhZ2UucGFnZU51bSsrOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZhbGlkID8gdmFsdWUgOiAnJzsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucGFnZS5wYWdlTnVtKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHZhbGlkID0gdmFsaWRhdGlvbih2YWx1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>$ionicLoading.show({
-          template: 'Loading...'
-        });</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZhbHVlOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkc2NvcGUuJHN0YXRlUGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLiRzdGF0ZVBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZhbHVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
