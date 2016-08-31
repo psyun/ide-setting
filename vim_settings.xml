@@ -241,6 +241,11 @@
         <mark key="^" line="113" column="43" />
         <mark key="." line="113" column="43" />
       </file>
+      <file name="/workspace/website/mhome/www/views/support/details/xb/xb.html" timestamp="1472633775334">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="199" column="9" />
+      </file>
       <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472626495158">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="10" column="39" />
@@ -248,12 +253,12 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/workspace/website/mhome/www/views/support/list/list.html" timestamp="1472632732609">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="23" column="9" />
-        <mark key="^" line="23" column="9" />
-        <mark key="." line="23" column="9" />
+      <file name="/workspace/website/mhome/www/views/support/list/list.html" timestamp="1472633435038">
+        <mark key="'" line="62" column="100" />
+        <mark key="[" line="62" column="75" />
+        <mark key="]" line="62" column="47" />
+        <mark key="^" line="62" column="47" />
+        <mark key="." line="62" column="47" />
       </file>
       <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1472545509613">
         <mark key="'" line="0" column="0" />
@@ -534,12 +539,12 @@
         <mark key="^" line="652" column="26" />
         <mark key="." line="652" column="26" />
       </file>
-      <file name="/workspace/website/mhome/www/views/support/details/xxb/xxb.html" timestamp="1472631317786">
+      <file name="/workspace/website/mhome/www/views/support/details/xxb/xxb.html" timestamp="1472634096959">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="154" column="30" />
-        <mark key="]" line="154" column="34" />
-        <mark key="." line="154" column="30" />
-        <mark key="^" line="154" column="29" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="^" line="187" column="73" />
+        <mark key="." line="190" column="0" />
       </file>
       <file name="/workspace/website/mhome/www/views/support/details/xxb/xxb.scss" timestamp="1472631374029">
         <mark key="[" line="3" column="23" />
@@ -939,9 +944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="29" filename="/workspace/website/mhome/www/views/dash/dash.html" />
-      <jump line="10" column="16" filename="/workspace/website/mhome/www/views/dash/dash.html" />
-      <jump line="347" column="26" filename="/workspace/website/mhome/www/views/support/support-detail-List/support-detail-list.html" />
       <jump line="67" column="19" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="78" column="35" filename="/workspace/website/gwai/www/utils/hapi.js" />
       <jump line="109" column="15" filename="/workspace/website/mhome/www/views/product/xxb/xxb.html" />
@@ -1039,58 +1041,61 @@
       <jump line="157" column="49" filename="/workspace/website/mhome/www/views/support/details/xxb/xxb.html" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/views/support/details/xxb/xxb.html" />
       <jump line="45" column="0" filename="/workspace/website/mhome/www/views/support/list/list.html" />
+      <jump line="62" column="100" filename="/workspace/website/mhome/www/views/support/list/list.html" />
+      <jump line="37" column="0" filename="/workspace/website/mhome/www/views/support/details/xb/xb.html" />
+      <jump line="140" column="0" filename="/workspace/website/mhome/www/views/support/details/xb/xb.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PC9wPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9wPg==</text>
+        <text>将二维码对准公子小白摄像头位置开始扫描</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1NGUwMFw+</text>
+        <text>1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InNlY3Rpb24iPgogICAgICAgICAgICAgICAgICA8aW1nIG5nLXNyYz0iLi9pbWcvc3VwcG9ydC94eGIvc24ucG5nIj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGlwcyI+CiAgICAgICAgICAgICAgICAgICAg5Zyo5py65Zmo5Lq65byA5py654q25oCB77yM5ZCM5pe25oyJ5LiL6Z+z6YeP4oCcwrHplK7igJ3lsIblsY/luZXkuIrmmL7npLrnmoRJROeggeWhq+WFpeWIsEFQUOeahOi+k+WFpeahhuWGhe+8jOWhq+WGmeS4quS6uuS/oeaBr++8jOWujOaIkOe7keWumuOAggogICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InNlci1zZWN0aW9uIj4KICAgICAgPGRpdiBjbGFzcz0ic2VjdGlvbi1ib3ggc2VjLWJveCI+CiAgICAgICAgPHVsIGNsYXNzPSJxdWVzdGlvbi1saXN0Ij4KICAgICAgICAgIDxsaSBjbGFzcz0icXVlc3Rpb24tbGluayI+CiAgICAgICAgICAgIDxhY2NvcmRpb24gdGl0bGU9IuS9v+eUqOatpemqpCI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24tY29udGFpbmVyIHF1ZXN0aW9uLWNvbnRhaW5lcjEiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24teHVoYW8iPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJxdWVzdGlvbi1qdWFuIj48cD4xPC9wPjwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24tY29udGVudCI+CiAgICAgICAgICAgICAgICAgIDxwPuWcqEdvd2lsZOWumOe9kei1hOa6kOS4i+i9vemhtemdou+8iHd3dy5nb3dpbGQuY27vvInkuIvovb1BbmRyb2lk5oiWSU9T5omL5py65a6i5oi356uvPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24tY29udGFpbmVyIHF1ZXN0aW9uLWNvbnRhaW5lcjIiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24teHVoYW8iPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJxdWVzdGlvbi1qdWFuIj48cD4yPC9wPjwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24tY29udGVudCI+CiAgICAgICAgICAgICAgICAgIDxwPumVv+aMieWFrOWtkOWwj+eZveWktOmhtueahOeUtea6kOmUru+8jOW8gOWQr+WFrOWtkOWwj+eZvTwvcD4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24tZ3p4YiI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGlzaGkiPjxwPiZtZGFzaDsmbWRhc2g7Jm1kYXNoOyZidWxsO+eUtea6kOmUrjwvcD48L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJtYWluLWhlYWRlci13cmFwIiBzcmM9ImltZy9zdXBwb3J0L2d6eGIucG5nIi8+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24tY29udGFpbmVyIHF1ZXN0aW9uLWNvbnRhaW5lcjMiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24teHVoYW8iPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJxdWVzdGlvbi1qdWFuIj48cD4zPC9wPjwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24tY29udGVudCI+CiAgICAgICAgICAgICAgICAgIDxwPuWcqOaJi+acuui/nuaOpXdpZmnnjq/looPkuIvvvIzphY3nva7kuLvkurrkv6Hmga/jgILnmbvpmYblkI7ovpPlhaV3aWZp5a+G56CB77yM5Lya55Sf5oiQ5LqM57u056CBPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24tY29udGFpbmVyIHF1ZXN0aW9uLWNvbnRhaW5lcjQiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24teHVoYW8iPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJxdWVzdGlvbi1qdWFuIj48cD40PC9wPjwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24tY29udGVudCI+CiAgICAgICAgICAgICAgICAgIDxwPuagueaNruWFrOWtkOWwj+eZveivremfs+aPkOekuu+8iOaIluivremfs+aMh+S7pO+8muaJq+aPj+S6jOe7tOegge+8ie+8jOWwhuS6jOe7tOeggeWvueWHhuWFrOWtkOWwj+eZveaRhOWDj+WktOS9jee9ruW8gOWni+aJq+aPjzwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9InF1ZXN0aW9uLWNvbnRhaW5lciBxdWVzdGlvbi1jb250YWluZXI1Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InF1ZXN0aW9uLXh1aGFvIj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24tanVhbiI+PHA+NTwvcD48L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InF1ZXN0aW9uLWNvbnRlbnQiPgogICAgICAgICAgICAgICAgICA8cD7lhazlrZDlsI/nmb3miavmj4/miJDlip/lkI7vvIzlsLHlj6/ku6XlkozlpbnlvIDlp4vkuqTosIjkuobvvJvlpoLmnpzmj5DnpLrogZTnvZHlpLHotKXvvIzor7fmo4Dmn6V3aWZp5a+G56CB5piv5ZCm5q2j56Gu5ZCO6YeN5aSN5Lul5LiK77yIM+OAgTTvvInmraXpqqQ8L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9hY2NvcmRpb24+CiAgICAgICAgICA8L2xpPgogICAgICAgIDwvdWw+CgogICAgICA8L2Rpdj4KICAgIDwvZGl2Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0icXVlc3Rpb24tY29udGFpbmVyIHF1ZXN0aW9uLWNvbnRhaW5lcjUiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24teHVoYW8iPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJxdWVzdGlvbi1qdWFuIj48cD41PC9wPjwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24tY29udGVudCI+CiAgICAgICAgICAgICAgICAgIDxwPuWFrOWtkOWwj+eZveaJq+aPj+aIkOWKn+WQju+8jOWwseWPr+S7peWSjOWlueW8gOWni+S6pOiwiOS6hu+8m+WmguaenOaPkOekuuiBlOe9keWksei0pe+8jOivt+ajgOafpXdpZmnlr4bnoIHmmK/lkKbmraPnoa7lkI7ph43lpI3ku6XkuIrvvIgz44CBNO+8ieatpemqpDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbmRyb2lkIDQuMOS7peS4igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHA+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb24tZ3p4YiI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0aXNoaSI+PHA+Jm1kYXNoOyZtZGFzaDsmbWRhc2g7JmJ1bGw755S15rqQ6ZSuPC9wPjwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDlnKjmnLrlmajkurrlvIDmnLrnirbmgIHvvIzlkIzml7bmjInkuIvpn7Pph4/igJzCsemUruKAneWwhuWxj+W5leS4iuaYvuekuueahElE56CB5aGr5YWl5YiwQVBQ55qE6L6T5YWl5qGG5YaF77yM5aGr5YaZ5Liq5Lq65L+h5oGv77yM5a6M5oiQ57uR5a6a44CCCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJ0aXRsZSI+PC9oND4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJtYWluLWhlYWRlci13cmFwIiBzcmM9ImltZy9zdXBwb3J0L2d6eGIucG5nIi8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGlwcyI+PC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1NGUwMFw+</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1NGUwMFw+</last-pattern>
+      <last-pattern>1</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>star</last-substitute>
       <last-dir>1</last-dir>
@@ -1098,7 +1103,6 @@
     </search>
     <history>
       <history-search>
-        <entry>138px</entry>
         <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
         <entry>onscroll</entry>
         <entry>scroll</entry>
@@ -1118,13 +1122,13 @@
         <entry>star</entry>
         <entry>handleItem</entry>
         <entry encoding="base64">XDx1NGUwMFw+</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;q</entry>
         <entry>.,.+24q</entry>
         <entry>&quot;w</entry>
         <entry>qall</entry>
-        <entry>w'</entry>
         <entry>we</entry>
         <entry>all</entry>
         <entry>qq</entry>
@@ -1136,9 +1140,10 @@
         <entry>Wq</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry>q</entry>
+        <entry>w'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
