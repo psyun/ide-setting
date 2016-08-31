@@ -194,6 +194,11 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="12" />
       </file>
+      <file name="/workspace/website/mhome/www/views/support/support-list/details/xxb/xxb.html" timestamp="1472613229695">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.js" timestamp="1472465540046">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="34" column="29" />
@@ -492,6 +497,7 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
+      <file name="/workspace/website/mhome/www/views/support/support-list/details/xb/xb.scss" timestamp="1472613290734" />
       <file name="/workspace/website/home/src/css/gwais.css" timestamp="1471589488652">
         <mark key="'" line="239" column="16" />
         <mark key="[" line="652" column="15" />
@@ -847,8 +853,8 @@
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="/workspace/website/mhome/www/views/views.scss" timestamp="1472455889307">
-        <mark key="[" line="4" column="18" />
+      <file name="/workspace/website/mhome/www/views/views.scss" timestamp="1472613358887">
+        <mark key="[" line="9" column="56" />
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
@@ -881,7 +887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="13" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="86" column="19" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="159" column="19" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="190" column="19" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
@@ -981,10 +986,11 @@
       <jump line="25" column="32" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
       <jump line="0" column="0" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
       <jump line="32" column="25" filename="/workspace/website/gwai/www/components/chinese/chinese.js" />
+      <jump line="4" column="16" filename="/workspace/website/mhome/www/views/support/support-list/details/xxb/xxb.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVsZVBhdGhbaV0uZGF0YXNldCk7Cg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -996,37 +1002,37 @@
         <text>[\u4e00-\u9fa50-9]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVsZVBhdGhbaV0uZGF0YXNldCk7Cg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9ndHRyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVsZVBhdGhbaV0uZGF0YXNldCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9ndHRyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVnLnRlc3QodmFsKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVnLnRlc3QodmFsKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCB2b2NhYnVsYXJ5SXRlbXMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICBpZiAodm9jYWJ1bGFyeUl0ZW1zW2ldLmlkID09IGlkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY29wZS52b2NhYnVsYXJ5TGlzdC5pdGVtcy5zcGxpY2UoaSwgMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCB2b2NhYnVsYXJ5SXRlbXMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICBpZiAodm9jYWJ1bGFyeUl0ZW1zW2ldLmlkID09IGlkKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY29wZS52b2NhYnVsYXJ5TGlzdC5pdGVtcy5zcGxpY2UoaSwgMSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1079,9 +1085,9 @@
         <entry>%</entry>
         <entry>Wq</entry>
         <entry>qa</entry>
+        <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
