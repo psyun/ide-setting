@@ -248,8 +248,8 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/workspace/website/mhome/www/views/support/list/list.html" timestamp="1472626583248">
-        <mark key="'" line="66" column="19" />
+      <file name="/workspace/website/mhome/www/views/support/list/list.html" timestamp="1472632732609">
+        <mark key="'" line="45" column="0" />
         <mark key="[" line="22" column="15" />
         <mark key="]" line="23" column="9" />
         <mark key="^" line="23" column="9" />
@@ -939,7 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="17" filename="/workspace/website/mhome/www/components/swiper/swiper.scss" />
       <jump line="42" column="29" filename="/workspace/website/mhome/www/views/dash/dash.html" />
       <jump line="10" column="16" filename="/workspace/website/mhome/www/views/dash/dash.html" />
       <jump line="347" column="26" filename="/workspace/website/mhome/www/views/support/support-detail-List/support-detail-list.html" />
@@ -1039,6 +1038,7 @@
       <jump line="67" column="19" filename="/workspace/website/mhome/www/views/support/list/list.html" />
       <jump line="157" column="49" filename="/workspace/website/mhome/www/views/support/details/xxb/xxb.html" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/views/support/details/xxb/xxb.html" />
+      <jump line="45" column="0" filename="/workspace/website/mhome/www/views/support/list/list.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
