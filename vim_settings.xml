@@ -1126,7 +1126,7 @@
         <text encoding="base64">ICAgICRyb290U2NvcGUudGl0bGUgPSAn5YWs5a2Q5bCP55m9fOaZuuiDveiQjOWuoOacuuWZqOS6unzmg4XmhJ/npL7kuqTmnLrlmajkurp86Zmq5Ly05py65Zmo5Lq6fOWPo+iii+acuuWZqOS6unzmmbrog73okIzlrqDmnLrlmajkurp85bm06L275Lq655qE5pm66IO95oOF5oSf56S+5Lqk5py65Zmo5Lq6fOadpeiHqua3seWcs+eahOaZuuiDveacuuWZqOS6unzku7fmoLzlrp7mg6AnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -1173,7 +1173,6 @@
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>%</entry>
         <entry>Wq</entry>
-        <entry>qa</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>w'</entry>
         <entry>W</entry>
@@ -1182,6 +1181,7 @@
         <entry>e</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
