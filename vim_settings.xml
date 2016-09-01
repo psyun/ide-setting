@@ -170,12 +170,12 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="/workspace/website/mhome/www/views/dash/dash.html" timestamp="1472206259243">
+      <file name="/workspace/website/mhome/www/views/dash/dash.html" timestamp="1472697738367">
         <mark key="'" line="10" column="16" />
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="29" />
-        <mark key="." line="42" column="29" />
-        <mark key="^" line="42" column="29" />
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="30" column="19" />
       </file>
       <file name="/workspace/website/gowild-xb-webpage/.babelrc" timestamp="1470220622110">
         <mark key="[" line="3" column="12" />
@@ -265,12 +265,12 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472626495158">
+      <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472697803876">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="10" column="39" />
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="33" />
+        <mark key="^" line="28" column="33" />
+        <mark key="." line="28" column="33" />
       </file>
       <file name="/workspace/website/mhome/www/views/support/list/list.html" timestamp="1472633435038">
         <mark key="'" line="62" column="100" />
@@ -278,6 +278,13 @@
         <mark key="]" line="62" column="47" />
         <mark key="^" line="62" column="47" />
         <mark key="." line="62" column="47" />
+      </file>
+      <file name="/workspace/website/mhome/www/components/footer/footer.scss" timestamp="1472697953468">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="43" column="5" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1472545509613">
         <mark key="'" line="0" column="0" />
@@ -563,11 +570,11 @@
         <mark key="^" line="652" column="26" />
         <mark key="." line="652" column="26" />
       </file>
-      <file name="/workspace/website/mhome/www/views/support/details/xxb/xxb.html" timestamp="1472642322866">
-        <mark key="[" line="300" column="48" />
-        <mark key="]" line="300" column="47" />
-        <mark key="^" line="300" column="47" />
-        <mark key="." line="300" column="47" />
+      <file name="/workspace/website/mhome/www/views/support/details/xxb/xxb.html" timestamp="1472697499900">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="^" line="125" column="40" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="/workspace/website/mhome/www/views/support/details/xxb/xxb.scss" timestamp="1472631374029">
         <mark key="[" line="3" column="23" />
@@ -929,6 +936,12 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="13" column="32" />
       </file>
+      <file name="/workspace/website/mhome/www/views/support/download/download.html" timestamp="1472697609637">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+      </file>
       <file name="/workspace/website/gwai/www/views/memory/add/add.html" timestamp="1470625546015">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="1" column="37" />
@@ -957,7 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="33" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="71" column="18" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="74" column="19" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="106" column="18" filename="/workspace/website/mhome/www/views/product/star/star.html" />
@@ -1057,13 +1069,14 @@
       <jump line="91" column="25" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="137" column="14" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="11" column="4" filename="/workspace/website/mhome/www/views/support/details/details.scss" />
+      <jump line="1" column="0" filename="/workspace/website/mhome/www/components/footer/footer.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IC01cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ng-bind=&quot;title&quot;</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>dash</text>
@@ -1082,34 +1095,34 @@
     border-radius: 100%;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IC01cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogMDsK</text>
+        <text encoding="base64">ICAgIGF7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB3aWR0aDogOTElOwo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjZTVlNWU1Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiAycHg7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaVBob25lIDguMOS7peS4igo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvcD4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnF1ZXN0aW9uLWNvbnRhaW5lci1ubyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaVBob25lIDguMOS7peS4igo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxwPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1120,7 +1133,7 @@
       <last-offset />
       <last-pattern>dash</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>star</last-substitute>
+      <last-substitute>dash</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
