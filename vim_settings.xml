@@ -215,6 +215,9 @@
         <mark key="." line="46" column="18" />
         <mark key="^" line="46" column="18" />
       </file>
+      <file name="/workspace/ue/SHS.Web/Trim-Punctuations/command" timestamp="1472803758696">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/workspace/website/gwai/www/scss/app.scss" timestamp="1470470667355">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="16" column="12" />
@@ -402,7 +405,7 @@
         <mark key="^" line="28" column="7" />
         <mark key="." line="28" column="7" />
       </file>
-      <file name="/workspace/ue/SHS.Web/index.js" timestamp="1472801809964">
+      <file name="/workspace/ue/SHS.Web/index.js" timestamp="1472804339719">
         <mark key="'" line="16" column="41" />
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="15" />
@@ -694,6 +697,9 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
+      <file name="/workspace/ue/SHS.Web/FontsData/Regular/CN/features" timestamp="1472803539050">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/workspace/website/mhome/www/index.html" timestamp="1472719345871">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="5" column="99" />
@@ -957,6 +963,7 @@
         <mark key="^" line="22" column="48" />
         <mark key="." line="22" column="48" />
       </file>
+      <file name="/workspace/ue/SHS.Web/Trim-Punctuations/generate.js" timestamp="1472804049879" />
       <file name="/workspace/website/gwai/www/views/memory/add/add.html" timestamp="1470625546015">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="1" column="37" />
@@ -985,9 +992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="0" filename="/workspace/website/mhome/www/views/product/star/star.html" />
-      <jump line="4" column="7" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
-      <jump line="83" column="0" filename="/workspace/website/gwai/www/utils/hapi.js" />
       <jump line="76" column="0" filename="/workspace/website/gwai/www/utils/hapi.js" />
       <jump line="28" column="37" filename="/workspace/website/gwai/www/utils/hapi.js" />
       <jump line="0" column="0" filename="/workspace/website/gwai/www/utils/hapi.js" />
@@ -1085,6 +1089,9 @@
       <jump line="44647" column="0" filename="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" />
       <jump line="44648" column="0" filename="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" />
       <jump line="0" column="0" filename="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" />
+      <jump line="570" column="23" filename="/workspace/ue/SHS.Web/FontsData/Regular/CN/features" />
+      <jump line="0" column="0" filename="/workspace/ue/SHS.Web/FontsData/Regular/CN/features" />
+      <jump line="0" column="0" filename="/workspace/ue/SHS.Web/Trim-Punctuations/command" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
