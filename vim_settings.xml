@@ -24,6 +24,12 @@
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
+      <file name="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" timestamp="1472800177207">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44604" column="10" />
+        <mark key="]" line="44648" column="17" />
+        <mark key="." line="44648" column="17" />
+      </file>
       <file name="/workspace/website/gwai/www/views/libraries/dash/dash.scss" timestamp="1470645499774">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="26" />
@@ -395,6 +401,13 @@
         <mark key="]" line="28" column="7" />
         <mark key="^" line="28" column="7" />
         <mark key="." line="28" column="7" />
+      </file>
+      <file name="/workspace/ue/SHS.Web/index.js" timestamp="1472800469355">
+        <mark key="'" line="16" column="41" />
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="/workspace/website/gwai/scss/ionic.app.scss" timestamp="1470467653891">
         <mark key="[" line="23" column="23" />
@@ -972,11 +985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="19" filename="/workspace/website/mhome/www/views/product/star/star.html" />
-      <jump line="110" column="63" filename="/workspace/website/mhome/www/views/product/star/star.html" />
-      <jump line="5" column="67" filename="/workspace/website/mhome/www/views/product/star/star.html" />
-      <jump line="7" column="24" filename="/workspace/website/mhome/www/views/product/star/star.html" />
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="149" column="0" filename="/workspace/website/mhome/www/views/product/star/star.html" />
       <jump line="4" column="7" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
       <jump line="83" column="0" filename="/workspace/website/gwai/www/utils/hapi.js" />
@@ -1072,10 +1080,15 @@
       <jump line="279" column="37" filename="/workspace/website/mhome/www/views/support/details/xb/xb.html" />
       <jump line="3" column="1" filename="/workspace/website/mhome/www/components/accordion/accordion.scss" />
       <jump line="139" column="0" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
+      <jump line="15" column="41" filename="/workspace/ue/SHS.Web/index.js" />
+      <jump line="40" column="13" filename="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" />
+      <jump line="44647" column="0" filename="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" />
+      <jump line="44648" column="0" filename="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" />
+      <jump line="0" column="0" filename="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
         <text>iconText</text>
@@ -1084,37 +1097,37 @@
         <text>dash</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGlvbi1zbGlkZT4KICAgICAgICA8YSB1aS1zcmVmPSJ4YiI+CiAgICAgICAgICA8aW1nIHNyYz0iaW1nL2luZGV4L2Jhbm5lcjEucG5nIiBhbHQ9IiI+CiAgICAgICAgPC9hPgogICAgICA8L2lvbi1zbGlkZT4=</text>
+        <text />
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">PGRpdiBjbGFzcz0iZm9vdGVyLW5hdiByb3ciPgogICAgPGEgY2xhc3M9ImNvbCIgdWktc3JlZj0ibmV3cy5saXN0Ij4KICAgICAgPGltZyBuZy1zcmM9Ii4vY29tcG9uZW50cy9mb290ZXIvaW1nL25ld3MucG5nIj4KICAgICAgPGRpdiBjbGFzcz0idGl0bGUiPuaWsOmXu+i1hOiurzwvZGl2PgogICAgPC9hPgogICAgPGEgY2xhc3M9ImNvbCI+CiAgICAgIDxpbWcgbmctc3JjPSIuL2NvbXBvbmVudHMvZm9vdGVyL2ltZy9nb3dpbGQtY2x1Yi5wbmciPgogICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSI+5bCP5bC+5be056S+576kPC9kaXY+CiAgICA8L2E+CiAgICA8YSBjbGFzcz0iY29sIiB1aS1zcmVmPSJzdXBwb3J0Lmxpc3QiPgogICAgICA8aW1nIG5nLXNyYz0iLi9jb21wb25lbnRzL2Zvb3Rlci9pbWcvc3VwcG9ydC5wbmciPgogICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSI+5pyN5Yqh5pSv5oyBPC9kaXY+CiAgICA8L2E+CiAgICA8YSBjbGFzcz0iY29sIiB1aS1zcmVmPSJhYm91dCI+CiAgICAgIDxpbWcgbmctc3JjPSIuL2NvbXBvbmVudHMvZm9vdGVyL2ltZy9hYm91dC5wbmciPgogICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSI+5YWz5LqO5oiR5LusPC9kaXY+CiAgICA8L2E+CiAgPC9kaXY+</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLWxlZnQ6IDFweDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDogMHB4Owo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMnB4Owo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMjhweDsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMjhweDsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICYuaWNvbi1sZWZ0IHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICYuaWNvbi1sZWZ0IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
