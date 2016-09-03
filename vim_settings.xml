@@ -793,6 +793,9 @@
         <mark key="^" line="313" column="20" />
         <mark key="." line="313" column="20" />
       </file>
+      <file name="/workspace/ue/SHS.Web/result.map" timestamp="1472905848063">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/workspace/website/mhome/www/components/swiper/swiper.js" timestamp="1472203193891">
         <mark key="'" line="55" column="31" />
         <mark key="[" line="51" column="29" />
@@ -1034,8 +1037,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="/workspace/website/mhome/www/views/support/details/xb/xb.html" />
-      <jump line="140" column="0" filename="/workspace/website/mhome/www/views/support/details/xb/xb.html" />
       <jump line="319" column="12" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="323" column="15" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="306" column="35" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
@@ -1134,6 +1135,8 @@
       <jump line="163" column="14" filename="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" />
       <jump line="26" column="26" filename="/workspace/ue/SHS.Web/FontsData/Light/CN/features" />
       <jump line="0" column="0" filename="/workspace/ue/SHS.Web/FontsData/Light/CN/features" />
+      <jump line="31" column="14" filename="/workspace/ue/SHS.Web/result.map" />
+      <jump line="0" column="0" filename="/workspace/ue/SHS.Web/result.map" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
