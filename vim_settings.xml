@@ -24,8 +24,8 @@
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
-      <file name="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" timestamp="1472802162358">
-        <mark key="'" line="0" column="0" />
+      <file name="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" timestamp="1472902280968">
+        <mark key="'" line="163" column="14" />
         <mark key="[" line="44604" column="10" />
         <mark key="]" line="44648" column="17" />
         <mark key="." line="44648" column="17" />
@@ -72,6 +72,9 @@
       </file>
       <file name="/workspace/font/font-subset/src/gen-subset-cid.js" timestamp="1472811812748">
         <mark key="[" line="19" column="3" />
+      </file>
+      <file name="/workspace/ue/SHS.Web/FontsData/Light/CN/features" timestamp="1472902241051">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/workspace/font/font-subset/src/source-han-sans/Light/features.CN" timestamp="1472885263116">
         <mark key="'" line="4757" column="0" />
@@ -146,6 +149,7 @@
         <mark key="." line="55" column="33" />
         <mark key="^" line="55" column="33" />
       </file>
+      <file name="/workspace/ue/SHS.Web/Trim-Punctuations/features" timestamp="1472902269904" />
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_transitions.scss" timestamp="1470989636577">
         <mark key="[" line="6" column="43" />
         <mark key="]" line="6" column="42" />
@@ -293,12 +297,6 @@
         <mark key="]" line="147" column="84" />
         <mark key="^" line="147" column="84" />
         <mark key="." line="147" column="84" />
-      </file>
-      <file name="/workspace/website/mhome/www/views/support/details/xb/xb.scss" timestamp="1472717434541">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
       </file>
       <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472721851431">
         <mark key="'" line="10" column="0" />
@@ -607,12 +605,6 @@
         <mark key="]" line="44" column="15" />
         <mark key="^" line="44" column="15" />
         <mark key="." line="44" column="15" />
-      </file>
-      <file name="/workspace/website/mhome/www/views/support/support-list/details/xb/xb.html" timestamp="1472624637923">
-        <mark key="'" line="380" column="14" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="381" column="14" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/services/memory.js" timestamp="1470713590267">
         <mark key="[" line="12" column="28" />
@@ -1042,11 +1034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="19" filename="/workspace/website/mhome/www/views/support/list/list.html" />
-      <jump line="157" column="49" filename="/workspace/website/mhome/www/views/support/details/xxb/xxb.html" />
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/support/details/xxb/xxb.html" />
-      <jump line="45" column="0" filename="/workspace/website/mhome/www/views/support/list/list.html" />
-      <jump line="62" column="100" filename="/workspace/website/mhome/www/views/support/list/list.html" />
       <jump line="37" column="0" filename="/workspace/website/mhome/www/views/support/details/xb/xb.html" />
       <jump line="140" column="0" filename="/workspace/website/mhome/www/views/support/details/xb/xb.html" />
       <jump line="319" column="12" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
@@ -1142,6 +1129,11 @@
       <jump line="74" column="0" filename="/workspace/ue/SHS.Web/Trim-Punctuations/generate.js" />
       <jump line="92" column="0" filename="/workspace/ue/SHS.Web/Trim-Punctuations/out.js" />
       <jump line="80" column="0" filename="/workspace/ue/SHS.Web/Trim-Punctuations/out.js" />
+      <jump line="1931" column="15" filename="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" />
+      <jump line="44644" column="17" filename="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" />
+      <jump line="163" column="14" filename="/workspace/ue/SHS.Web/FontsData/Map/UTF32.CN" />
+      <jump line="26" column="26" filename="/workspace/ue/SHS.Web/FontsData/Light/CN/features" />
+      <jump line="0" column="0" filename="/workspace/ue/SHS.Web/FontsData/Light/CN/features" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
