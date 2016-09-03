@@ -205,11 +205,11 @@
         <mark key="^" line="189" column="22" />
         <mark key="." line="189" column="22" />
       </file>
-      <file name="/workspace/font/font-subset/src/utils/int-to-utf32.js" timestamp="1472813935358">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="19" />
-        <mark key="." line="22" column="19" />
-        <mark key="^" line="22" column="19" />
+      <file name="/workspace/font/font-subset/src/utils/int-to-utf32.js" timestamp="1472870659314">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="10" />
+        <mark key="." line="27" column="10" />
+        <mark key="^" line="27" column="10" />
       </file>
       <file name="/workspace/website/mhome/www/css/iconfont.css" timestamp="1471588934614">
         <mark key="[" line="12" column="0" />
@@ -233,6 +233,7 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="12" />
       </file>
+      <file name="/workspace/ue/SHS.Web/JavaScript/Map.CN.js" timestamp="1472870840670" />
       <file name="/workspace/website/mhome/www/views/support/support-list/details/xxb/xxb.html" timestamp="1472624639621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="381" column="14" />
@@ -311,7 +312,9 @@
         <mark key="^" line="43" column="5" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/workspace/font/font-subset/src/source-han-sans/map/utf32.cn" timestamp="1472866296249" />
+      <file name="/workspace/font/font-subset/src/source-han-sans/map/utf32.cn" timestamp="1472869921907">
+        <mark key="'" line="374" column="9" />
+      </file>
       <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1472545509613">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="60" column="0" />
@@ -401,10 +404,12 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
-      <file name="/workspace/font/font-subset/src/generate-cid.js" timestamp="1472866261437">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="/workspace/font/font-subset/src/generate-cid.js" timestamp="1472870774220">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="53" column="33" />
+        <mark key="]" line="53" column="33" />
+        <mark key="." line="53" column="33" />
+        <mark key="^" line="53" column="33" />
       </file>
       <file name="/workspace/website/gwai/www/views/qa/add/add.html" timestamp="1472092025799">
         <mark key="'" line="1" column="37" />
@@ -988,6 +993,7 @@
         <mark key="^" line="22" column="48" />
         <mark key="." line="22" column="48" />
       </file>
+      <file name="/workspace/ue/SHS.Web/Trim-Punctuations/generate.js" timestamp="1472870827894" />
       <file name="/workspace/website/gwai/www/views/memory/add/add.html" timestamp="1470625546015">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="1" column="37" />
@@ -1016,12 +1022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="/workspace/website/gwai/www/utils/hapi.js" />
-      <jump line="28" column="37" filename="/workspace/website/gwai/www/utils/hapi.js" />
-      <jump line="0" column="0" filename="/workspace/website/gwai/www/utils/hapi.js" />
-      <jump line="67" column="10" filename="/workspace/website/gwai/www/utils/rest-hapi.js" />
-      <jump line="25" column="117" filename="/workspace/website/gwai/www/utils/rest-hapi.js" />
-      <jump line="0" column="0" filename="/workspace/website/gwai/www/utils/rest-hapi.js" />
       <jump line="29" column="23" filename="/workspace/website/gwai/www/components/text-box/text-box.js" />
       <jump line="32" column="15" filename="/workspace/website/gwai/www/components/text-box/text-box.js" />
       <jump line="25" column="32" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
@@ -1116,58 +1116,64 @@
       <jump line="570" column="23" filename="/workspace/ue/SHS.Web/FontsData/Regular/CN/features" />
       <jump line="0" column="0" filename="/workspace/ue/SHS.Web/FontsData/Regular/CN/features" />
       <jump line="0" column="0" filename="/workspace/ue/SHS.Web/Trim-Punctuations/command" />
+      <jump line="49" column="30" filename="/workspace/font/font-subset/src/generate-cid.js" />
+      <jump line="27" column="0" filename="/workspace/font/font-subset/src/generate-cid.js" />
+      <jump line="25" column="30" filename="/workspace/font/font-subset/src/generate-cid.js" />
+      <jump line="0" column="0" filename="/workspace/font/font-subset/src/generate-cid.js" />
+      <jump line="373" column="14" filename="/workspace/font/font-subset/src/source-han-sans/map/utf32.cn" />
+      <jump line="374" column="9" filename="/workspace/font/font-subset/src/source-han-sans/map/utf32.cn" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>dash</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVuaWNvZGUpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dmFyIHVuaWNvZGVDaWRNYXA7CnZhciBnZW5lcmF0ZVVuaWNvZGVDaWRNYXAgPSBmdW5jdGlvbiAoKSB7CiAgdmFyIHJlZyA9IC9bXjw+XSsvOwogIGZvciAodmFyIGkgPSAwOyBpIDwgY01hcC5sZW5ndGg7IGkrKykgewogICAgdmFyIHJlZ01hdGNoID0gcmVnLmV4ZWMoY01hcFtpXSk7CiAgICB2YXIgdW5pY29kZSA9IHJlZ01hdGNoWzBdOwogICAgdmFyIGNpZCA9IHJlZ01hdGNoWzFdOwoKICAgIHVuaWNvZGVDaWRNYXBbdW5pY29kZV0gPSBjaWQ7CiAgfQp9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVuaWNvZGVDaWRNYXBbdW5pY29kZV0pOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIGZzID0gcmVxdWlyZSgnZnMnKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh1bmljb2RlQ2lkTWFwKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIGNNYXBmaWxlCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh1bmljb2RlQ2lkTWFwKSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dmFyIHVuaWNvZGVDaWRNYXA7CnZhciBnZW5lcmF0ZVVuaWNvZGVDaWRNYXAgPSBmdW5jdGlvbiAoKSB7CiAgdmFyIHJlZyA9IC9bXjw+XSsvOwogIGZvciAodmFyIGkgPSAwOyBpIDwgY01hcC5sZW5ndGg7IGkrKykgewogICAgdmFyIHJlZ01hdGNoID0gcmVnLmV4ZWMoY01hcFtpXSk7CiAgICB2YXIgdW5pY29kZSA9IHJlZ01hdGNoWzBdOwogICAgdmFyIGNpZCA9IHJlZ01hdGNoWzFdOwoKICAgIHVuaWNvZGVDaWRNYXBbdW5pY29kZV0gPSBjaWQ7CiAgfQp9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh1bmljb2RlQ2lkTWFwKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGNNYXAgPSBjTWFwRmlsZS5zcGxpdCgnXG4nKTsKCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlZ01hdGNoKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dmFyIHVuaWNvZGVDaWRNYXA7CnZhciBnZW5lcmF0ZVVuaWNvZGVDaWRNYXAgPSBmdW5jdGlvbiAoKSB7CiAgdmFyIHJlZyA9IC9bXjw+XSsvOwogIGZvciAodmFyIGkgPSAwOyBpIDwgY01hcC5sZW5ndGg7IGkrKykgewogICAgdmFyIHJlZ01hdGNoID0gcmVnLmV4ZWMoY01hcFtpXSk7CiAgICB2YXIgdW5pY29kZSA9IHJlZ01hdGNoWzBdOwogICAgdmFyIGNpZCA9IHJlZ01hdGNoWzFdOwoKICAgIHVuaWNvZGVDaWRNYXBbdW5pY29kZV0gPSBjaWQ7CiAgfQp9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNNYXBbaV0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIHZhciByZWcgPSAvPChcdyspPlxzKyhcZCspL2c7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dash</last-search>
+      <last-search encoding="base64">Pg==</last-search>
       <last-offset />
-      <last-pattern>dash</last-pattern>
+      <last-pattern encoding="base64">Pg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>dash</last-substitute>
       <last-dir>1</last-dir>
@@ -1175,7 +1181,6 @@
     </search>
     <history>
       <history-search>
-        <entry>news</entry>
         <entry>153px</entry>
         <entry>container-xb7</entry>
         <entry>container-xb</entry>
@@ -1195,6 +1200,7 @@
         <entry>question-container-a</entry>
         <entry>question-container</entry>
         <entry>dash</entry>
+        <entry encoding="base64">Pg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+24q</entry>
@@ -1210,12 +1216,12 @@
         <entry>Wq</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>w'</entry>
-        <entry>W</entry>
         <entry>.w</entry>
         <entry>e</entry>
         <entry>wq</entry>
         <entry>qa</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
