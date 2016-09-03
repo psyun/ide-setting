@@ -959,12 +959,11 @@
         <mark key="^" line="81" column="19" />
         <mark key="." line="81" column="19" />
       </file>
-      <file name="/workspace/font/font-subset/src/generate-features.js" timestamp="1472877265413">
-        <mark key="k" line="24" column="55" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="3" />
-        <mark key="^" line="29" column="3" />
-        <mark key="." line="29" column="3" />
+      <file name="/workspace/font/font-subset/src/generate-features.js" timestamp="1472883790685">
+        <mark key="k" line="35" column="55" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/views/qa/help/help.html" timestamp="1472034763064">
         <mark key="'" line="35" column="0" />
@@ -1130,7 +1129,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlYXR1cmVzW2ldKTsK</text>
+        <text encoding="base64">ICAgICAgdmFyIGZsYWcgPSB0cnVlOwo=</text>
       </register>
       <register name="-" type="4">
         <text>);</text>
@@ -1142,34 +1141,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlYXR1cmVzW2ldKTsK</text>
+        <text encoding="base64">ICAgICAgdmFyIGZsYWcgPSB0cnVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFpbigpOwo=</text>
+        <text encoding="base64">ICAgICAgcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIGNpZE1hcCA9IGdlbmVyYXRlQ2lkKGNvbnRlbnQpOwo=</text>
+        <text encoding="base64">ICB2YXIgZmxhZyA9IHRydWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIGNvbnRlbnQgPSAn5Y675ZCD5pma6aWt5LqGJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIAo=</text>
+        <text encoding="base64">ICAgIGlmIChjaWQgPT09IGNpZHMpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGNvbnRlbnQgPSAn5Y675ZCD5pma6aWt5LqGJzsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2VuZXJhdGVDaWQoY29udGVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZ2VuZXJhdGVDaWQoJ0jkvaDlpb3nrKgnKSkpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
