@@ -83,11 +83,11 @@
         <mark key="." line="53" column="19" />
         <mark key="^" line="53" column="19" />
       </file>
-      <file name="/workspace/ue/SHS.Web/Trim-Punctuations/out.js" timestamp="1472887162362">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="17" column="0" />
+      <file name="/workspace/ue/SHS.Web/Trim-Punctuations/out.js" timestamp="1472899504008">
+        <mark key="[" line="56" column="34" />
+        <mark key="]" line="57" column="20" />
+        <mark key="." line="57" column="20" />
+        <mark key="^" line="57" column="20" />
       </file>
       <file name="/workspace/website/mhome/www/services/news.js" timestamp="1472459885987">
         <mark key="'" line="41" column="16" />
@@ -574,7 +574,7 @@
         <mark key="." line="175" column="25" />
         <mark key="^" line="175" column="25" />
       </file>
-      <file name="/workspace/ue/SHS.Web/Trim-Punctuations/info.json" timestamp="1472887020796" />
+      <file name="/workspace/ue/SHS.Web/Trim-Punctuations/info.json" timestamp="1472899418781" />
       <file name="/workspace/website/mhome/www/views/news/news-detail/news-detail.scss" timestamp="1472461802941">
         <mark key="'" line="28" column="16" />
         <mark key="[" line="19" column="23" />
@@ -1008,7 +1008,12 @@
         <mark key="^" line="22" column="48" />
         <mark key="." line="22" column="48" />
       </file>
-      <file name="/workspace/ue/SHS.Web/Trim-Punctuations/generate.js" timestamp="1472887011747" />
+      <file name="/workspace/ue/SHS.Web/Trim-Punctuations/generate.js" timestamp="1472899444118">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="/workspace/website/gwai/www/views/memory/add/add.html" timestamp="1470625546015">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="1" column="37" />
@@ -1037,12 +1042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="25" filename="/workspace/website/gwai/www/components/chinese/chinese.js" />
-      <jump line="4" column="16" filename="/workspace/website/mhome/www/views/support/support-list/details/xxb/xxb.html" />
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/support/support-list/details/xb/xb.html" />
-      <jump line="380" column="14" filename="/workspace/website/mhome/www/views/support/support-list/details/xb/xb.html" />
-      <jump line="4" column="16" filename="/workspace/website/mhome/www/views/support/support.html" />
-      <jump line="15" column="75" filename="/workspace/website/mhome/www/app.js" />
       <jump line="67" column="19" filename="/workspace/website/mhome/www/views/support/list/list.html" />
       <jump line="157" column="49" filename="/workspace/website/mhome/www/views/support/details/xxb/xxb.html" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/views/support/details/xxb/xxb.html" />
@@ -1137,58 +1136,64 @@
       <jump line="61" column="48" filename="/workspace/font/font-subset/src/generate-cid.js" />
       <jump line="32" column="27" filename="/workspace/font/font-subset/src/generate.js" />
       <jump line="4757" column="0" filename="/workspace/font/font-subset/src/source-han-sans/Light/features.CN" />
+      <jump line="28" column="2" filename="/workspace/ue/SHS.Web/Trim-Punctuations/generate.js" />
+      <jump line="0" column="18" filename="/workspace/ue/SHS.Web/Trim-Punctuations/generate.js" />
+      <jump line="43" column="2" filename="/workspace/ue/SHS.Web/Trim-Punctuations/generate.js" />
+      <jump line="74" column="0" filename="/workspace/ue/SHS.Web/Trim-Punctuations/generate.js" />
+      <jump line="92" column="0" filename="/workspace/ue/SHS.Web/Trim-Punctuations/out.js" />
+      <jump line="80" column="0" filename="/workspace/ue/SHS.Web/Trim-Punctuations/out.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhaXJzKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coa2VybnMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhaXJzKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coa2VybnMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhaXJzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJsb2NrLmNvbnRlbnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHB1bmNzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbmVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpcnN0KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYXJzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhnbHlwaDEpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmZWF0dXJlcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhnbHlwaDIpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhrZXJucyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG90aGVycyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wRmVhdHVyZXMuc2xpY2UoaSwgMSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG90aGVycyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RlbGV0ZSB0aGUgbGluZSxpZiBhbnkgY2lkIG5vdCBmb3VuZAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhaXJzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pg==</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pg==</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>dash</last-substitute>
       <last-dir>1</last-dir>
@@ -1196,7 +1201,6 @@
     </search>
     <history>
       <history-search>
-        <entry>153px</entry>
         <entry>container-xb7</entry>
         <entry>container-xb</entry>
         <entry>icon-group</entry>
@@ -1216,6 +1220,7 @@
         <entry>question-container</entry>
         <entry>dash</entry>
         <entry encoding="base64">Pg==</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+24q</entry>
@@ -1234,9 +1239,9 @@
         <entry>.w</entry>
         <entry>e</entry>
         <entry>qa</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
