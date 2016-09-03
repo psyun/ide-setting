@@ -441,11 +441,12 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="25" column="23" />
       </file>
-      <file name="/workspace/font/font-subset/src/generate.js" timestamp="1472812150608">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="25" column="20" />
-        <mark key="." line="25" column="20" />
-        <mark key="^" line="25" column="20" />
+      <file name="/workspace/font/font-subset/src/generate.js" timestamp="1472877087078">
+        <mark key="'" line="32" column="27" />
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="33" column="8" />
+        <mark key="." line="33" column="8" />
+        <mark key="^" line="33" column="8" />
       </file>
       <file name="/workspace/website/gwai/www/views/qa/help/help.js" timestamp="1470794312370">
         <mark key="[" line="8" column="52" />
@@ -958,12 +959,12 @@
         <mark key="^" line="81" column="19" />
         <mark key="." line="81" column="19" />
       </file>
-      <file name="/workspace/font/font-subset/src/generate-features.js" timestamp="1472874484942">
-        <mark key="[" line="25" column="25" />
+      <file name="/workspace/font/font-subset/src/generate-features.js" timestamp="1472877265413">
         <mark key="k" line="24" column="55" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="25" column="34" />
-        <mark key="." line="25" column="34" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
       </file>
       <file name="/workspace/website/gwai/www/views/qa/help/help.html" timestamp="1472034763064">
         <mark key="'" line="35" column="0" />
@@ -1026,7 +1027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="32" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
       <jump line="0" column="0" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
       <jump line="32" column="25" filename="/workspace/website/gwai/www/components/chinese/chinese.js" />
       <jump line="4" column="16" filename="/workspace/website/mhome/www/views/support/support-list/details/xxb/xxb.html" />
@@ -1126,10 +1126,11 @@
       <jump line="374" column="9" filename="/workspace/font/font-subset/src/source-han-sans/map/utf32.cn" />
       <jump line="0" column="0" filename="/workspace/font/font-subset/src/source-han-sans/Light/CN/features.CN" />
       <jump line="61" column="48" filename="/workspace/font/font-subset/src/generate-cid.js" />
+      <jump line="32" column="27" filename="/workspace/font/font-subset/src/generate.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZ2VuZXJhdGVDaWQoJ0jkvaDlpb3nrKgnKSkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlYXR1cmVzW2ldKTsK</text>
       </register>
       <register name="-" type="4">
         <text>);</text>
@@ -1141,34 +1142,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZ2VuZXJhdGVDaWQoJ0jkvaDlpb3nrKgnKSkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlYXR1cmVzW2ldKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">bWFpbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZ2VuZXJhdGVDaWQoJ0jkvaDlpb3nrKgnKSkK</text>
+        <text encoding="base64">dmFyIGNpZE1hcCA9IGdlbmVyYXRlQ2lkKGNvbnRlbnQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVuaWNvZGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVuaWNvZGVDaWRNYXBbdW5pY29kZV0pOwo=</text>
+        <text encoding="base64">dmFyIGNvbnRlbnQgPSAn5Y675ZCD5pma6aWt5LqGJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PScpCg==</text>
+        <text encoding="base64">dmFyIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh1bmljb2RlQ2lkTWFwKSk7Cg==</text>
+        <text encoding="base64">dmFyIGNvbnRlbnQgPSAn5Y675ZCD5pma6aWt5LqGJzsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh1bmljb2RlQ2lkTWFwKSk7Cg==</text>
+        <text encoding="base64">Z2VuZXJhdGVDaWQoY29udGVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh1bmljb2RlQ2lkTWFwKSk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZ2VuZXJhdGVDaWQoJ0jkvaDlpb3nrKgnKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1223,9 +1224,9 @@
         <entry>.w</entry>
         <entry>e</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
