@@ -296,6 +296,12 @@
         <mark key="^" line="147" column="84" />
         <mark key="." line="147" column="84" />
       </file>
+      <file name="/workspace/website/mhome/www/views/support/details/xb/xb.scss" timestamp="1472717434541">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472721851431">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="1" column="0" />
@@ -561,12 +567,11 @@
         <mark key="^" line="134" column="41" />
         <mark key="." line="134" column="41" />
       </file>
-      <file name="/workspace/website/mhome/www/views/about/about.scss" timestamp="1472117893457">
+      <file name="/workspace/website/mhome/www/views/about/about.scss" timestamp="1473067361865">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="174" column="22" />
-        <mark key="]" line="175" column="25" />
-        <mark key="." line="175" column="25" />
-        <mark key="^" line="175" column="25" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="26" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="/workspace/ue/SHS.Web/Trim-Punctuations/info.json" timestamp="1472899418781" />
       <file name="/workspace/website/mhome/www/views/news/news-detail/news-detail.scss" timestamp="1472461802941">
@@ -601,6 +606,12 @@
         <mark key="]" line="44" column="15" />
         <mark key="^" line="44" column="15" />
         <mark key="." line="44" column="15" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/support/support-list/details/xb/xb.html" timestamp="1472624637923">
+        <mark key="'" line="380" column="14" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="381" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/services/memory.js" timestamp="1470713590267">
         <mark key="[" line="12" column="28" />
@@ -723,12 +734,12 @@
       <file name="/workspace/ue/SHS.Web/FontsData/Regular/CN/features" timestamp="1472803539050">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/workspace/website/mhome/www/index.html" timestamp="1473063011522">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+      <file name="/workspace/website/mhome/www/index.html" timestamp="1473066935639">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
         <mark key="^" line="5" column="93" />
-        <mark key="." line="12" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/list/list.scss" timestamp="1470645230793">
         <mark key="[" line="8" column="2" />
@@ -1033,7 +1044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="13" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="216" column="13" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="298" column="15" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="67" column="0" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
@@ -1133,58 +1143,59 @@
       <jump line="3311" column="1" filename="/workspace/website/mhome/www/lib/ionic/css/ionic.css" />
       <jump line="9812" column="2" filename="/workspace/website/mhome/www/lib/ionic/css/ionic.css" />
       <jump line="28" column="19" filename="/workspace/website/mhome/www/lib/ionic/css/ionic.css" />
+      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/about/about.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHdvcmQtd3JhcDogYnJlYWstd29yZDsK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>break-all</text>
       </register>
       <register name="0" type="4">
         <text>SourceHanSans-CN-Light</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHdvcmQtd3JhcDogYnJlYWstd29yZDsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PHNjcmlwdD4KICAgIHRyeSB7CiAgICAgIFR5cGVraXQubG9hZCh7IGFzeW5jOiB0cnVlIH0pOwogICAgfSBjYXRjaCAoZSkgewogICAgICBjb25zb2xlLmxvZyhlKTsKICAgIH0KICA8L3NjcmlwdD4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1cmwoJy4uL2ZvbnRzL2ZvbnRzLndvZmYnKSBmb3JtYXQoJ3dvZmYnKSwK</text>
+        <text encoding="base64">ICAgIC1tcy13b3JkLXdyYXA6Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzcmM6IHVybCgnLi4vZm9udHMvZm9udHMuc3ZnI05vdG9TYW5zSGFucy1EZW1pTGlnaHQnKQo=</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91c2UudHlwZWtpdC5uZXQvY3djN3N6Zy5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzcmM6IHVybCgnJyk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBmb250ZmEK</text>
+      <register name="6" type="4">
+        <text encoding="base64">PHNjcmlwdD4KICAgIHRyeSB7CiAgICAgIFR5cGVraXQubG9hZCh7IGFzeW5jOiB0cnVlIH0pOwogICAgfSBjYXRjaCAoZSkgewogICAgICBjb25zb2xlLmxvZyhlKTsKICAgIH0KICA8L3NjcmlwdD4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91c2UudHlwZWtpdC5uZXQvY3djN3N6Zy5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICB1cmwoJy4uL2ZvbnRzL2ZvbnRzLndvZmYnKSBmb3JtYXQoJ3dvZmYnKSwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8c2NyaXB0Pgo=</text>
+        <text encoding="base64">ICBzcmM6IHVybCgnLi4vZm9udHMvZm9udHMuc3ZnI05vdG9TYW5zSGFucy1EZW1pTGlnaHQnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICBzcmM6IHVybCgnJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>break-all</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>break-all</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>dash</last-substitute>
       <last-dir>1</last-dir>
@@ -1192,7 +1203,6 @@
     </search>
     <history>
       <history-search>
-        <entry>container-xb7</entry>
         <entry>container-xb</entry>
         <entry>icon-group</entry>
         <entry encoding="base64">XDw+XD4=</entry>
@@ -1212,6 +1222,7 @@
         <entry>dash</entry>
         <entry encoding="base64">Pg==</entry>
         <entry>console.log</entry>
+        <entry>break-all</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+24q</entry>
