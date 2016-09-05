@@ -998,6 +998,13 @@
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
+      <file name="/workspace/website/home/src/js/os.js" timestamp="1473071141774">
+        <mark key="'" line="22" column="50" />
+        <mark key="[" line="22" column="51" />
+        <mark key="]" line="22" column="50" />
+        <mark key="^" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+      </file>
       <file name="/workspace/website/mhome/www/views/views.scss" timestamp="1472624928533">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="32" />
@@ -1044,7 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="13" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="298" column="15" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="67" column="0" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
@@ -1144,6 +1150,7 @@
       <jump line="9812" column="2" filename="/workspace/website/mhome/www/lib/ionic/css/ionic.css" />
       <jump line="28" column="19" filename="/workspace/website/mhome/www/lib/ionic/css/ionic.css" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/views/about/about.scss" />
+      <jump line="22" column="50" filename="/workspace/website/home/src/js/os.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1189,7 +1196,7 @@
         <text encoding="base64">ICBzcmM6IHVybCgnJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1242,9 +1249,9 @@
         <entry>e</entry>
         <entry>qa</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
