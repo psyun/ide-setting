@@ -64,14 +64,17 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
       </file>
+      <file name="/workspace/website/mhome/www/lib/ionic/scss/_scaffolding.scss" timestamp="1473043230905">
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="42" column="28" />
+      </file>
       <file name="/workspace/website/gwai/www/views/memory/guide/guide.js" timestamp="1470794798975">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="12" />
         <mark key="^" line="7" column="27" />
         <mark key="." line="8" column="12" />
-      </file>
-      <file name="/workspace/font/font-subset/src/gen-subset-cid.js" timestamp="1472811812748">
-        <mark key="[" line="19" column="3" />
       </file>
       <file name="/workspace/ue/SHS.Web/FontsData/Light/CN/features" timestamp="1472902241051">
         <mark key="'" line="0" column="0" />
@@ -436,11 +439,6 @@
         <mark key="]" line="28" column="7" />
         <mark key="^" line="28" column="7" />
         <mark key="." line="28" column="7" />
-      </file>
-      <file name="/workspace/ue/SHS.Web/index.js" timestamp="1472814369861">
-        <mark key="]" line="2" column="64" />
-        <mark key="^" line="2" column="64" />
-        <mark key="." line="2" column="64" />
       </file>
       <file name="/workspace/website/gwai/scss/ionic.app.scss" timestamp="1470467653891">
         <mark key="[" line="23" column="23" />
@@ -1028,17 +1026,15 @@
         <mark key="." line="21" column="14" />
         <mark key="^" line="21" column="14" />
       </file>
-      <file name="/workspace/website/mhome/www/lib/ionic/scss/_variables.scss" timestamp="1472114587563">
-        <mark key="'" line="39" column="17" />
-        <mark key="[" line="41" column="39" />
-        <mark key="]" line="41" column="40" />
-        <mark key="^" line="41" column="40" />
-        <mark key="." line="41" column="40" />
+      <file name="/workspace/website/mhome/www/lib/ionic/scss/_variables.scss" timestamp="1473042805162">
+        <mark key="'" line="762" column="0" />
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="55" />
+        <mark key="^" line="24" column="55" />
+        <mark key="." line="24" column="55" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="12" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
-      <jump line="323" column="15" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="306" column="35" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="329" column="33" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="106" column="9" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
@@ -1137,49 +1133,51 @@
       <jump line="0" column="0" filename="/workspace/ue/SHS.Web/FontsData/Light/CN/features" />
       <jump line="31" column="14" filename="/workspace/ue/SHS.Web/result.map" />
       <jump line="0" column="0" filename="/workspace/ue/SHS.Web/result.map" />
+      <jump line="21" column="48" filename="/workspace/website/mhome/www/lib/ionic/scss/_variables.scss" />
+      <jump line="762" column="0" filename="/workspace/website/mhome/www/lib/ionic/scss/_variables.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91c2UudHlwZWtpdC5uZXQvY3djN3N6Zy5qcyI+PC9zY3JpcHQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
       <register name="0" type="4">
-        <text />
+        <text>SourceHanSans</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91c2UudHlwZWtpdC5uZXQvY3djN3N6Zy5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICBmb250ZmEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8c2NyaXB0Pgo=</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91c2UudHlwZWtpdC5uZXQvY3djN3N6Zy5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgVHlwZWtpdC5sb2FkKHsgYXN5bmM6IHRydWUgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsK</text>
+        <text encoding="base64">ICAgICAgVHlwZWtpdC5sb2FkKHsgYXN5bmM6IHRydWUgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coa2VybnMpOwo=</text>
+        <text encoding="base64">ICA8L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
