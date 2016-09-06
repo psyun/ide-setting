@@ -95,6 +95,13 @@
         <mark key="." line="57" column="20" />
         <mark key="^" line="57" column="20" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/routes/index.js" timestamp="1473144577813">
+        <mark key="'" line="44" column="35" />
+        <mark key="[" line="44" column="35" />
+        <mark key="]" line="44" column="38" />
+        <mark key="^" line="44" column="38" />
+        <mark key="." line="44" column="38" />
+      </file>
       <file name="/workspace/website/mhome/www/services/news.js" timestamp="1472459885987">
         <mark key="'" line="41" column="16" />
         <mark key="[" line="40" column="24" />
@@ -152,7 +159,6 @@
         <mark key="." line="55" column="33" />
         <mark key="^" line="55" column="33" />
       </file>
-      <file name="/workspace/ue/SHS.Web/Trim-Punctuations/features" timestamp="1472902269904" />
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_transitions.scss" timestamp="1470989636577">
         <mark key="[" line="6" column="43" />
         <mark key="]" line="6" column="42" />
@@ -249,14 +255,12 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="12" />
       </file>
-      <file name="/workspace/ue/SHS.Web/JavaScript/Map.CN.js" timestamp="1472870840670" />
       <file name="/workspace/website/mhome/www/views/support/support-list/details/xxb/xxb.html" timestamp="1472624639621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="381" column="14" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/workspace/ue/SHS.Web/JavaScript/MapIO.js" timestamp="1472810573017" />
       <file name="/workspace/website/mhome/www/views/news/list/list.js" timestamp="1472465540046">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="34" column="29" />
@@ -573,7 +577,6 @@
         <mark key="]" line="175" column="26" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="/workspace/ue/SHS.Web/Trim-Punctuations/info.json" timestamp="1472899418781" />
       <file name="/workspace/website/mhome/www/views/news/news-detail/news-detail.scss" timestamp="1472461802941">
         <mark key="'" line="28" column="16" />
         <mark key="[" line="19" column="23" />
@@ -794,6 +797,12 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/entries/index.js" timestamp="1473144022435">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_scaffolding.scss" timestamp="1470989526522">
         <mark key="[" line="313" column="20" />
         <mark key="]" line="313" column="20" />
@@ -802,6 +811,13 @@
       </file>
       <file name="/workspace/ue/SHS.Web/result.map" timestamp="1472905848063">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/login.js" timestamp="1473143667319">
+        <mark key="'" line="37" column="22" />
+        <mark key="[" line="35" column="1" />
+        <mark key="]" line="37" column="22" />
+        <mark key="^" line="37" column="22" />
+        <mark key="." line="37" column="22" />
       </file>
       <file name="/workspace/website/mhome/www/components/swiper/swiper.js" timestamp="1472203193891">
         <mark key="'" line="55" column="31" />
@@ -1051,9 +1067,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="15" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
-      <jump line="67" column="0" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="58" column="21" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="104" column="15" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
       <jump line="177" column="17" filename="/workspace/website/mhome/www/views/support/details/xb/xb.scss" />
@@ -1151,13 +1164,16 @@
       <jump line="28" column="19" filename="/workspace/website/mhome/www/lib/ionic/css/ionic.css" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/views/about/about.scss" />
       <jump line="22" column="50" filename="/workspace/website/home/src/js/os.js" />
+      <jump line="21" column="12" filename="/workspace/website/gowild-manage-system/src/containers/login.js" />
+      <jump line="37" column="22" filename="/workspace/website/gowild-manage-system/src/containers/login.js" />
+      <jump line="44" column="35" filename="/workspace/website/gowild-manage-system/src/routes/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdvcmQtd3JhcDogYnJlYWstd29yZDsK</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>break-all</text>
@@ -1166,37 +1182,40 @@
         <text>SourceHanSans-CN-Light</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdvcmQtd3JhcDogYnJlYWstd29yZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC1tcy13b3JkLXdyYXA6Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91c2UudHlwZWtpdC5uZXQvY3djN3N6Zy5qcyI+PC9zY3JpcHQ+Cg==</text>
+      <register name="4" type="4">
+        <text>import {
+  Menu,
+  Icon
+} from 'antd';</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PHNjcmlwdD4KICAgIHRyeSB7CiAgICAgIFR5cGVraXQubG9hZCh7IGFzeW5jOiB0cnVlIH0pOwogICAgfSBjYXRjaCAoZSkgewogICAgICBjb25zb2xlLmxvZyhlKTsKICAgIH0KICA8L3NjcmlwdD4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgU3ViTWVudSA9IE1lbnUuU3ViTWVudTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1cmwoJy4uL2ZvbnRzL2ZvbnRzLndvZmYnKSBmb3JtYXQoJ3dvZmYnKSwK</text>
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAnLi4vY29udGFpbmVycy9ob21lJzsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzcmM6IHVybCgnLi4vZm9udHMvZm9udHMuc3ZnI05vdG9TYW5zSGFucy1EZW1pTGlnaHQnKQo=</text>
+        <text encoding="base64">ICAgIHdvcmQtd3JhcDogYnJlYWstd29yZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzcmM6IHVybCgnJyk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1232,8 +1251,6 @@
         <entry>break-all</entry>
       </history-search>
       <history-cmd>
-        <entry>.,.+24q</entry>
-        <entry>&quot;w</entry>
         <entry>qall</entry>
         <entry>we</entry>
         <entry>all</entry>
@@ -1248,10 +1265,12 @@
         <entry>.w</entry>
         <entry>e</entry>
         <entry>qa</entry>
-        <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>tabprevious</entry>
+        <entry>tabnext</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
