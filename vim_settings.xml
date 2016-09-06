@@ -808,12 +808,11 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/services/auth.js" timestamp="1473149008539">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="52" />
-        <mark key="." line="30" column="52" />
-        <mark key="^" line="30" column="52" />
+      <file name="/workspace/website/gowild-manage-system/src/services/auth.js" timestamp="1473149932421">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
       </file>
       <file name="/workspace/website/gwai/www/scss/components/option-panel.scss" timestamp="1470640054918">
         <mark key="[" line="5" column="9" />
@@ -1200,7 +1199,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbG9jYWxTdG9yYWdlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>+</text>
@@ -1212,34 +1211,34 @@
         <text>SourceHanSans-CN-Light</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbG9jYWxTdG9yYWdlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvb2tpZSA9IGRvY3VtZW50LmNvb2tpZTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlZyA9IG5ldyBSZWdFeHAoYCR7a2V5fT0oXHcpYCk7Cg==</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmNvb2tpZSA9IGAke2tleX09JHtlc2NhcGUodmFsdWUpfTtleHBpcmVzPSR7ZXhwaXJlRGF0ZS50b0dNVFN0cmluZygpfWA7Cg==</text>
+        <text encoding="base64">ICAgfSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV4cGlyZURhdGUgPSBub3cuc2V0VGltZShub3cuZ2V0VGltZSgpICsgZXhwaXJlcyAqIDYwICogMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgcmV0dXJuewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
+        <text encoding="base64">dmFyIGF1dGggPSBuZXcgQXV0aCgpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wbwo=</text>
+        <text encoding="base64">aWYoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
