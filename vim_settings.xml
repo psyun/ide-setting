@@ -716,6 +716,12 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/node_modules/http-proxy/lib/http-proxy/passes/web-outgoing.js" timestamp="1473218227571">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="69" column="26" />
+        <mark key="^" line="69" column="26" />
+        <mark key="." line="69" column="26" />
+      </file>
       <file name="/workspace/website/gwai/www/views/memory/list/list.html" timestamp="1470794750586">
         <mark key="'" line="28" column="48" />
         <mark key="[" line="0" column="61" />
@@ -1012,12 +1018,12 @@
         <mark key="^" line="367" column="19" />
         <mark key="." line="367" column="19" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1473169066620">
+      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1473218825625">
         <mark key="'" line="47" column="3" />
-        <mark key="[" line="55" column="28" />
-        <mark key="]" line="55" column="27" />
-        <mark key="." line="55" column="27" />
-        <mark key="^" line="55" column="27" />
+        <mark key="[" line="51" column="42" />
+        <mark key="]" line="54" column="19" />
+        <mark key="." line="54" column="19" />
+        <mark key="^" line="54" column="19" />
       </file>
       <file name="/workspace/website/gwai/www/scss/util.scss" timestamp="1470641483103">
         <mark key="'" line="2" column="0" />
@@ -1216,10 +1222,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>http://172.19.1.166</text>
+        <text>t'</text>
       </register>
       <register name="/" type="4">
         <text>break-all</text>
@@ -1228,34 +1234,34 @@
         <text>e path</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHByb3h5UmVxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdvaycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXRoUmV3cml0ZTogeyAnXi9hcGknOiAnJyB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvblByb3h5UmVxOiBmdW5jdGlvbiAocHJveHlSZXEsIHJlcSwgcmVzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHByb3h5UmVxKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWN1cmU6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdvaycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICBoaXN0b3J5QXBpRmFsbGJhY2s6IHRydWUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWN1cmU6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBieXBhc3M6IGZ1bmN0aW9uIChyZXEsIHJlcywgcHJveHlPcHRpb25zKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXQ6ICdodHRwOi8vMTcyLjE5LjEuMTY2JywK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1307,13 +1313,13 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>:w</entry>
         <entry>wa</entry>
-        <entry>W</entry>
         <entry>.w</entry>
         <entry>q</entry>
         <entry>w'</entry>
         <entry>wq</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
