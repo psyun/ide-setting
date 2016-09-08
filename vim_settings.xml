@@ -166,6 +166,12 @@
         <mark key="." line="55" column="33" />
         <mark key="^" line="55" column="33" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/node_modules/react-qiniu/index.js" timestamp="1473321715415">
+        <mark key="[" line="31" column="51" />
+        <mark key="]" line="31" column="51" />
+        <mark key="^" line="31" column="51" />
+        <mark key="." line="31" column="51" />
+      </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_transitions.scss" timestamp="1470989636577">
         <mark key="[" line="6" column="43" />
         <mark key="]" line="6" column="42" />
@@ -278,11 +284,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1473319952062">
-        <mark key="'" line="28" column="13" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1473322581745">
+        <mark key="'" line="67" column="32" />
+        <mark key="[" line="45" column="9" />
+        <mark key="]" line="47" column="64" />
+        <mark key="." line="47" column="64" />
+        <mark key="^" line="47" column="64" />
       </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.js" timestamp="1472465540046">
         <mark key="[" line="34" column="30" />
@@ -344,11 +351,11 @@
         <mark key="^" line="43" column="5" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/config.js" timestamp="1473316574464">
+      <file name="/workspace/website/gowild-manage-system/src/config.js" timestamp="1473321627488">
         <mark key="[" line="22" column="47" />
-        <mark key="]" line="22" column="47" />
-        <mark key="^" line="22" column="47" />
-        <mark key="." line="22" column="47" />
+        <mark key="]" line="22" column="44" />
+        <mark key="^" line="22" column="44" />
+        <mark key="." line="22" column="44" />
       </file>
       <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1472545509613">
         <mark key="'" line="0" column="0" />
@@ -1147,10 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="19" filename="/workspace/website/mhome/www/lib/ionic/css/ionic.css" />
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/about/about.scss" />
-      <jump line="22" column="50" filename="/workspace/website/home/src/js/os.js" />
-      <jump line="21" column="12" filename="/workspace/website/gowild-manage-system/src/containers/login.js" />
       <jump line="37" column="22" filename="/workspace/website/gowild-manage-system/src/containers/login.js" />
       <jump line="44" column="35" filename="/workspace/website/gowild-manage-system/src/routes/index.js" />
       <jump line="22" column="15" filename="/workspace/website/gowild-manage-system/src/utils/localStorage.js" />
@@ -1247,13 +1250,17 @@
       <jump line="98" column="0" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
       <jump line="26" column="0" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
       <jump line="28" column="13" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
+      <jump line="58" column="14" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
+      <jump line="32" column="31" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
+      <jump line="48" column="0" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
+      <jump line="65" column="32" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>reults</text>
@@ -1269,9 +1276,33 @@
       });</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgPFFpbml1IHNpemU9ezE1MH0gdG9rZW49e3RoaXMuc3RhdGUudXB0b2tlbn0gdXBsb2FkS2V5fQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPC9VcGxvYWQ+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8L0J1dHRvbj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxJY29uIHR5cGU9InVwbG9hZCIvPueCueWHu+S4iuS8oAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIHR5cGU9Imdob3N0Ij4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVVcGxvYWRDaGFuZ2V9Pgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPFVwbG9hZCBiZWZvcmVVcGxvYWQ9e3RoaXMuaGFuZGxlQmVmb3JlVXBsb2FkfSBuYW1lPSJmaWxlIiBhY3Rpb249e1FJTklVX1NFUlZFUl9ST09UfQo=</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>handleBeforeUpload(file) {
     return httpFetch(REST_SERVER_ROOT + '/file/uploadToken', {
       method: 'post',
@@ -1283,42 +1314,6 @@
         return true;
       });
   }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgfSkgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICB1cHRva2VuOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgdGhpcy5zZXRTdGF0ZSh7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudXB0b2tlbik7Cg==</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>'/resource/**': {
-        target: {
-          host: 'resource.gowild.cn',
-          protocol: 'http',
-          port: 80
-        },
-        secure: false,
-        pathRewrite: function (path, req) {
-          var replacePath = path.replace(/^\/resource/, '');
-
-          return replacePath;
-        }
-      },</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
