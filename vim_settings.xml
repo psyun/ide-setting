@@ -17,12 +17,12 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" timestamp="1473316587855">
+      <file name="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" timestamp="1473334436712">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="83" column="16" />
-        <mark key="]" line="83" column="23" />
-        <mark key="." line="83" column="23" />
-        <mark key="^" line="83" column="23" />
+        <mark key="[" line="83" column="36" />
+        <mark key="]" line="83" column="50" />
+        <mark key="." line="83" column="50" />
+        <mark key="^" line="83" column="50" />
       </file>
       <file name="/workspace/website/mhome/www/components/accordion/accordion.scss" timestamp="1472717465729">
         <mark key="'" line="3" column="1" />
@@ -284,12 +284,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1473332311474">
-        <mark key="'" line="55" column="6" />
-        <mark key="[" line="79" column="14" />
-        <mark key="]" line="79" column="13" />
-        <mark key="." line="79" column="13" />
-        <mark key="^" line="79" column="13" />
+      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1473335171112">
+        <mark key="'" line="56" column="6" />
+        <mark key="[" line="85" column="21" />
+        <mark key="]" line="85" column="35" />
+        <mark key="^" line="85" column="35" />
+        <mark key="." line="85" column="35" />
       </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.js" timestamp="1472465540046">
         <mark key="[" line="34" column="30" />
@@ -1257,10 +1257,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV4ZGRkKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnN0YXRlLmRhdGEua2V5Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>reults</text>
@@ -1276,36 +1276,34 @@
       });</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV4ZGRkKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnN0YXRlLmRhdGEua2V5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV4dFswXSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudXB0b2tlbik7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChlIGluc3RhbmNlb2YgQXJyYXkpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBfc2VsZiA9IHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2Ugewo=</text>
       </register>
-      <register name="9" type="4">
-        <text>const reg = /.(\w+)$/;
-    let ext = filename.match(reg);
-    console.log(ext);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
