@@ -172,11 +172,11 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1473232880018">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="34" />
-        <mark key="." line="27" column="34" />
-        <mark key="^" line="27" column="34" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1473318082421">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
       </file>
       <file name="/workspace/website/gwai/www/components/bubble/bubble.js" timestamp="1470392538862">
         <mark key="[" line="15" column="30" />
@@ -278,12 +278,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1473316791707">
+      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1473318026094">
         <mark key="'" line="28" column="13" />
-        <mark key="[" line="53" column="45" />
-        <mark key="]" line="53" column="50" />
-        <mark key="." line="53" column="50" />
-        <mark key="^" line="53" column="50" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.js" timestamp="1472465540046">
         <mark key="[" line="34" column="30" />
@@ -1251,7 +1250,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudXB0b2tlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1260,15 +1259,53 @@
         <text>reults</text>
       </register>
       <register name="0" type="4">
-        <text>REST_SERVER_ROOT</text>
+        <text>httpFetch(REST_SERVER_ROOT + '/file/uploadToken', {
+      method: 'post',
+    })
+      .then(function (res) {
+        this.setState({
+          uptoken: res,
+        })
+      });</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="4">
+        <text>handleBeforeUpload(file) {
+    return httpFetch(REST_SERVER_ROOT + '/file/uploadToken', {
+      method: 'post',
+    })
+      .then(function (res) {
+        this.setState({
+          uptoken: res,
+        })
+        return true;
+      });
+  }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgfSkgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICB1cHRva2VuOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgdGhpcy5zZXRTdGF0ZSh7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudXB0b2tlbik7Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>'/resource/**': {
         target: {
           host: 'resource.gowild.cn',
@@ -1282,39 +1319,6 @@
           return replacePath;
         }
       },</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>'/resource/**': {
-        target: {
-          host: 'resource.gowild.cn',
-          protocol: 'http',
-          port: 80
-        },
-        secure: false,
-        pathRewrite: function (path, req) {
-          var replacePath = path.replace(/^\/resource/, '');
-
-          return replacePath;
-        }
-      }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcGxhY2VkUGF0aCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Rm9ybUl0ZW0K</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlLnVwdG9rZW4gPSByZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
