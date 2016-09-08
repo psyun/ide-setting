@@ -284,12 +284,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1473331209497">
+      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1473332311474">
         <mark key="'" line="55" column="6" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="78" column="40" />
+        <mark key="[" line="79" column="14" />
+        <mark key="]" line="79" column="13" />
+        <mark key="." line="79" column="13" />
+        <mark key="^" line="79" column="13" />
       </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.js" timestamp="1472465540046">
         <mark key="[" line="34" column="30" />
@@ -1257,10 +1257,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV4dFswXSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV4ZGRkKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>reults</text>
@@ -1276,41 +1276,36 @@
       });</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV4dFswXSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV4ZGRkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV4dFswXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudXB0b2tlbik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBfc2VsZiA9IHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudXB0b2tlbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBfc2VsZiA9IHRoaXM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV4dCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGUpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>const reg = /.(\w+)$/;
     let ext = filename.match(reg);
     console.log(ext);</text>
-      </register>
-      <register name="9" type="4">
-        <text>httpFetch(REST_SERVER_ROOT + '/file/uploadToken', {
-      method: 'post',
-    })
-      .then(function (res) {
-
-      });</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
