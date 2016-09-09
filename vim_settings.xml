@@ -563,11 +563,12 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="50" column="26" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" timestamp="1473343882202">
-        <mark key="[" line="54" column="39" />
-        <mark key="]" line="54" column="34" />
-        <mark key="^" line="54" column="34" />
-        <mark key="." line="54" column="34" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" timestamp="1473392371427">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="70" column="59" />
+        <mark key="]" line="70" column="54" />
+        <mark key="^" line="70" column="54" />
+        <mark key="." line="70" column="54" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/routes/AuthViewRoute.js" timestamp="1473235232072">
         <mark key="'" line="57" column="0" />
@@ -719,6 +720,13 @@
         <mark key="]" line="111" column="63" />
         <mark key="^" line="111" column="63" />
         <mark key="." line="111" column="63" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/date-time-range/index.js" timestamp="1473392567636">
+        <mark key="'" line="47" column="11" />
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="40" column="23" />
+        <mark key="." line="40" column="23" />
+        <mark key="^" line="40" column="23" />
       </file>
       <file name="/workspace/website/gwai/www/views/libraries/dash/libraries.scss" timestamp="1470645251039">
         <mark key="[" line="0" column="0" />
@@ -1175,14 +1183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="3" filename="/workspace/website/gowild-manage-system/webpack.config.js" />
-      <jump line="1" column="32" filename="/workspace/website/gowild-manage-system/src/entries/index.js" />
-      <jump line="27" column="26" filename="/workspace/website/gowild-manage-system/src/containers/login.js" />
-      <jump line="29" column="30" filename="/workspace/website/gowild-manage-system/src/containers/login.js" />
-      <jump line="45" column="20" filename="/workspace/website/gowild-manage-system/src/containers/login.js" />
-      <jump line="41" column="64" filename="/workspace/website/gowild-manage-system/src/containers/login/index.js" />
-      <jump line="84" column="32" filename="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" />
-      <jump line="26" column="36" filename="/workspace/website/gowild-manage-system/src/services/auth-service.js" />
       <jump line="47" column="0" filename="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" />
       <jump line="87" column="38" filename="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" />
       <jump line="65" column="1" filename="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" />
@@ -1275,10 +1275,18 @@
       <jump line="38" column="0" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="36" column="0" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="59" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
+      <jump line="60" column="13" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
+      <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
+      <jump line="111" column="55" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
+      <jump line="71" column="10" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
+      <jump line="27" column="6" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
+      <jump line="115" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
+      <jump line="40" column="11" filename="/workspace/website/gowild-manage-system/src/components/date-time-range/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGV0aW1lKTsK</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -1287,37 +1295,37 @@
         <text>reults</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjUiIGNvbXBvbmVudD17U2tpbGx9PuaKgOiDveWMheeuoeeQhjwvTWVudS5JdGVtPgogICAgICAgICAgPC9TdWJNZW51Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0YXJ0UHJvcHMgPSB0aGlzLnByb3BzLmdldEZpZWxkc1Byb3BzKHRoaXMucHJvcHMuc3RhcnROYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGV0aW1lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbmRlcjogZW5kPT5gJHtlbmR9YCwK</text>
+        <text encoding="base64">ICAgICAgICA8L0Zvcm1JdGVtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpZWxkczogJ2VuZCcsCg==</text>
+        <text encoding="base64">ICAgICAgPC9Gb3JtSXRlbT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRpdGxlOiAn57uT5p2f5pe26Ze0JywK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxRaW5pdVVwbG9hZGVyIG5hbWU9InVybCIgZ2V0RmllbGRzUHJvcHM9e2dldEZpZWxkc1Byb3BzfS8+Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjEyIj7pgInpobkxMjwvTWVudS5JdGVtPgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">PEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i57G75Z6LIgogICAgICAgICAgbGFiZWxDb2w9e3sgc3BhbjogNiB9fQogICAgICAgICAgd3JhcHBlckNvbD17eyBzcGFuOiAxOCB9fQogICAgICAgID4KICAgICAgICAgIDxTZWxlY3QgdXJsPSIvYWxhcm0vbGlzdFR5cGUiIHZhbHVlRmllbGQ9InR5cGVDb2RlIiB0ZXh0RmllbGQ9InR5cGVOYW1lIgogICAgICAgICAgICAgICAgICBnZXRGaWVsZHNQcm9wcz17Z2V0RmllbGRzUHJvcHN9IG5hbWU9InR5cGUiLz4KICAgICAgICA8L0Zvcm1JdGVtPgogICAgICAgIDxGb3JtSXRlbQogICAgICAgICAgbGFiZWw9IuatjOabsuS4iuS8oCIKICAgICAgICAgIGxhYmVsQ29sPXt7IHNwYW46IDYgfX0KICAgICAgICAgIHdyYXBwZXJDb2w9e3sgc3BhbjogMTggfX0KICAgICAgICA+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjExIj7pgInpobkxMTwvTWVudS5JdGVtPgo=</text>
+        <text encoding="base64">aW1wb3J0IFNlbGVjdCBmcm9tICcuLi8uLi9jb21wb25lbnRzL3NlbGVjdCc7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjEwIj7pgInpobkxMDwvTWVudS5JdGVtPgo=</text>
+        <text encoding="base64">aW1wb3J0IFFpbml1VXBsb2FkZXIgZnJvbSAnLi4vLi4vY29tcG9uZW50cy9xaW5pdS11cGxvYWRlcic7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L0Zvcm1JdGVtPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1370,11 +1378,11 @@
         <entry>r</entry>
         <entry>w'</entry>
         <entry>.w</entry>
-        <entry>wq</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>we</entry>
+        <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
