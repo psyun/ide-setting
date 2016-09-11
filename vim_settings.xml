@@ -51,12 +51,12 @@
         <mark key="^" line="26" column="26" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/workspace/website/gwai/www/views/qa/list/list.js" timestamp="1472556504331">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="44" />
-        <mark key="." line="34" column="43" />
-        <mark key="^" line="34" column="43" />
+      <file name="/workspace/website/gwai/www/views/qa/list/list.js" timestamp="1473589965113">
+        <mark key="'" line="8" column="138" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="35" />
+        <mark key="." line="62" column="35" />
+        <mark key="^" line="62" column="35" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/list/list.js" timestamp="1470641904994">
         <mark key="'" line="66" column="34" />
@@ -1211,8 +1211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="13" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
-      <jump line="87" column="76" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
       <jump line="101" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
       <jump line="80" column="6" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
       <jump line="102" column="7" filename="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" />
@@ -1311,6 +1309,8 @@
       <jump line="9" column="26" filename="/workspace/website/gwai/www/views/qa/add/add.html" />
       <jump line="34" column="0" filename="/workspace/website/gwai/www/views/qa/add/add.html" />
       <jump line="21" column="0" filename="/workspace/website/gwai/www/views/qa/list/list.html" />
+      <jump line="76" column="0" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
+      <jump line="8" column="138" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
