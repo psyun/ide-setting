@@ -532,9 +532,9 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="/workspace/website/gwai/www/views/qa/list/list.html" timestamp="1473582873754">
+      <file name="/workspace/website/gwai/www/views/qa/list/list.html" timestamp="1473590640159">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="0" column="41" />
+        <mark key="[" line="25" column="55" />
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
@@ -769,6 +769,9 @@
         <mark key="]" line="63" column="52" />
         <mark key="." line="63" column="52" />
         <mark key="^" line="63" column="52" />
+      </file>
+      <file name="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" timestamp="1473590718987">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.html" timestamp="1472609957836">
         <mark key="'" line="19" column="11" />
@@ -1211,7 +1214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
       <jump line="80" column="6" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
       <jump line="102" column="7" filename="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" />
       <jump line="89" column="66" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
@@ -1311,6 +1313,7 @@
       <jump line="21" column="0" filename="/workspace/website/gwai/www/views/qa/list/list.html" />
       <jump line="76" column="0" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
       <jump line="8" column="138" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
+      <jump line="0" column="0" filename="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1320,7 +1323,7 @@
         <text encoding="base64">IHVpLXNyZWY9InFhLmhlbHAi</text>
       </register>
       <register name="/" type="4">
-        <text>REST</text>
+        <text>dark</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgIDxTdWJNZW51IGtleT0ic3ViNyIgdGl0bGU9ezxzcGFuPjxJY29uIHR5cGU9InNldHRpbmciIC8+PHNwYW4+5py65Zmo5pel5b+XPC9zcGFuPjwvc3Bhbj59PgogICAgICAgICAgICA8TWVudS5JdGVtIGtleT0iOSIgY29tcG9uZW50PXtSb2JvdExvZ30+5py65Zmo5pel5b+XPC9NZW51Lkl0ZW0+CiAgICAgICAgICA8L1N1Yk1lbnU+</text>
@@ -1356,13 +1359,13 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>REST</last-search>
+      <last-search>dark</last-search>
       <last-offset />
-      <last-pattern>REST</last-pattern>
+      <last-pattern>dark</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>getFieldProps</last-substitute>
       <last-dir>1</last-dir>
@@ -1370,8 +1373,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.ser-container .ser-section .sec-box .question-list .accordion h5</entry>
-        <entry>h5</entry>
         <entry>question-juan</entry>
         <entry>.question-rongqi</entry>
         <entry>.question-content</entry>
@@ -1390,6 +1391,8 @@
         <entry>getFieldProps</entry>
         <entry>QINIU</entry>
         <entry>REST</entry>
+        <entry>gray</entry>
+        <entry>dark</entry>
       </history-search>
       <history-cmd>
         <entry>q:q</entry>
@@ -1409,9 +1412,9 @@
         <entry>we</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
