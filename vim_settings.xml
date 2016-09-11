@@ -371,12 +371,12 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1472545509613">
+      <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1473584961967">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="61" column="28" />
-        <mark key="." line="61" column="28" />
-        <mark key="^" line="61" column="28" />
+        <mark key="[" line="63" column="15" />
+        <mark key="]" line="63" column="15" />
+        <mark key="." line="63" column="15" />
+        <mark key="^" line="63" column="15" />
       </file>
       <file name="/workspace/website/mhome/www/components/accordion/accordion.js" timestamp="1472639850351">
         <mark key="[" line="14" column="21" />
@@ -475,7 +475,7 @@
         <mark key="." line="0" column="58" />
         <mark key="^" line="0" column="58" />
       </file>
-      <file name="/workspace/website/gwai/www/views/libraries/dash/dash.js" timestamp="1473583366317">
+      <file name="/workspace/website/gwai/www/views/libraries/dash/dash.js" timestamp="1473584857667">
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="96" />
         <mark key="." line="27" column="96" />
@@ -1138,11 +1138,11 @@
         <mark key="^" line="81" column="19" />
         <mark key="." line="81" column="19" />
       </file>
-      <file name="/workspace/website/gwai/www/views/qa/add/add.js" timestamp="1473578182821">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="25" column="28" />
-        <mark key="." line="25" column="28" />
-        <mark key="^" line="25" column="28" />
+      <file name="/workspace/website/gwai/www/views/qa/add/add.js" timestamp="1473584643750">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="/workspace/website/gwai/www/views/qa/help/help.html" timestamp="1472034763064">
         <mark key="'" line="35" column="0" />
@@ -1151,12 +1151,12 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="/workspace/website/gwai/www/utils/hapi.js" timestamp="1472545415589">
+      <file name="/workspace/website/gwai/www/utils/hapi.js" timestamp="1473584914875">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="8" />
-        <mark key="]" line="76" column="8" />
-        <mark key="^" line="58" column="28" />
-        <mark key="." line="76" column="8" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="15" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/edit/edit.js" timestamp="1471336509237">
         <mark key="[" line="16" column="33" />
@@ -1314,7 +1314,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkaW9uaWNIaXN0b3J5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHVpLXNyZWY9InFhLmhlbHAi</text>
@@ -1326,34 +1326,34 @@
         <text encoding="base64">ICAgICAgICAgIDxTdWJNZW51IGtleT0ic3ViNyIgdGl0bGU9ezxzcGFuPjxJY29uIHR5cGU9InNldHRpbmciIC8+PHNwYW4+5py65Zmo5pel5b+XPC9zcGFuPjwvc3Bhbj59PgogICAgICAgICAgICA8TWVudS5JdGVtIGtleT0iOSIgY29tcG9uZW50PXtSb2JvdExvZ30+5py65Zmo5pel5b+XPC9NZW51Lkl0ZW0+CiAgICAgICAgICA8L1N1Yk1lbnU+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkaW9uaWNIaXN0b3J5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGltZW91dChmdW5jdGlvbigpewoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZvcm0pOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAkaW9uaWNMb2FkaW5nLmhpZGUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAkaW9uaWNMb2FkaW5nLmhpZGUoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlbXBsYXRlID0gJ+WPquiDvei+k+WFpTItNOS4quS4reaWh+Wtl+espuWTpiEnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaW9uaWNMb2FkaW5nLmhpZGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UoZm9ybS4kZXJyb3IuaXNSZXF1aXJlKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb3JtKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZvcm0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkaW9uaWNIaXN0b3J5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1409,8 +1409,8 @@
         <entry>we</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
