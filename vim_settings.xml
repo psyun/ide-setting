@@ -591,6 +591,13 @@
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
       </file>
+      <file name="$USER_HOME$/Desktop/index.php" timestamp="1473674764424">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+        <mark key="^" line="34" column="26" />
+      </file>
       <file name="/workspace/website/gowild-xb-webpage/package.json" timestamp="1470218596893">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="13" />
@@ -1210,8 +1217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="30" filename="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" />
-      <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/search-form/index.js" />
       <jump line="110" column="49" filename="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" />
       <jump line="119" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" />
       <jump line="53" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" />
@@ -1310,72 +1315,60 @@
       <jump line="32" column="5" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
       <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
       <jump line="154" column="47" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
+      <jump line="28" column="21" filename="$USER_HOME$/Desktop/index.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>dark</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>if (form.$invalid) {
-          var template = '';
-          if (form.$error.required) {
-            template = '请完善输入';
-          }
-          else {
-            template = '请检查输入';
-          }
-
-          $ionicLoading.show({
-            template: template,
-            duration: 1400,
-            noBackdrop: true,
-          })
-        }</text>
+        <text>'http://m.gowild.cn/download/'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">CQkgICAgJAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpZWxkczonJywK</text>
+        <text encoding="base64">CQllbHNlewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y29uc3QgcmVuZGVyQ29sQ29udGVudCA9IChjb2x1bW4sIGNvbERhdGEpPT4gewogICAgICAgICAgaWYgKGNvbHVtbi5jb21tb25kcykgewogICAgICAgICAgICByZXR1cm4gdGhpcy5yZW5kZXJDb21tb25kcyhjb2x1bW4uY29tbW9uZHMsIGNvbERhdGEpOwogICAgICAgICAgfQogICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBjb2x1bW4ucmVuZGVyKGNvbERhdGEpCiAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Y29uc3QgcmVuZGVyQ29sQ29udGVudCA9IChjb2x1bW4sIGNvbERhdGEpPT4gewogICAgICAgICAgaWYgKGNvbHVtbi5jb21tb25kcykgewogICAgICAgICAgICByZXR1cm4gdGhpcy5yZW5kZXJDb21tb25kcyhjb2x1bW4uY29tbW9uZHMsIGNvbERhdGEpOwogICAgICAgICAgfQogICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBjb2x1bW4ucmVuZGVyKGNvbERhdGEpCiAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZpZWxkczonJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbHVtbi5yZW5kZXIoY29sRGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dark</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern>dark</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>dark</last-substitute>
       <last-dir>1</last-dir>
@@ -1383,7 +1376,6 @@
     </search>
     <history>
       <history-search>
-        <entry>question-juan</entry>
         <entry>.question-rongqi</entry>
         <entry>.question-content</entry>
         <entry>.question-xuhao</entry>
@@ -1403,6 +1395,7 @@
         <entry>REST</entry>
         <entry>gray</entry>
         <entry>dark</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
