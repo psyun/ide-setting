@@ -17,12 +17,12 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" timestamp="1473766032655">
-        <mark key="'" line="63" column="13" />
-        <mark key="[" line="108" column="10" />
-        <mark key="]" line="108" column="81" />
-        <mark key="." line="101" column="29" />
-        <mark key="^" line="77" column="21" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" timestamp="1473771928763">
+        <mark key="'" line="76" column="11" />
+        <mark key="[" line="100" column="82" />
+        <mark key="]" line="100" column="96" />
+        <mark key="." line="100" column="96" />
+        <mark key="^" line="100" column="96" />
       </file>
       <file name="/workspace/website/mhome/www/components/accordion/accordion.scss" timestamp="1472717465729">
         <mark key="'" line="3" column="1" />
@@ -129,12 +129,12 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="45" column="13" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/select/index.js" timestamp="1473770291404">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="129" column="91" />
-        <mark key="]" line="129" column="102" />
-        <mark key="^" line="129" column="102" />
-        <mark key="." line="129" column="102" />
+      <file name="/workspace/website/gowild-manage-system/src/components/select/index.js" timestamp="1473771894264">
+        <mark key="'" line="36" column="31" />
+        <mark key="[" line="129" column="35" />
+        <mark key="]" line="129" column="28" />
+        <mark key="." line="129" column="28" />
+        <mark key="^" line="129" column="28" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/login/login.scss" timestamp="1473166332401">
         <mark key="[" line="12" column="25" />
@@ -166,12 +166,12 @@
         <mark key="^" line="23" column="18" />
         <mark key="." line="23" column="18" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1473770402596">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="82" column="81" />
-        <mark key="]" line="82" column="92" />
-        <mark key="." line="82" column="92" />
-        <mark key="^" line="82" column="92" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1473772327466">
+        <mark key="'" line="77" column="2" />
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+        <mark key="^" line="64" column="26" />
       </file>
       <file name="/workspace/website/gwai/www/app.js" timestamp="1471332306256">
         <mark key="'" line="76" column="27" />
@@ -1249,11 +1249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
-      <jump line="59" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
-      <jump line="60" column="13" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
-      <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
-      <jump line="111" column="55" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
       <jump line="71" column="10" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
       <jump line="27" column="6" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
       <jump line="115" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" />
@@ -1349,58 +1344,63 @@
       <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="112" column="0" filename="/workspace/website/gowild-manage-system/src/components/select/index.js" />
       <jump line="139" column="0" filename="/workspace/website/gowild-manage-system/src/components/select/index.js" />
+      <jump line="36" column="31" filename="/workspace/website/gowild-manage-system/src/components/select/index.js" />
+      <jump line="124" column="0" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
+      <jump line="29" column="37" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
+      <jump line="76" column="11" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
+      <jump line="77" column="2" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm0pOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PE9wdGlvbiBrZXk9e3ZhbHVlfT57dGV4dH08L09wdGlvbj4=</text>
       </register>
       <register name="/" type="4">
-        <text>RobotLog</text>
+        <text>Select</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PFFpbml1VXBsb2FkZXIgbmFtZT0idXJsIiBnZXRGaWVsZHNQcm9wcz17Z2V0RmllbGRQcm9wc30gYWNjZXB0PSIubXAzIi8+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PFFpbml1VXBsb2FkZXIgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlRmllbGRQcm9wcyA9IGdldEZpZWxkUHJvcHModGhpcy5wcm9wcy52YWx1ZUZpZWxkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pfS8+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiAnJwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">cmVuZGVyU2VhcmNoRm9ybUl0ZW1zKGZvcm0pIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXY+CiAgICAgICAgPEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i6L2v5Lu25ZCNIj4KICAgICAgICAgIDxTZWxlY3QgdXJsPSIvdXBncmFkZS9nZXRUeXBlIiBuYW1lPSJ0eXBlSWQiIHRleHRGaWVsZD0iIiB2YWx1ZUZpZWxkPSIiIGZvcm09e2Zvcm19Lz4KICAgICAgICA8L0Zvcm1JdGVtPgogICAgICA8L2Rpdj4KICAgICkKICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxJbnB1dCB0eXBlPSJ0ZXh0YXJlYSIgey4uLmdldEZpZWxkUHJvcHMoJ2Rpc3BsYXlNZXNzYWdlJywgewo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PFFpbml1VXBsb2FkZXIgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0pfS8+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiAnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVuZGVyU2VhcmNoRm9ybUl0ZW1zID0gdGhpcy5yZW5kZXJTZWFyY2hGb3JtSXRlbXMuYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxJbnB1dCB0eXBlPSJ0ZXh0YXJlYSIgey4uLmdldEZpZWxkUHJvcHMoJ2Rpc3BsYXlNZXNzYWdlJywgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>RobotLog</last-search>
+      <last-search>Select</last-search>
       <last-offset />
-      <last-pattern>RobotLog</last-pattern>
+      <last-pattern>Select</last-pattern>
       <last-replace>Feedback</last-replace>
       <last-substitute>RobotLog</last-substitute>
       <last-dir>1</last-dir>
@@ -1408,7 +1408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.question-content</entry>
         <entry>.question-xuhao</entry>
         <entry>xuhao</entry>
         <entry>question-container-a</entry>
@@ -1420,7 +1419,6 @@
         <entry>pageSize</entry>
         <entry>reults</entry>
         <entry>selectOption</entry>
-        <entry>select</entry>
         <entry>getFieldProps</entry>
         <entry>QINIU</entry>
         <entry>REST</entry>
@@ -1428,6 +1426,8 @@
         <entry>dark</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>RobotLog</entry>
+        <entry>select</entry>
+        <entry>Select</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
