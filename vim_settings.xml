@@ -160,12 +160,12 @@
         <mark key="^" line="23" column="18" />
         <mark key="." line="23" column="18" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1473760594168">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="29" />
-        <mark key="]" line="79" column="29" />
-        <mark key="." line="79" column="29" />
-        <mark key="^" line="79" column="29" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1473761559331">
+        <mark key="'" line="98" column="49" />
+        <mark key="[" line="98" column="16" />
+        <mark key="]" line="98" column="30" />
+        <mark key="." line="98" column="30" />
+        <mark key="^" line="98" column="30" />
       </file>
       <file name="/workspace/website/gwai/www/app.js" timestamp="1471332306256">
         <mark key="'" line="76" column="27" />
@@ -1243,8 +1243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="42" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
-      <jump line="46" column="2" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
       <jump line="28" column="17" filename="/workspace/website/gowild-manage-system/src/components/select/index.js" />
       <jump line="27" column="47" filename="/workspace/website/gowild-manage-system/src/components/select/index.js" />
       <jump line="91" column="6" filename="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" />
@@ -1343,19 +1341,21 @@
       <jump line="20" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="37" column="31" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="41" column="24" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
+      <jump line="98" column="49" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>disabled</text>
       </register>
       <register name="-" type="4">
-        <text>renderSearchFormItems={this.renderSearchFormItems}</text>
+        <text>disabled</text>
       </register>
       <register name="/" type="4">
         <text>RobotLog</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxTdWJNZW51IGtleT0ic3ViMjAiIHRpdGxlPXs8c3Bhbj48SWNvbiB0eXBlPSJzZXR0aW5nIiAvPjxzcGFuPueUqOaIt+WPjemmiDwvc3Bhbj48L3NwYW4+fT4KICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjIwIiBjb21wb25lbnQ9e0ZlZWRiYWNrfT7nlKjmiLflj43ppog8L01lbnUuSXRlbT4KICAgICAgICAgIDwvU3ViTWVudT4=</text>
+        <text encoding="base64">PEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i6L2v5Lu25YyF5ZCNIgogICAgICAgICAgbGFiZWxDb2w9e3tzcGFuOjZ9fQogICAgICAgICAgd3JhcHBlckNvbD17e3NwYW46MTh9fQogICAgICAgID4KICAgICAgICAgIDxJbnB1dCB7Li4uZ2V0RmllbGRQcm9wcygnc29mdE5hbWUnLCB7CiAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogJycKICAgICAgICAgIH0pfSBkaXNhYmxlZC8+CiAgICAgICAgPC9Gb3JtSXRlbT4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
