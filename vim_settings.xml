@@ -436,12 +436,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/workspace/website/home/src/css/site.css" timestamp="1473832549756">
-        <mark key="'" line="1665" column="14" />
-        <mark key="[" line="732" column="54" />
-        <mark key="]" line="732" column="58" />
-        <mark key="^" line="732" column="58" />
-        <mark key="." line="732" column="58" />
+      <file name="/workspace/website/home/src/css/site.css" timestamp="1473841627648">
+        <mark key="'" line="1663" column="14" />
+        <mark key="[" line="731" column="50" />
+        <mark key="]" line="731" column="50" />
+        <mark key="." line="731" column="50" />
+        <mark key="^" line="731" column="50" />
       </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.scss" timestamp="1472457770201">
         <mark key="'" line="0" column="0" />
@@ -463,12 +463,12 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="/workspace/website/home/src/index.html" timestamp="1472783105640">
-        <mark key="'" line="283" column="107" />
-        <mark key="[" line="91" column="33" />
-        <mark key="]" line="91" column="43" />
-        <mark key="." line="91" column="43" />
-        <mark key="^" line="91" column="43" />
+      <file name="/workspace/website/home/src/index.html" timestamp="1473841665304">
+        <mark key="'" line="291" column="107" />
+        <mark key="[" line="96" column="49" />
+        <mark key="]" line="96" column="49" />
+        <mark key="." line="96" column="49" />
+        <mark key="^" line="96" column="49" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/localStorage.js" timestamp="1473146637151">
         <mark key="[" line="32" column="3" />
@@ -656,11 +656,12 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="/workspace/website/gwai/www/views/qa/list/list.js" timestamp="1473837210522">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="13" />
-        <mark key="^" line="32" column="13" />
-        <mark key="." line="32" column="13" />
+      <file name="/workspace/website/gwai/www/views/qa/list/list.js" timestamp="1473841393090">
+        <mark key="'" line="34" column="46" />
+        <mark key="[" line="66" column="51" />
+        <mark key="]" line="68" column="28" />
+        <mark key="." line="68" column="28" />
+        <mark key="^" line="68" column="28" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/list/list.js" timestamp="1470641904994">
         <mark key="'" line="66" column="34" />
@@ -850,6 +851,13 @@
         <mark key="]" line="2" column="17" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
+      </file>
+      <file name="/workspace/website/gwai/www/lib/ionic/js/ionic-angular.js" timestamp="1473841363330">
+        <mark key="'" line="3614" column="7" />
+        <mark key="[" line="3689" column="32" />
+        <mark key="]" line="3689" column="31" />
+        <mark key="^" line="3689" column="31" />
+        <mark key="." line="3689" column="31" />
       </file>
       <file name="/workspace/font/font-subset/index.js" timestamp="1472811652772">
         <mark key="[" line="21" column="1" />
@@ -1248,9 +1256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="39" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
-      <jump line="97" column="36" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
-      <jump line="31" column="2" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
       <jump line="98" column="11" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
       <jump line="109" column="58" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
       <jump line="38" column="24" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
@@ -1346,66 +1351,66 @@
       <jump line="93" column="6" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
       <jump line="102" column="0" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
       <jump line="23" column="0" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
-      <jump line="34" column="24" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
       <jump line="16" column="16" filename="/workspace/website/gwai/www/scss/components/checkbox-item.scss" />
+      <jump line="34" column="46" filename="/workspace/website/gwai/www/views/qa/list/list.js" />
+      <jump line="3142" column="2" filename="/workspace/website/gwai/www/lib/ionic/js/ionic-angular.js" />
+      <jump line="3349" column="26" filename="/workspace/website/gwai/www/lib/ionic/js/ionic-angular.js" />
+      <jump line="3614" column="7" filename="/workspace/website/gwai/www/lib/ionic/js/ionic-angular.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PCEtLSAg6YCg54mp6IqCICAtLT4KICAgICAgICA8ZGl2IGNsYXNzPSJzd2lwZXItc2xpZGUgaG9sb2VyYS16aG9uZ3FpdSI+CgogICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>删除内容后，机器人就无法按此回答了哦，确定要删除么？</text>
       </register>
       <register name="/" type="4">
-        <text>Select</text>
+        <text>ok</text>
       </register>
       <register name="0" type="4">
-        <text>.protal-swiper .swiper-slide.holoera-zhongqiu {
-    background: url('../img/index/holoera-zhongqiu.jpg') no-repeat center;
-    background-size: 100% 100%;
-}</text>
+        <text encoding="base64">PCEtLSAg6YCg54mp6IqCICAtLT4KICAgICAgICA8ZGl2IGNsYXNzPSJzd2lwZXItc2xpZGUgaG9sb2VyYS16aG9uZ3FpdSI+CgogICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CkBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDE2NjBweCkgewogICAgLnByb3RhbC1zd2lwZXIgLnN3aXBlci1zbGlkZS5ob2xvZXJhLXpob25ncWl1IHsKICAgICAgICBiYWNrZ3JvdW5kOiB1cmwoJy4uL2ltZy9pbmRleC9ob2xvZXJhLXpob25ncWl1QDE4MjAuanBnJykgbm8tcmVwZWF0IGNlbnRlcjsKICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IDEwMCUgMTAwJTsKICAgIH0KfQ==</text>
       </register>
-      <register name="3" type="4">
-        <text>s$qa.getById($scope.$stateParams.id)
-        .then(function (data) {
-          $scope.qaModel = data;
-        })</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLnFhTGlzdC5sb2FkTW9yZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzY29wZS4kYnJvYWRjYXN0KCdzY3JvbGwuaW5maW5pdGVTY3JvbGxDb21wbGV0ZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUucWFMaXN0Lmhhc01vcmUgPSAkc2NvcGUucWFMaXN0LnBhZ2UuZ2V0Q3VycmVudCgpIDwgcmVzLnRvdGFsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmhhc01vcmUgPSBmYWxzZTsK</text>
+      <register name="7" type="4">
+        <text>s$qa.deleteAll(ids)
+            .then(function (data) {
+              $scope.$state.reload();
+            });</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdvaycpOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Select</last-search>
+      <last-search>ok</last-search>
       <last-offset />
-      <last-pattern>Select</last-pattern>
+      <last-pattern>ok</last-pattern>
       <last-replace>Feedback</last-replace>
       <last-substitute>Select</last-substitute>
       <last-dir>1</last-dir>
@@ -1413,11 +1418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.question-xuhao</entry>
-        <entry>xuhao</entry>
-        <entry>question-container-a</entry>
-        <entry>question-container</entry>
-        <entry>dash</entry>
         <entry encoding="base64">Pg==</entry>
         <entry>console.log</entry>
         <entry>break-all</entry>
@@ -1433,6 +1433,11 @@
         <entry>RobotLog</entry>
         <entry>select</entry>
         <entry>Select</entry>
+        <entry>dele</entry>
+        <entry>popUp</entry>
+        <entry>config</entry>
+        <entry>confirm</entry>
+        <entry>ok</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -1451,10 +1456,10 @@
         <entry>qa</entry>
         <entry>W</entry>
         <entry>w]</entry>
-        <entry>wq</entry>
         <entry>.w</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
