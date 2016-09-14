@@ -51,12 +51,11 @@
         <mark key="^" line="74" column="21" />
         <mark key="." line="74" column="21" />
       </file>
-      <file name="/workspace/website/gwai/www/views/qa/list/list.js" timestamp="1473835933888">
-        <mark key="'" line="39" column="24" />
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
+      <file name="/workspace/website/gwai/www/views/qa/list/list.js" timestamp="1473837210522">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="13" />
+        <mark key="^" line="32" column="13" />
+        <mark key="." line="32" column="13" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/list/list.js" timestamp="1470641904994">
         <mark key="'" line="66" column="34" />
@@ -530,11 +529,11 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
-      <file name="/workspace/website/gwai/www/views/qa/edit/edit.js" timestamp="1473595783130">
-        <mark key="[" line="16" column="42" />
-        <mark key="]" line="16" column="45" />
-        <mark key="^" line="16" column="45" />
-        <mark key="." line="16" column="45" />
+      <file name="/workspace/website/gwai/www/views/qa/edit/edit.js" timestamp="1473836967427">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/css/iconfont1.css" timestamp="1470296199845">
         <mark key="'" line="18" column="0" />
@@ -1345,7 +1344,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmhhc01vcmUgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1360,31 +1359,34 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmhhc01vcmUgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdvaycpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>s$qa.getById($scope.$stateParams.id)
+        .then(function (data) {
+          $scope.qaModel = data;
+        })</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLnFhTGlzdC5sb2FkTW9yZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aW9uLWluZmluaXRlLXNjcm9sbCBuZy1pZj0icWFMaXN0Lmhhc01vcmUiIG9uLWluZmluaXRlPSJxYUxpc3QubG9hZE1vcmUoKTsiPjwvaW9uLWluZmluaXRlLXNjcm9sbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICRzY29wZS4kYnJvYWRjYXN0KCdzY3JvbGwuaW5maW5pdGVTY3JvbGxDb21wbGV0ZScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUucWFMaXN0Lmhhc01vcmUgPSAkc2NvcGUucWFMaXN0LnBhZ2UuZ2V0Q3VycmVudCgpIDwgcmVzLnRvdGFsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpb24taW5maW5pdGUtc2Nyb2xsIG5nLWlmPSJxYUxpc3QuaGFzTW9yZSIgb24taW5maW5pdGU9InFhTGlzdC5sb2FkTW9yZSgpOyI+PC9pb24taW5maW5pdGUtc2Nyb2xsPgo=</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLmhhc01vcmUgPSBmYWxzZTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMucGFnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdvaycpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1435,7 +1437,6 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>.w</entry>
         <entry>wqa</entry>
         <entry>s/RobotLog/Feedback</entry>
         <entry>s/RobotLog/Feedback/g</entry>
@@ -1443,8 +1444,9 @@
         <entry>qa</entry>
         <entry>W</entry>
         <entry>w]</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>.w</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
