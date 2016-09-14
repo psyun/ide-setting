@@ -873,12 +873,12 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="/workspace/website/home/src/css/site.css" timestamp="1473825027621">
-        <mark key="'" line="1658" column="14" />
-        <mark key="[" line="725" column="40" />
-        <mark key="]" line="725" column="44" />
-        <mark key="^" line="725" column="44" />
-        <mark key="." line="725" column="44" />
+      <file name="/workspace/website/home/src/css/site.css" timestamp="1473832549756">
+        <mark key="'" line="1665" column="14" />
+        <mark key="[" line="732" column="54" />
+        <mark key="]" line="732" column="58" />
+        <mark key="^" line="732" column="58" />
+        <mark key="." line="732" column="58" />
       </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.scss" timestamp="1472457770201">
         <mark key="'" line="0" column="0" />
@@ -1351,8 +1351,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.protal-swiper .swiper-slide.hit-holoera {
-    background: url('../img/index/banner-holoera-hit.jpg') no-repeat center;
+        <text>.protal-swiper .swiper-slide.holoera-zhongqiu {
+    background: url('../img/index/holoera-zhongqiu.jpg') no-repeat center;
     background-size: 100% 100%;
 }</text>
       </register>
@@ -1363,8 +1363,8 @@
         <text>Select</text>
       </register>
       <register name="0" type="4">
-        <text>.protal-swiper .swiper-slide.hit-holoera {
-    background: url('../img/index/banner-holoera-hit.jpg') no-repeat center;
+        <text>.protal-swiper .swiper-slide.holoera-zhongqiu {
+    background: url('../img/index/holoera-zhongqiu.jpg') no-repeat center;
     background-size: 100% 100%;
 }</text>
       </register>
