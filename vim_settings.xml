@@ -873,12 +873,12 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="/workspace/website/home/src/css/site.css" timestamp="1472783216458">
-        <mark key="'" line="1653" column="14" />
-        <mark key="[" line="721" column="56" />
-        <mark key="]" line="721" column="55" />
-        <mark key="^" line="721" column="55" />
-        <mark key="." line="721" column="55" />
+      <file name="/workspace/website/home/src/css/site.css" timestamp="1473825027621">
+        <mark key="'" line="1658" column="14" />
+        <mark key="[" line="725" column="40" />
+        <mark key="]" line="725" column="44" />
+        <mark key="^" line="725" column="44" />
+        <mark key="." line="725" column="44" />
       </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.scss" timestamp="1472457770201">
         <mark key="'" line="0" column="0" />
@@ -1350,8 +1350,11 @@
       <jump line="145" column="27" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.protal-swiper .swiper-slide.hit-holoera {
+    background: url('../img/index/banner-holoera-hit.jpg') no-repeat center;
+    background-size: 100% 100%;
+}</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1360,7 +1363,10 @@
         <text>Select</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i5paw54mI5pysIgogICAgICAgICAgbGFiZWxDb2w9e3sgc3BhbjogNiB9fQogICAgICAgICAgd3JhcHBlckNvbD17eyBzcGFuOiAxOCB9fQogICAgICAgID4KICAgICAgICAgIDxJbnB1dCB7Li4uZ2V0RmllbGRQcm9wcygnbmV3VmVyc2lvbicsIHsKICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiAnJywKICAgICAgICAgIH0pfS8+CiAgICAgICAgPC9Gb3JtSXRlbT4=</text>
+        <text>.protal-swiper .swiper-slide.hit-holoera {
+    background: url('../img/index/banner-holoera-hit.jpg') no-repeat center;
+    background-size: 100% 100%;
+}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1393,7 +1399,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w]</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1444,11 +1450,11 @@
         <entry>s/RobotLog/Feedback/g</entry>
         <entry>w'</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>w]</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
