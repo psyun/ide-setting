@@ -82,6 +82,12 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1473843111335">
+        <mark key="[" line="13" column="65" />
+        <mark key="]" line="13" column="64" />
+        <mark key="^" line="13" column="64" />
+        <mark key="." line="13" column="64" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/modal-form/modal-form-type.js" timestamp="1473254417738">
         <mark key="[" line="23" column="8" />
         <mark key="]" line="23" column="18" />
@@ -656,7 +662,7 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="/workspace/website/gwai/www/views/qa/list/list.js" timestamp="1473841393090">
+      <file name="/workspace/website/gwai/www/views/qa/list/list.js" timestamp="1473843098282">
         <mark key="'" line="34" column="46" />
         <mark key="[" line="66" column="51" />
         <mark key="]" line="68" column="28" />
@@ -1180,11 +1186,11 @@
         <mark key="." line="35" column="11" />
         <mark key="^" line="35" column="11" />
       </file>
-      <file name="/workspace/website/gwai/www/views/vocabulary/list/list.scss" timestamp="1470477343671">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="9" column="20" />
-        <mark key="^" line="9" column="20" />
-        <mark key="." line="9" column="20" />
+      <file name="/workspace/website/gwai/www/views/vocabulary/list/list.scss" timestamp="1473844354672">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/help/help.js" timestamp="1470626631357">
         <mark key="[" line="8" column="26" />
@@ -1358,8 +1364,8 @@
       <jump line="3614" column="7" filename="/workspace/website/gwai/www/lib/ionic/js/ionic-angular.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLSAg6YCg54mp6IqCICAtLT4KICAgICAgICA8ZGl2IGNsYXNzPSJzd2lwZXItc2xpZGUgaG9sb2VyYS16aG9uZ3FpdSI+CgogICAgICAgIDwvZGl2Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgLTR2dzsK</text>
       </register>
       <register name="-" type="4">
         <text>删除内容后，机器人就无法按此回答了哦，确定要删除么？</text>
@@ -1368,40 +1374,44 @@
         <text>ok</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PCEtLSAg6YCg54mp6IqCICAtLT4KICAgICAgICA8ZGl2IGNsYXNzPSJzd2lwZXItc2xpZGUgaG9sb2VyYS16aG9uZ3FpdSI+CgogICAgICAgIDwvZGl2Pg==</text>
+        <text>// expend click area
+      padding: 0 4vw;
+      margin: 0 -4vw;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgLTR2dzsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CkBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDE2NjBweCkgewogICAgLnByb3RhbC1zd2lwZXIgLnN3aXBlci1zbGlkZS5ob2xvZXJhLXpob25ncWl1IHsKICAgICAgICBiYWNrZ3JvdW5kOiB1cmwoJy4uL2ltZy9pbmRleC9ob2xvZXJhLXpob25ncWl1QDE4MjAuanBnJykgbm8tcmVwZWF0IGNlbnRlcjsKICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IDEwMCUgMTAwJTsKICAgIH0KfQ==</text>
+        <text>// expend click area
+      padding: 0 4vw;
+      margin: 0 -4vw;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CkBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDE2NjBweCkgewogICAgLnByb3RhbC1zd2lwZXIgLnN3aXBlci1zbGlkZS5ob2xvZXJhLXpob25ncWl1IHsKICAgICAgICBiYWNrZ3JvdW5kOiB1cmwoJy4uL2ltZy9pbmRleC9ob2xvZXJhLXpob25ncWl1QDE4MjAuanBnJykgbm8tcmVwZWF0IGNlbnRlcjsKICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IDEwMCUgMTAwJTsKICAgIH0KfQ==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>s$qa.deleteAll(ids)
-            .then(function (data) {
-              $scope.$state.reload();
-            });</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>s$qa.deleteAll(ids)
+            .then(function (data) {
+              $scope.$state.reload();
+            });</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1457,8 +1467,8 @@
         <entry>W</entry>
         <entry>w]</entry>
         <entry>.w</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
