@@ -642,12 +642,12 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" timestamp="1473771928763">
-        <mark key="'" line="76" column="11" />
-        <mark key="[" line="100" column="82" />
-        <mark key="]" line="100" column="96" />
-        <mark key="." line="100" column="96" />
-        <mark key="^" line="100" column="96" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" timestamp="1473846368683">
+        <mark key="'" line="28" column="7" />
+        <mark key="[" line="108" column="80" />
+        <mark key="]" line="108" column="98" />
+        <mark key="." line="108" column="98" />
+        <mark key="^" line="108" column="98" />
       </file>
       <file name="/workspace/website/mhome/www/components/accordion/accordion.scss" timestamp="1472717465729">
         <mark key="'" line="3" column="1" />
@@ -713,11 +713,12 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="149" column="11" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1473778026839">
-        <mark key="[" line="107" column="20" />
-        <mark key="]" line="107" column="18" />
-        <mark key="." line="107" column="18" />
-        <mark key="^" line="107" column="18" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1473846402898">
+        <mark key="'" line="138" column="46" />
+        <mark key="[" line="191" column="101" />
+        <mark key="]" line="191" column="120" />
+        <mark key="." line="191" column="120" />
+        <mark key="^" line="191" column="120" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/edit/edit.html" timestamp="1470625564901">
         <mark key="[" line="1" column="37" />
@@ -794,12 +795,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1473415089887">
-        <mark key="'" line="38" column="24" />
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="31" column="18" />
-        <mark key="^" line="31" column="18" />
-        <mark key="." line="31" column="18" />
+      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1473846611887">
+        <mark key="'" line="52" column="12" />
+        <mark key="[" line="60" column="28" />
+        <mark key="]" line="61" column="50" />
+        <mark key="." line="61" column="50" />
+        <mark key="^" line="61" column="50" />
       </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.js" timestamp="1472465540046">
         <mark key="[" line="34" column="30" />
@@ -1262,13 +1263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="11" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
-      <jump line="109" column="58" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
-      <jump line="38" column="24" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
-      <jump line="20" column="0" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/index.js" />
-      <jump line="30" column="0" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/index.js" />
-      <jump line="100" column="23" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/index.js" />
-      <jump line="81" column="0" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/index.js" />
       <jump line="40" column="8" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/index.js" />
       <jump line="8" column="88" filename="/workspace/website/gwai/www/views/vocabulary/add/add.html" />
       <jump line="10" column="0" filename="/workspace/website/gwai/www/views/vocabulary/add/add.html" />
@@ -1362,16 +1356,23 @@
       <jump line="3142" column="2" filename="/workspace/website/gwai/www/lib/ionic/js/ionic-angular.js" />
       <jump line="3349" column="26" filename="/workspace/website/gwai/www/lib/ionic/js/ionic-angular.js" />
       <jump line="3614" column="7" filename="/workspace/website/gwai/www/lib/ionic/js/ionic-angular.js" />
+      <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
+      <jump line="97" column="67" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
+      <jump line="52" column="12" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
+      <jump line="93" column="45" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
+      <jump line="108" column="11" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
+      <jump line="28" column="7" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
+      <jump line="138" column="46" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgLTR2dzsK</text>
+        <text encoding="base64">ICAgIHRoaXMucmVmcmVzaFRva2VuKHRoaXMuZ2V0RXh0ZW5zaW9uKGZpbGUubmFtZSkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>删除内容后，机器人就无法按此回答了哦，确定要删除么？</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>ok</text>
+        <text>Qiniu</text>
       </register>
       <register name="0" type="4">
         <text>// expend click area
@@ -1379,48 +1380,53 @@
       margin: 0 -4vw;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgLTR2dzsK</text>
+        <text encoding="base64">ICAgIHRoaXMucmVmcmVzaFRva2VuKHRoaXMuZ2V0RXh0ZW5zaW9uKGZpbGUubmFtZSkpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>// expend click area
-      padding: 0 4vw;
-      margin: 0 -4vw;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIHNlcnZlciByZXNwb25zZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBsb2FkRGF0YTogewogICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CkBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDE2NjBweCkgewogICAgLnByb3RhbC1zd2lwZXIgLnN3aXBlci1zbGlkZS5ob2xvZXJhLXpob25ncWl1IHsKICAgICAgICBiYWNrZ3JvdW5kOiB1cmwoJy4uL2ltZy9pbmRleC9ob2xvZXJhLXpob25ncWl1QDE4MjAuanBnJykgbm8tcmVwZWF0IGNlbnRlcjsKICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IDEwMCUgMTAwJTsKICAgIH0KfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0b2tlbjogcmVzLnRva2VuLAogICAgICAgICAgICAgIGtleTogdGhpcy5maWxlTmFtZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBiYXNlVXJsOnJlcy5iYXNlVXJsLAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgcmVmcmVzaFRva2VuKGV4dGVuc2lvbikgewogICAgbGV0IF9zZWxmID0gdGhpczsKCiAgfQ==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHRoaXMuc2V0U3RhdGUoCiAgICAgIHsKICAgICAgICB1cGxvYWREYXRhOiB7CiAgICAgICAgICB0b2tlbjogdGhpcy51cHRva2VuLAogICAgICAgICAga2V5OiB0aGlzLgogICAgICAgIH0KICAgICAgfSk7</text>
       </register>
       <register name="9" type="4">
-        <text>s$qa.deleteAll(ids)
-            .then(function (data) {
-              $scope.$state.reload();
-            });</text>
+        <text>httpFetch(REST_SERVER_ROOT + '/file/uploadToken', {
+      method: 'post',
+      data: {
+        bucketName: this.props.bucketName,
+        projectName: this.props.projectName,
+        extension
+      }
+    })
+      .then(function (res) {
+        _self.uptoken = res;
+      });</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ok</last-search>
+      <last-search>Qiniu</last-search>
       <last-offset />
-      <last-pattern>ok</last-pattern>
+      <last-pattern>Qiniu</last-pattern>
       <last-replace>Feedback</last-replace>
       <last-substitute>Select</last-substitute>
       <last-dir>1</last-dir>
@@ -1428,8 +1434,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pg==</entry>
-        <entry>console.log</entry>
         <entry>break-all</entry>
         <entry>pageSize</entry>
         <entry>reults</entry>
@@ -1448,6 +1452,8 @@
         <entry>config</entry>
         <entry>confirm</entry>
         <entry>ok</entry>
+        <entry>Qini</entry>
+        <entry>Qiniu</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
