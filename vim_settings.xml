@@ -713,12 +713,12 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="149" column="11" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1473846402898">
+      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1473848567331">
         <mark key="'" line="138" column="46" />
-        <mark key="[" line="191" column="101" />
-        <mark key="]" line="191" column="120" />
-        <mark key="." line="191" column="120" />
-        <mark key="^" line="191" column="120" />
+        <mark key="[" line="149" column="32" />
+        <mark key="]" line="149" column="31" />
+        <mark key="." line="149" column="31" />
+        <mark key="^" line="149" column="31" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/edit/edit.html" timestamp="1470625564901">
         <mark key="[" line="1" column="37" />
@@ -795,12 +795,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1473846611887">
+      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1473848388854">
         <mark key="'" line="52" column="12" />
-        <mark key="[" line="60" column="28" />
-        <mark key="]" line="61" column="50" />
-        <mark key="." line="61" column="50" />
-        <mark key="^" line="61" column="50" />
+        <mark key="[" line="78" column="10" />
+        <mark key="]" line="80" column="19" />
+        <mark key="." line="80" column="19" />
+        <mark key="^" line="80" column="19" />
       </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.js" timestamp="1472465540046">
         <mark key="[" line="34" column="30" />
@@ -1365,8 +1365,8 @@
       <jump line="138" column="46" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVmcmVzaFRva2VuKHRoaXMuZ2V0RXh0ZW5zaW9uKGZpbGUubmFtZSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGh0dHBGZXRjaChSRVNUX1NFUlZFUl9ST09UICsgJy9maWxlL3VwbG9hZFRva2VuJywgewogICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgZGF0YTogewogICAgICAgIGJ1Y2tldE5hbWU6IHRoaXMucHJvcHMuYnVja2V0TmFtZSwKICAgICAgICBwcm9qZWN0TmFtZTogdGhpcy5wcm9wcy5wcm9qZWN0TmFtZSwKICAgICAgICBleHRlbnNpb24KICAgICAgfQogICAgfSkKICAgICAgLnRoZW4oKHJlcyk9PiB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSgKICAgICAgICAgIHsKICAgICAgICAgICAgdXBsb2FkRGF0YTogewogICAgICAgICAgICAgIHRva2VuOiByZXMudG9rZW4sCiAgICAgICAgICAgICAga2V5OiByZXMuZmlsZU5hbWUsCiAgICAgICAgICAgICAgYmFzZVVybDogcmVzLmJhc2VVcmwsCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICApOwogICAgICB9KTs=</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -1379,45 +1379,35 @@
       padding: 0 4vw;
       margin: 0 -4vw;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVmcmVzaFRva2VuKHRoaXMuZ2V0RXh0ZW5zaW9uKGZpbGUubmFtZSkpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGh0dHBGZXRjaChSRVNUX1NFUlZFUl9ST09UICsgJy9maWxlL3VwbG9hZFRva2VuJywgewogICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgZGF0YTogewogICAgICAgIGJ1Y2tldE5hbWU6IHRoaXMucHJvcHMuYnVja2V0TmFtZSwKICAgICAgICBwcm9qZWN0TmFtZTogdGhpcy5wcm9wcy5wcm9qZWN0TmFtZSwKICAgICAgICBleHRlbnNpb24KICAgICAgfQogICAgfSkKICAgICAgLnRoZW4oKHJlcyk9PiB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSgKICAgICAgICAgIHsKICAgICAgICAgICAgdXBsb2FkRGF0YTogewogICAgICAgICAgICAgIHRva2VuOiByZXMudG9rZW4sCiAgICAgICAgICAgICAga2V5OiByZXMuZmlsZU5hbWUsCiAgICAgICAgICAgICAgYmFzZVVybDogcmVzLmJhc2VVcmwsCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICApOwogICAgICB9KTs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIHNlcnZlciByZXNwb25zZQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucmVmcmVzaFRva2VuKHRoaXMuZ2V0RXh0ZW5zaW9uKGZpbGUubmFtZSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBsb2FkRGF0YTogewogICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIHNlcnZlciByZXNwb25zZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0b2tlbjogcmVzLnRva2VuLAogICAgICAgICAgICAgIGtleTogdGhpcy5maWxlTmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBsb2FkRGF0YTogewogICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBiYXNlVXJsOnJlcy5iYXNlVXJsLAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0b2tlbjogcmVzLnRva2VuLAogICAgICAgICAgICAgIGtleTogdGhpcy5maWxlTmFtZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBiYXNlVXJsOnJlcy5iYXNlVXJsLAogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgcmVmcmVzaFRva2VuKGV4dGVuc2lvbikgewogICAgbGV0IF9zZWxmID0gdGhpczsKCiAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IHRoaXMuc2V0U3RhdGUoCiAgICAgIHsKICAgICAgICB1cGxvYWREYXRhOiB7CiAgICAgICAgICB0b2tlbjogdGhpcy51cHRva2VuLAogICAgICAgICAga2V5OiB0aGlzLgogICAgICAgIH0KICAgICAgfSk7</text>
+        <text encoding="base64">CiAgcmVmcmVzaFRva2VuKGV4dGVuc2lvbikgewogICAgbGV0IF9zZWxmID0gdGhpczsKCiAgfQ==</text>
       </register>
       <register name="9" type="4">
-        <text>httpFetch(REST_SERVER_ROOT + '/file/uploadToken', {
-      method: 'post',
-      data: {
-        bucketName: this.props.bucketName,
-        projectName: this.props.projectName,
-        extension
-      }
-    })
-      .then(function (res) {
-        _self.uptoken = res;
-      });</text>
+        <text encoding="base64">IHRoaXMuc2V0U3RhdGUoCiAgICAgIHsKICAgICAgICB1cGxvYWREYXRhOiB7CiAgICAgICAgICB0b2tlbjogdGhpcy51cHRva2VuLAogICAgICAgICAga2V5OiB0aGlzLgogICAgICAgIH0KICAgICAgfSk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
