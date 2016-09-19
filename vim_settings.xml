@@ -1042,12 +1042,12 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1474253864551">
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1474255704896">
         <mark key="'" line="24" column="12" />
-        <mark key="[" line="135" column="84" />
-        <mark key="]" line="135" column="98" />
-        <mark key="." line="135" column="98" />
-        <mark key="^" line="135" column="98" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="147" column="24" />
+        <mark key="^" line="147" column="24" />
+        <mark key="." line="147" column="24" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/login/index.js" timestamp="1474164414633">
         <mark key="'" line="78" column="23" />
@@ -1387,8 +1387,8 @@
       <jump line="24" column="12" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -1400,34 +1400,35 @@
         <text encoding="base64">PEJ1dHRvbiB0eXBlPXtidXR0b25Qcm9wcy50eXBlfSB7Li4uYnV0dG9uUHJvcHN9Pntjb21tYW5kLnRpdGxlfTwvQnV0dG9uPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJ1dHRvblByb3BzLnR5cGUgPSAnZ2hvc3QnOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="4">
+        <text>renderConfirmButton(title, buttonProps, handler) {
+    return (
+
+    )
+  }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIHJldHVybiAoPEJ1dHRvbiB0eXBlPXtidXR0b25Qcm9wcy50eXBlfSB7Li4uYnV0dG9uUHJvcHN9Pntjb21tYW5kLnRpdGxlfTwvQnV0dG9uPik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLnJlbmRlckNvbmZpcm1CdXR0b24oY29tbWFuZC50aXRsZSwgYnV0dG9uUHJvcHMsIHRoaXMuaGFuZGxlQ29uZmlybSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PFBvcGNvbmZpcm0gb25Db25maXJtPXtoYW5kbGVyfT4KICAgICAgICA8QnV0dG9uIHsuLi5idXR0b25Qcm9wc30+eyB0aXRsZSB9PC9CdXR0b24+CiAgICAgIDwvUG9wY29uZmlybT4=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>console.log(command.handleClick);
-      if (command.handleClick) {
-        buttonProps.onClick = command.handleClick;
-      }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
