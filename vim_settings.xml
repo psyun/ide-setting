@@ -82,7 +82,7 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1473843111335">
+      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1474600651921">
         <mark key="[" line="13" column="65" />
         <mark key="]" line="13" column="64" />
         <mark key="^" line="13" column="64" />
@@ -567,11 +567,10 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/workspace/website/gwai/www/utils/Hapi.js" timestamp="1470734754032">
-        <mark key="[" line="68" column="46" />
-        <mark key="]" line="68" column="43" />
-        <mark key="." line="68" column="43" />
-        <mark key="^" line="68" column="43" />
+      <file name="/workspace/website/gwai/www/utils/Hapi.js" timestamp="1474600135284">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="/workspace/website/mhome/www/views/product/star/star.js" timestamp="1472472075750">
         <mark key="[" line="25" column="34" />
@@ -717,7 +716,6 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="8" column="12" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/node_modules/antd/lib/button/button.js" timestamp="1474188220344" />
       <file name="/workspace/website/gwai/www/scss/qa.scss" timestamp="1470793949166">
         <mark key="'" line="59" column="0" />
         <mark key="[" line="51" column="5" />
@@ -1415,7 +1413,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZm9udC13ZWlnaHQ6IDIwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgIGd3ZmxhZzogJ3RyYWluJywK</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -1427,37 +1425,37 @@
         <text encoding="base64">ICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9Ijk5OSIgY29tcG9uZW50PXtFbGFzdGljU2VhcmNofT5FbGFzdGljU2VhcmNoPC9NZW51Lkl0ZW0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZm9udC13ZWlnaHQ6IDIwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgIGd3ZmxhZzogJ3RyYWluJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9udC13ZWlnaHQ6IDIwMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxRaW5pdVVwbG9hZGVyIG5hbWU9InVybCIgZ2V0RmllbGRzUHJvcHM9e2dldEZpZWxkUHJvcHN9IGFjY2VwdD0iLm1wMyIgYnVja2V0TmFtZT0iYWxhcm0iLz4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxRaW5pdVVwbG9hZGVyIG5hbWU9InVybCIgZ2V0RmllbGRzUHJvcHM9e2dldEZpZWxkUHJvcHN9IGFjY2VwdD0iLm1wMyIgYnVja2V0TmFtZT0iYWxhcm0iLz4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">PFNlbGVjdCB1cmw9Ii9hbGFybS9saXN0VHlwZSIgdmFsdWVGaWVsZD0idHlwZUNvZGUiIHRleHRGaWVsZD0idHlwZU5hbWUiIG5hbWU9InR5cGVDb2RlIgogICAgICAgICAgICAgICAgICBmb3JtPXtmb3JtfS8+</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGRpdj4KICAgICAgICA8Rm9ybUl0ZW0KICAgICAgICAgIGxhYmVsPSIiCiAgICAgICAgPgogICAgICAgICAgPElucHV0IHsuLi5nZXRGaWVsZFByb3BzKCdzb25nTmFtZScpfSAvPgogICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgICAgPEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i57G75Z6LIgogICAgICAgID4KICAgICAgICAgIDxTZWxlY3QgdXJsPSIvYWxhcm0vbGlzdFR5cGUiIHZhbHVlRmllbGQ9InR5cGVDb2RlIiB0ZXh0RmllbGQ9InR5cGVOYW1lIiBuYW1lPSJ0eXBlQ29kZSIKICAgICAgICAgICAgICAgICAgZm9ybT17Zm9ybX0vPgogICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
+      <register name="8" type="4">
+        <text encoding="base64">PGRpdj4KICAgICAgICA8Rm9ybUl0ZW0KICAgICAgICAgIGxhYmVsPSIiCiAgICAgICAgPgogICAgICAgICAgPElucHV0IHsuLi5nZXRGaWVsZFByb3BzKCdzb25nTmFtZScpfSAvPgogICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgICAgPEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i57G75Z6LIgogICAgICAgID4KICAgICAgICAgIDxTZWxlY3QgdXJsPSIvYWxhcm0vbGlzdFR5cGUiIHZhbHVlRmllbGQ9InR5cGVDb2RlIiB0ZXh0RmllbGQ9InR5cGVOYW1lIiBuYW1lPSJ0eXBlQ29kZSIKICAgICAgICAgICAgICAgICAgZm9ybT17Zm9ybX0vPgogICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgIDwvZGl2Pg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i5q2M5puy5LiK5LygIgogICAgICAgICAgbGFiZWxDb2w9e3tzcGFuOjZ9fQogICAgICAgICAgd3JhcHBlckNvbD17e3NwYW46MTh9fQogICAgICAgID4KICAgICAgICAgIDxRaW5pdVVwbG9hZGVyIG5hbWU9InVybCIgZ2V0RmllbGRzUHJvcHM9e2dldEZpZWxkUHJvcHN9IGFjY2VwdD0iLm1wMyIgYnVja2V0TmFtZT0iYWxhcm0iLz4KICAgICAgICA8L0Zvcm1JdGVtPg==</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1510,9 +1508,9 @@
         <entry>q</entry>
         <entry>Wq</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
