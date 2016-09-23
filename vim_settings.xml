@@ -394,13 +394,11 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474632886154">
-        <mark key="'" line="74" column="49" />
-        <mark key="j" line="91" column="29" />
-        <mark key="[" line="29" column="33" />
-        <mark key="]" line="30" column="17" />
-        <mark key="." line="30" column="17" />
-        <mark key="^" line="30" column="17" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474634253999">
+        <mark key="[" line="147" column="18" />
+        <mark key="]" line="148" column="11" />
+        <mark key="." line="148" column="11" />
+        <mark key="^" line="148" column="11" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" timestamp="1473591609282">
         <mark key="'" line="55" column="2" />
@@ -1324,8 +1322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="3" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
-      <jump line="43" column="8" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="125" column="96" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
       <jump line="22" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
       <jump line="133" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
@@ -1424,52 +1420,55 @@
       <jump line="42" column="4" filename="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" />
       <jump line="22" column="7" filename="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" />
       <jump line="72" column="49" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="182" column="0" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="143" column="6" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>currentUserCommands</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>预售</text>
       </register>
       <register name="0" type="4">
-        <text>REST_SERVER_ROOT</text>
+        <text>, {
+            key: '72',
+            iconType: '',
+            title: '机器日志',
+          }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coa2V5KQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2ZUtleT17dGhpcy5zdGF0ZS5hY3RpdmVUYWJLZXl9Cg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="4" type="4">
-        <text>// active the tab
-    this.setState({
-      activeTabKey: key,
-    })</text>
+        <text encoding="base64">PGRpdj4KICAgICAgICA8TWVudSBkZWZhdWx0T3BlbktleXM9e1snc3ViMSddfQogICAgICAgICAgICAgIG1vZGU9ImlubGluZSIKICAgICAgICAgICAgICBvblNlbGVjdD17dGhpcy5wcm9wcy5vblNlbGVjdH0KICAgICAgICAgICAgICBkZWZhdWx0U2VsZWN0ZWRLZXlzPXtbJzInXX0KICAgICAgICA+CiAgICAgICAgICA8U3ViTWVudSBrZXk9InN1YjUiIHRpdGxlPXsKICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+PEljb24gdHlwZT0ibWFpbCIgLz48c3Bhbj7pl7npkp/nrqHnkIY8L3NwYW4+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIH0+CiAgICAgICAgICAgIDxNZW51Lkl0ZW0gY29tcG9uZW50PXtBbGFybX0ga2V5PSIxIj7pl7npkp/pn7PkuZDnrqHnkIY8L01lbnUuSXRlbT4KICAgICAgICAgIDwvU3ViTWVudT4KICAgICAgICAgIDxTdWJNZW51IGtleT0ic3ViNiIgdGl0bGU9ezxzcGFuPjxJY29uIHR5cGU9ImFwcHN0b3JlIiAvPjxzcGFuPuaKgOiDveWMhTwvc3Bhbj48L3NwYW4+fT4KICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjUiIGNvbXBvbmVudD17U2tpbGx9PuaKgOiDveWMheeuoeeQhjwvTWVudS5JdGVtPgogICAgICAgICAgPC9TdWJNZW51PgogICAgICAgICAgPFN1Yk1lbnUga2V5PSJzdWIzNCIgdGl0bGU9ezxzcGFuPjxJY29uIHR5cGU9ImFwcHN0b3JlIiAvPjxzcGFuPueUqOaIt+i0puaItzwvc3Bhbj48L3NwYW4+fT4KICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjUwMCIgY29tcG9uZW50PXtBY2NvdW50SW5mb30+55So5oi36LSm5oi3PC9NZW51Lkl0ZW0+CiAgICAgICAgICA8L1N1Yk1lbnU+CiAgICAgICAgICA8U3ViTWVudSBrZXk9InN1YjEwIiB0aXRsZT17PHNwYW4+PEljb24gdHlwZT0ic2V0dGluZyIgLz48c3Bhbj7op5LoibLnrqHnkIY8L3NwYW4+PC9zcGFuPn0+CiAgICAgICAgICAgIDxNZW51Lkl0ZW0ga2V5PSIxMCIgY29tcG9uZW50PXtSb2xlTWFuYWdlfT7op5LoibLliJfooag8L01lbnUuSXRlbT4KICAgICAgICAgIDwvU3ViTWVudT4KICAgICAgICAgIDxTdWJNZW51IGtleT0ic3ViMjAiIHRpdGxlPXs8c3Bhbj48SWNvbiB0eXBlPSJzZXR0aW5nIiAvPjxzcGFuPueUqOaIt+WPjemmiDwvc3Bhbj48L3NwYW4+fT4KICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjIwIiBjb21wb25lbnQ9e0ZlZWRiYWNrfT7nlKjmiLflj43ppog8L01lbnUuSXRlbT4KICAgICAgICAgIDwvU3ViTWVudT4KICAgICAgICAgIDxTdWJNZW51IGtleT0ic3ViMzAiIHRpdGxlPXs8c3Bhbj48SWNvbiB0eXBlPSJzZXR0aW5nIiAvPjxzcGFuPuiuvuWkh+WNh+e6pzwvc3Bhbj48L3NwYW4+fT4KICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjMwIiBjb21wb25lbnQ9e1VwZ3JhZGV9PuiuvuWkh+WNh+e6pzwvTWVudS5JdGVtPgogICAgICAgICAgPC9TdWJNZW51PgogICAgICAgICAgPFN1Yk1lbnUga2V5PSJzdWI5MCIgdGl0bGU9ezxzcGFuPjxJY29uIHR5cGU9InNldHRpbmciIC8+PHNwYW4+5py65Zmo566h55CGPC9zcGFuPjwvc3Bhbj59PgogICAgICAgICAgICA8TWVudS5JdGVtIGtleT0iOTAiIGNvbXBvbmVudD17WGJMb2d9PuacuuWZqOaXpeW/lzwvTWVudS5JdGVtPgogICAgICAgICAgICA8TWVudS5JdGVtIGtleT0iOTEiIGNvbXBvbmVudD17WGJJbmZvfT7mnLrlmajkv6Hmga88L01lbnUuSXRlbT4KICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjkzIiBjb21wb25lbnQ9e1hiSW5mb0VkaXR9PuacuuWZqOS/oeaBr+S/ruaUuTwvTWVudS5JdGVtPgogICAgICAgICAgPC9TdWJNZW51PgogICAgICAgICAgPFN1Yk1lbnUga2V5PSJzdWI5OTkiIHRpdGxlPXs8c3Bhbj48SWNvbiB0eXBlPSJzZXR0aW5nIiAvPjxzcGFuPkVsYXN0aWNTZWFyY2g8L3NwYW4+PC9zcGFuPn0+CiAgICAgICAgICAgIDxNZW51Lkl0ZW0ga2V5PSI5OTk5OSIgY29tcG9uZW50PXtFbGFzdGljU2VhcmNoS09QRn0+RWxhc3RpY1NlYXJjaC1LT1BGPC9NZW51Lkl0ZW0+CiAgICAgICAgICAgIDxNZW51Lkl0ZW0ga2V5PSI5OTkiIGNvbXBvbmVudD17RWxhc3RpY1NlYXJjaEhlYWR9PkVsYXN0aWNTZWFyY2gtSGVhZOaPkuS7tjwvTWVudS5JdGVtPgogICAgICAgICAgPC9TdWJNZW51PgogICAgICAgIDwvTWVudT4KICAgICAgPC9kaXY+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZlVGFiS2V5ID0ga2V5Owo=</text>
+        <text encoding="base64">fQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IHBhbmVzIH0pOwo=</text>
+        <text encoding="base64">TmF2aWdhdGlvblJvdXRlcy5wcm9wVHlwZXMgPSB7fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0UGFuZUJ5S2V5KGtleSkpOwo=</text>
+        <text encoding="base64">TmF2aWdhdGlvblJvdXRlcy5wcm9wVHlwZXMgPSB7fTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1525,8 +1524,8 @@
         <entry>qa</entry>
         <entry>w'</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
