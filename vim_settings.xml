@@ -394,11 +394,11 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474634253999">
-        <mark key="[" line="147" column="18" />
-        <mark key="]" line="148" column="11" />
-        <mark key="." line="148" column="11" />
-        <mark key="^" line="148" column="11" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474639233110">
+        <mark key="[" line="151" column="14" />
+        <mark key="]" line="152" column="14" />
+        <mark key="." line="152" column="14" />
+        <mark key="^" line="152" column="14" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" timestamp="1473591609282">
         <mark key="'" line="55" column="2" />
@@ -1322,9 +1322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="96" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
-      <jump line="22" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
-      <jump line="133" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
       <jump line="32" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
       <jump line="24" column="1" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="113" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
@@ -1422,10 +1419,13 @@
       <jump line="72" column="49" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="182" column="0" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="143" column="6" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="149" column="100" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="151" column="49" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="154" column="35" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -1441,34 +1441,34 @@
           }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">ICAgICAgIHN1Yk1lbnVEYXRhID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PGRpdj4KICAgICAgICA8TWVudSBkZWZhdWx0T3BlbktleXM9e1snc3ViMSddfQogICAgICAgICAgICAgIG1vZGU9ImlubGluZSIKICAgICAgICAgICAgICBvblNlbGVjdD17dGhpcy5wcm9wcy5vblNlbGVjdH0KICAgICAgICAgICAgICBkZWZhdWx0U2VsZWN0ZWRLZXlzPXtbJzInXX0KICAgICAgICA+CiAgICAgICAgICA8U3ViTWVudSBrZXk9InN1YjUiIHRpdGxlPXsKICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+PEljb24gdHlwZT0ibWFpbCIgLz48c3Bhbj7pl7npkp/nrqHnkIY8L3NwYW4+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIH0+CiAgICAgICAgICAgIDxNZW51Lkl0ZW0gY29tcG9uZW50PXtBbGFybX0ga2V5PSIxIj7pl7npkp/pn7PkuZDnrqHnkIY8L01lbnUuSXRlbT4KICAgICAgICAgIDwvU3ViTWVudT4KICAgICAgICAgIDxTdWJNZW51IGtleT0ic3ViNiIgdGl0bGU9ezxzcGFuPjxJY29uIHR5cGU9ImFwcHN0b3JlIiAvPjxzcGFuPuaKgOiDveWMhTwvc3Bhbj48L3NwYW4+fT4KICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjUiIGNvbXBvbmVudD17U2tpbGx9PuaKgOiDveWMheeuoeeQhjwvTWVudS5JdGVtPgogICAgICAgICAgPC9TdWJNZW51PgogICAgICAgICAgPFN1Yk1lbnUga2V5PSJzdWIzNCIgdGl0bGU9ezxzcGFuPjxJY29uIHR5cGU9ImFwcHN0b3JlIiAvPjxzcGFuPueUqOaIt+i0puaItzwvc3Bhbj48L3NwYW4+fT4KICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjUwMCIgY29tcG9uZW50PXtBY2NvdW50SW5mb30+55So5oi36LSm5oi3PC9NZW51Lkl0ZW0+CiAgICAgICAgICA8L1N1Yk1lbnU+CiAgICAgICAgICA8U3ViTWVudSBrZXk9InN1YjEwIiB0aXRsZT17PHNwYW4+PEljb24gdHlwZT0ic2V0dGluZyIgLz48c3Bhbj7op5LoibLnrqHnkIY8L3NwYW4+PC9zcGFuPn0+CiAgICAgICAgICAgIDxNZW51Lkl0ZW0ga2V5PSIxMCIgY29tcG9uZW50PXtSb2xlTWFuYWdlfT7op5LoibLliJfooag8L01lbnUuSXRlbT4KICAgICAgICAgIDwvU3ViTWVudT4KICAgICAgICAgIDxTdWJNZW51IGtleT0ic3ViMjAiIHRpdGxlPXs8c3Bhbj48SWNvbiB0eXBlPSJzZXR0aW5nIiAvPjxzcGFuPueUqOaIt+WPjemmiDwvc3Bhbj48L3NwYW4+fT4KICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjIwIiBjb21wb25lbnQ9e0ZlZWRiYWNrfT7nlKjmiLflj43ppog8L01lbnUuSXRlbT4KICAgICAgICAgIDwvU3ViTWVudT4KICAgICAgICAgIDxTdWJNZW51IGtleT0ic3ViMzAiIHRpdGxlPXs8c3Bhbj48SWNvbiB0eXBlPSJzZXR0aW5nIiAvPjxzcGFuPuiuvuWkh+WNh+e6pzwvc3Bhbj48L3NwYW4+fT4KICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjMwIiBjb21wb25lbnQ9e1VwZ3JhZGV9PuiuvuWkh+WNh+e6pzwvTWVudS5JdGVtPgogICAgICAgICAgPC9TdWJNZW51PgogICAgICAgICAgPFN1Yk1lbnUga2V5PSJzdWI5MCIgdGl0bGU9ezxzcGFuPjxJY29uIHR5cGU9InNldHRpbmciIC8+PHNwYW4+5py65Zmo566h55CGPC9zcGFuPjwvc3Bhbj59PgogICAgICAgICAgICA8TWVudS5JdGVtIGtleT0iOTAiIGNvbXBvbmVudD17WGJMb2d9PuacuuWZqOaXpeW/lzwvTWVudS5JdGVtPgogICAgICAgICAgICA8TWVudS5JdGVtIGtleT0iOTEiIGNvbXBvbmVudD17WGJJbmZvfT7mnLrlmajkv6Hmga88L01lbnUuSXRlbT4KICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9IjkzIiBjb21wb25lbnQ9e1hiSW5mb0VkaXR9PuacuuWZqOS/oeaBr+S/ruaUuTwvTWVudS5JdGVtPgogICAgICAgICAgPC9TdWJNZW51PgogICAgICAgICAgPFN1Yk1lbnUga2V5PSJzdWI5OTkiIHRpdGxlPXs8c3Bhbj48SWNvbiB0eXBlPSJzZXR0aW5nIiAvPjxzcGFuPkVsYXN0aWNTZWFyY2g8L3NwYW4+PC9zcGFuPn0+CiAgICAgICAgICAgIDxNZW51Lkl0ZW0ga2V5PSI5OTk5OSIgY29tcG9uZW50PXtFbGFzdGljU2VhcmNoS09QRn0+RWxhc3RpY1NlYXJjaC1LT1BGPC9NZW51Lkl0ZW0+CiAgICAgICAgICAgIDxNZW51Lkl0ZW0ga2V5PSI5OTkiIGNvbXBvbmVudD17RWxhc3RpY1NlYXJjaEhlYWR9PkVsYXN0aWNTZWFyY2gtSGVhZOaPkuS7tjwvTWVudS5JdGVtPgogICAgICAgICAgPC9TdWJNZW51PgogICAgICAgIDwvTWVudT4KICAgICAgPC9kaXY+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpKys7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">ICAgICAgaWYgKGkgPD0gc3ViTWVudURhdGEubGVuZ3RoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TmF2aWdhdGlvblJvdXRlcy5wcm9wVHlwZXMgPSB7fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TmF2aWdhdGlvblJvdXRlcy5wcm9wVHlwZXMgPSB7fTsK</text>
+        <text encoding="base64">ICAgICAgaSsrOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uc3QgU3ViTWVudXMgPSBtZW51cy5tYXAoKG1lbnVJdGVtKT0+IHsKICAgICAgaWYgKCFtZW51SXRlbS5jaGlsZHJlbikgewogICAgICAgIHJldHVybiAoCiAgICAgICAgICA8TWVudS5JdGVtIGtleT17bWVudUl0ZW0ua2V5fT57bWVudUl0ZW0udGl0bGV9PC9NZW51Lkl0ZW0+CiAgICAgICAgKTsKICAgICAgfQogICAgICAKICAgICAgcmV0dXJuICg8U3ViTWVudSBrZXk9e21lbnVJdGVtLmtleX0KICAgICAgICAgICAgICAgICAgICAgICB0aXRsZT17PHNwYW4+PEljb24gdHlwZT17bWVudUl0ZW0uaWNvbn0gLz48c3Bhbj57bWVudUl0ZW0udGl0bGV9PC9zcGFuPjwvc3Bhbj59PgogICAgICAgIHt0aGlzLmdldE1lbnVJdGVtKG1lbnVJdGVtLmNoaWxkcmVuKX0KICAgICAgPC9TdWJNZW51Pik7CiAgICB9KQoKICAgIHJldHVybiBTdWJNZW51czs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lbnVzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1479,7 +1479,7 @@
       <last-offset />
       <last-pattern>预售</last-pattern>
       <last-replace>Feedback</last-replace>
-      <last-substitute>message</last-substitute>
+      <last-substitute>预售</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
