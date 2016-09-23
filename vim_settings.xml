@@ -394,7 +394,7 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474622561934">
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474629673119">
         <mark key="'" line="100" column="0" />
         <mark key="j" line="89" column="29" />
         <mark key="[" line="49" column="0" />
@@ -709,12 +709,13 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="8" column="12" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" timestamp="1474626156207">
+      <file name="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" timestamp="1474629637186">
         <mark key="'" line="22" column="7" />
-        <mark key="[" line="62" column="12" />
+        <mark key="[" line="64" column="52" />
         <mark key="m" line="51" column="12" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="]" line="64" column="50" />
+        <mark key="." line="64" column="50" />
+        <mark key="^" line="64" column="50" />
       </file>
       <file name="/workspace/website/gwai/www/scss/qa.scss" timestamp="1470793949166">
         <mark key="'" line="59" column="0" />
@@ -1413,7 +1414,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmNoaWxkcmVuOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="-" type="4">
         <text>currentUserCommands</text>
@@ -1425,34 +1426,34 @@
         <text>REST_SERVER_ROOT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmNoaWxkcmVuOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmNoaWxkcmVuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbnVsbAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICBpZigpIAo=</text>
+        <text encoding="base64">ICAgICAgbnVsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYodGhpcy5wKQo=</text>
+        <text encoding="base64">ICAgICBpZigpIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
