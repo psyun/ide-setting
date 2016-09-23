@@ -400,13 +400,12 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474443796378">
-        <mark key="'" line="58" column="51" />
-        <mark key="j" line="82" column="29" />
-        <mark key="[" line="82" column="76" />
-        <mark key="]" line="82" column="86" />
-        <mark key="^" line="82" column="86" />
-        <mark key="." line="82" column="86" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474619628529">
+        <mark key="'" line="100" column="0" />
+        <mark key="j" line="89" column="29" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" timestamp="1473591609282">
         <mark key="'" line="55" column="2" />
@@ -1310,9 +1309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="37" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
-      <jump line="76" column="11" filename="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" />
-      <jump line="77" column="2" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="125" column="21" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
       <jump line="118" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
       <jump line="119" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
@@ -1410,10 +1406,13 @@
       <jump line="41" column="36" filename="/workspace/website/gowild-manage-system/src/containers/account-info/index.js" />
       <jump line="0" column="0" filename="/workspace/website/gwai/www/lib/ionic/scss/_type.scss" />
       <jump line="0" column="0" filename="/workspace/website/gwai/www/lib/ionic/scss/_bar.scss" />
+      <jump line="38" column="0" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="90" column="0" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="94" column="0" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGd3ZmxhZzogJ3RyYWluJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -1422,37 +1421,37 @@
         <text>font-weight</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9Ijk5OSIgY29tcG9uZW50PXtFbGFzdGljU2VhcmNofT5FbGFzdGljU2VhcmNoPC9NZW51Lkl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgIG9uU2VsZWN0OiBQcm9wVHlwZXMuZnVuYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGd3ZmxhZzogJ3RyYWluJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZm9udC13ZWlnaHQ6IDIwMDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxRaW5pdVVwbG9hZGVyIG5hbWU9InVybCIgZ2V0RmllbGRzUHJvcHM9e2dldEZpZWxkUHJvcHN9IGFjY2VwdD0iLm1wMyIgYnVja2V0TmFtZT0iYWxhcm0iLz4K</text>
+        <text encoding="base64">ICBvblNlbGVjdDogUHJvcFR5cGVzLmZ1bmMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGd3ZmxhZzogJ3RyYWluJywK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PFNlbGVjdCB1cmw9Ii9hbGFybS9saXN0VHlwZSIgdmFsdWVGaWVsZD0idHlwZUNvZGUiIHRleHRGaWVsZD0idHlwZU5hbWUiIG5hbWU9InR5cGVDb2RlIgogICAgICAgICAgICAgICAgICBmb3JtPXtmb3JtfS8+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZm9udC13ZWlnaHQ6IDIwMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGRpdj4KICAgICAgICA8Rm9ybUl0ZW0KICAgICAgICAgIGxhYmVsPSIiCiAgICAgICAgPgogICAgICAgICAgPElucHV0IHsuLi5nZXRGaWVsZFByb3BzKCdzb25nTmFtZScpfSAvPgogICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgICAgPEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i57G75Z6LIgogICAgICAgID4KICAgICAgICAgIDxTZWxlY3QgdXJsPSIvYWxhcm0vbGlzdFR5cGUiIHZhbHVlRmllbGQ9InR5cGVDb2RlIiB0ZXh0RmllbGQ9InR5cGVOYW1lIiBuYW1lPSJ0eXBlQ29kZSIKICAgICAgICAgICAgICAgICAgZm9ybT17Zm9ybX0vPgogICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgIDwvZGl2Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxRaW5pdVVwbG9hZGVyIG5hbWU9InVybCIgZ2V0RmllbGRzUHJvcHM9e2dldEZpZWxkUHJvcHN9IGFjY2VwdD0iLm1wMyIgYnVja2V0TmFtZT0iYWxhcm0iLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1501,7 +1500,6 @@
         <entry>wqa</entry>
         <entry>s/RobotLog/Feedback</entry>
         <entry>s/RobotLog/Feedback/g</entry>
-        <entry>w'</entry>
         <entry>w]</entry>
         <entry>w:w</entry>
         <entry>.w</entry>
@@ -1510,6 +1508,7 @@
         <entry>qa</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry>w'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
