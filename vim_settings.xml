@@ -400,7 +400,7 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474619628529">
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474622561934">
         <mark key="'" line="100" column="0" />
         <mark key="j" line="89" column="29" />
         <mark key="[" line="49" column="0" />
@@ -714,6 +714,12 @@
         <mark key="]" line="8" column="12" />
         <mark key="^" line="7" column="27" />
         <mark key="." line="8" column="12" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" timestamp="1474622686805">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="25" />
       </file>
       <file name="/workspace/website/gwai/www/scss/qa.scss" timestamp="1470793949166">
         <mark key="'" line="59" column="0" />
