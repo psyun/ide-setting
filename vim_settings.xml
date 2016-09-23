@@ -736,6 +736,12 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="45" column="13" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/home/index.js" timestamp="1474632171149">
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="42" column="58" />
+        <mark key="." line="42" column="58" />
+        <mark key="^" line="42" column="58" />
+      </file>
       <file name="/workspace/website/gwai/www/components/headers/header-with-return-btn.html" timestamp="1472033822911">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="23" />
@@ -1414,7 +1420,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>currentUserCommands</text>
@@ -1426,37 +1432,40 @@
         <text>REST_SERVER_ROOT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmNoaWxkcmVuOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coa2V5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2ZUtleT17dGhpcy5zdGF0ZS5hY3RpdmVUYWJLZXl9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="4" type="4">
+        <text>// active the tab
+    this.setState({
+      activeTabKey: key,
+    })</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgYWN0aXZlVGFiS2V5ID0ga2V5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IHBhbmVzIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0UGFuZUJ5S2V5KGtleSkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbnVsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICBpZigpIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1507,11 +1516,11 @@
         <entry>.w</entry>
         <entry>Wq</entry>
         <entry>qa</entry>
-        <entry>W</entry>
-        <entry>wq</entry>
         <entry>w'</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
