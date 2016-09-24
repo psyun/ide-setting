@@ -241,12 +241,12 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474720138723">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="77" column="28" />
-        <mark key="]" line="77" column="27" />
-        <mark key="." line="77" column="27" />
-        <mark key="^" line="77" column="27" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474722496507">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="71" column="28" />
+        <mark key="]" line="71" column="23" />
+        <mark key="." line="71" column="23" />
+        <mark key="^" line="71" column="23" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" timestamp="1473591609282">
         <mark key="'" line="55" column="2" />
@@ -876,11 +876,11 @@
       <jump line="39" column="36" filename="/workspace/website/gowild-manage-system/src/services/auth-service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>¬</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>¬</text>
       </register>
       <register name="/" type="4">
         <text>getMenuItem</text>
@@ -889,34 +889,34 @@
         <text>authorizedModule</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRob3JpemVkTWVudSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lbnVzW2ldKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVtb3ZlZE1lbnVzKTsK</text>
+        <text encoding="base64">ICAgICAgcmVtb3ZlZCA9IHJlbW92ZWQuc2xpY2UoaSwgMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXV0aG9yaXplZE1vZHVsZSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChtZW51c1tpXS5rZXkgPT09IGtleSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlbW92ZWRNZW51cyk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBoYXNDaGlsZHJlbiA9IGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaGFzQ2hpbGRyZW4gPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlbW92ZWRNZW51cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGF1dGhvcml6ZWRDaGlsZHJlbi5sZW5ndGggIT09IDApIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Zm9yIChsZXQgaSA9IDA7IGkgPCBhdXRoSW5mby5hY2NvdW50QXV0aG9yaXR5Vm9MaXN0Lmxlbmd0aDsgaSsrKSB7CiAgICAgIHJlbW92ZWRNZW51cyA9IHJlbW92ZU1lbnVCeUtleShyZW1vdmVkTWVudXMsIGF1dGhJbmZvW2ldLnJlc291cmNlTmFtZSk7CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRob3JpemVkTWVudS5wdXNoKGF1dGhvKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -966,15 +966,15 @@
         <entry>s/RobotLog/Feedback/g</entry>
         <entry>w]</entry>
         <entry>w:w</entry>
-        <entry>.w</entry>
         <entry>w'</entry>
         <entry>Q</entry>
         <entry>Wq</entry>
         <entry>q</entry>
         <entry>qa</entry>
         <entry>wq</entry>
-        <entry>w</entry>
+        <entry>.w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
