@@ -394,11 +394,12 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474680516666">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474682976452">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="169" column="15" />
+        <mark key="]" line="169" column="15" />
+        <mark key="." line="169" column="15" />
+        <mark key="^" line="169" column="15" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" timestamp="1473591609282">
         <mark key="'" line="55" column="2" />
@@ -735,7 +736,8 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="45" column="13" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/home/index.js" timestamp="1474632171149">
+      <file name="/workspace/website/gowild-manage-system/src/containers/home/index.js" timestamp="1474682897971">
+        <mark key="'" line="35" column="16" />
         <mark key="[" line="41" column="53" />
         <mark key="]" line="42" column="58" />
         <mark key="." line="42" column="58" />
@@ -1158,6 +1160,9 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/bin/bundle.js" timestamp="1474682356764">
+        <mark key="'" line="0" column="2741" />
+      </file>
       <file name="/workspace/website/gwai/www/views/qa/edit/edit.html" timestamp="1473595800723">
         <mark key="[" line="0" column="52" />
         <mark key="]" line="0" column="61" />
@@ -1272,7 +1277,7 @@
         <mark key="^" line="367" column="19" />
         <mark key="." line="367" column="19" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1473417742815">
+      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1474682405304">
         <mark key="'" line="47" column="3" />
         <mark key="[" line="52" column="18" />
         <mark key="]" line="52" column="16" />
@@ -1322,9 +1327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
-      <jump line="23" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
-      <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="114" column="22" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="86" column="10" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="137" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
@@ -1401,7 +1403,6 @@
       <jump line="25" column="2" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
       <jump line="45" column="15" filename="/workspace/website/gowild-manage-system/src/containers/account-info/index.js" />
       <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/account-info/index.js" />
-      <jump line="58" column="51" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="7" column="4" filename="/workspace/website/gowild-manage-system/src/components/grid/grid.scss" />
       <jump line="41" column="36" filename="/workspace/website/gowild-manage-system/src/containers/account-info/index.js" />
       <jump line="0" column="0" filename="/workspace/website/gwai/www/lib/ionic/scss/_type.scss" />
@@ -1422,62 +1423,62 @@
       <jump line="154" column="35" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="147" column="1" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="31" column="0" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="0" column="2741" filename="/workspace/website/gowild-manage-system/bin/bundle.js" />
+      <jump line="58" column="1" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="35" column="16" filename="/workspace/website/gowild-manage-system/src/containers/home/index.js" />
+      <jump line="63" column="0" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmVuZGVyU3ViTWVudSgpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>预售</text>
+        <text>getMenuItem</text>
       </register>
       <register name="0" type="4">
-        <text>, {
-            key: '72',
-            iconType: '',
-            title: '机器日志',
-          }</text>
+        <text encoding="base64">PE1lbnUuSXRlbSBrZXk9e21lbnVJdGVtLmNoaWxkcmVuW2pdLmtleX0+e21lbnVJdGVtLmNoaWxkcmVuLnRpdGxlfTwvTWVudS5JdGVtPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmVuZGVyU3ViTWVudSgpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB7TWVudUl0ZW1zfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFN1Yk1lbnVzKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhTdWJNZW51cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8TWVudUl0ZW1zIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0TWVudUl0ZW0gPSB0aGlzLmdldE1lbnVJdGVtLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8U3ViTWVudXMgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRpdGxlCg==</text>
+        <text encoding="base64">ICAgICAgU3ViTWVudXMuCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1lbnUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>预售</last-search>
+      <last-search>getMenuItem</last-search>
       <last-offset />
-      <last-pattern>预售</last-pattern>
+      <last-pattern>getMenuItem</last-pattern>
       <last-replace>Feedback</last-replace>
       <last-substitute>预售</last-substitute>
       <last-dir>1</last-dir>
@@ -1485,8 +1486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>REST</entry>
-        <entry>gray</entry>
         <entry>dark</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>RobotLog</entry>
@@ -1505,6 +1504,8 @@
         <entry>th</entry>
         <entry>font-weight</entry>
         <entry>预售</entry>
+        <entry>get</entry>
+        <entry>getMenuItem</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -1523,8 +1524,8 @@
         <entry>Wq</entry>
         <entry>qa</entry>
         <entry>w'</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
