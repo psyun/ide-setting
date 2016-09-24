@@ -434,6 +434,12 @@
         <mark key="." line="53" column="19" />
         <mark key="^" line="53" column="19" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/home/index.js" timestamp="1474707185364">
+        <mark key="'" line="34" column="16" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1474687277957">
         <mark key="'" line="138" column="46" />
         <mark key="[" line="191" column="48" />
@@ -448,12 +454,12 @@
         <mark key="." line="194" column="166" />
         <mark key="^" line="194" column="166" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/services/auth-service.js" timestamp="1474686328934">
-        <mark key="'" line="80" column="2" />
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="24" column="42" />
-        <mark key="^" line="24" column="42" />
-        <mark key="." line="24" column="42" />
+      <file name="/workspace/website/gowild-manage-system/src/services/auth-service.js" timestamp="1474707121305">
+        <mark key="'" line="86" column="2" />
+        <mark key="[" line="39" column="53" />
+        <mark key="]" line="39" column="53" />
+        <mark key="." line="39" column="53" />
+        <mark key="^" line="39" column="53" />
       </file>
       <file name="/workspace/website/mhome/www/views/dash/dash.html" timestamp="1472717745381">
         <mark key="'" line="15" column="16" />
@@ -874,7 +880,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0ucHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgICAgdXNlcm5hbWU6ICfnrqHnkIblkZgnLAo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -886,13 +892,15 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxzbWFsbD5Db3B5cmlnaHQgwqkgMjAxNSxHT1dJTEQuQ04sPGEgaHJlZj0iaHR0cDovL3d3dy5taWl0YmVpYW4uZ292LmNuLyIgdGFyZ2V0PSJfYmxhbmsiPueypElDUOWkhzE1MDE3ODcx5Y+3PC9hPiAmbmJzcDsmbmJzcDvmt7HlnLPluILljZflsbHljLrnp5Hoi5HljJfot6/kuJzmlrnnp5HmioDlpKfljqYxMzA3LTA5PC9zbWFsbD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0ucHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgICAgdXNlcm5hbWU6ICfnrqHnkIblkZgnLAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzbWFsbD5Db3B5cmlnaHQgwqkgMjAxNSxHT1dJTEQuQ04s57KkSUNQ5aSHMTUwMTc4NzHlj7cgJm5ic3A7Jm5ic3A75rex5Zyz5biC5Y2X5bGx5Yy656eR6IuR5YyX6Lev5Lic5pa556eR5oqA5aSn5Y6mMTMwNy0wOTwvc21hbGw+Cg==</text>
+      <register name="2" type="4">
+        <text>this.authInfo = {
+          username: '',
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzbWFsbD5Db3B5cmlnaHQgwqkgMjAxNSxHT1dJTEQuQ04s57KkSUNQ5aSHMTUwMTc4NzHlj7cgJm5ic3A7Jm5ic3A75rex5Zyz5biC5Y2X5bGx5Yy656eR6IuR5YyX6Lev5Lic5pa556eR5oqA5aSn5Y6mMTMwNy0wOTwvc21hbGw+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0ucHJvcHMpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxzbWFsbD5Db3B5cmlnaHQgwqkgMjAxNSxHT1dJTEQuQ04s57KkSUNQ5aSHMTUwMTc4NzHlj7cgJm5ic3A7Jm5ic3A75rex5Zyz5biC5Y2X5bGx5Yy656eR6IuR5YyX6Lev5Lic5pa556eR5oqA5aSn5Y6mMTMwNy0wOTwvc21hbGw+Cg==</text>
