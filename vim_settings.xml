@@ -246,11 +246,11 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474685731542">
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474703933390">
         <mark key="'" line="67" column="0" />
-        <mark key="[" line="55" column="29" />
-        <mark key="]" line="55" column="29" />
-        <mark key="." line="55" column="29" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
         <mark key="^" line="55" column="29" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" timestamp="1473591609282">
@@ -874,7 +874,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzbWFsbD5Db3B5cmlnaHQgwqkgMjAxNSxHT1dJTEQuQ04s57KkSUNQ5aSHMTUwMTc4NzHlj7cgJm5ic3A7Jm5ic3A75rex5Zyz5biC5Y2X5bGx5Yy656eR6IuR5YyX6Lev5Lic5pa556eR5oqA5aSn5Y6mMTMwNy0wOTwvc21hbGw+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0ucHJvcHMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -886,7 +886,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxzbWFsbD5Db3B5cmlnaHQgwqkgMjAxNSxHT1dJTEQuQ04sPGEgaHJlZj0iaHR0cDovL3d3dy5taWl0YmVpYW4uZ292LmNuLyIgdGFyZ2V0PSJfYmxhbmsiPueypElDUOWkhzE1MDE3ODcx5Y+3PC9hPiAmbmJzcDsmbmJzcDvmt7HlnLPluILljZflsbHljLrnp5Hoi5HljJfot6/kuJzmlrnnp5HmioDlpKfljqYxMzA3LTA5PC9zbWFsbD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzbWFsbD5Db3B5cmlnaHQgwqkgMjAxNSxHT1dJTEQuQ04s57KkSUNQ5aSHMTUwMTc4NzHlj7cgJm5ic3A7Jm5ic3A75rex5Zyz5biC5Y2X5bGx5Yy656eR6IuR5YyX6Lev5Lic5pa556eR5oqA5aSn5Y6mMTMwNy0wOTwvc21hbGw+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0ucHJvcHMpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxzbWFsbD5Db3B5cmlnaHQgwqkgMjAxNSxHT1dJTEQuQ04s57KkSUNQ5aSHMTUwMTc4NzHlj7cgJm5ic3A7Jm5ic3A75rex5Zyz5biC5Y2X5bGx5Yy656eR6IuR5YyX6Lev5Lic5pa556eR5oqA5aSn5Y6mMTMwNy0wOTwvc21hbGw+Cg==</text>
@@ -913,10 +913,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxzbWFsbD5Db3B5cmlnaHQgwqkgMjAxNSxHT1dJTEQuQ04s57KkSUNQ5aSHMTUwMTc4NzHlj7cgJm5ic3A7Jm5ic3A75rex5Zyz5biC5Y2X5bGx5Yy656eR6IuR5YyX6Lev5Lic5pa556eR5oqA5aSn5Y6mMTMwNy0wOTwvc21hbGw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc21hbGw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzbWFsbD5Db3B5cmlnaHQgwqkgMjAxNSxHT1dJTEQuQ04s57KkSUNQ5aSHMTUwMTc4NzHlj7cgJm5ic3A7Jm5ic3A75rex5Zyz5biC5Y2X5bGx5Yy656eR6IuR5YyX6Lev5Lic5pa556eR5oqA5aSn5Y6mMTMwNy0wOTwvc21hbGw+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -970,8 +970,8 @@
         <entry>Q</entry>
         <entry>q</entry>
         <entry>Wq</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
