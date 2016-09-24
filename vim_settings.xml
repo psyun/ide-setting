@@ -241,12 +241,12 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474708127237">
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474717313016">
         <mark key="'" line="31" column="50" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="181" column="28" />
-        <mark key="." line="181" column="28" />
-        <mark key="^" line="181" column="28" />
+        <mark key="[" line="108" column="18" />
+        <mark key="]" line="118" column="28" />
+        <mark key="." line="118" column="28" />
+        <mark key="^" line="118" column="28" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" timestamp="1473591609282">
         <mark key="'" line="55" column="2" />
@@ -967,13 +967,13 @@
         <entry>w]</entry>
         <entry>w:w</entry>
         <entry>.w</entry>
-        <entry>qa</entry>
         <entry>w'</entry>
-        <entry>W</entry>
         <entry>Q</entry>
         <entry>Wq</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>qa</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
