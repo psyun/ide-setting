@@ -10,384 +10,6 @@
         <mark key="^" line="235" column="15" />
         <mark key="." line="236" column="0" />
       </file>
-      <file name="/workspace/website/gwai/www/scss/components/header.scss" timestamp="1470367193925">
-        <mark key="'" line="3" column="10" />
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/skill/index.js" timestamp="1473676471930">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="74" column="22" />
-        <mark key="]" line="74" column="21" />
-        <mark key="^" line="74" column="21" />
-        <mark key="." line="74" column="21" />
-      </file>
-      <file name="/workspace/website/gwai/www/views/libraries/dash/dash.html" timestamp="1472094601345">
-        <mark key="'" line="4" column="45" />
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="21" />
-        <mark key="^" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/routes/index.js" timestamp="1474714246471">
-        <mark key="'" line="41" column="21" />
-        <mark key="[" line="46" column="14" />
-        <mark key="]" line="46" column="31" />
-        <mark key="." line="46" column="31" />
-        <mark key="^" line="46" column="31" />
-      </file>
-      <file name="/workspace/website/mhome/www/services/news.js" timestamp="1472459885987">
-        <mark key="'" line="41" column="16" />
-        <mark key="[" line="40" column="24" />
-        <mark key="]" line="40" column="24" />
-        <mark key="." line="40" column="24" />
-        <mark key="^" line="40" column="24" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/select/index.js" timestamp="1474269408576">
-        <mark key="'" line="129" column="28" />
-        <mark key="[" line="90" column="47" />
-        <mark key="]" line="90" column="41" />
-        <mark key="." line="90" column="41" />
-        <mark key="^" line="90" column="41" />
-      </file>
-      <file name="/workspace/website/gwai/www/app.js" timestamp="1471332306256">
-        <mark key="'" line="76" column="27" />
-        <mark key="[" line="6" column="162" />
-        <mark key="]" line="6" column="167" />
-        <mark key="." line="6" column="167" />
-        <mark key="^" line="6" column="167" />
-      </file>
-      <file name="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" timestamp="1472626481770">
-        <mark key="'" line="63" column="5" />
-        <mark key="[" line="55" column="33" />
-        <mark key="]" line="55" column="33" />
-        <mark key="." line="55" column="33" />
-        <mark key="^" line="55" column="33" />
-      </file>
-      <file name="/workspace/website/mhome/www/views/dash/dash.scss" timestamp="1472206838664">
-        <mark key="'" line="67" column="19" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="353" column="17" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="/workspace/website/mhome/www/views/product/star/star.html" timestamp="1472528926729">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="113" column="44" />
-        <mark key="]" line="113" column="43" />
-        <mark key="^" line="113" column="43" />
-        <mark key="." line="113" column="43" />
-      </file>
-      <file name="/workspace/website/mhome/www/views/support/list/list.html" timestamp="1472633435038">
-        <mark key="'" line="62" column="100" />
-        <mark key="[" line="62" column="75" />
-        <mark key="]" line="62" column="47" />
-        <mark key="^" line="62" column="47" />
-        <mark key="." line="62" column="47" />
-      </file>
-      <file name="/workspace/website/mhome/www/components/footer/footer.scss" timestamp="1472697953468">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="43" column="5" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1473584961967">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="15" />
-        <mark key="]" line="63" column="15" />
-        <mark key="." line="63" column="15" />
-        <mark key="^" line="63" column="15" />
-      </file>
-      <file name="/workspace/website/mhome/www/app.js" timestamp="1472711687261">
-        <mark key="'" line="13" column="75" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="100" column="52" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="/workspace/website/gwai/www/views/memory/guide/guide.html" timestamp="1472034727202">
-        <mark key="'" line="32" column="13" />
-        <mark key="[" line="0" column="42" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="0" column="38" />
-        <mark key="^" line="0" column="38" />
-      </file>
-      <file name="/workspace/font/font-subset/src/generate-cid.js" timestamp="1473059946629">
-        <mark key="'" line="61" column="48" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="61" column="28" />
-        <mark key="." line="61" column="28" />
-        <mark key="^" line="61" column="28" />
-      </file>
-      <file name="/workspace/website/home/src/home/where-to-buy/index.html" timestamp="1474700822486">
-        <mark key="'" line="28" column="32" />
-        <mark key="[" line="212" column="16" />
-        <mark key="]" line="213" column="166" />
-        <mark key="." line="213" column="166" />
-        <mark key="^" line="213" column="166" />
-      </file>
-      <file name="/workspace/website/home/src/home/where-to-buy/partner.html" timestamp="1474700831435">
-        <mark key="'" line="98" column="31" />
-        <mark key="[" line="208" column="16" />
-        <mark key="]" line="209" column="166" />
-        <mark key="." line="209" column="166" />
-        <mark key="^" line="209" column="166" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/ModalForm/index.js" timestamp="1473253662288">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="60" column="1" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="0" />
-      </file>
-      <file name="/workspace/website/mhome/www/views/news/news.js" timestamp="1472455627283">
-        <mark key="'" line="9" column="6" />
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="28" column="6" />
-        <mark key="^" line="28" column="6" />
-        <mark key="." line="28" column="6" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/node_modules/rc-form/lib/createBaseForm.js" timestamp="1474728943027" />
-      <file name="/workspace/website/gwai/www/scss/components/checkbox-item.scss" timestamp="1473838815295">
-        <mark key="'" line="16" column="16" />
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="16" column="16" />
-        <mark key="^" line="16" column="16" />
-        <mark key="." line="16" column="16" />
-      </file>
-      <file name="$USER_HOME$/Desktop/index.php" timestamp="1473674764424">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="56" />
-        <mark key="]" line="34" column="56" />
-        <mark key="." line="34" column="56" />
-        <mark key="^" line="34" column="26" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/home/home.scss" timestamp="1469701022712">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="30" column="20" />
-        <mark key="^" line="30" column="20" />
-        <mark key="." line="30" column="20" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/es/index.js" timestamp="1474279851653">
-        <mark key="'" line="31" column="92" />
-        <mark key="[" line="31" column="93" />
-        <mark key="]" line="31" column="95" />
-        <mark key="." line="31" column="95" />
-        <mark key="^" line="31" column="95" />
-      </file>
-      <file name="/workspace/website/gwai/www/views/vocabulary/add/add.scss" timestamp="1472549879516">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="30" />
-        <mark key="^" line="19" column="30" />
-        <mark key="." line="19" column="30" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/resize-handle/index.js" timestamp="1469695127537">
-        <mark key="'" line="133" column="12" />
-        <mark key="[" line="134" column="36" />
-        <mark key="]" line="134" column="41" />
-        <mark key="^" line="134" column="41" />
-        <mark key="." line="134" column="41" />
-      </file>
-      <file name="/workspace/website/mhome/www/views/news/news-detail/news-detail.scss" timestamp="1472461802941">
-        <mark key="'" line="28" column="16" />
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-        <mark key="^" line="22" column="22" />
-      </file>
-      <file name="/workspace/website/gwai/www/components/checkbox/checkbox.html" timestamp="1470304385703">
-        <mark key="'" line="1" column="7" />
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" timestamp="1473688812751">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="120" column="34" />
-      </file>
-      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.html" timestamp="1472439881440">
-        <mark key="'" line="109" column="15" />
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="15" />
-        <mark key="^" line="44" column="15" />
-        <mark key="." line="44" column="15" />
-      </file>
-      <file name="/workspace/website/home/src/css/gwais.css" timestamp="1471589488652">
-        <mark key="'" line="239" column="16" />
-        <mark key="[" line="652" column="15" />
-        <mark key="]" line="652" column="26" />
-        <mark key="^" line="652" column="26" />
-        <mark key="." line="652" column="26" />
-      </file>
-      <file name="/workspace/website/home/src/home/support/step.html" timestamp="1474700802253">
-        <mark key="'" line="30" column="55" />
-        <mark key="[" line="257" column="16" />
-        <mark key="]" line="258" column="166" />
-        <mark key="." line="258" column="166" />
-        <mark key="^" line="258" column="166" />
-      </file>
-      <file name="/workspace/website/gwai/www/components/chinese/chinese.js" timestamp="1473593721860">
-        <mark key="'" line="31" column="25" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="33" column="32" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474725289520">
-        <mark key="'" line="91" column="25" />
-        <mark key="[" line="217" column="6" />
-        <mark key="]" line="217" column="26" />
-        <mark key="." line="217" column="26" />
-        <mark key="^" line="217" column="26" />
-      </file>
-      <file name="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" timestamp="1473591609282">
-        <mark key="'" line="55" column="2" />
-        <mark key="[" line="248" column="24" />
-        <mark key="]" line="248" column="26" />
-        <mark key="^" line="248" column="26" />
-        <mark key="." line="248" column="26" />
-      </file>
-      <file name="/workspace/website/gwai/www/views/memory/help/help.html" timestamp="1470641790967">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="57" />
-        <mark key="^" line="30" column="57" />
-        <mark key="." line="30" column="57" />
-      </file>
-      <file name="/workspace/website/mhome/www/utils/rest-hapi.js" timestamp="1472459533424">
-        <mark key="'" line="23" column="17" />
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="64" column="25" />
-        <mark key="." line="64" column="25" />
-        <mark key="^" line="64" column="25" />
-      </file>
-      <file name="/workspace/website/gwai/www/views/memory/list/list.html" timestamp="1470794750586">
-        <mark key="'" line="28" column="48" />
-        <mark key="[" line="0" column="61" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="36" />
-        <mark key="^" line="0" column="36" />
-      </file>
-      <file name="/workspace/website/home/src/css/site.css" timestamp="1473841627648">
-        <mark key="'" line="1663" column="14" />
-        <mark key="[" line="731" column="50" />
-        <mark key="]" line="731" column="50" />
-        <mark key="." line="731" column="50" />
-        <mark key="^" line="731" column="50" />
-      </file>
-      <file name="/workspace/website/mhome/www/views/news/list/list.scss" timestamp="1472457770201">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-      </file>
-      <file name="/workspace/website/gwai/www/views/vocabulary/vocabulary.js" timestamp="1470454214958">
-        <mark key="'" line="24" column="11" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="27" column="11" />
-        <mark key="^" line="27" column="11" />
-      </file>
-      <file name="/workspace/website/home/src/index.html" timestamp="1474700636482">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="281" column="16" />
-        <mark key="]" line="281" column="166" />
-        <mark key="." line="96" column="49" />
-        <mark key="^" line="96" column="49" />
-      </file>
-      <file name="/workspace/website/mhome/www/components/swiper/swiper.js" timestamp="1472203193891">
-        <mark key="'" line="55" column="31" />
-        <mark key="[" line="51" column="29" />
-        <mark key="]" line="51" column="30" />
-        <mark key="." line="51" column="30" />
-        <mark key="^" line="51" column="30" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" timestamp="1474279423152">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="65" column="5" />
-        <mark key="]" line="67" column="54" />
-        <mark key="." line="67" column="54" />
-        <mark key="^" line="67" column="54" />
-      </file>
-      <file name="/workspace/website/gwai/www/views/vocabulary/guide/guide.html" timestamp="1472038659635">
-        <mark key="'" line="0" column="38" />
-        <mark key="[" line="15" column="61" />
-        <mark key="]" line="15" column="58" />
-        <mark key="." line="15" column="58" />
-        <mark key="^" line="15" column="58" />
-      </file>
-      <file name="/workspace/website/mhome/www/views/product/xb/xb.html" timestamp="1472119899013">
-        <mark key="'" line="28" column="32" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="115" column="0" />
-      </file>
-      <file name="/workspace/website/gwai/www/lib/ionic/scss/_type.scss" timestamp="1474464261075">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/workspace/website/home/src/home/product/gongzixiaobai.html" timestamp="1474700744548">
-        <mark key="'" line="33" column="31" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/feedback/index.js" timestamp="1474357412693">
-        <mark key="'" line="70" column="8" />
-        <mark key="[" line="81" column="51" />
-        <mark key="]" line="81" column="63" />
-        <mark key="." line="81" column="63" />
-        <mark key="^" line="81" column="63" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1474375535940">
-        <mark key="'" line="103" column="29" />
-        <mark key="[" line="44" column="27" />
-        <mark key="]" line="44" column="26" />
-        <mark key="." line="44" column="26" />
-        <mark key="^" line="44" column="26" />
-      </file>
-      <file name="/workspace/website/home/src/css/base.css" timestamp="1472010375235">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1139" column="0" />
-        <mark key="]" line="1149" column="22" />
-        <mark key="." line="1149" column="22" />
-        <mark key="^" line="1149" column="22" />
-      </file>
-      <file name="/workspace/website/gwai/www/scss/util.scss" timestamp="1470641483103">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="51" column="30" />
-        <mark key="]" line="52" column="1" />
-        <mark key="." line="52" column="1" />
-        <mark key="^" line="52" column="1" />
-      </file>
-      <file name="/workspace/website/gwai/www/services/vocabulary.js" timestamp="1472040793729">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="29" column="57" />
-        <mark key="]" line="29" column="57" />
-        <mark key="." line="29" column="57" />
-        <mark key="^" line="29" column="57" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-log/index.js" timestamp="1474164527762">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="86" column="23" />
-        <mark key="^" line="21" column="22" />
-        <mark key="." line="21" column="22" />
-      </file>
-      <file name="/workspace/website/gwai/www/views/memory/add/add.html" timestamp="1470625546015">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="36" />
-        <mark key="." line="1" column="36" />
-        <mark key="^" line="1" column="36" />
-      </file>
       <file name="/workspace/website/mhome/www/views/support/details/details.scss" timestamp="1472643551776">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="13" column="12" />
@@ -408,6 +30,27 @@
         <mark key="]" line="41" column="23" />
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
+      </file>
+      <file name="/workspace/website/gwai/www/scss/components/header.scss" timestamp="1470367193925">
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/skill/index.js" timestamp="1473676471930">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="74" column="22" />
+        <mark key="]" line="74" column="21" />
+        <mark key="^" line="74" column="21" />
+        <mark key="." line="74" column="21" />
+      </file>
+      <file name="/workspace/website/gwai/www/views/libraries/dash/dash.html" timestamp="1472094601345">
+        <mark key="'" line="4" column="45" />
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="21" />
       </file>
       <file name="/workspace/website/gwai/www/views/qa/list/list.js" timestamp="1473843098282">
         <mark key="'" line="34" column="46" />
@@ -431,12 +74,33 @@
         <mark key="." line="55" column="44" />
         <mark key="^" line="55" column="44" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/routes/index.js" timestamp="1474714246471">
+        <mark key="'" line="41" column="21" />
+        <mark key="[" line="46" column="14" />
+        <mark key="]" line="46" column="31" />
+        <mark key="." line="46" column="31" />
+        <mark key="^" line="46" column="31" />
+      </file>
       <file name="/workspace/website/gwai/www/scss/qa.scss" timestamp="1470793949166">
         <mark key="'" line="59" column="0" />
         <mark key="[" line="51" column="5" />
         <mark key="]" line="53" column="19" />
         <mark key="." line="53" column="19" />
         <mark key="^" line="53" column="19" />
+      </file>
+      <file name="/workspace/website/mhome/www/services/news.js" timestamp="1472459885987">
+        <mark key="'" line="41" column="16" />
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="24" />
+        <mark key="^" line="40" column="24" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/select/index.js" timestamp="1474269408576">
+        <mark key="'" line="129" column="28" />
+        <mark key="[" line="90" column="47" />
+        <mark key="]" line="90" column="41" />
+        <mark key="." line="90" column="41" />
+        <mark key="^" line="90" column="41" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/home/index.js" timestamp="1474713338811">
         <mark key="'" line="31" column="53" />
@@ -445,6 +109,12 @@
         <mark key="." line="97" column="20" />
         <mark key="^" line="97" column="20" />
       </file>
+      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1474853798613">
+        <mark key="[" line="13" column="65" />
+        <mark key="]" line="13" column="64" />
+        <mark key="^" line="13" column="64" />
+        <mark key="." line="13" column="64" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1474687277957">
         <mark key="'" line="138" column="46" />
         <mark key="[" line="191" column="48" />
@@ -452,12 +122,33 @@
         <mark key="." line="191" column="63" />
         <mark key="^" line="191" column="63" />
       </file>
+      <file name="/workspace/website/gwai/www/app.js" timestamp="1471332306256">
+        <mark key="'" line="76" column="27" />
+        <mark key="[" line="6" column="162" />
+        <mark key="]" line="6" column="167" />
+        <mark key="." line="6" column="167" />
+        <mark key="^" line="6" column="167" />
+      </file>
+      <file name="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" timestamp="1472626481770">
+        <mark key="'" line="63" column="5" />
+        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="33" />
+        <mark key="." line="55" column="33" />
+        <mark key="^" line="55" column="33" />
+      </file>
       <file name="/workspace/website/home/src/home/where-to-buy/store.html" timestamp="1474700838389">
         <mark key="'" line="29" column="32" />
         <mark key="[" line="193" column="16" />
         <mark key="]" line="194" column="166" />
         <mark key="." line="194" column="166" />
         <mark key="^" line="194" column="166" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/dash/dash.scss" timestamp="1472206838664">
+        <mark key="'" line="67" column="19" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="353" column="17" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/services/auth-service.js" timestamp="1474726243654">
         <mark key="'" line="39" column="18" />
@@ -473,7 +164,6 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/node_modules/react-router/lib/index.js" timestamp="1474713027312" />
       <file name="/workspace/website/gowild-manage-system/src/components/grid/grid.scss" timestamp="1474448122844">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="42" column="25" />
@@ -491,6 +181,13 @@
         <mark key="." line="92" column="17" />
         <mark key="^" line="92" column="17" />
       </file>
+      <file name="/workspace/website/mhome/www/views/product/star/star.html" timestamp="1472528926729">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="113" column="44" />
+        <mark key="]" line="113" column="43" />
+        <mark key="^" line="113" column="43" />
+        <mark key="." line="113" column="43" />
+      </file>
       <file name="/workspace/website/mhome/www/views/support/details/xb/xb.html" timestamp="1472716067858">
         <mark key="'" line="327" column="37" />
         <mark key="[" line="147" column="25" />
@@ -498,12 +195,33 @@
         <mark key="^" line="147" column="84" />
         <mark key="." line="147" column="84" />
       </file>
+      <file name="/workspace/website/mhome/www/views/support/list/list.html" timestamp="1472633435038">
+        <mark key="'" line="62" column="100" />
+        <mark key="[" line="62" column="75" />
+        <mark key="]" line="62" column="47" />
+        <mark key="^" line="62" column="47" />
+        <mark key="." line="62" column="47" />
+      </file>
+      <file name="/workspace/website/mhome/www/components/footer/footer.scss" timestamp="1472697953468">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="43" column="5" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472721851431">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="10" column="33" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1473584961967">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="63" column="15" />
+        <mark key="]" line="63" column="15" />
+        <mark key="." line="63" column="15" />
+        <mark key="^" line="63" column="15" />
       </file>
       <file name="/workspace/website/home/src/home/product/gwais.html" timestamp="1474700756353">
         <mark key="'" line="666" column="31" />
@@ -519,12 +237,40 @@
         <mark key="." line="140" column="30" />
         <mark key="^" line="140" column="30" />
       </file>
+      <file name="/workspace/website/mhome/www/app.js" timestamp="1472711687261">
+        <mark key="'" line="13" column="75" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="100" column="52" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="/workspace/website/gwai/www/lib/ionic/js/ionic-angular.js" timestamp="1473841363330">
         <mark key="'" line="3614" column="7" />
         <mark key="[" line="3689" column="32" />
         <mark key="]" line="3689" column="31" />
         <mark key="^" line="3689" column="31" />
         <mark key="." line="3689" column="31" />
+      </file>
+      <file name="/workspace/website/gwai/www/views/memory/guide/guide.html" timestamp="1472034727202">
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+      </file>
+      <file name="/workspace/font/font-subset/src/generate-cid.js" timestamp="1473059946629">
+        <mark key="'" line="61" column="48" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="61" column="28" />
+        <mark key="." line="61" column="28" />
+        <mark key="^" line="61" column="28" />
+      </file>
+      <file name="/workspace/website/home/src/home/where-to-buy/index.html" timestamp="1474700822486">
+        <mark key="'" line="28" column="32" />
+        <mark key="[" line="212" column="16" />
+        <mark key="]" line="213" column="166" />
+        <mark key="." line="213" column="166" />
+        <mark key="^" line="213" column="166" />
       </file>
       <file name="/workspace/website/gwai/www/views/qa/add/add.html" timestamp="1473578019383">
         <mark key="'" line="34" column="0" />
@@ -561,12 +307,44 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
+      <file name="/workspace/website/home/src/home/where-to-buy/partner.html" timestamp="1474700831435">
+        <mark key="'" line="98" column="31" />
+        <mark key="[" line="208" column="16" />
+        <mark key="]" line="209" column="166" />
+        <mark key="." line="209" column="166" />
+        <mark key="^" line="209" column="166" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/ModalForm/index.js" timestamp="1473253662288">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="60" column="1" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="60" column="0" />
+      </file>
+      <file name="/workspace/website/home/src/lib/bootstrap/css/bootstrap.css" timestamp="1474857266124">
+        <mark key="'" line="7558" column="4" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/news/news.js" timestamp="1472455627283">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="6" />
+        <mark key="^" line="28" column="6" />
+        <mark key="." line="28" column="6" />
+      </file>
       <file name="/workspace/website/mhome/www/views/news.scss" timestamp="1472114535614">
         <mark key="'" line="48" column="8" />
         <mark key="[" line="49" column="22" />
         <mark key="]" line="50" column="26" />
         <mark key="." line="50" column="26" />
         <mark key="^" line="50" column="26" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/node_modules/rc-form/lib/createBaseForm.js" timestamp="1474856753408" />
+      <file name="/workspace/website/gwai/www/scss/components/checkbox-item.scss" timestamp="1473838815295">
+        <mark key="'" line="16" column="16" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="16" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/robot-log/index.js" timestamp="1473752282552">
         <mark key="'" line="20" column="0" />
@@ -582,6 +360,20 @@
         <mark key="." line="40" column="187" />
         <mark key="^" line="40" column="187" />
       </file>
+      <file name="$USER_HOME$/Desktop/index.php" timestamp="1473674764424">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+        <mark key="^" line="34" column="26" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/home/home.scss" timestamp="1469701022712">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="20" />
+        <mark key="^" line="30" column="20" />
+        <mark key="." line="30" column="20" />
+      </file>
       <file name="/workspace/website/home/src/home/plus/index.html" timestamp="1474700740021">
         <mark key="'" line="74" column="9" />
         <mark key="[" line="195" column="16" />
@@ -589,12 +381,26 @@
         <mark key="." line="196" column="166" />
         <mark key="^" line="196" column="166" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/es/index.js" timestamp="1474279851653">
+        <mark key="'" line="31" column="92" />
+        <mark key="[" line="31" column="93" />
+        <mark key="]" line="31" column="95" />
+        <mark key="." line="31" column="95" />
+        <mark key="^" line="31" column="95" />
+      </file>
       <file name="/workspace/website/home/src/home/support/index.html" timestamp="1474700789279">
         <mark key="'" line="185" column="41" />
         <mark key="[" line="307" column="16" />
         <mark key="]" line="308" column="166" />
         <mark key="." line="308" column="166" />
         <mark key="^" line="308" column="166" />
+      </file>
+      <file name="/workspace/website/gwai/www/views/vocabulary/add/add.scss" timestamp="1472549879516">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="30" />
+        <mark key="^" line="19" column="30" />
+        <mark key="." line="19" column="30" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/Header.js" timestamp="1470040130311">
         <mark key="'" line="55" column="45" />
@@ -610,11 +416,39 @@
         <mark key="." line="51" column="15" />
         <mark key="^" line="51" column="15" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/resize-handle/index.js" timestamp="1469695127537">
+        <mark key="'" line="133" column="12" />
+        <mark key="[" line="134" column="36" />
+        <mark key="]" line="134" column="41" />
+        <mark key="^" line="134" column="41" />
+        <mark key="." line="134" column="41" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/role-manage/index.js" timestamp="1473752248671">
         <mark key="'" line="40" column="8" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/news/news-detail/news-detail.scss" timestamp="1472461802941">
+        <mark key="'" line="28" column="16" />
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+      </file>
+      <file name="/workspace/website/gwai/www/components/checkbox/checkbox.html" timestamp="1470304385703">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" timestamp="1473688812751">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="120" column="34" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/index.js" timestamp="1473775882901">
         <mark key="'" line="133" column="0" />
@@ -622,6 +456,20 @@
         <mark key="]" line="103" column="10" />
         <mark key="." line="103" column="10" />
         <mark key="^" line="103" column="10" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.html" timestamp="1472439881440">
+        <mark key="'" line="109" column="15" />
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="15" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+      </file>
+      <file name="/workspace/website/home/src/css/gwais.css" timestamp="1471589488652">
+        <mark key="'" line="239" column="16" />
+        <mark key="[" line="652" column="15" />
+        <mark key="]" line="652" column="26" />
+        <mark key="^" line="652" column="26" />
+        <mark key="." line="652" column="26" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1474374759743">
         <mark key="'" line="25" column="2" />
@@ -643,6 +491,34 @@
         <mark key="^" line="59" column="30" />
         <mark key="." line="59" column="30" />
       </file>
+      <file name="/workspace/website/home/src/home/support/step.html" timestamp="1474700802253">
+        <mark key="'" line="30" column="55" />
+        <mark key="[" line="257" column="16" />
+        <mark key="]" line="258" column="166" />
+        <mark key="." line="258" column="166" />
+        <mark key="^" line="258" column="166" />
+      </file>
+      <file name="/workspace/website/gwai/www/components/chinese/chinese.js" timestamp="1473593721860">
+        <mark key="'" line="31" column="25" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="33" column="32" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474725289520">
+        <mark key="'" line="91" column="25" />
+        <mark key="[" line="217" column="6" />
+        <mark key="]" line="217" column="26" />
+        <mark key="." line="217" column="26" />
+        <mark key="^" line="217" column="26" />
+      </file>
+      <file name="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" timestamp="1473591609282">
+        <mark key="'" line="55" column="2" />
+        <mark key="[" line="248" column="24" />
+        <mark key="]" line="248" column="26" />
+        <mark key="^" line="248" column="26" />
+        <mark key="." line="248" column="26" />
+      </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.html" timestamp="1472609957836">
         <mark key="'" line="19" column="11" />
         <mark key="[" line="16" column="20" />
@@ -657,6 +533,13 @@
         <mark key="." line="395" column="23" />
         <mark key="^" line="395" column="23" />
       </file>
+      <file name="/workspace/website/gwai/www/views/memory/help/help.html" timestamp="1470641790967">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="57" />
+        <mark key="^" line="30" column="57" />
+        <mark key="." line="30" column="57" />
+      </file>
       <file name="/workspace/website/home/src/home/support/after-sales.html" timestamp="1474700781988">
         <mark key="'" line="29" column="32" />
         <mark key="[" line="357" column="16" />
@@ -664,12 +547,40 @@
         <mark key="." line="358" column="166" />
         <mark key="^" line="358" column="166" />
       </file>
+      <file name="/workspace/website/mhome/www/utils/rest-hapi.js" timestamp="1472459533424">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="25" />
+        <mark key="." line="64" column="25" />
+        <mark key="^" line="64" column="25" />
+      </file>
+      <file name="/workspace/website/gwai/www/views/memory/list/list.html" timestamp="1470794750586">
+        <mark key="'" line="28" column="48" />
+        <mark key="[" line="0" column="61" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+      </file>
       <file name="/workspace/website/gwai/www/views/vocabulary/add/add.html" timestamp="1473577214657">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="0" column="56" />
         <mark key="]" line="0" column="64" />
         <mark key="." line="0" column="64" />
         <mark key="^" line="0" column="64" />
+      </file>
+      <file name="/workspace/website/home/src/css/site.css" timestamp="1473841627648">
+        <mark key="'" line="1663" column="14" />
+        <mark key="[" line="731" column="50" />
+        <mark key="]" line="731" column="50" />
+        <mark key="." line="731" column="50" />
+        <mark key="^" line="731" column="50" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/news/list/list.scss" timestamp="1472457770201">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
       </file>
       <file name="/workspace/website/mhome/www/index.html" timestamp="1473066935639">
         <mark key="'" line="18" column="0" />
@@ -688,6 +599,20 @@
       <file name="/workspace/website/gowild-manage-system/bin/bundle.js" timestamp="1474682356764">
         <mark key="'" line="0" column="2741" />
       </file>
+      <file name="/workspace/website/gwai/www/views/vocabulary/vocabulary.js" timestamp="1470454214958">
+        <mark key="'" line="24" column="11" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+      </file>
+      <file name="/workspace/website/home/src/index.html" timestamp="1474857282294">
+        <mark key="'" line="281" column="16" />
+        <mark key="[" line="281" column="16" />
+        <mark key="]" line="281" column="166" />
+        <mark key="." line="96" column="49" />
+        <mark key="^" line="96" column="49" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/login.js" timestamp="1473163296863">
         <mark key="'" line="47" column="20" />
         <mark key="[" line="22" column="43" />
@@ -702,12 +627,43 @@
         <mark key="." line="317" column="166" />
         <mark key="^" line="317" column="166" />
       </file>
+      <file name="/workspace/website/mhome/www/components/swiper/swiper.js" timestamp="1472203193891">
+        <mark key="'" line="55" column="31" />
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="51" column="30" />
+        <mark key="." line="51" column="30" />
+        <mark key="^" line="51" column="30" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" timestamp="1474279423152">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="5" />
+        <mark key="]" line="67" column="54" />
+        <mark key="." line="67" column="54" />
+        <mark key="^" line="67" column="54" />
+      </file>
+      <file name="/workspace/website/gwai/www/views/vocabulary/guide/guide.html" timestamp="1472038659635">
+        <mark key="'" line="0" column="38" />
+        <mark key="[" line="15" column="61" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
+        <mark key="^" line="15" column="58" />
+      </file>
       <file name="/workspace/website/mhome/www/views/product/xb/xb.scss" timestamp="1472463690507">
         <mark key="'" line="622" column="8" />
         <mark key="[" line="45" column="30" />
         <mark key="]" line="45" column="7" />
         <mark key="." line="45" column="7" />
         <mark key="^" line="45" column="7" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/product/xb/xb.html" timestamp="1472119899013">
+        <mark key="'" line="28" column="32" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="/workspace/website/gwai/www/lib/ionic/scss/_type.scss" timestamp="1474464261075">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/css/iconfont.css" timestamp="1471332043106">
         <mark key="'" line="40" column="16" />
@@ -730,6 +686,9 @@
         <mark key="." line="334" column="170" />
         <mark key="^" line="334" column="170" />
       </file>
+      <file name="/workspace/website/home/src/home/product/gongzixiaobai.html" timestamp="1474700744548">
+        <mark key="'" line="33" column="31" />
+      </file>
       <file name="/workspace/website/mhome/www/news.html" timestamp="1472025942978">
         <mark key="'" line="22" column="6" />
         <mark key="[" line="0" column="0" />
@@ -742,6 +701,27 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/feedback/index.js" timestamp="1474357412693">
+        <mark key="'" line="70" column="8" />
+        <mark key="[" line="81" column="51" />
+        <mark key="]" line="81" column="63" />
+        <mark key="." line="81" column="63" />
+        <mark key="^" line="81" column="63" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1474375535940">
+        <mark key="'" line="103" column="29" />
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="44" column="26" />
+        <mark key="." line="44" column="26" />
+        <mark key="^" line="44" column="26" />
+      </file>
+      <file name="/workspace/website/home/src/css/base.css" timestamp="1472010375235">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1139" column="0" />
+        <mark key="]" line="1149" column="22" />
+        <mark key="." line="1149" column="22" />
+        <mark key="^" line="1149" column="22" />
       </file>
       <file name="/workspace/website/mhome/www/views/support/support-detail-List/support-detail-list.html" timestamp="1472206385390">
         <mark key="'" line="347" column="26" />
@@ -756,6 +736,20 @@
         <mark key="]" line="52" column="16" />
         <mark key="^" line="52" column="16" />
         <mark key="." line="52" column="16" />
+      </file>
+      <file name="/workspace/website/gwai/www/scss/util.scss" timestamp="1470641483103">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="52" column="1" />
+        <mark key="." line="52" column="1" />
+        <mark key="^" line="52" column="1" />
+      </file>
+      <file name="/workspace/website/gwai/www/services/vocabulary.js" timestamp="1472040793729">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="29" column="57" />
+        <mark key="]" line="29" column="57" />
+        <mark key="." line="29" column="57" />
+        <mark key="^" line="29" column="57" />
       </file>
       <file name="/workspace/website/mhome/www/views/support/support-list/support-list.html" timestamp="1472206705149">
         <mark key="'" line="54" column="16" />
@@ -785,6 +779,20 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-log/index.js" timestamp="1474164527762">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="86" column="23" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+      </file>
+      <file name="/workspace/website/gwai/www/views/memory/add/add.html" timestamp="1470625546015">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="36" />
+        <mark key="." line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+      </file>
       <file name="/workspace/website/mhome/www/lib/ionic/scss/_variables.scss" timestamp="1473042805162">
         <mark key="'" line="762" column="0" />
         <mark key="[" line="24" column="49" />
@@ -794,10 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="12" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="50" column="25" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
-      <jump line="124" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
-      <jump line="28" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
       <jump line="108" column="44" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
       <jump line="129" column="28" filename="/workspace/website/gowild-manage-system/src/components/select/index.js" />
       <jump line="61" column="67" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" />
@@ -894,6 +898,10 @@
       <jump line="24" column="61" filename="/workspace/website/gowild-manage-system/src/containers/login/index.js" />
       <jump line="39" column="18" filename="/workspace/website/gowild-manage-system/src/services/auth-service.js" />
       <jump line="28" column="0" filename="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" />
+      <jump line="4793" column="19" filename="/workspace/website/home/src/lib/bootstrap/css/bootstrap.css" />
+      <jump line="7402" column="4" filename="/workspace/website/home/src/lib/bootstrap/css/bootstrap.css" />
+      <jump line="7558" column="4" filename="/workspace/website/home/src/lib/bootstrap/css/bootstrap.css" />
+      <jump line="281" column="16" filename="/workspace/website/home/src/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -903,7 +911,7 @@
         <text>¬</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx7XD4=</text>
+        <text>font-family</text>
       </register>
       <register name="0" type="4">
         <text>authorizedModule</text>
@@ -946,17 +954,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx7XD4=</last-search>
+      <last-search>font-family</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
+      <last-pattern>font-family</last-pattern>
       <last-replace>Feedback</last-replace>
       <last-substitute>getMenuItem</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx9XD4=</entry>
         <entry>RobotLog</entry>
         <entry>select</entry>
         <entry>Select</entry>
@@ -976,6 +983,7 @@
         <entry>get</entry>
         <entry>getMenuItem</entry>
         <entry encoding="base64">XDx7XD4=</entry>
+        <entry>font-family</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
