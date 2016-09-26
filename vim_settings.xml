@@ -978,7 +978,7 @@
         <text encoding="base64">ICA8aDU+6K+356Gu5L+d5pWw5o2u5q2j56GuLOeEtuWQjueCueWHu+eUn+aIkOS6jOe7tOeggSznhLblkI7orqnmnLrlmajkurrmiavmj4/or6Xkuoznu7TnoIE8L2g1Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -1027,13 +1027,13 @@
         <entry>w'</entry>
         <entry>Q</entry>
         <entry>Wq</entry>
-        <entry>qa</entry>
         <entry>.w</entry>
         <entry>s</entry>
         <entry>W</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
