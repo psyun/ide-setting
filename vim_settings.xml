@@ -143,11 +143,12 @@
         <mark key="." line="194" column="166" />
         <mark key="^" line="194" column="166" />
       </file>
-      <file name="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.js" timestamp="1474878781843">
-        <mark key="[" line="39" column="48" />
-        <mark key="]" line="40" column="28" />
-        <mark key="^" line="40" column="28" />
-        <mark key="." line="40" column="28" />
+      <file name="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.js" timestamp="1474891578037">
+        <mark key="'" line="28" column="19" />
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="38" column="36" />
+        <mark key="." line="38" column="36" />
+        <mark key="^" line="38" column="36" />
       </file>
       <file name="/workspace/website/mhome/www/views/dash/dash.scss" timestamp="1472206838664">
         <mark key="'" line="67" column="19" />
@@ -594,12 +595,12 @@
         <mark key="." line="731" column="50" />
         <mark key="^" line="731" column="50" />
       </file>
-      <file name="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.html" timestamp="1474886279954">
+      <file name="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.html" timestamp="1474891795442">
         <mark key="'" line="3" column="12" />
-        <mark key="[" line="3" column="55" />
-        <mark key="]" line="3" column="57" />
-        <mark key="." line="3" column="57" />
-        <mark key="^" line="3" column="57" />
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="53" />
+        <mark key="." line="3" column="53" />
+        <mark key="^" line="3" column="53" />
       </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.scss" timestamp="1472457770201">
         <mark key="'" line="0" column="0" />
@@ -832,7 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
       <jump line="121" column="44" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
       <jump line="29" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
       <jump line="118" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
@@ -932,13 +932,14 @@
       <jump line="50" column="6" filename="/workspace/website/mhome/www/components/img/on-load-start.js" />
       <jump line="29" column="0" filename="/workspace/website/mhome/www/components/img/on-load-start.js" />
       <jump line="3" column="12" filename="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.html" />
+      <jump line="28" column="19" filename="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PC9pb24tY29udGVudD4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkc2NvcGUucXJDb2RlU3RyID0gSlNPTi5zdHJpbmdpZnkoJHNjb3BlLnFyQ29kZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9pb24tY29udGVudD4=</text>
+        <text>http://172.19.1.166:9001/web/rest/util/qrcode?json={{qrCodeStr}}</text>
       </register>
       <register name="/" type="4">
         <text>onLoad</text>
@@ -947,34 +948,34 @@
         <text encoding="base64">KGZ1bmN0aW9uIChhbmd1bGFyKSB7CiAgInVzZSBzdHJpY3QiOwoKICBhbmd1bGFyLm1vZHVsZSgnc3RhcnRlci5jb21wb25lbnRzJykKCiAgICAuZGlyZWN0aXZlKCdzY3JvbGxWaWV3JywgW2Z1bmN0aW9uICgpIHsKICAgICAgcmV0dXJuIHsKICAgICAgICByZXN0cmljdDogJ0UnLAogICAgICAgIHJlcGxhY2U6IHRydWUsCiAgICAgICAgc2NvcGU6IHsKICAgICAgICAgIG9uQ2hhbmdlVGl0bGU6ICcmJwogICAgICAgIH0sCiAgICAgICAgdHJhbnNjbHVkZTogdHJ1ZSwKICAgICAgICB0ZW1wbGF0ZVVybDogJy4vY29tcG9uZW50cy9zY3JvbGwtdmlldy9zY3JvbGwtdmlldy5odG1sJywKICAgICAgICBsaW5rOiBmdW5jdGlvbiAoc2NvcGUsIGVsZSwgYXR0cikgewogICAgICAgICAgZWxlWzBdLmFkZEV2ZW50TGlzdGVuZXIoJ3RvdWNobW92ZScsIGZ1bmN0aW9uIChldmVudCkgewogICAgICAgICAgICB2YXIgZWxlUGF0aCA9IGV2ZW50LnBhdGg7CgogICAgICAgICAgICBmb3IgKHZhciBpID0gMDsgaSA8IGVsZVBhdGgubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICB2YXIgcmVnID0gL15zdGFyLzsKICAgICAgICAgICAgICBpZiAocmVnLnRlc3QoZWxlUGF0aFtpXS5jbGFzc05hbWUpKSB7CiAgICAgICAgICAgICAgICBzY29wZS5vbkNoYW5nZVRpdGxlKHsKICAgICAgICAgICAgICAgICAgJHRpdGxlOiBlbGVQYXRoW2ldLmRhdGFzZXQudGl0bGUKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgIH0pCiAgICAgICAgfQogICAgICB9CiAgICB9XSkKfSkoYW5ndWxhcik7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8aDU+6K+356Gu5L+d5pWw5o2u5q2j56GuLOeEtuWQjueCueWHu+eUn+aIkOS6jOe7tOeggSznhLblkI7orqnmnLrlmajkurrmiavmj4/or6Xkuoznu7TnoIE8L2g1Pgo=</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUucXJDb2RlU3RyID0gSlNPTi5zdHJpbmdpZnkoJHNjb3BlLnFyQ29kZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2snKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGR1cmF0aW9uOiAxMDAwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGR1cmF0aW9uOiA0MDAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgIC8vICRzY29wZS5nZXRRckNvZGUgPSBmdW5jdGlvbiAoKSB7CiAgICAgIC8vICAgcmV0dXJuIEpTT04uc3RyaW5naWZ5KCRzY29wZS5xckNvZGUpOwogICAgICAvLyB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkaW9uaWNMb2FkaW5nLmhpZGUoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlbGF5OiAxMDAsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2snKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBvbmxvYWQgPSAkcGFyc2VrCg==</text>
+        <text encoding="base64">ICA8aDU+6K+356Gu5L+d5pWw5o2u5q2j56GuLOeEtuWQjueCueWHu+eUn+aIkOS6jOe7tOeggSznhLblkI7orqnmnLrlmajkurrmiavmj4/or6Xkuoznu7TnoIE8L2g1Pgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2snKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
