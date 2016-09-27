@@ -492,12 +492,12 @@
         <mark key="^" line="652" column="26" />
         <mark key="." line="652" column="26" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" timestamp="1474985765230">
+      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" timestamp="1474986861955">
         <mark key="'" line="95" column="68" />
-        <mark key="[" line="69" column="8" />
-        <mark key="]" line="69" column="8" />
-        <mark key="." line="69" column="8" />
-        <mark key="^" line="67" column="23" />
+        <mark key="[" line="122" column="95" />
+        <mark key="]" line="122" column="101" />
+        <mark key="." line="122" column="101" />
+        <mark key="^" line="122" column="101" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1474972591676">
         <mark key="'" line="102" column="9" />
@@ -977,7 +977,7 @@
         <text encoding="base64">ICAgICAgICAgIHN0eWxlPXt7ZGlzcGxheTpub25lfX0K</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1030,9 +1030,9 @@
         <entry>we</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
