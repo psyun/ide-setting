@@ -101,12 +101,6 @@
         <mark key="." line="97" column="20" />
         <mark key="^" line="97" column="20" />
       </file>
-      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1474853798613">
-        <mark key="[" line="13" column="65" />
-        <mark key="]" line="13" column="64" />
-        <mark key="^" line="13" column="64" />
-        <mark key="." line="13" column="64" />
-      </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1474687277957">
         <mark key="'" line="138" column="46" />
         <mark key="[" line="191" column="48" />
@@ -435,11 +429,11 @@
         <mark key="^" line="134" column="41" />
         <mark key="." line="134" column="41" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/batch-option-bar/index.js" timestamp="1474946200449">
-        <mark key="[" line="40" column="55" />
-        <mark key="]" line="40" column="50" />
-        <mark key="^" line="40" column="50" />
-        <mark key="." line="40" column="50" />
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/batch-option-bar/index.js" timestamp="1474947389710">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="32" column="22" />
+        <mark key="." line="32" column="22" />
+        <mark key="^" line="32" column="22" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/role-manage/index.js" timestamp="1474943359798">
         <mark key="'" line="40" column="8" />
@@ -469,12 +463,12 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="120" column="34" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/index.js" timestamp="1474943817603">
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/index.js" timestamp="1474948066855">
         <mark key="'" line="143" column="0" />
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="49" column="16" />
-        <mark key="." line="49" column="16" />
-        <mark key="^" line="49" column="16" />
+        <mark key="[" line="132" column="60" />
+        <mark key="]" line="132" column="90" />
+        <mark key="." line="132" column="90" />
+        <mark key="^" line="132" column="90" />
       </file>
       <file name="/workspace/website/mhome/www/views/product/xxb/xxb.html" timestamp="1472439881440">
         <mark key="'" line="109" column="15" />
@@ -496,12 +490,12 @@
         <mark key="^" line="42" column="20" />
         <mark key="." line="42" column="20" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1474946326225">
-        <mark key="'" line="278" column="0" />
-        <mark key="[" line="121" column="7" />
-        <mark key="]" line="121" column="27" />
-        <mark key="." line="121" column="27" />
-        <mark key="^" line="121" column="27" />
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1474948042197">
+        <mark key="'" line="279" column="0" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
+        <mark key="^" line="271" column="7" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/date-time-range/index.js" timestamp="1473407287086">
         <mark key="'" line="50" column="11" />
@@ -935,10 +929,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this.props.onSelectAll</text>
+        <text>selectStatus</text>
       </register>
       <register name="/" type="4">
         <text>getMenuItem</text>
@@ -947,34 +941,36 @@
         <text>handleSelectAll</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaXNTZWxlY3RBbGw6IGZhbHNlLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy90b2dnbGUgc2VsZWN0IGFsbCBzdGF0dXMK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGhhbmRsZVNlbGVjdEFsbCgpIHsKICAgIGxldCB7IGlzU2VsZWN0QWxsIH0gPXRoaXMuc3RhdGU7CgogICAgaXNTZWxlY3RBbGwgPSAhaXNTZWxlY3RBbGw7CgogICAgdGhpcy5wcm9wcy5vblNlbGVjdEFsbChpc1NlbGVjdEFsbCk7CgogICAgdGhpcy5zZXRTdGF0ZSh7IGlzU2VsZWN0QWxsIH0pOwogIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>if (!row.selected) {
+        isSelectAll = false;
+      }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt9Cg==</text>
+        <text encoding="base64">ICBwcm9wVHlwZXM6ewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaGFuZGxlU2VsZWN0QWxsID0gdGhpcy5oYW5kbGVTZWxlY3RBbGwuYmluZCh0aGlzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1028,10 +1024,10 @@
         <entry>Wq</entry>
         <entry>.w</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>s</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
