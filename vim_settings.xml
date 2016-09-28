@@ -470,6 +470,12 @@
         <mark key="." line="22" column="22" />
         <mark key="^" line="22" column="22" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/search-form/index.js" timestamp="1475058282850">
+        <mark key="[" line="39" column="47" />
+        <mark key="]" line="39" column="47" />
+        <mark key="." line="39" column="47" />
+        <mark key="^" line="39" column="47" />
+      </file>
       <file name="/workspace/website/gwai/www/components/checkbox/checkbox.html" timestamp="1470304385703">
         <mark key="'" line="1" column="7" />
         <mark key="[" line="0" column="4" />
@@ -947,8 +953,8 @@
       <jump line="43" column="20" filename="/workspace/website/gowild-manage-system/src/components/select/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>this.props.form.getFieldsValue()</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -957,7 +963,7 @@
         <text>Batch</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i54q25oCBIgogICAgICAgICAgbGFiZWxDb2w9e3tzcGFuOjZ9fQogICAgICAgICAgd3JhcHBlckNvbD17e3NwYW46MTh9fQogICAgICAgID4KICAgICAgICAgIDxTZWxlY3QgZGF0YT17dGhpcy5zdGF0ZS5zdGF0dXNEYXRhfSB2YWx1ZUZpZWxkPSJ2YWx1ZSIgdGV4dEZpZWxkPSJ0ZXh0IiBuYW1lPSJzdGF0dXMiCiAgICAgICAgICAgICAgICAgIGZvcm09e2Zvcm19Lz4KICAgICAgICA8L0Zvcm1JdGVtPg==</text>
+        <text>this.props.form.getFieldsValue()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -998,7 +1004,7 @@
       <last-offset />
       <last-pattern>Batch</last-pattern>
       <last-replace>Feedback</last-replace>
-      <last-substitute>getMenuItem</last-substitute>
+      <last-substitute>Batch</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
