@@ -360,6 +360,12 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="50" column="26" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/node_modules/rc-form/lib/createBaseForm.js" timestamp="1475057672300">
+        <mark key="[" line="186" column="9" />
+        <mark key="]" line="188" column="37" />
+        <mark key="^" line="188" column="37" />
+        <mark key="." line="188" column="37" />
+      </file>
       <file name="/workspace/website/gwai/www/scss/components/checkbox-item.scss" timestamp="1473838815295">
         <mark key="'" line="16" column="16" />
         <mark key="[" line="15" column="17" />
@@ -1035,10 +1041,10 @@
         <entry>s</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>we</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>wq</entry>
         <entry>qa</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
