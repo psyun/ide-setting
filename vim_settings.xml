@@ -183,6 +183,13 @@
         <mark key="." line="92" column="20" />
         <mark key="^" line="92" column="20" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" timestamp="1475071720942">
+        <mark key="'" line="56" column="12" />
+        <mark key="[" line="43" column="23" />
+        <mark key="]" line="43" column="12" />
+        <mark key="." line="43" column="12" />
+        <mark key="^" line="43" column="12" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1475065057349">
         <mark key="'" line="35" column="35" />
         <mark key="[" line="92" column="18" />
@@ -225,9 +232,9 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/config.js" timestamp="1475065515482">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="24" column="17" />
+      <file name="/workspace/website/gowild-manage-system/src/config.js" timestamp="1475068996899">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="34" />
       </file>
       <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1473584961967">
         <mark key="'" line="0" column="0" />
@@ -457,12 +464,12 @@
         <mark key="^" line="134" column="41" />
         <mark key="." line="134" column="41" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/role-manage/index.js" timestamp="1475067921392">
-        <mark key="'" line="40" column="8" />
-        <mark key="[" line="48" column="23" />
-        <mark key="]" line="48" column="24" />
-        <mark key="." line="48" column="24" />
-        <mark key="^" line="48" column="24" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/role-manage/index.js" timestamp="1475069610749">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="61" column="38" />
+        <mark key="]" line="61" column="43" />
+        <mark key="." line="61" column="43" />
+        <mark key="^" line="61" column="43" />
       </file>
       <file name="/workspace/antd/form/src/createDOMForm.js" timestamp="1475046952682" />
       <file name="/workspace/website/mhome/www/views/news/news-detail/news-detail.scss" timestamp="1472461802941">
@@ -849,20 +856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="13" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
-      <jump line="88" column="20" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
-      <jump line="34" column="35" filename="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" />
-      <jump line="96" column="43" filename="/workspace/website/home/src/index.html" />
-      <jump line="0" column="0" filename="/workspace/website/home/src/index.html" />
-      <jump line="32" column="31" filename="/workspace/website/home/src/home/news/video.html" />
-      <jump line="0" column="0" filename="/workspace/website/home/src/home/news/video.html" />
-      <jump line="32" column="32" filename="/workspace/website/home/src/home/ours/index.html" />
-      <jump line="74" column="9" filename="/workspace/website/home/src/home/plus/index.html" />
-      <jump line="33" column="31" filename="/workspace/website/home/src/home/product/gongzixiaobai.html" />
-      <jump line="666" column="31" filename="/workspace/website/home/src/home/product/gwais.html" />
-      <jump line="0" column="0" filename="/workspace/website/home/src/home/product/product-video.html" />
-      <jump line="29" column="32" filename="/workspace/website/home/src/home/support/after-sales.html" />
-      <jump line="185" column="41" filename="/workspace/website/home/src/home/support/index.html" />
       <jump line="29" column="32" filename="/workspace/website/home/src/home/support/qa.html" />
       <jump line="30" column="55" filename="/workspace/website/home/src/home/support/step.html" />
       <jump line="29" column="32" filename="/workspace/website/home/src/home/support/tech.html" />
@@ -949,49 +942,63 @@
       <jump line="23" column="62" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" />
       <jump line="24" column="27" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" />
       <jump line="28" column="53" filename="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" />
+      <jump line="61" column="3" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/index.js" />
+      <jump line="26" column="0" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/index.js" />
+      <jump line="31" column="27" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
+      <jump line="53" column="12" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
+      <jump line="55" column="9" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
+      <jump line="61" column="0" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
+      <jump line="29" column="26" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
+      <jump line="45" column="46" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
+      <jump line="60" column="7" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
+      <jump line="69" column="0" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
+      <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
+      <jump line="32" column="0" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
+      <jump line="50" column="1" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
+      <jump line="58" column="12" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7Li4udGhpcy5wcm9wc30K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29uc3QgbW9kdWxlID0gewogICAgICB0aXRsZTogbGlzdFtpXS5yZXNvdXJjZU1vZHVsZSwKICAgICAgaWQ6IGBwYXJlbnRfJHtsaXN0W2ldLmlkfWAsCiAgICB9CiAgICBtb2R1bGUuY2hpbGRyZW4gPSBbXTsKICAgIGZvciAodmFyIGogPSAwOyBqIDwgbGlzdC5sZW5ndGg7IGorKykgewogICAgICBpZiAoaSAhPT0gaiAmJiBsaXN0W2ldLnJlc291cmNlTW9kdWxlID09PSBsaXN0W2pdLnJlc291cmNlTW9kdWxlKSB7CiAgICAgICAgbW9kdWxlLmNoaWxkcmVuLnB1c2goewogICAgICAgICAgdGl0bGU6IGxpc3Rbal0ucmVzb3VyY2VDb210LAogICAgICAgICAgaWQ6IGxpc3Rbal0uaWQsCiAgICAgICAgfSk7CiAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>{this.props.title || 上传}</text>
+        <text>list[j]</text>
       </register>
       <register name="/" type="4">
         <text>Batch</text>
       </register>
-      <register name="0" type="4">
-        <text>REST_SERVER_ROOT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBSRVNUX1NFUlZFUl9ST09UOiAnL2FwaS9tYW5hZ2UnLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7Li4udGhpcy5wcm9wc30K</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y29uc3QgbW9kdWxlID0gewogICAgICB0aXRsZTogbGlzdFtpXS5yZXNvdXJjZU1vZHVsZSwKICAgICAgaWQ6IGBwYXJlbnRfJHtsaXN0W2ldLmlkfWAsCiAgICB9CiAgICBtb2R1bGUuY2hpbGRyZW4gPSBbXTsKICAgIGZvciAodmFyIGogPSAwOyBqIDwgbGlzdC5sZW5ndGg7IGorKykgewogICAgICBpZiAoaSAhPT0gaiAmJiBsaXN0W2ldLnJlc291cmNlTW9kdWxlID09PSBsaXN0W2pdLnJlc291cmNlTW9kdWxlKSB7CiAgICAgICAgbW9kdWxlLmNoaWxkcmVuLnB1c2goewogICAgICAgICAgdGl0bGU6IGxpc3Rbal0ucmVzb3VyY2VDb210LAogICAgICAgICAgaWQ6IGxpc3Rbal0uaWQsCiAgICAgICAgfSk7CiAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhlYWRlcnMgPSAK</text>
+        <text encoding="base64">ICAgIHRyZWUucHVzaChtb2R1bGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGp1ZGdlIGlmIHRoZSByZW5kZXIgdG9vbGJhciBpcyBmdW5jdGlvbgo=</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBoYXNUb29sYmFyID0gOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAxCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9Hb3dpbGRVcGxvYWRlcj4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Li4udGhpcy5wcm9wc30K</text>
+      <register name="8" type="4">
+        <text encoding="base64">PFRyZWVOb2RlIHRpdGxlPSJwYXJlbnQgMSIga2V5PSIwLTAiPgogICAgICAgICAgICA8VHJlZU5vZGUgdGl0bGU9InBhcmVudCAxLTAiIGtleT0iMC0wLTAiIGRpc2FibGVkPgogICAgICAgICAgICAgIDxUcmVlTm9kZSB0aXRsZT0ibGVhZiIga2V5PSIwLTAtMC0wIiBkaXNhYmxlQ2hlY2tib3gvPgogICAgICAgICAgICAgIDxUcmVlTm9kZSB0aXRsZT0ibGVhZiIga2V5PSIwLTAtMC0xIi8+CiAgICAgICAgICAgIDwvVHJlZU5vZGU+CiAgICAgICAgICAgIDxUcmVlTm9kZSB0aXRsZT0icGFyZW50IDEtMSIga2V5PSIwLTAtMSI+CiAgICAgICAgICAgICAgPFRyZWVOb2RlIHRpdGxlPXs8c3BhbiBzdHlsZT17eyBjb2xvcjogJyMwOGMnIH19PnNzczwvc3Bhbj59IGtleT0iMC0wLTEtMCIvPgogICAgICAgICAgICA8L1RyZWVOb2RlPgogICAgICAgICAgPC9UcmVlTm9kZT4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1044,11 +1051,11 @@
         <entry>.w</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
-        <entry>W</entry>
         <entry>qa</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>we</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
