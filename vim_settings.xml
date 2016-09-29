@@ -183,12 +183,12 @@
         <mark key="." line="92" column="20" />
         <mark key="^" line="92" column="20" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" timestamp="1475075334054">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="114" column="6" />
-        <mark key="]" line="114" column="6" />
-        <mark key="." line="114" column="6" />
-        <mark key="^" line="114" column="6" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" timestamp="1475114475052">
+        <mark key="'" line="85" column="50" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="111" column="25" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1475065057349">
         <mark key="'" line="35" column="35" />
@@ -305,12 +305,6 @@
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
         <mark key="^" line="0" column="58" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/batch-status-edit.js" timestamp="1474970933353">
-        <mark key="'" line="25" column="9" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="/workspace/font/font-subset/src/generate.js" timestamp="1472877087078">
         <mark key="'" line="32" column="27" />
@@ -471,7 +465,6 @@
         <mark key="." line="61" column="43" />
         <mark key="^" line="61" column="43" />
       </file>
-      <file name="/workspace/antd/form/src/createDOMForm.js" timestamp="1475046952682" />
       <file name="/workspace/website/mhome/www/views/news/news-detail/news-detail.scss" timestamp="1472461802941">
         <mark key="'" line="28" column="16" />
         <mark key="[" line="19" column="23" />
@@ -763,12 +756,12 @@
         <mark key="." line="81" column="63" />
         <mark key="^" line="81" column="63" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1474375535940">
-        <mark key="'" line="103" column="29" />
-        <mark key="[" line="44" column="27" />
-        <mark key="]" line="44" column="26" />
-        <mark key="." line="44" column="26" />
-        <mark key="^" line="44" column="26" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1475114819818">
+        <mark key="'" line="105" column="29" />
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="32" column="37" />
+        <mark key="^" line="32" column="37" />
       </file>
       <file name="/workspace/website/home/src/css/base.css" timestamp="1472010375235">
         <mark key="'" line="0" column="0" />
@@ -784,7 +777,7 @@
         <mark key="^" line="367" column="19" />
         <mark key="." line="367" column="19" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1474965095732">
+      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1475114451048">
         <mark key="'" line="47" column="3" />
         <mark key="[" line="54" column="20" />
         <mark key="]" line="54" column="19" />
@@ -856,8 +849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="53" filename="/workspace/website/gowild-manage-system/src/containers/home/index.js" />
-      <jump line="192" column="3" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="81" column="0" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="91" column="25" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="41" column="22" filename="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" />
@@ -956,10 +947,12 @@
       <jump line="76" column="0" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
       <jump line="85" column="13" filename="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" />
       <jump line="134" column="3" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
+      <jump line="103" column="7" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
+      <jump line="85" column="50" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZm9ybQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC9UcmVlTm9kZT4=</text>
@@ -971,34 +964,34 @@
         <text encoding="base64">PFRyZWVOb2RlIHRpdGxlPXtub2RlLnRpdGxlfSBrZXk9e25vZGUuaWR9PjwvVHJlZU5vZGU+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZm9ybQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PFRyZWVOb2RlIHRpdGxlPSJwYXJlbnQgMSIga2V5PSIwLTAiPgogICAgICAgICAgICA8VHJlZU5vZGUgdGl0bGU9InBhcmVudCAxLTAiIGtleT0iMC0wLTAiIGRpc2FibGVkPgogICAgICAgICAgICAgIDxUcmVlTm9kZSB0aXRsZT0ibGVhZiIga2V5PSIwLTAtMC0wIiBkaXNhYmxlQ2hlY2tib3gvPgogICAgICAgICAgICAgIDxUcmVlTm9kZSB0aXRsZT0ibGVhZiIga2V5PSIwLTAtMC0xIi8+CiAgICAgICAgICAgIDwvVHJlZU5vZGU+CiAgICAgICAgICAgIDxUcmVlTm9kZSB0aXRsZT0icGFyZW50IDEtMSIga2V5PSIwLTAtMSI+CiAgICAgICAgICAgICAgPFRyZWVOb2RlIHRpdGxlPXs8c3BhbiBzdHlsZT17eyBjb2xvcjogJyMwOGMnIH19PnNzczwvc3Bhbj59IGtleT0iMC0wLTEtMCIvPgogICAgICAgICAgICA8L1RyZWVOb2RlPgogICAgICAgICAgPC9UcmVlTm9kZT4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNjb25zb2xlLmxvZyhjaGVja2VkTm9kZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnByb3BzLnJlbmRlclRvb2xiYXIgJiYK</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZm9ybQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAKICAgIH0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">PFRyZWVOb2RlIHRpdGxlPSJwYXJlbnQgMSIga2V5PSIwLTAiPgogICAgICAgICAgICA8VHJlZU5vZGUgdGl0bGU9InBhcmVudCAxLTAiIGtleT0iMC0wLTAiIGRpc2FibGVkPgogICAgICAgICAgICAgIDxUcmVlTm9kZSB0aXRsZT0ibGVhZiIga2V5PSIwLTAtMC0wIiBkaXNhYmxlQ2hlY2tib3gvPgogICAgICAgICAgICAgIDxUcmVlTm9kZSB0aXRsZT0ibGVhZiIga2V5PSIwLTAtMC0xIi8+CiAgICAgICAgICAgIDwvVHJlZU5vZGU+CiAgICAgICAgICAgIDxUcmVlTm9kZSB0aXRsZT0icGFyZW50IDEtMSIga2V5PSIwLTAtMSI+CiAgICAgICAgICAgICAgPFRyZWVOb2RlIHRpdGxlPXs8c3BhbiBzdHlsZT17eyBjb2xvcjogJyMwOGMnIH19PnNzczwvc3Bhbj59IGtleT0iMC0wLTEtMCIvPgogICAgICAgICAgICA8L1RyZWVOb2RlPgogICAgICAgICAgPC9UcmVlTm9kZT4=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGlmICghZGF0YVtpXS5jaGlsZHJlbikgewogICAgICAgIHJldHVybiAoPFRyZWVOb2RlIHRpdGxlPXtkYXRhW2ldLnRpdGxlfSBrZXk9e2RhdGFbaV0uaWR9PjwvVHJlZU5vZGU+KQogICAgICB9IGVsc2UgewogICAgICAgIHJldHVybiB0aGlzLmdldFRyZWVOb2RlKGRhdGFbaV0uY2hpbGRyZW4pOwogICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAodmFyIGkgPSAwOyBpIDwgZGF0YTsgaSsrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnByb3BzLnJlbmRlclRvb2xiYXIgJiYK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAKICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0VHJlZURhCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGlmICghZGF0YVtpXS5jaGlsZHJlbikgewogICAgICAgIHJldHVybiAoPFRyZWVOb2RlIHRpdGxlPXtkYXRhW2ldLnRpdGxlfSBrZXk9e2RhdGFbaV0uaWR9PjwvVHJlZU5vZGU+KQogICAgICB9IGVsc2UgewogICAgICAgIHJldHVybiB0aGlzLmdldFRyZWVOb2RlKGRhdGFbaV0uY2hpbGRyZW4pOwogICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1052,9 +1045,9 @@
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>we</entry>
         <entry>eq</entry>
+        <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
