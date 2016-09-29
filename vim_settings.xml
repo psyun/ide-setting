@@ -107,12 +107,6 @@
         <mark key="." line="97" column="20" />
         <mark key="^" line="97" column="20" />
       </file>
-      <file name="/workspace/website/gwai/www/utils/device-util.js" timestamp="1474853798613">
-        <mark key="[" line="13" column="65" />
-        <mark key="]" line="13" column="64" />
-        <mark key="^" line="13" column="64" />
-        <mark key="." line="13" column="64" />
-      </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1474687277957">
         <mark key="'" line="138" column="46" />
         <mark key="[" line="191" column="48" />
@@ -298,12 +292,12 @@
         <mark key="." line="213" column="166" />
         <mark key="^" line="213" column="166" />
       </file>
-      <file name="/workspace/website/gwai/www/views/qa/add/add.html" timestamp="1473578019383">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="0" column="50" />
-        <mark key="]" line="0" column="58" />
-        <mark key="." line="0" column="58" />
-        <mark key="^" line="0" column="58" />
+      <file name="/workspace/website/gwai/www/views/qa/add/add.html" timestamp="1475130589706">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="102" />
+        <mark key="." line="24" column="102" />
+        <mark key="^" line="24" column="102" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/batch-status-edit.js" timestamp="1474970933353">
         <mark key="'" line="25" column="9" />
@@ -657,6 +651,12 @@
         <mark key="." line="27" column="19" />
         <mark key="^" line="27" column="19" />
       </file>
+      <file name="/workspace/website/gwai/www/views/qa/edit/edit.html" timestamp="1475130607144">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="29" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+      </file>
       <file name="/workspace/website/gwai/www/views/vocabulary/vocabulary.js" timestamp="1470454214958">
         <mark key="'" line="24" column="11" />
         <mark key="[" line="21" column="0" />
@@ -998,7 +998,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVMaXN0KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1051,9 +1051,9 @@
         <entry>q</entry>
         <entry>we</entry>
         <entry>eq</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
