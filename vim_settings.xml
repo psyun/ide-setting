@@ -121,11 +121,12 @@
         <mark key="." line="6" column="167" />
         <mark key="^" line="6" column="167" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" timestamp="1475125958065">
+      <file name="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" timestamp="1475140719385">
         <mark key="'" line="45" column="36" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
+        <mark key="^" line="45" column="39" />
       </file>
       <file name="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" timestamp="1474879193943">
         <mark key="'" line="66" column="5" />
@@ -298,12 +299,6 @@
         <mark key="]" line="24" column="102" />
         <mark key="." line="24" column="102" />
         <mark key="^" line="24" column="102" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/batch-status-edit.js" timestamp="1474970933353">
-        <mark key="'" line="25" column="9" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="/workspace/font/font-subset/src/generate.js" timestamp="1472877087078">
         <mark key="'" line="32" column="27" />
@@ -998,7 +993,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVMaXN0KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1052,8 +1047,8 @@
         <entry>we</entry>
         <entry>eq</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
