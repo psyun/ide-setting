@@ -127,12 +127,11 @@
         <mark key="." line="6" column="167" />
         <mark key="^" line="6" column="167" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" timestamp="1475120862608">
-        <mark key="'" line="49" column="36" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="42" column="38" />
-        <mark key="." line="42" column="38" />
-        <mark key="^" line="42" column="38" />
+      <file name="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" timestamp="1475125958065">
+        <mark key="'" line="45" column="36" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/workspace/website/mhome/www/components/nav-bar/nav-bar.js" timestamp="1474879193943">
         <mark key="'" line="66" column="5" />
@@ -305,6 +304,12 @@
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
         <mark key="^" line="0" column="58" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/batch-status-edit.js" timestamp="1474970933353">
+        <mark key="'" line="25" column="9" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="/workspace/font/font-subset/src/generate.js" timestamp="1472877087078">
         <mark key="'" line="32" column="27" />
@@ -951,7 +956,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVwbG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZm8uZmlsZS5zdGF0dXMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -963,34 +968,34 @@
         <text encoding="base64">PFRyZWVOb2RlIHRpdGxlPXtub2RlLnRpdGxlfSBrZXk9e25vZGUuaWR9PjwvVHJlZU5vZGU+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVwbG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZm8uZmlsZS5zdGF0dXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKGZpbGUucmUpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGUpOwo=</text>
+        <text encoding="base64">bWVzc2FnZS5wcm8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChpbmZvLmZpbGUuc3RhdHVzID09PSAndXBsb2FkaW5nJykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVMaXN0KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVwbG9hZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGUpOwo=</text>
+        <text encoding="base64">ICAgIGlmKGZpbGUucmUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGFuZGxlVXBsb2RkZFN1Y2Nlc3MgPSB0aGlzLmhhbmRsZVVwbG9hZFN1Y2Nlc3MuYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGUpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVMaXN0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
