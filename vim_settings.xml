@@ -17,7 +17,7 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" timestamp="1474976837664">
+      <file name="/workspace/website/gowild-manage-system/src/containers/alarm/index.js" timestamp="1475217759574">
         <mark key="'" line="107" column="45" />
         <mark key="[" line="107" column="55" />
         <mark key="]" line="107" column="45" />
@@ -121,7 +121,7 @@
         <mark key="." line="6" column="167" />
         <mark key="^" line="6" column="167" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" timestamp="1475140719385">
+      <file name="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" timestamp="1475217534414">
         <mark key="'" line="45" column="36" />
         <mark key="[" line="45" column="43" />
         <mark key="]" line="45" column="39" />
@@ -479,12 +479,11 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" timestamp="1475074861732">
-        <mark key="'" line="85" column="13" />
-        <mark key="[" line="82" column="52" />
-        <mark key="]" line="83" column="37" />
-        <mark key="." line="83" column="37" />
-        <mark key="^" line="83" column="37" />
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" timestamp="1475220324752">
+        <mark key="[" line="100" column="14" />
+        <mark key="]" line="100" column="14" />
+        <mark key="." line="100" column="14" />
+        <mark key="^" line="100" column="14" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/index.js" timestamp="1475075027979">
         <mark key="'" line="134" column="3" />
@@ -687,11 +686,12 @@
         <mark key="." line="51" column="30" />
         <mark key="^" line="51" column="30" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" timestamp="1475119774541">
-        <mark key="'" line="24" column="27" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" timestamp="1475218867442">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="112" column="62" />
+        <mark key="]" line="112" column="63" />
+        <mark key="." line="112" column="63" />
+        <mark key="^" line="112" column="63" />
       </file>
       <file name="/workspace/website/gwai/www/views/vocabulary/guide/guide.html" timestamp="1472038659635">
         <mark key="'" line="0" column="38" />
@@ -848,7 +848,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="25" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="41" column="22" filename="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" />
       <jump line="45" column="7" filename="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" />
       <jump line="22" column="0" filename="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" />
@@ -948,49 +947,50 @@
       <jump line="103" column="7" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
       <jump line="85" column="50" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
       <jump line="43" column="36" filename="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" />
+      <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZm8uZmlsZS5zdGF0dXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2snKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>resolve</text>
       </register>
       <register name="/" type="4">
         <text>Batch</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PFRyZWVOb2RlIHRpdGxlPXtub2RlLnRpdGxlfSBrZXk9e25vZGUuaWR9PjwvVHJlZU5vZGU+</text>
+        <text>this.props.form.validateFields</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZm8uZmlsZS5zdGF0dXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2snKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KT0+IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWVzc2FnZS5wcm8K</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmZvcm0udmFsaWRhdGVGaWVsZHMoKGVycm9ycyk9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChpbmZvLmZpbGUuc3RhdHVzID09PSAndXBsb2FkaW5nJykgewo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVwbG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmVqZWN0Owo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKGZpbGUucmUpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">bGV0IHBhdGggPSAnJzsKICAgIGxldCByZXFPcHRpb25zID0gewogICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgZGF0YTogdGhpcy5wcm9wcy5mb3JtLmdldEZpZWxkc1ZhbHVlKCksCiAgICB9OwogICAgY29uc3QgdHJhbnNwb3J0ID0gdGhpcy5wcm9wcy50cmFuc3BvcnQ7CgogICAgc3dpdGNoICh0aGlzLnByb3BzLmN1cnJlbnRNb2RhbEZvcm1UeXBlKSB7CiAgICAgIGNhc2UgbW9kYWxGb3JtVHlwZS5JTlNFUlQ6CiAgICAgICAgcGF0aCA9IHRyYW5zcG9ydC5pbnNlcnQudXJsOwogICAgICAgIHJlcU9wdGlvbnMubWV0aG9kID0gdHJhbnNwb3J0Lmluc2VydC5tZXRob2Q7CgogICAgICAgIGJyZWFrOwogICAgICBjYXNlIG1vZGFsRm9ybVR5cGUuVVBEQVRFOgogICAgICAgIHBhdGggPSB0cmFuc3BvcnQudXBkYXRlLnVybDsKICAgICAgICByZXFPcHRpb25zLm1ldGhvZCA9IHRyYW5zcG9ydC51cGRhdGUubWV0aG9kOwogICAgICAgIC8vIFRPRE86IG1ha2UgaWQgZmllbGQgY3VzdG9tZQogICAgICAgIHJlcU9wdGlvbnMuZGF0YS5pZCA9IHRoaXMucHJvcHMuY3VycmVudFJvd0RhdGEuaWQ7CiAgICAgICAgYnJlYWs7CiAgICB9CiAgICAvLyBzZXQgbG9hZGluZwogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIC4uLnRoaXMuc3RhdGUsCiAgICAgIGlzQ29uZmlybWluZzogdHJ1ZSwKICAgIH0pCgogICAgLy8gcG9zdCBkYXRhcyB0byBzZXJ2ZXIKICAgIGh0dHBGZXRjaChSRVNUX1NFUlZFUl9ST09UICsgcGF0aCwgcmVxT3B0aW9ucykKICAgICAgLnRoZW4oKHJlcyk9PiB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAuLi50aGlzLnN0YXRlLAogICAgICAgICAgaXNDb25maXJtaW5nOiBmYWxzZSwKICAgICAgICB9KTsKCiAgICAgICAgdGhpcy5jbG9zZSgpOwogICAgICAgIC8vIFRPRE86IG5lZWQgc2VydmVyIHJlc3BvbnNlIHRoZSBzdWNjZXNzIGRhdGEKICAgICAgICB0aGlzLnByb3BzLm9uU3VjY2VzcyhyZXMpOwogICAgICB9KTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGUpOwo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZm9ybS52YWxpZGF0ZUZpZWxkcyhmdW5jdGlvbiAoZXJyb3JzKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVqZWN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
