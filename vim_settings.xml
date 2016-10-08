@@ -191,12 +191,12 @@
         <mark key="." line="92" column="17" />
         <mark key="^" line="92" column="17" />
       </file>
-      <file name="/workspace/website/mhome/www/views/product/star/star.html" timestamp="1472528926729">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="113" column="44" />
-        <mark key="]" line="113" column="43" />
-        <mark key="^" line="113" column="43" />
-        <mark key="." line="113" column="43" />
+      <file name="/workspace/website/mhome/www/views/product/star/star.html" timestamp="1475910790835">
+        <mark key="'" line="108" column="11" />
+        <mark key="[" line="61" column="29" />
+        <mark key="]" line="61" column="50" />
+        <mark key="^" line="61" column="50" />
+        <mark key="." line="61" column="50" />
       </file>
       <file name="/workspace/website/mhome/www/views/support/details/xb/xb.html" timestamp="1472716067858">
         <mark key="'" line="327" column="37" />
@@ -225,10 +225,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="10" column="33" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/config.js" timestamp="1475068996899">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="34" />
       </file>
       <file name="/workspace/website/gwai/www/utils/rest-hapi.js" timestamp="1473584961967">
         <mark key="'" line="0" column="0" />
@@ -264,6 +260,13 @@
         <mark key="]" line="113" column="34" />
         <mark key="^" line="113" column="34" />
         <mark key="." line="113" column="34" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/product/star/star.scss" timestamp="1475910880519">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="117" column="14" />
+        <mark key="]" line="117" column="14" />
+        <mark key="." line="117" column="14" />
+        <mark key="^" line="117" column="14" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/js/ionic-angular.js" timestamp="1473841363330">
         <mark key="'" line="3614" column="7" />
@@ -492,11 +495,11 @@
         <mark key="." line="150" column="70" />
         <mark key="^" line="150" column="70" />
       </file>
-      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.html" timestamp="1475897428198">
-        <mark key="[" line="60" column="25" />
-        <mark key="]" line="60" column="24" />
-        <mark key="^" line="60" column="24" />
-        <mark key="." line="60" column="24" />
+      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.html" timestamp="1475909017731">
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="48" />
+        <mark key="^" line="49" column="48" />
+        <mark key="." line="49" column="48" />
       </file>
       <file name="/workspace/website/home/src/css/gwais.css" timestamp="1471589488652">
         <mark key="'" line="239" column="16" />
@@ -566,11 +569,12 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.scss" timestamp="1475898375327">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.scss" timestamp="1475909110847">
+        <mark key="'" line="110" column="23" />
+        <mark key="[" line="112" column="15" />
+        <mark key="]" line="112" column="14" />
+        <mark key="^" line="112" column="14" />
+        <mark key="." line="112" column="14" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/help/help.html" timestamp="1470641790967">
         <mark key="'" line="38" column="0" />
@@ -851,14 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
-      <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
-      <jump line="31" column="47" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
-      <jump line="35" column="7" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/batch-status-edit.js" />
-      <jump line="20" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/batch-status-edit.js" />
-      <jump line="42" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/batch-status-edit.js" />
-      <jump line="26" column="26" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/batch-status-edit.js" />
-      <jump line="47" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/batch-status-edit.js" />
       <jump line="27" column="30" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/batch-status-edit.js" />
       <jump line="40" column="36" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/batch-status-edit.js" />
       <jump line="118" column="31" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
@@ -951,58 +947,66 @@
       <jump line="72" column="1" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
       <jump line="43" column="16" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
       <jump line="47" column="0" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="110" column="23" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="124" column="11" filename="/workspace/website/mhome/www/views/product/star/star.html" />
+      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/product/star/star.scss" />
+      <jump line="141" column="0" filename="/workspace/website/mhome/www/views/product/star/star.scss" />
+      <jump line="209" column="0" filename="/workspace/website/mhome/www/views/product/star/star.scss" />
+      <jump line="138" column="1" filename="/workspace/website/mhome/www/views/product/star/star.scss" />
+      <jump line="140" column="5" filename="/workspace/website/mhome/www/views/product/star/star.scss" />
+      <jump line="89" column="0" filename="/workspace/website/mhome/www/views/product/star/star.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>成语接龙</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>span</text>
+        <text>star-column</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cD7mmJ/luqfovr7kurrjgIHlrqDnianlhbvmiJDjgIHmiJDor63mjqXpvpk8L3A+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Ji5jb250YWluZXItYmFubmVyOCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDVweCBzb2xpZCAjZmZmOwo=</text>
+        <text encoding="base64">ICAgICAgICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGltcG9ydCAic3dpcGVyL3N3aXBlciI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nOiA0cHg7CiAgICAgICAgLmljb24gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBsaW5lLWhlaWdodDogNDhweDsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IC5jb250YWluZXItYmFubmVyNSB7CiAgICAuaWNvbi1ncm91cCB7CiAgICAgIC5pY29uOmJlZm9yZSB7CiAgICAgICAgY29sb3I6ICMzYTNhM2E7CiAgICAgIH0KICAgICAgLmljb24gewogICAgICAgIGNvbG9yOiAjM2EzYTNhOwogICAgICB9CiAgICB9CiAgICAuY29udGFpbmVyLWJhbm5lcjUtdGl0bGUgewogICAgICBoMSB7CiAgICAgICAgY29sb3I6ICMzYTNhM2E7CiAgICAgIH0KICAgIH0KICB9CiAgLmNvbnRhaW5lci1iYW5uZXI2IHsKICAgIC5pY29uLWdyb3VwIHsKICAgICAgLmljb246YmVmb3JlIHsKICAgICAgICBjb2xvcjogI2ZmZjsKICAgICAgfQogICAgICAuaWNvbiB7CiAgICAgICAgY29sb3I6ICNkZGRkZGQ7CiAgICAgIH0KICAgIH0KICB9CiAgLmNvbnRhaW5lci1iYW5uZXI3IHsKICAgIC5pY29uLWdyb3VwIHsKICAgICAgLmljb246YmVmb3JlIHsKICAgICAgICBjb2xvcjogIzNhM2EzYTsKICAgICAgfQogICAgICAuaWNvbiB7CiAgICAgICAgY29sb3I6ICMzYTNhM2E7CiAgICAgIH0KICAgIH0KICAgIC5jb250YWluZXItYmFubmVyNy10aXRsZSB7CiAgICAgIGgxIHsKICAgICAgICBjb2xvcjogIzNhM2EzYTsKICAgICAgfQogICAgfQogIH0KICAuY29udGFpbmVyLWJhbm5lcjggewogICAgLmNvbnRhaW5lci1iYW5uZXI4LXRpdGxlIHsKICAgICAgaDEgewogICAgICAgIGNvbG9yOiAjM2EzYTNhOwogICAgICB9CiAgICAgIHAgewogICAgICAgIGNvbG9yOiAjODc4ODgzOwogICAgICB9CiAgICB9CiAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDQ4cHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CkBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDM3NHB4KSB7CiAgLmNvbnRhaW5lci1iYW5uZXIxIHsKICAgIC5jb250YWluZXItYmFubmVyMS10aXRsZSB7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIHRvcDogNHB4OwoKICAgIH0KICAgIC5jb250YWluZXItc2VjLXRpdGxlIHsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgdG9wOiA2MHB4OwogICAgICBkaXYgewogICAgICAgIHdpZHRoOiA1MCU7CiAgICAgICAgbWFyZ2luOiAwIGF1dG87CiAgICAgIH0KICAgIH0KICAgIC5jb250YWluZXItYmFubmVyMS1nb29kcyB7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIGJvdHRvbTogMjBweDsKICAgICAgdWwgewogICAgICAgIHdpZHRoOiA4NSU7CiAgICAgICAgbWFyZ2luOiAwIGF1dG87CiAgICAgICAgbGkgewogICAgICAgICAgd2lkdGg6IDIwJTsKICAgICAgICAgIGZsb2F0OiBsZWZ0OwogICAgICAgICAgbWFyZ2luLXRvcDogMTBweDsKICAgICAgICAgIHAgewogICAgICAgICAgICBmb250LXNpemU6IDEwcHg7CiAgICAgICAgICAgIGNvbG9yOiAkY29sb3I7CiAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICAgIH0KICAgICAgICAgIGltZyB7CiAgICAgICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgICAgICBoZWlnaHQ6IDEwMCU7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQogIC5jb250YWluZXItc2VjIHsKICAgIC50eHQgewogICAgICB3aWR0aDogMTAwJTsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDI1cHg7CiAgICAgIGgxIHsKICAgICAgICBmb250LXNpemU6IDE4cHg7CiAgICAgICAgY29sb3I6ICNkZGRkZGQ7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMTBweDsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgbGluZS1oZWlnaHQ6IDEzcHg7CiAgICAgIH0KICAgICAgaDIgewogICAgICAgIGZvbnQtc2l6ZTogMjBweDsKICAgICAgICBsaW5lLWhlaWdodDogMTZweDsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgY29sb3I6ICNkZGRkZGQ7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogNnB4OwogICAgICB9CiAgICAgIHAgewogICAgICAgIGZvbnQtc2l6ZTogMTJweDsKICAgICAgICBsaW5lLWhlaWdodDogMTRweDsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgY29sb3I6ICNlMGNlY2E7CiAgICAgICAgcGFkZGluZy1sZWZ0OiAyMHB4OwogICAgICAgIHBhZGRpbmctcmlnaHQ6IDIwcHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IDEwMDsKICAgICAgfQogICAgfQogIH0KICAuY29udGFpbmVyLWJhbm5lcjkgewogICAgLmNvbnRhaW5lci1iYW5uZXI5LXRpdGxlIHsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDE3MHB4OwogICAgfQogIH0KCn0KCkBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDM3NXB4KSBhbmQgKG1heC13aWR0aDogNzY4cHgpIHsKICAuY29udGFpbmVyLWJhbm5lcjEgewogICAgLmNvbnRhaW5lci1iYW5uZXIxLXRpdGxlIHsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgdG9wOiAxMnB4OwoKICAgIH0KICAgIC5jb250YWluZXItc2VjLXRpdGxlIHsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgdG9wOiA2N3B4OwogICAgICBkaXYgewogICAgICAgIHdpZHRoOiA1MCU7CiAgICAgICAgbWFyZ2luOiAwIGF1dG87CiAgICAgIH0KICAgIH0KICAgIC5jb250YWluZXItYmFubmVyMS1nb29kcyB7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIGJvdHRvbTogMjVweDsKICAgICAgdWwgewogICAgICAgIHdpZHRoOiA4NSU7CiAgICAgICAgbWFyZ2luOiAwIGF1dG87CiAgICAgICAgbGkgewogICAgICAgICAgd2lkdGg6IDIwJTsKICAgICAgICAgIGZsb2F0OiBsZWZ0OwogICAgICAgICAgbWFyZ2luLXRvcDogMTBweDsKICAgICAgICAgIHAgewogICAgICAgICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgICAgICAgIGNvbG9yOiAkY29sb3I7CiAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICAgIH0KICAgICAgICAgIGltZyB7CiAgICAgICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgICAgICBoZWlnaHQ6IDEwMCU7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQogIC5jb250YWluZXItc2VjIHsKICAgIC50eHQgewogICAgICB3aWR0aDogMTAwJTsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDI1cHg7CiAgICAgIGgxIHsKICAgICAgICBmb250LXNpemU6IDIwcHg7CiAgICAgICAgY29sb3I6ICNkZGRkZGQ7CiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgIGxpbmUtaGVpZ2h0OiAxNXB4OwogICAgICAgIG1hcmdpbi1ib3R0b206IDEwcHg7CiAgICAgIH0KICAgICAgaDIgewogICAgICAgIGZvbnQtc2l6ZTogMjJweDsKICAgICAgICBtYXJnaW4tYm90dG9tOiA2cHg7CiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgIGNvbG9yOiAjZGRkZGRkOwogICAgICB9CiAgICAgIHAgewogICAgICAgIGZvbnQtc2l6ZTogMTJweDsKICAgICAgICBsaW5lLWhlaWdodDogMTRweDsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgY29sb3I6ICNlMGNlY2E7CiAgICAgICAgcGFkZGluZy1sZWZ0OiAyMHB4OwogICAgICAgIHBhZGRpbmctcmlnaHQ6IDIwcHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IDEwMDsKICAgICAgfQogICAgfQogIH0KICAuY29udGFpbmVyLWJhbm5lcjkgewogICAgLmNvbnRhaW5lci1iYW5uZXI5LXRpdGxlIHsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDE5NXB4OwogICAgfQogIH0KCn0KCkBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDczNnB4KSB7CgogIC5jb250YWluZXItYmFubmVyMSB7CiAgICAuY29udGFpbmVyLWJhbm5lcjEtdGl0bGUgewogICAgICB3aWR0aDogMTAwJTsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDY1cHg7CiAgICB9CiAgICAuY29udGFpbmVyLXNlYy10aXRsZSB7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIHRvcDogMTUwcHg7CiAgICAgIGRpdiB7CiAgICAgICAgd2lkdGg6IDUwJTsKICAgICAgICBtYXJnaW46IDAgYXV0bzsKICAgICAgfQogICAgfQogICAgLmNvbnRhaW5lci1iYW5uZXIxLWdvb2RzIHsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgYm90dG9tOiA2NXB4OwogICAgICB1bCB7CiAgICAgICAgd2lkdGg6IDg1JTsKICAgICAgICBtYXJnaW46IDAgYXV0bzsKICAgICAgICBsaSB7CiAgICAgICAgICB3aWR0aDogMjAlOwogICAgICAgICAgZmxvYXQ6IGxlZnQ7CiAgICAgICAgICBtYXJnaW4tdG9wOiAxMHB4OwogICAgICAgICAgcCB7CiAgICAgICAgICAgIGZvbnQtc2l6ZTogMTZweDsKICAgICAgICAgICAgY29sb3I6ICRjb2xvcjsKICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgICAgfQogICAgICAgICAgaW1nIHsKICAgICAgICAgICAgd2lkdGg6IDEwMCU7CiAgICAgICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9CiAgLmNvbnRhaW5lci1iYW5uZXI5IHsKICAgIC5jb250YWluZXItYmFubmVyOS10aXRsZSB7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgdG9wOiA0MjBweDsKICAgIH0KICB9CiAgLmNvbnRhaW5lci1iYW5uZXI4IHsKICAgIC5pY29uLWdyb3VwIHsKICAgICAgLmljb24taXRlbSB7CiAgICAgICAgJjpsYXN0LWNoaWxkIHsKICAgICAgICAgIG1hcmdpbi1sZWZ0OiA4dnc7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQp9</text>
+        <text encoding="base64">IC5zdGFyLWhhb21laW1laSB7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICB0b3A6IDI2JTsKICAgIHJpZ2h0OiAwJTsKICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>span</last-search>
+      <last-search>star-column</last-search>
       <last-offset />
-      <last-pattern>span</last-pattern>
+      <last-pattern>star-column</last-pattern>
       <last-replace>Feedback</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -1010,7 +1014,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Qini</entry>
         <entry>Qiniu</entry>
         <entry>http</entry>
         <entry>无</entry>
@@ -1030,6 +1033,7 @@
         <entry>151</entry>
         <entry>main-footer</entry>
         <entry>span</entry>
+        <entry>star-column</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1045,12 +1049,12 @@
         <entry>.w</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
-        <entry>qa</entry>
         <entry>q</entry>
         <entry>we</entry>
         <entry>eq</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
