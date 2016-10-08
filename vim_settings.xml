@@ -86,7 +86,7 @@
         <mark key="." line="53" column="19" />
         <mark key="^" line="53" column="19" />
       </file>
-      <file name="/workspace/website/mhome/www/services/news.js" timestamp="1472459885987">
+      <file name="/workspace/website/mhome/www/services/news.js" timestamp="1475893154600">
         <mark key="'" line="41" column="16" />
         <mark key="[" line="40" column="24" />
         <mark key="]" line="40" column="24" />
@@ -149,12 +149,12 @@
         <mark key="." line="40" column="20" />
         <mark key="^" line="40" column="20" />
       </file>
-      <file name="/workspace/website/mhome/www/views/dash/dash.scss" timestamp="1472206838664">
-        <mark key="'" line="67" column="19" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="353" column="17" />
-        <mark key="." line="20" column="0" />
+      <file name="/workspace/website/mhome/www/views/dash/dash.scss" timestamp="1475895584838">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="79" column="25" />
+        <mark key="]" line="80" column="5" />
+        <mark key="^" line="80" column="5" />
+        <mark key="." line="80" column="5" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/services/auth-service.js" timestamp="1474965168342">
         <mark key="'" line="39" column="18" />
@@ -163,12 +163,12 @@
         <mark key="." line="39" column="36" />
         <mark key="^" line="39" column="36" />
       </file>
-      <file name="/workspace/website/mhome/www/views/dash/dash.html" timestamp="1472717745381">
-        <mark key="'" line="15" column="16" />
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="9" />
+      <file name="/workspace/website/mhome/www/views/dash/dash.html" timestamp="1475895154713">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="41" />
+        <mark key="^" line="49" column="41" />
+        <mark key="." line="49" column="41" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/grid.scss" timestamp="1474961006592">
         <mark key="'" line="7" column="4" />
@@ -212,12 +212,12 @@
         <mark key="^" line="62" column="47" />
         <mark key="." line="62" column="47" />
       </file>
-      <file name="/workspace/website/mhome/www/components/footer/footer.scss" timestamp="1472697953468">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="43" column="5" />
-        <mark key="." line="45" column="0" />
+      <file name="/workspace/website/mhome/www/components/footer/footer.scss" timestamp="1475893884359">
+        <mark key="'" line="31" column="19" />
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="19" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="23" column="19" />
       </file>
       <file name="/workspace/website/mhome/www/components/footer/footer.html" timestamp="1472721851431">
         <mark key="'" line="10" column="0" />
@@ -492,12 +492,11 @@
         <mark key="." line="150" column="70" />
         <mark key="^" line="150" column="70" />
       </file>
-      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.html" timestamp="1472439881440">
-        <mark key="'" line="109" column="15" />
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="15" />
-        <mark key="^" line="44" column="15" />
-        <mark key="." line="44" column="15" />
+      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.html" timestamp="1475897428198">
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="24" />
+        <mark key="^" line="60" column="24" />
+        <mark key="." line="60" column="24" />
       </file>
       <file name="/workspace/website/home/src/css/gwais.css" timestamp="1471589488652">
         <mark key="'" line="239" column="16" />
@@ -534,6 +533,11 @@
         <mark key="." line="258" column="166" />
         <mark key="^" line="258" column="166" />
       </file>
+      <file name="/workspace/website/mhome/www/components/components.scss" timestamp="1475898249327">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/workspace/website/gwai/www/components/chinese/chinese.js" timestamp="1473593721860">
         <mark key="'" line="31" column="25" />
         <mark key="[" line="30" column="0" />
@@ -562,12 +566,11 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.scss" timestamp="1472126394711">
-        <mark key="'" line="390" column="1" />
-        <mark key="[" line="395" column="25" />
-        <mark key="]" line="395" column="23" />
-        <mark key="." line="395" column="23" />
-        <mark key="^" line="395" column="23" />
+      <file name="/workspace/website/mhome/www/views/product/xxb/xxb.scss" timestamp="1475898375327">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/help/help.html" timestamp="1470641790967">
         <mark key="'" line="38" column="0" />
@@ -848,49 +851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="22" filename="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" />
-      <jump line="45" column="7" filename="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" />
-      <jump line="22" column="0" filename="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" />
-      <jump line="62" column="9" filename="/workspace/website/gowild-manage-system/src/containers/login/index.js" />
-      <jump line="24" column="61" filename="/workspace/website/gowild-manage-system/src/containers/login/index.js" />
-      <jump line="39" column="18" filename="/workspace/website/gowild-manage-system/src/services/auth-service.js" />
-      <jump line="28" column="0" filename="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" />
-      <jump line="4793" column="19" filename="/workspace/website/home/src/lib/bootstrap/css/bootstrap.css" />
-      <jump line="7402" column="4" filename="/workspace/website/home/src/lib/bootstrap/css/bootstrap.css" />
-      <jump line="7558" column="4" filename="/workspace/website/home/src/lib/bootstrap/css/bootstrap.css" />
-      <jump line="281" column="16" filename="/workspace/website/home/src/index.html" />
-      <jump line="10" column="0" filename="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.html" />
-      <jump line="25" column="0" filename="/workspace/website/mhome/www/components/scroll-view/scroll-view.js" />
-      <jump line="21" column="0" filename="/workspace/website/mhome/www/components/scroll-view/scroll-view.js" />
-      <jump line="50" column="6" filename="/workspace/website/mhome/www/components/img/on-load-start.js" />
-      <jump line="29" column="0" filename="/workspace/website/mhome/www/components/img/on-load-start.js" />
-      <jump line="3" column="12" filename="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.html" />
-      <jump line="28" column="19" filename="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.js" />
-      <jump line="31" column="7" filename="/workspace/website/gowild-manage-system/src/components/grid/batch-area/index.js" />
-      <jump line="214" column="6" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="215" column="80" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="31" column="40" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="154" column="12" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="222" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="28" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="194" column="76" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="230" column="6" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="250" column="42" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="254" column="37" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="51" column="39" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="88" column="2" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="115" column="41" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="126" column="17" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="268" column="53" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="283" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="48" column="24" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="275" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="32" column="30" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="282" column="9" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="54" column="56" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="127" column="11" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
-      <jump line="140" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
-      <jump line="89" column="68" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
       <jump line="141" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
       <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
       <jump line="31" column="47" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
@@ -948,68 +908,108 @@
       <jump line="85" column="50" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
       <jump line="43" column="36" filename="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" />
       <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" />
+      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/dash/dash.html" />
+      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="425" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="31" column="19" filename="/workspace/website/mhome/www/components/footer/footer.scss" />
+      <jump line="148" column="2" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="364" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="150" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="270" column="3" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="271" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="391" column="3" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="392" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="149" column="3" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="189" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="388" column="1" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="145" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="79" column="2" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="265" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="52" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="326" column="8" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="51" column="3" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="49" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="209" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="171" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="55" column="6" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="125" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="43" column="18" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="83" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
+      <jump line="45" column="61" filename="/workspace/website/mhome/www/views/dash/dash.html" />
+      <jump line="57" column="0" filename="/workspace/website/mhome/www/views/dash/dash.html" />
+      <jump line="65" column="17" filename="/workspace/website/mhome/www/views/product/xxb/xxb.html" />
+      <jump line="139" column="45" filename="/workspace/website/mhome/www/views/product/xxb/xxb.html" />
+      <jump line="39" column="8" filename="/workspace/website/mhome/www/views/product/xxb/xxb.html" />
+      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="198" column="15" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="126" column="5" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="389" column="0" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="249" column="15" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="324" column="0" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="323" column="0" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="123" column="0" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="72" column="1" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="43" column="16" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
+      <jump line="47" column="0" filename="/workspace/website/mhome/www/views/product/xxb/xxb.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2snKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>resolve</text>
+        <text>成语接龙</text>
       </register>
       <register name="/" type="4">
-        <text>Batch</text>
+        <text>span</text>
       </register>
-      <register name="0" type="4">
-        <text>this.props.form.validateFields</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8cD7mmJ/luqfovr7kurrjgIHlrqDnianlhbvmiJDjgIHmiJDor63mjqXpvpk8L3A+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2snKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KT0+IHsK</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDVweCBzb2xpZCAjZmZmOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmZvcm0udmFsaWRhdGVGaWVsZHMoKGVycm9ycyk9PiB7Cg==</text>
+        <text encoding="base64">QGltcG9ydCAic3dpcGVyL3N3aXBlciI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVqZWN0Owo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">bGV0IHBhdGggPSAnJzsKICAgIGxldCByZXFPcHRpb25zID0gewogICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgZGF0YTogdGhpcy5wcm9wcy5mb3JtLmdldEZpZWxkc1ZhbHVlKCksCiAgICB9OwogICAgY29uc3QgdHJhbnNwb3J0ID0gdGhpcy5wcm9wcy50cmFuc3BvcnQ7CgogICAgc3dpdGNoICh0aGlzLnByb3BzLmN1cnJlbnRNb2RhbEZvcm1UeXBlKSB7CiAgICAgIGNhc2UgbW9kYWxGb3JtVHlwZS5JTlNFUlQ6CiAgICAgICAgcGF0aCA9IHRyYW5zcG9ydC5pbnNlcnQudXJsOwogICAgICAgIHJlcU9wdGlvbnMubWV0aG9kID0gdHJhbnNwb3J0Lmluc2VydC5tZXRob2Q7CgogICAgICAgIGJyZWFrOwogICAgICBjYXNlIG1vZGFsRm9ybVR5cGUuVVBEQVRFOgogICAgICAgIHBhdGggPSB0cmFuc3BvcnQudXBkYXRlLnVybDsKICAgICAgICByZXFPcHRpb25zLm1ldGhvZCA9IHRyYW5zcG9ydC51cGRhdGUubWV0aG9kOwogICAgICAgIC8vIFRPRE86IG1ha2UgaWQgZmllbGQgY3VzdG9tZQogICAgICAgIHJlcU9wdGlvbnMuZGF0YS5pZCA9IHRoaXMucHJvcHMuY3VycmVudFJvd0RhdGEuaWQ7CiAgICAgICAgYnJlYWs7CiAgICB9CiAgICAvLyBzZXQgbG9hZGluZwogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIC4uLnRoaXMuc3RhdGUsCiAgICAgIGlzQ29uZmlybWluZzogdHJ1ZSwKICAgIH0pCgogICAgLy8gcG9zdCBkYXRhcyB0byBzZXJ2ZXIKICAgIGh0dHBGZXRjaChSRVNUX1NFUlZFUl9ST09UICsgcGF0aCwgcmVxT3B0aW9ucykKICAgICAgLnRoZW4oKHJlcyk9PiB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAuLi50aGlzLnN0YXRlLAogICAgICAgICAgaXNDb25maXJtaW5nOiBmYWxzZSwKICAgICAgICB9KTsKCiAgICAgICAgdGhpcy5jbG9zZSgpOwogICAgICAgIC8vIFRPRE86IG5lZWQgc2VydmVyIHJlc3BvbnNlIHRoZSBzdWNjZXNzIGRhdGEKICAgICAgICB0aGlzLnByb3BzLm9uU3VjY2VzcyhyZXMpOwogICAgICB9KTs=</text>
+        <text encoding="base64">IC5jb250YWluZXItYmFubmVyNSB7CiAgICAuaWNvbi1ncm91cCB7CiAgICAgIC5pY29uOmJlZm9yZSB7CiAgICAgICAgY29sb3I6ICMzYTNhM2E7CiAgICAgIH0KICAgICAgLmljb24gewogICAgICAgIGNvbG9yOiAjM2EzYTNhOwogICAgICB9CiAgICB9CiAgICAuY29udGFpbmVyLWJhbm5lcjUtdGl0bGUgewogICAgICBoMSB7CiAgICAgICAgY29sb3I6ICMzYTNhM2E7CiAgICAgIH0KICAgIH0KICB9CiAgLmNvbnRhaW5lci1iYW5uZXI2IHsKICAgIC5pY29uLWdyb3VwIHsKICAgICAgLmljb246YmVmb3JlIHsKICAgICAgICBjb2xvcjogI2ZmZjsKICAgICAgfQogICAgICAuaWNvbiB7CiAgICAgICAgY29sb3I6ICNkZGRkZGQ7CiAgICAgIH0KICAgIH0KICB9CiAgLmNvbnRhaW5lci1iYW5uZXI3IHsKICAgIC5pY29uLWdyb3VwIHsKICAgICAgLmljb246YmVmb3JlIHsKICAgICAgICBjb2xvcjogIzNhM2EzYTsKICAgICAgfQogICAgICAuaWNvbiB7CiAgICAgICAgY29sb3I6ICMzYTNhM2E7CiAgICAgIH0KICAgIH0KICAgIC5jb250YWluZXItYmFubmVyNy10aXRsZSB7CiAgICAgIGgxIHsKICAgICAgICBjb2xvcjogIzNhM2EzYTsKICAgICAgfQogICAgfQogIH0KICAuY29udGFpbmVyLWJhbm5lcjggewogICAgLmNvbnRhaW5lci1iYW5uZXI4LXRpdGxlIHsKICAgICAgaDEgewogICAgICAgIGNvbG9yOiAjM2EzYTNhOwogICAgICB9CiAgICAgIHAgewogICAgICAgIGNvbG9yOiAjODc4ODgzOwogICAgICB9CiAgICB9CiAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZm9ybS52YWxpZGF0ZUZpZWxkcyhmdW5jdGlvbiAoZXJyb3JzKSB7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CkBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDM3NHB4KSB7CiAgLmNvbnRhaW5lci1iYW5uZXIxIHsKICAgIC5jb250YWluZXItYmFubmVyMS10aXRsZSB7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIHRvcDogNHB4OwoKICAgIH0KICAgIC5jb250YWluZXItc2VjLXRpdGxlIHsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgdG9wOiA2MHB4OwogICAgICBkaXYgewogICAgICAgIHdpZHRoOiA1MCU7CiAgICAgICAgbWFyZ2luOiAwIGF1dG87CiAgICAgIH0KICAgIH0KICAgIC5jb250YWluZXItYmFubmVyMS1nb29kcyB7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIGJvdHRvbTogMjBweDsKICAgICAgdWwgewogICAgICAgIHdpZHRoOiA4NSU7CiAgICAgICAgbWFyZ2luOiAwIGF1dG87CiAgICAgICAgbGkgewogICAgICAgICAgd2lkdGg6IDIwJTsKICAgICAgICAgIGZsb2F0OiBsZWZ0OwogICAgICAgICAgbWFyZ2luLXRvcDogMTBweDsKICAgICAgICAgIHAgewogICAgICAgICAgICBmb250LXNpemU6IDEwcHg7CiAgICAgICAgICAgIGNvbG9yOiAkY29sb3I7CiAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICAgIH0KICAgICAgICAgIGltZyB7CiAgICAgICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgICAgICBoZWlnaHQ6IDEwMCU7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQogIC5jb250YWluZXItc2VjIHsKICAgIC50eHQgewogICAgICB3aWR0aDogMTAwJTsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDI1cHg7CiAgICAgIGgxIHsKICAgICAgICBmb250LXNpemU6IDE4cHg7CiAgICAgICAgY29sb3I6ICNkZGRkZGQ7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMTBweDsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgbGluZS1oZWlnaHQ6IDEzcHg7CiAgICAgIH0KICAgICAgaDIgewogICAgICAgIGZvbnQtc2l6ZTogMjBweDsKICAgICAgICBsaW5lLWhlaWdodDogMTZweDsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgY29sb3I6ICNkZGRkZGQ7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogNnB4OwogICAgICB9CiAgICAgIHAgewogICAgICAgIGZvbnQtc2l6ZTogMTJweDsKICAgICAgICBsaW5lLWhlaWdodDogMTRweDsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgY29sb3I6ICNlMGNlY2E7CiAgICAgICAgcGFkZGluZy1sZWZ0OiAyMHB4OwogICAgICAgIHBhZGRpbmctcmlnaHQ6IDIwcHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IDEwMDsKICAgICAgfQogICAgfQogIH0KICAuY29udGFpbmVyLWJhbm5lcjkgewogICAgLmNvbnRhaW5lci1iYW5uZXI5LXRpdGxlIHsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDE3MHB4OwogICAgfQogIH0KCn0KCkBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDM3NXB4KSBhbmQgKG1heC13aWR0aDogNzY4cHgpIHsKICAuY29udGFpbmVyLWJhbm5lcjEgewogICAgLmNvbnRhaW5lci1iYW5uZXIxLXRpdGxlIHsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgdG9wOiAxMnB4OwoKICAgIH0KICAgIC5jb250YWluZXItc2VjLXRpdGxlIHsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgdG9wOiA2N3B4OwogICAgICBkaXYgewogICAgICAgIHdpZHRoOiA1MCU7CiAgICAgICAgbWFyZ2luOiAwIGF1dG87CiAgICAgIH0KICAgIH0KICAgIC5jb250YWluZXItYmFubmVyMS1nb29kcyB7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIGJvdHRvbTogMjVweDsKICAgICAgdWwgewogICAgICAgIHdpZHRoOiA4NSU7CiAgICAgICAgbWFyZ2luOiAwIGF1dG87CiAgICAgICAgbGkgewogICAgICAgICAgd2lkdGg6IDIwJTsKICAgICAgICAgIGZsb2F0OiBsZWZ0OwogICAgICAgICAgbWFyZ2luLXRvcDogMTBweDsKICAgICAgICAgIHAgewogICAgICAgICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgICAgICAgIGNvbG9yOiAkY29sb3I7CiAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICAgIH0KICAgICAgICAgIGltZyB7CiAgICAgICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgICAgICBoZWlnaHQ6IDEwMCU7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQogIC5jb250YWluZXItc2VjIHsKICAgIC50eHQgewogICAgICB3aWR0aDogMTAwJTsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDI1cHg7CiAgICAgIGgxIHsKICAgICAgICBmb250LXNpemU6IDIwcHg7CiAgICAgICAgY29sb3I6ICNkZGRkZGQ7CiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgIGxpbmUtaGVpZ2h0OiAxNXB4OwogICAgICAgIG1hcmdpbi1ib3R0b206IDEwcHg7CiAgICAgIH0KICAgICAgaDIgewogICAgICAgIGZvbnQtc2l6ZTogMjJweDsKICAgICAgICBtYXJnaW4tYm90dG9tOiA2cHg7CiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgIGNvbG9yOiAjZGRkZGRkOwogICAgICB9CiAgICAgIHAgewogICAgICAgIGZvbnQtc2l6ZTogMTJweDsKICAgICAgICBsaW5lLWhlaWdodDogMTRweDsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgY29sb3I6ICNlMGNlY2E7CiAgICAgICAgcGFkZGluZy1sZWZ0OiAyMHB4OwogICAgICAgIHBhZGRpbmctcmlnaHQ6IDIwcHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IDEwMDsKICAgICAgfQogICAgfQogIH0KICAuY29udGFpbmVyLWJhbm5lcjkgewogICAgLmNvbnRhaW5lci1iYW5uZXI5LXRpdGxlIHsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDE5NXB4OwogICAgfQogIH0KCn0KCkBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDczNnB4KSB7CgogIC5jb250YWluZXItYmFubmVyMSB7CiAgICAuY29udGFpbmVyLWJhbm5lcjEtdGl0bGUgewogICAgICB3aWR0aDogMTAwJTsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDY1cHg7CiAgICB9CiAgICAuY29udGFpbmVyLXNlYy10aXRsZSB7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIHRvcDogMTUwcHg7CiAgICAgIGRpdiB7CiAgICAgICAgd2lkdGg6IDUwJTsKICAgICAgICBtYXJnaW46IDAgYXV0bzsKICAgICAgfQogICAgfQogICAgLmNvbnRhaW5lci1iYW5uZXIxLWdvb2RzIHsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgYm90dG9tOiA2NXB4OwogICAgICB1bCB7CiAgICAgICAgd2lkdGg6IDg1JTsKICAgICAgICBtYXJnaW46IDAgYXV0bzsKICAgICAgICBsaSB7CiAgICAgICAgICB3aWR0aDogMjAlOwogICAgICAgICAgZmxvYXQ6IGxlZnQ7CiAgICAgICAgICBtYXJnaW4tdG9wOiAxMHB4OwogICAgICAgICAgcCB7CiAgICAgICAgICAgIGZvbnQtc2l6ZTogMTZweDsKICAgICAgICAgICAgY29sb3I6ICRjb2xvcjsKICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgICAgfQogICAgICAgICAgaW1nIHsKICAgICAgICAgICAgd2lkdGg6IDEwMCU7CiAgICAgICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9CiAgLmNvbnRhaW5lci1iYW5uZXI5IHsKICAgIC5jb250YWluZXItYmFubmVyOS10aXRsZSB7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgdG9wOiA0MjBweDsKICAgIH0KICB9CiAgLmNvbnRhaW5lci1iYW5uZXI4IHsKICAgIC5pY29uLWdyb3VwIHsKICAgICAgLmljb24taXRlbSB7CiAgICAgICAgJjpsYXN0LWNoaWxkIHsKICAgICAgICAgIG1hcmdpbi1sZWZ0OiA4dnc7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQp9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVqZWN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Batch</last-search>
+      <last-search>span</last-search>
       <last-offset />
-      <last-pattern>Batch</last-pattern>
+      <last-pattern>span</last-pattern>
       <last-replace>Feedback</last-replace>
-      <last-substitute>Batch</last-substitute>
+      <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
-        <entry>confirm</entry>
-        <entry>ok</entry>
         <entry>Qini</entry>
         <entry>Qiniu</entry>
         <entry>http</entry>
@@ -1027,6 +1027,9 @@
         <entry>getMenuItem</entry>
         <entry>batch</entry>
         <entry>Batch</entry>
+        <entry>151</entry>
+        <entry>main-footer</entry>
+        <entry>span</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
