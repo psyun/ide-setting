@@ -107,10 +107,10 @@
         <mark key="." line="97" column="20" />
         <mark key="^" line="97" column="20" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1476345648959">
+      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1476348713750">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="144" column="29" />
-        <mark key="]" line="144" column="57" />
+        <mark key="[" line="138" column="8" />
+        <mark key="]" line="145" column="18" />
         <mark key="^" line="144" column="57" />
         <mark key="." line="144" column="57" />
       </file>
@@ -980,8 +980,8 @@
       <jump line="45" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXtyb3cudXBncmFkZVR5cGVJZH0vPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i5a6i5oi35ZCN56ewIgogICAgICAgICAgbGFiZWxDb2w9e3sgc3BhbjogNiB9fQogICAgICAgICAgd3JhcHBlckNvbD17eyBzcGFuOiAxOCB9fQogICAgICAgID4KICAgICAgICAgIDxTZWxlY3QgdXJsPSIvcm9ib3QvZ2V0Q3VzdG9tZXIiIHZhbHVlRmllbGQ9ImlkIiB0ZXh0RmllbGQ9ImNvbXBhbnkiIG5hbWU9ImN1c3RvbWVySWQiCiAgICAgICAgICAgICAgICAgIGZvcm09e2Zvcm19IGRlZmF1bHRWYWx1ZT17cm93LmN1c3RvbWVySWR9Lz4KICAgICAgICA8L0Zvcm1JdGVtPg==</text>
       </register>
       <register name="-" type="4">
         <text>,{ initialValue: this.props.defaultValue }</text>
@@ -990,7 +990,7 @@
         <text>defaultValue</text>
       </register>
       <register name="0" type="4">
-        <text>url=&quot;/robot/getCustomer&quot; valueField=&quot;id&quot; textField=&quot;company&quot; name=&quot;customerId&quot;</text>
+        <text encoding="base64">PEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i5a6i5oi35ZCN56ewIgogICAgICAgICAgbGFiZWxDb2w9e3sgc3BhbjogNiB9fQogICAgICAgICAgd3JhcHBlckNvbD17eyBzcGFuOiAxOCB9fQogICAgICAgID4KICAgICAgICAgIDxTZWxlY3QgdXJsPSIvcm9ib3QvZ2V0Q3VzdG9tZXIiIHZhbHVlRmllbGQ9ImlkIiB0ZXh0RmllbGQ9ImNvbXBhbnkiIG5hbWU9ImN1c3RvbWVySWQiCiAgICAgICAgICAgICAgICAgIGZvcm09e2Zvcm19IGRlZmF1bHRWYWx1ZT17cm93LmN1c3RvbWVySWR9Lz4KICAgICAgICA8L0Zvcm1JdGVtPg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXtyb3cudXBncmFkZVR5cGVJZH0vPgo=</text>
