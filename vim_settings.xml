@@ -148,12 +148,12 @@
         <mark key="." line="194" column="166" />
         <mark key="^" line="194" column="166" />
       </file>
-      <file name="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.js" timestamp="1474893740426">
+      <file name="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.js" timestamp="1476349926787">
         <mark key="'" line="28" column="19" />
-        <mark key="[" line="39" column="7" />
-        <mark key="]" line="40" column="20" />
-        <mark key="." line="40" column="20" />
-        <mark key="^" line="40" column="20" />
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="25" />
+        <mark key="." line="35" column="25" />
+        <mark key="^" line="35" column="25" />
       </file>
       <file name="/workspace/website/mhome/www/views/dash/dash.scss" timestamp="1475895584838">
         <mark key="'" line="84" column="0" />
@@ -636,12 +636,12 @@
         <mark key="." line="731" column="50" />
         <mark key="^" line="731" column="50" />
       </file>
-      <file name="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.html" timestamp="1474891795442">
+      <file name="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.html" timestamp="1476349876439">
         <mark key="'" line="3" column="12" />
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="53" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="3" column="53" />
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="49" />
+        <mark key="." line="3" column="49" />
+        <mark key="^" line="3" column="49" />
       </file>
       <file name="/workspace/website/mhome/www/views/news/list/list.scss" timestamp="1472457770201">
         <mark key="'" line="0" column="0" />
@@ -981,10 +981,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i5a6i5oi35ZCN56ewIgogICAgICAgICAgbGFiZWxDb2w9e3sgc3BhbjogNiB9fQogICAgICAgICAgd3JhcHBlckNvbD17eyBzcGFuOiAxOCB9fQogICAgICAgID4KICAgICAgICAgIDxTZWxlY3QgdXJsPSIvcm9ib3QvZ2V0Q3VzdG9tZXIiIHZhbHVlRmllbGQ9ImlkIiB0ZXh0RmllbGQ9ImNvbXBhbnkiIG5hbWU9ImN1c3RvbWVySWQiCiAgICAgICAgICAgICAgICAgIGZvcm09e2Zvcm19IGRlZmF1bHRWYWx1ZT17cm93LmN1c3RvbWVySWR9Lz4KICAgICAgICA8L0Zvcm1JdGVtPg==</text>
+        <text>http://58.67.213.148:6031/system/qrcode?json={{qrCodeStr}}</text>
       </register>
       <register name="-" type="4">
-        <text>,{ initialValue: this.props.defaultValue }</text>
+        <text>http://58.67.213.148:6031/system/qrcode?json={{qrCodeStr}}</text>
       </register>
       <register name="/" type="4">
         <text>defaultValue</text>
