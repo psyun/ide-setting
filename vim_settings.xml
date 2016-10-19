@@ -445,6 +445,12 @@
         <mark key="." line="196" column="166" />
         <mark key="^" line="196" column="166" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/xb-system-info/index.js" timestamp="1476846244879">
+        <mark key="[" line="22" column="44" />
+        <mark key="]" line="22" column="56" />
+        <mark key="." line="22" column="56" />
+        <mark key="^" line="22" column="56" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/es/index.js" timestamp="1474279851653">
         <mark key="'" line="31" column="92" />
         <mark key="[" line="31" column="93" />
@@ -580,12 +586,12 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1474725289520">
-        <mark key="'" line="91" column="25" />
-        <mark key="[" line="217" column="6" />
-        <mark key="]" line="217" column="26" />
-        <mark key="." line="217" column="26" />
-        <mark key="^" line="217" column="26" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1476846325158">
+        <mark key="'" line="44" column="43" />
+        <mark key="[" line="205" column="38" />
+        <mark key="]" line="205" column="32" />
+        <mark key="." line="205" column="32" />
+        <mark key="^" line="205" column="32" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" timestamp="1473591609282">
         <mark key="'" line="55" column="2" />
@@ -892,9 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="3" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
-      <jump line="103" column="7" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
-      <jump line="85" column="50" filename="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" />
       <jump line="43" column="36" filename="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" />
       <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/views/dash/dash.html" />
@@ -992,13 +995,16 @@
       <jump line="38" column="10" filename="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" />
       <jump line="76" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
       <jump line="14" column="17" filename="/workspace/website/gwai/www/utils/device-util.js" />
+      <jump line="102" column="21" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="204" column="21" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="44" column="43" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ElasticSearch</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>ElasticSearch</text>
       </register>
       <register name="/" type="4">
         <text>showMo</text>
@@ -1085,13 +1091,13 @@
         <entry>we</entry>
         <entry>eq</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>qa</entry>
         <entry>s/\/、/g</entry>
         <entry>s/\\/、</entry>
         <entry>s/\\/、/g</entry>
         <entry>qw</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
