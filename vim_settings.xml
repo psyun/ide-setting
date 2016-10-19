@@ -586,12 +586,12 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1476846325158">
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1476878923518">
         <mark key="'" line="44" column="43" />
-        <mark key="[" line="205" column="38" />
-        <mark key="]" line="205" column="32" />
-        <mark key="." line="205" column="32" />
-        <mark key="^" line="205" column="32" />
+        <mark key="[" line="202" column="39" />
+        <mark key="]" line="202" column="34" />
+        <mark key="." line="202" column="34" />
+        <mark key="^" line="202" column="34" />
       </file>
       <file name="/workspace/website/gwai/www/lib/ionic/scss/_button.scss" timestamp="1473591609282">
         <mark key="'" line="55" column="2" />
@@ -1043,7 +1043,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1096,9 +1096,9 @@
         <entry>s/\\/、</entry>
         <entry>s/\\/、/g</entry>
         <entry>qw</entry>
+        <entry>q</entry>
         <entry>w</entry>
         <entry>wq</entry>
-        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
