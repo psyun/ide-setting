@@ -114,12 +114,12 @@
         <mark key="^" line="48" column="39" />
         <mark key="." line="48" column="39" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1477474749470">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="175" column="17" />
-        <mark key="]" line="175" column="17" />
-        <mark key="." line="175" column="17" />
-        <mark key="^" line="175" column="17" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1477476202299">
+        <mark key="'" line="195" column="20" />
+        <mark key="[" line="69" column="19" />
+        <mark key="]" line="69" column="19" />
+        <mark key="." line="69" column="19" />
+        <mark key="^" line="69" column="22" />
       </file>
       <file name="/workspace/website/gwai/www/app.js" timestamp="1471332306256">
         <mark key="'" line="76" column="27" />
@@ -942,7 +942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/dash/dash.html" />
       <jump line="0" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="425" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="31" column="19" filename="/workspace/website/mhome/www/components/footer/footer.scss" />
@@ -1042,49 +1041,50 @@
       <jump line="31" column="2" filename="/workspace/gowild-app/gowild-holoera-app/app/Router.js" />
       <jump line="138" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
+      <jump line="191" column="20" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGb3JtSXRlbQogICAgICAgICAgICBsYWJlbD0i5paw54mI5pysIgogICAgICAgICAgICBsYWJlbENvbD17eyBzcGFuOiA2IH19CiAgICAgICAgICAgIHdyYXBwZXJDb2w9e3sgc3BhbjogMTggfX0KICAgICAgICAgID4KICAgICAgICAgICAgPElucHV0IHsuLi5nZXRGaWVsZFByb3BzKCduZXdWZXJzaW9uJywgewogICAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogJycsCiAgICAgICAgICAgIH0pfS8+CiAgICAgICAgICA8L0Zvcm1JdGVtPgo=</text>
+      <register name="&quot;" type="4">
+        <text>newVersion</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>newVersion</text>
       </register>
       <register name="/" type="4">
         <text>showMo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJyZWFjdCI6ICJeMTUuMy4yIiwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgIHRpdGxlOiAn5aSn54mI5pys5Y+3JywKICAgICAgICAgIGZpZWxkczogJ3ZlcnNpb24nLAogICAgICAgICAgcmVuZGVyOiBjb2w9PmAke2NvbH1gLAogICAgICAgIH0sIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGb3JtSXRlbQogICAgICAgICAgICBsYWJlbD0i5paw54mI5pysIgogICAgICAgICAgICBsYWJlbENvbD17eyBzcGFuOiA2IH19CiAgICAgICAgICAgIHdyYXBwZXJDb2w9e3sgc3BhbjogMTggfX0KICAgICAgICAgID4KICAgICAgICAgICAgPElucHV0IHsuLi5nZXRGaWVsZFByb3BzKCduZXdWZXJzaW9uJywgewogICAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogJycsCiAgICAgICAgICAgIH0pfS8+CiAgICAgICAgICA8L0Zvcm1JdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vY29udGFpbmVycy9BY2NvdW50L0xvZ2luJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh2YWwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEJhcmJlcnNob3BEZXRhaWxzIGZyb20gJy4vY29udGFpbmVycy9CYXJiZXJzaG9wL0RldGFpbHMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiAyLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEhhaXJEcmVzc2VyRGV0YWlscyBmcm9tICcuL2NvbnRhaW5lcnMvSGFpckRyZXNzZXIvRGV0YWlscyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiAyLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEhhaXJEcmVzc0RldGFpbHMgZnJvbSAnLi9jb250YWluZXJzL0hhaXJEcmVzcy9EZXRhaWxzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxGb3JtSXRlbQogICAgICAgICAgICBsYWJlbD0i5paw54mI5pysIgogICAgICAgICAgICBsYWJlbENvbD17eyBzcGFuOiA2IH19CiAgICAgICAgICAgIHdyYXBwZXJDb2w9e3sgc3BhbjogMTggfX0KICAgICAgICAgID4KICAgICAgICAgICAgPElucHV0IHsuLi5nZXRGaWVsZFByb3BzKCduZXdWZXJzaW9uJywgewogICAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogJycsCiAgICAgICAgICAgIH0pfS8+CiAgICAgICAgICA8L0Zvcm1JdGVtPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vY29udGFpbmVycy9BY2NvdW50L0xvZ2luJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxTY2VuZSBrZXk9IkxvZ2luIiB0aXRsZT0i55m75b2VIiBjb21wb25lbnQ9e0xvZ2lufS8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJhcmJlcnNob3BEZXRhaWxzIGZyb20gJy4vY29udGFpbmVycy9CYXJiZXJzaG9wL0RldGFpbHMnOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEhhaXJEcmVzc2VyRGV0YWlscyBmcm9tICcuL2NvbnRhaW5lcnMvSGFpckRyZXNzZXIvRGV0YWlscyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8U2NlbmUga2V5PSJCYXJiZXJzaG9wRGV0YWlscyIgdGl0bGU9IueQhuWPkeW6l+S/oeaBryIgY29tcG9uZW50PXtCYXJiZXJzaG9wRGV0YWlsc30vPgo=</text>
+        <text encoding="base64">aW1wb3J0IEhhaXJEcmVzc0RldGFpbHMgZnJvbSAnLi9jb250YWluZXJzL0hhaXJEcmVzcy9EZXRhaWxzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1133,7 +1133,6 @@
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>we</entry>
         <entry>eq</entry>
-        <entry>W</entry>
         <entry>s/\/、/g</entry>
         <entry>s/\\/、</entry>
         <entry>s/\\/、/g</entry>
@@ -1142,6 +1141,7 @@
         <entry>qa</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
