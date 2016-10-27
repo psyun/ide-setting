@@ -37,6 +37,7 @@
         <mark key="^" line="25" column="13" />
         <mark key="." line="25" column="13" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Button/StylesFactory.js" timestamp="1477552778452" />
       <file name="/workspace/website/gwai/www/scss/components/header.scss" timestamp="1470367193925">
         <mark key="'" line="3" column="10" />
         <mark key="[" line="2" column="4" />
@@ -447,6 +448,7 @@
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="26" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Container/AppView.js" timestamp="1477552781580" />
       <file name="/workspace/website/gowild-manage-system/src/containers/home/home.scss" timestamp="1469701022712">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="30" column="21" />
@@ -576,7 +578,6 @@
         <mark key="." line="122" column="101" />
         <mark key="^" line="122" column="101" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/utils/HttpFetch.js" timestamp="1477401450485" />
       <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1474972591676">
         <mark key="'" line="102" column="9" />
         <mark key="[" line="184" column="39" />
@@ -591,7 +592,6 @@
         <mark key="^" line="59" column="30" />
         <mark key="." line="59" column="30" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/utils/fetchAPIMiddleware.js" timestamp="1477401430245" />
       <file name="/workspace/website/home/src/home/support/step.html" timestamp="1474700802253">
         <mark key="'" line="30" column="55" />
         <mark key="[" line="257" column="16" />
@@ -660,10 +660,11 @@
         <mark key="." line="64" column="25" />
         <mark key="^" line="64" column="25" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/package.json" timestamp="1477401063016">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/package.json" timestamp="1477553222145">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/list/list.html" timestamp="1470794750586">
         <mark key="'" line="28" column="48" />
@@ -672,7 +673,7 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/graduation/hairDresser/package.json" timestamp="1477401115171" />
+      <file name="$USER_HOME$/Desktop/graduation/hairDresser/package.json" timestamp="1477553036506" />
       <file name="/workspace/website/gwai/www/views/vocabulary/add/add.html" timestamp="1473577214657">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="0" column="56" />
@@ -680,6 +681,7 @@
         <mark key="." line="0" column="64" />
         <mark key="^" line="0" column="64" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Grid/index.js" timestamp="1477552793725" />
       <file name="/workspace/website/home/src/css/site.css" timestamp="1473841627648">
         <mark key="'" line="1663" column="14" />
         <mark key="[" line="731" column="50" />
@@ -782,7 +784,12 @@
         <mark key="." line="15" column="58" />
         <mark key="^" line="15" column="58" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/AppStarter.js" timestamp="1477401587617" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/AppStarter.js" timestamp="1477552635809">
+        <mark key="[" line="67" column="35" />
+        <mark key="]" line="67" column="42" />
+        <mark key="." line="67" column="42" />
+        <mark key="^" line="67" column="42" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/array-utils.js" timestamp="1474964790673">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="26" column="22" />
@@ -1045,10 +1052,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>newVersion</text>
+        <text>hairDresser</text>
       </register>
       <register name="-" type="4">
-        <text>newVersion</text>
+        <text>hairDresser</text>
       </register>
       <register name="/" type="4">
         <text>showMo</text>
