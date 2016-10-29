@@ -149,12 +149,11 @@
         <mark key="^" line="18" column="18" />
         <mark key="." line="18" column="18" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/passport-result.js" timestamp="1477709587767">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="0" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/passport-result.js" timestamp="1477710908139">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="27" />
+        <mark key="^" line="36" column="1" />
+        <mark key="." line="36" column="14" />
       </file>
       <file name="/workspace/website/home/src/home/where-to-buy/store.html" timestamp="1474700838389">
         <mark key="'" line="29" column="32" />
@@ -1058,27 +1057,64 @@
       <jump line="37" column="0" filename="/workspace/website/gowild-manage-system/src/utils/passport-result.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>C
-C
-C
-C
-C
-C
-C
-C
-C</text>
+      <register name="&quot;" type="4">
+        <text>登录信息已过期，请重新登录</text>
       </register>
       <register name="-" type="4">
-        <text>hairDresser</text>
+        <text>系统内部错误',</text>
       </register>
       <register name="/" type="4">
         <text>showMo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBDT0RFXzIyMDQ6ICfns7vnu5/lhoXpg6jplJnor68nLAo=</text>
+      <register name="0" type="4">
+        <text>登录信息已过期，请重新登录</text>
       </register>
       <register name="1" type="8">
+        <text>'
+'
+'
+'</text>
+      </register>
+      <register name="2" type="8">
+        <text>'
+'
+'
+'
+'
+'
+'
+'
+'</text>
+      </register>
+      <register name="3" type="8">
+        <text>系统内部错误',
+系统内部错误',
+系统内部错误',
+系统内部错误',
+系统内部错误',
+系统内部错误',
+系统内部错误',
+系统内部错误',
+系统内部错误',</text>
+      </register>
+      <register name="4" type="8">
+        <text>系
+系
+系
+系
+系
+系
+系
+系
+系</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBDT0RFXzIyMTU6ICfns7vnu5/lhoXpg6jplJnor68nLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBDT0RFXzIyMTU6ICfns7vnu5/lhoXpg6jplJnor68nLAo=</text>
+      </register>
+      <register name="7" type="8">
         <text>C
 C
 C
@@ -1089,7 +1125,10 @@ C
 C
 C</text>
       </register>
-      <register name="2" type="8">
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="8">
         <text>,
 ,
 ,
@@ -1104,7 +1143,7 @@ C</text>
 ,
 ,</text>
       </register>
-      <register name="3" type="8">
+      <register name="9" type="8">
         <text>con
   C
   C
@@ -1122,43 +1161,6 @@ C</text>
   C
   C
   C</text>
-      </register>
-      <register name="4" type="4">
-        <text>const passportResult = {
-  CODE_2200: '系统内部错误',
-  CODE_2201: '系统内部错误',
-  CODE_2202: '系统内部错误',
-  CODE_2203: '系统内部错误',
-  CODE_2204: '系统内部错误',
-  CODE_2205: '系统内部错误',
-  CODE_2206: '系统内部错误',
-  CODE_2207: '系统内部错误',
-  CODE_2208: '系统内部错误',
-  CODE_2209: '系统内部错误',
-  CODE_2210: '系统内部错误',
-  CODE_2211: '系统内部错误',
-  CODE_2212: '系统内部错误',
-  CODE_2213: '系统内部错误',
-  CODE_2214: '系统内部错误',
-  CODE_2215: '系统内部错误',</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBDT0RFXzIwCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh2YWwpOwo=</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiAyLAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiAyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
