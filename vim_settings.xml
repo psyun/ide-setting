@@ -149,6 +149,13 @@
         <mark key="^" line="18" column="18" />
         <mark key="." line="18" column="18" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/utils/passport-result.js" timestamp="1477709587767">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+      </file>
       <file name="/workspace/website/home/src/home/where-to-buy/store.html" timestamp="1474700838389">
         <mark key="'" line="29" column="32" />
         <mark key="[" line="193" column="16" />
@@ -844,7 +851,7 @@
         <mark key="." line="81" column="63" />
         <mark key="^" line="81" column="63" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1475114819818">
+      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1477708972518">
         <mark key="'" line="105" column="29" />
         <mark key="[" line="32" column="20" />
         <mark key="]" line="32" column="37" />
@@ -949,10 +956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
-      <jump line="425" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
-      <jump line="31" column="19" filename="/workspace/website/mhome/www/components/footer/footer.scss" />
-      <jump line="148" column="2" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="364" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="150" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="270" column="3" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
@@ -1049,10 +1052,22 @@
       <jump line="138" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="0" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="191" column="20" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
+      <jump line="29" column="2" filename="/workspace/website/gowild-manage-system/src/utils/passport-result.js" />
+      <jump line="23" column="0" filename="/workspace/website/gowild-manage-system/src/utils/passport-result.js" />
+      <jump line="22" column="2" filename="/workspace/website/gowild-manage-system/src/utils/passport-result.js" />
+      <jump line="37" column="0" filename="/workspace/website/gowild-manage-system/src/utils/passport-result.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hairDresser</text>
+      <register name="&quot;" type="8">
+        <text>C
+C
+C
+C
+C
+C
+C
+C
+C</text>
       </register>
       <register name="-" type="4">
         <text>hairDresser</text>
@@ -1060,38 +1075,90 @@
       <register name="/" type="4">
         <text>showMo</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgIHRpdGxlOiAn5aSn54mI5pys5Y+3JywKICAgICAgICAgIGZpZWxkczogJ3ZlcnNpb24nLAogICAgICAgICAgcmVuZGVyOiBjb2w9PmAke2NvbH1gLAogICAgICAgIH0sIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBDT0RFXzIyMDQ6ICfns7vnu5/lhoXpg6jplJnor68nLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text>C
+C
+C
+C
+C
+C
+C
+C
+C</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh2YWwpOwo=</text>
+      <register name="2" type="8">
+        <text>,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiAyLAo=</text>
+      <register name="3" type="8">
+        <text>con
+  C
+  C
+  C
+  C
+  C
+  C
+  C
+  C
+  C
+  C
+  C
+  C
+  C
+  C
+  C
+  C</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiAyLAo=</text>
+      <register name="4" type="4">
+        <text>const passportResult = {
+  CODE_2200: '系统内部错误',
+  CODE_2201: '系统内部错误',
+  CODE_2202: '系统内部错误',
+  CODE_2203: '系统内部错误',
+  CODE_2204: '系统内部错误',
+  CODE_2205: '系统内部错误',
+  CODE_2206: '系统内部错误',
+  CODE_2207: '系统内部错误',
+  CODE_2208: '系统内部错误',
+  CODE_2209: '系统内部错误',
+  CODE_2210: '系统内部错误',
+  CODE_2211: '系统内部错误',
+  CODE_2212: '系统内部错误',
+  CODE_2213: '系统内部错误',
+  CODE_2214: '系统内部错误',
+  CODE_2215: '系统内部错误',</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGb3JtSXRlbQogICAgICAgICAgICBsYWJlbD0i5paw54mI5pysIgogICAgICAgICAgICBsYWJlbENvbD17eyBzcGFuOiA2IH19CiAgICAgICAgICAgIHdyYXBwZXJDb2w9e3sgc3BhbjogMTggfX0KICAgICAgICAgID4KICAgICAgICAgICAgPElucHV0IHsuLi5nZXRGaWVsZFByb3BzKCduZXdWZXJzaW9uJywgewogICAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogJycsCiAgICAgICAgICAgIH0pfS8+CiAgICAgICAgICA8L0Zvcm1JdGVtPgo=</text>
+        <text encoding="base64">ICBDT0RFXzIwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vY29udGFpbmVycy9BY2NvdW50L0xvZ2luJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEJhcmJlcnNob3BEZXRhaWxzIGZyb20gJy4vY29udGFpbmVycy9CYXJiZXJzaG9wL0RldGFpbHMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh2YWwpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEhhaXJEcmVzc2VyRGV0YWlscyBmcm9tICcuL2NvbnRhaW5lcnMvSGFpckRyZXNzZXIvRGV0YWlscyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiAyLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEhhaXJEcmVzc0RldGFpbHMgZnJvbSAnLi9jb250YWluZXJzL0hhaXJEcmVzcy9EZXRhaWxzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiAyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
