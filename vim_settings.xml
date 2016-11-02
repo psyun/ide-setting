@@ -93,11 +93,11 @@
         <mark key="." line="40" column="24" />
         <mark key="^" line="40" column="24" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/select/index.js" timestamp="1478076145431">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="56" column="44" />
-        <mark key="." line="56" column="44" />
-        <mark key="^" line="56" column="44" />
+      <file name="/workspace/website/gowild-manage-system/src/components/select/index.js" timestamp="1478077481041">
+        <mark key="[" line="58" column="27" />
+        <mark key="]" line="58" column="41" />
+        <mark key="." line="58" column="41" />
+        <mark key="^" line="58" column="41" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/home/index.js" timestamp="1474713338811">
         <mark key="'" line="31" column="53" />
@@ -574,12 +574,12 @@
         <mark key="^" line="652" column="26" />
         <mark key="." line="652" column="26" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" timestamp="1478076324102">
-        <mark key="'" line="112" column="13" />
-        <mark key="[" line="171" column="59" />
-        <mark key="]" line="171" column="94" />
-        <mark key="." line="171" column="94" />
-        <mark key="^" line="171" column="94" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" timestamp="1478077545399">
+        <mark key="'" line="179" column="0" />
+        <mark key="[" line="95" column="10" />
+        <mark key="]" line="95" column="12" />
+        <mark key="." line="95" column="12" />
+        <mark key="^" line="95" column="12" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1474972591676">
         <mark key="'" line="102" column="9" />
@@ -950,8 +950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
-      <jump line="391" column="3" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="392" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="149" column="3" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="189" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
@@ -1050,13 +1048,15 @@
       <jump line="47" column="16" filename="/workspace/website/gowild-manage-system/src/components/select/index.js" />
       <jump line="62" column="3" filename="/workspace/website/gowild-manage-system/src/components/select/index.js" />
       <jump line="112" column="13" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
+      <jump line="40" column="32" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
+      <jump line="179" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>系统内部错误',</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -1065,34 +1065,34 @@
         <text>登录信息已过期，请重新登录</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYnVpbGREYXRhKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYnVpbGREYXRhID0gdGhpcy5idWlsZERhdGEuYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgIC8v5p6E6YCgZGF0YSzlsIZwcmVwZW5kRGF0YeWSjGFwcGVuZERhdGHov73liqDliLBkYXRh5LiK44CCCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgZGF0YTogdGhpcy5idWlsZERhdGEoKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGF0YTogdGhpcy5wcm9wcy5kYXRhLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFycmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcnJheS5tYXAoKQo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0YTogdGhpcy5idWlsZERhdGEoKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1148,8 +1148,8 @@
         <entry>lw</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
