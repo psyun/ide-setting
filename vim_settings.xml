@@ -316,6 +316,9 @@
         <mark key="." line="9" column="33" />
         <mark key="^" line="9" column="33" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/React/Base/RCTRootView.m" timestamp="1478164689418">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/index.android.js" timestamp="1477401224970">
         <mark key="[" line="23" column="26" />
         <mark key="]" line="23" column="28" />
@@ -670,11 +673,11 @@
         <mark key="." line="64" column="25" />
         <mark key="^" line="64" column="25" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/package.json" timestamp="1477560786825">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/package.json" timestamp="1478164396602">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="16" />
       </file>
       <file name="/workspace/website/gwai/www/views/memory/list/list.html" timestamp="1470794750586">
         <mark key="'" line="28" column="48" />
@@ -959,7 +962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="3" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="189" column="5" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="388" column="1" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="145" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
@@ -1059,16 +1061,17 @@
       <jump line="40" column="32" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
       <jump line="179" column="0" filename="/workspace/website/gowild-manage-system/src/containers/robot/xb-info/index.js" />
       <jump line="110" column="1" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/Dash/index.js" />
+      <jump line="0" column="0" filename="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/React/Base/RCTRootView.m" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>首页</text>
+        <text>native</text>
       </register>
       <register name="-" type="4">
-        <text>首页</text>
+        <text>native</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text>react</text>
       </register>
       <register name="0" type="4">
         <text>登录信息已过期，请重新登录</text>
@@ -1104,13 +1107,13 @@
         <text encoding="base64">aW1wb3J0IFRhYmJhciBmcm9tICcuLi8uLi9jb21wb25lbnRzL1RhYkJhci9EZWZhdWx0VGFiQmFyJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search>react</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern>react</last-pattern>
       <last-replace>、</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -1118,8 +1121,6 @@
     </search>
     <history>
       <history-search>
-        <entry>font-weight</entry>
-        <entry>预售</entry>
         <entry>get</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>font-family</entry>
@@ -1138,6 +1139,8 @@
         <entry>defaultValue</entry>
         <entry>showMo</entry>
         <entry>state</entry>
+        <entry>react-nat</entry>
+        <entry>react</entry>
       </history-search>
       <history-cmd>
         <entry>w]</entry>
@@ -1156,10 +1159,10 @@
         <entry>qw</entry>
         <entry>lw</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
