@@ -1,0 +1,14 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="GotoLine" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+</keymap>
