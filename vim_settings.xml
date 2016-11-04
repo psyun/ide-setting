@@ -9,11 +9,12 @@
         <mark key="^" line="25" column="13" />
         <mark key="." line="25" column="13" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/Dash/index.js" timestamp="1478228778641">
-        <mark key="'" line="52" column="44" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/Dash/index.js" timestamp="1478229980212">
+        <mark key="'" line="24" column="11" />
+        <mark key="[" line="92" column="37" />
+        <mark key="]" line="93" column="35" />
+        <mark key="^" line="93" column="35" />
+        <mark key="." line="93" column="35" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/global/globalActions.js" timestamp="1478181041404" />
       <file name="/workspace/website/gowild-manage-system/src/components/select/index.js" timestamp="1478139822266">
@@ -217,7 +218,6 @@
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Button/Button.js" timestamp="1478180888008" />
     </filemarks>
     <jumps>
-      <jump line="388" column="1" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="145" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="79" column="2" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
       <jump line="265" column="0" filename="/workspace/website/mhome/www/views/dash/dash.scss" />
@@ -317,6 +317,7 @@
       <jump line="110" column="1" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/Dash/index.js" />
       <jump line="0" column="0" filename="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/React/Base/RCTRootView.m" />
       <jump line="52" column="44" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/Dash/index.js" />
+      <jump line="24" column="11" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/Dash/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
