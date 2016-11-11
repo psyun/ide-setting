@@ -50,11 +50,11 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="/workspace/website/webpack/server.js" timestamp="1478848246504">
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="25" column="12" />
-        <mark key="^" line="25" column="12" />
-        <mark key="." line="25" column="12" />
+      <file name="/workspace/website/webpack/server.js" timestamp="1478855509005">
+        <mark key="[" line="22" column="75" />
+        <mark key="]" line="22" column="68" />
+        <mark key="^" line="22" column="68" />
+        <mark key="." line="22" column="68" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" timestamp="1478328143355">
         <mark key="'" line="63" column="15" />
@@ -113,11 +113,12 @@
         <mark key="." line="726" column="56" />
         <mark key="^" line="726" column="56" />
       </file>
-      <file name="/workspace/website/webpack/webpack.config.js" timestamp="1478850171438">
+      <file name="/workspace/website/webpack/webpack.config.js" timestamp="1478855516862">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="16" />
       </file>
       <file name="/workspace/website/home/src/index.html" timestamp="1478833656286">
         <mark key="'" line="284" column="16" />
@@ -362,8 +363,8 @@
         <entry>w'</entry>
         <entry>q</entry>
         <entry>qa</entry>
-        <entry>wq</entry>
         <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
