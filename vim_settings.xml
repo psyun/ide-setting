@@ -133,11 +133,12 @@
         <mark key="." line="92" column="20" />
         <mark key="^" line="92" column="20" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/config/base.js" timestamp="1478864461858">
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="28" column="29" />
-        <mark key="^" line="28" column="29" />
-        <mark key="." line="28" column="29" />
+      <file name="/workspace/website/gowild-manage-system/config/base.js" timestamp="1478866851073">
+        <mark key="'" line="42" column="9" />
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="45" column="38" />
+        <mark key="^" line="45" column="38" />
+        <mark key="." line="45" column="38" />
       </file>
       <file name="/workspace/website/webpack/webpack.production.config.js" timestamp="1478864317870">
         <mark key="[" line="16" column="17" />
@@ -160,7 +161,7 @@
         <mark key="." line="248" column="0" />
       </file>
       <file name="/workspace/website/webpack/package.json" timestamp="1478859396102" />
-      <file name="/workspace/website/webpack/webpack.config.js" timestamp="1478860097978">
+      <file name="/workspace/website/webpack/webpack.config.js" timestamp="1478866876974">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="45" />
@@ -176,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="727" column="0" filename="/workspace/website/mhome/www/views/product/xb/xb.scss" />
       <jump line="79" column="8" filename="/workspace/website/mhome/www/views/product/xb/xb.html" />
       <jump line="64" column="0" filename="/workspace/website/mhome/www/views/product/xb/xb.html" />
       <jump line="71" column="8" filename="/workspace/website/mhome/www/views/product/xb/xb.html" />
@@ -276,10 +276,11 @@
       <jump line="2" column="0" filename="/workspace/website/webpack/webpack.config.js" />
       <jump line="21" column="6" filename="/workspace/website/webpack/webpack.config.js" />
       <jump line="42" column="0" filename="/workspace/website/webpack/webpack.config.js" />
+      <jump line="42" column="9" filename="/workspace/website/gowild-manage-system/config/base.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkhvdE1vZHVsZVJlcGxhY2VtZW50UGx1Z2luKCksCg==</text>
+        <text encoding="base64">ICAgIGRldlRvb2w6JycsCg==</text>
       </register>
       <register name="-" type="4">
         <text>red</text>
@@ -291,13 +292,13 @@
         <text>autoprefixer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkhvdE1vZHVsZVJlcGxhY2VtZW50UGx1Z2luKCksCg==</text>
+        <text encoding="base64">ICAgIGRldlRvb2w6JycsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLk5vRXJyb3JzUGx1Z2luKCkK</text>
+        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkhvdE1vZHVsZVJlcGxhY2VtZW50UGx1Z2luKCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkhvdE1vZHVsZVJlcGxhY2VtZW50UGx1Z2luKCksCg==</text>
+        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLk5vRXJyb3JzUGx1Z2luKCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkhvdE1vZHVsZVJlcGxhY2VtZW50UGx1Z2luKCksCg==</text>
@@ -357,13 +358,11 @@
         <entry>path</entry>
       </history-search>
       <history-cmd>
-        <entry>eq</entry>
         <entry>s/\/、/g</entry>
         <entry>s/\\/、</entry>
         <entry>s/\\/、/g</entry>
         <entry>qw</entry>
         <entry>lw</entry>
-        <entry>Qa</entry>
         <entry>wqa</entry>
         <entry>Lw</entry>
         <entry>w3</entry>
@@ -373,9 +372,11 @@
         <entry>wq</entry>
         <entry>new</entry>
         <entry>vsplit</entry>
-        <entry>qa</entry>
         <entry>vsp webpack.production.config.js</entry>
         <entry>q</entry>
+        <entry>Qa</entry>
+        <entry>qa</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
