@@ -837,12 +837,12 @@
         <mark key="." line="0" column="64" />
         <mark key="^" line="0" column="64" />
       </file>
-      <file name="/workspace/website/home/src/css/site.css" timestamp="1473841627648">
-        <mark key="'" line="1663" column="14" />
-        <mark key="[" line="731" column="50" />
-        <mark key="]" line="731" column="50" />
-        <mark key="." line="731" column="50" />
-        <mark key="^" line="731" column="50" />
+      <file name="/workspace/website/home/src/css/site.css" timestamp="1478833699016">
+        <mark key="'" line="1668" column="14" />
+        <mark key="[" line="726" column="34" />
+        <mark key="]" line="726" column="56" />
+        <mark key="." line="726" column="56" />
+        <mark key="^" line="726" column="56" />
       </file>
       <file name="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.html" timestamp="1476350676571">
         <mark key="'" line="3" column="12" />
@@ -909,12 +909,12 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="/workspace/website/home/src/index.html" timestamp="1474857282294">
-        <mark key="'" line="281" column="16" />
-        <mark key="[" line="281" column="16" />
-        <mark key="]" line="281" column="166" />
-        <mark key="." line="96" column="49" />
-        <mark key="^" line="96" column="49" />
+      <file name="/workspace/website/home/src/index.html" timestamp="1478833656286">
+        <mark key="'" line="284" column="16" />
+        <mark key="[" line="91" column="33" />
+        <mark key="]" line="91" column="37" />
+        <mark key="." line="91" column="43" />
+        <mark key="^" line="91" column="43" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" timestamp="1478327413657">
         <mark key="[" line="72" column="39" />
@@ -1287,47 +1287,47 @@
       <jump line="138" column="22" filename="/workspace/website/gowild-manage-system/src/components/select/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBSYWRpb0dyb3VwLAo=</text>
+      <register name="&quot;" type="4">
+        <text>banner-holoera-hit.jpg</text>
       </register>
       <register name="-" type="4">
-        <text>XbSystemInfo</text>
+        <text>banner-holoera-hit.jpg</text>
       </register>
       <register name="/" type="4">
         <text>old</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PEZvcm1JdGVtCiAgICAgICAgICBsYWJlbD0i5aSn54mI5pys5Y+3IgogICAgICAgICAgbGFiZWxDb2w9e3sgc3BhbjogNiB9fQogICAgICAgICAgd3JhcHBlckNvbD17eyBzcGFuOiAxOCB9fQogICAgICAgID4KICAgICAgICAgIDxJbnB1dCB7Li4uZ2V0RmllbGRQcm9wcygndmVyc2lvbicsIHsKICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiByb3cudmVyc2lvbiwKICAgICAgICAgIH0pfS8+CiAgICAgICAgPC9Gb3JtSXRlbT4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHVybCgnLi4vaW1nL2luZGV4L2Jhbm5lci1ob2xvZXJhLWhpdC5qcGcnKSBuby1yZXBlYXQgY2VudGVyOwogICAgYmFja2dyb3VuZC1zaXplOiAxMDAlIDEwMCU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBSYWRpb0dyb3VwLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBSYWRpb0dyb3VwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChyb3cudXBncmFkZVR5cGVJZCkgewo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKHJvdy51cGdyYWRlVHlwZUlkKQo=</text>
+        <text encoding="base64">ICAgIGlmIChyb3cudXBncmFkZVR5cGVJZCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGlmKHJvdy51cGdyYWRlVHlwZUlkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2hvd0Zpcm13YXJlOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
+        <text encoding="base64">ICAgICAgc2hvd0Zpcm13YXJlOiB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1378,13 +1378,13 @@
         <entry>Qa</entry>
         <entry>wqa</entry>
         <entry>Lw</entry>
-        <entry>q</entry>
         <entry>w3</entry>
         <entry>ew</entry>
         <entry>w'</entry>
         <entry>W</entry>
         <entry>wq</entry>
         <entry>qa</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
