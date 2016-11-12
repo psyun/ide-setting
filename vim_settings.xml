@@ -15,6 +15,12 @@
         <mark key="^" line="67" column="27" />
         <mark key="." line="67" column="27" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/routes/index.js" timestamp="1478961026453">
+        <mark key="'" line="39" column="21" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/components/select/index.js" timestamp="1478850525863">
         <mark key="'" line="148" column="55" />
         <mark key="[" line="64" column="0" />
@@ -170,6 +176,12 @@
         <mark key="." line="72" column="40" />
         <mark key="^" line="72" column="40" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/entries/index.js" timestamp="1478960611344">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" timestamp="1478676184190">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="112" column="62" />
@@ -251,6 +263,12 @@
         <mark key="]" line="39" column="29" />
         <mark key="^" line="39" column="29" />
         <mark key="." line="39" column="29" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/services/auth-service.js" timestamp="1478961323002">
+        <mark key="[" line="40" column="3" />
+        <mark key="]" line="40" column="3" />
+        <mark key="^" line="30" column="3" />
+        <mark key="." line="40" column="3" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/chronicle.js" timestamp="1478252982995">
         <mark key="[" line="23" column="1" />
@@ -547,47 +565,52 @@
       <jump line="28" column="50" filename="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF1dGhTZXJ2aWNlLmxvZ291dCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHJldHVybiBodHRwRmV0Y2godGhpcy5nZXRVcmwoJy9yb2xlL2dldEFjY291bnRBdXRob3JpdHknKSwgewogICAgICBtZXRob2Q6ICdwb3N0JywKICAgIH0pCiAgICAgIC50aGVuKChyZXMpPT4gewogICAgICAgIHRoaXMuYXV0aEluZm8uYXV0aG9yaXplZE1vZHVsZSA9IHJlcy5hY2NvdW50QXV0aG9yaXR5Vm9MaXN0OwogICAgICB9KQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>this.authInfo.authorizedModule</text>
       </register>
       <register name="/" type="4">
         <text>webpack-dev</text>
       </register>
-      <register name="0" type="4">
-        <text>autoprefixer</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFJlYWN0RG9tLnJlbmRlcig8Um91dGVzIC8+LCBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncm9vdCcpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGF1dGhTZXJ2aWNlLmxvZ291dCgpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHJldHVybiBodHRwRmV0Y2godGhpcy5nZXRVcmwoJy9yb2xlL2dldEFjY291bnRBdXRob3JpdHknKSwgewogICAgICBtZXRob2Q6ICdwb3N0JywKICAgIH0pCiAgICAgIC50aGVuKChyZXMpPT4gewogICAgICAgIHRoaXMuYXV0aEluZm8uYXV0aG9yaXplZE1vZHVsZSA9IHJlcy5hY2NvdW50QXV0aG9yaXR5Vm9MaXN0OwogICAgICB9KQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2dvdXQnKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGF1dGhTZXJ2aWNlIGZyb20gJy4uL3NlcnZpY2VzL2F1dGgtc2VydmljZSc7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMuaGFuZGxlRW50ZXIgPSB0aGlzLmhhbmRsZUVudGVyLmJpbmQodGhpcyk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuY29kZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpZihyZXMuY29kZSkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBoYW5kbGVFbnRlcihuZXh0U3RhdGUsIHJlcGxhY2UpIHsKICAgIGlmICghYXV0aFNlcnZpY2UuaXNBdXRoZW50aWNhdGVkKCkpIHsKICAgICAgcmVwbGFjZSh7CiAgICAgICAgcGF0aG5hbWU6ICcvbG9naW4nLAogICAgICAgIHN0YXRlOiB7IG5leHRQYXRobmFtZTogbmV4dFN0YXRlLmxvY2F0aW9uLnBhdGhuYW1lIH0KICAgICAgfSk7CiAgICB9CiAgfQ==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>if (!authService.isAuthenticated()) {
+      replace({
+        pathname: '/login',
+        state: { nextPathname: nextState.location.pathname }
+      });
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZDb25maWcub3V0cHV0LnBhdGgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZGZzZHNkc2QnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -626,7 +649,6 @@
         <entry>webpack-dev</entry>
       </history-search>
       <history-cmd>
-        <entry>s/\\/、</entry>
         <entry>s/\\/、/g</entry>
         <entry>qw</entry>
         <entry>lw</entry>
@@ -645,6 +667,7 @@
         <entry>q</entry>
         <entry>Wq</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
