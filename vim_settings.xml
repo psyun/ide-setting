@@ -170,13 +170,6 @@
         <mark key="." line="72" column="40" />
         <mark key="^" line="72" column="40" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/config/dev.js" timestamp="1478872908742">
-        <mark key="'" line="25" column="15" />
-        <mark key="[" line="35" column="18" />
-        <mark key="]" line="35" column="17" />
-        <mark key="^" line="35" column="17" />
-        <mark key="." line="35" column="17" />
-      </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" timestamp="1478676184190">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="112" column="62" />
@@ -195,6 +188,13 @@
         <mark key="]" line="38" column="5" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="5" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1478959133212">
+        <mark key="'" line="28" column="50" />
+        <mark key="[" line="44" column="17" />
+        <mark key="]" line="44" column="22" />
+        <mark key="." line="44" column="22" />
+        <mark key="^" line="44" column="22" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/index.ios.js" timestamp="1478245211346">
         <mark key="[" line="23" column="26" />
@@ -246,11 +246,11 @@
         <mark key="." line="226" column="0" />
         <mark key="^" line="226" column="17" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/passport-result.js" timestamp="1478943746170">
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="36" column="27" />
-        <mark key="^" line="36" column="1" />
-        <mark key="." line="36" column="14" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/passport-result.js" timestamp="1478958625369">
+        <mark key="[" line="37" column="1" />
+        <mark key="]" line="39" column="29" />
+        <mark key="^" line="39" column="29" />
+        <mark key="." line="39" column="29" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/chronicle.js" timestamp="1478252982995">
         <mark key="[" line="23" column="1" />
@@ -326,6 +326,13 @@
         <mark key="]" line="16" column="20" />
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/utils/localStorageUtil.js" timestamp="1478958575013">
+        <mark key="'" line="53" column="26" />
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="29" column="39" />
+        <mark key="." line="29" column="39" />
+        <mark key="^" line="29" column="39" />
       </file>
       <file name="/workspace/website/webpack/node_modules/html-webpack-plugin/package.json" timestamp="1478848891300" />
       <file name="/workspace/website/gowild-manage-system/src/containers/xb-system-info/index.js" timestamp="1476847124688">
@@ -438,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="11" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="144" column="31" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="171" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="45" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
@@ -538,10 +544,11 @@
       <jump line="26" column="0" filename="/workspace/website/gowild-manage-system/server.js" />
       <jump line="48" column="14" filename="/workspace/website/gowild-manage-system/server.js" />
       <jump line="44" column="0" filename="/workspace/website/gowild-manage-system/server.js" />
+      <jump line="28" column="50" filename="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZDb25maWcub3V0cHV0LnBhdGgpOwo=</text>
+        <text encoding="base64">ICAgIGF1dGhTZXJ2aWNlLmxvZ291dCgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PSA=</text>
@@ -553,34 +560,34 @@
         <text>autoprefixer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZDb25maWcub3V0cHV0LnBhdGgpOwo=</text>
+        <text encoding="base64">ICAgIGF1dGhTZXJ2aWNlLmxvZ291dCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2dvdXQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXRoLmpvaW4oX19kaXJuYW1lLCAnaW5kZXguaHRtbCcpKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjdXJyZW50UGF0aDoK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuY29kZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocGF0aC5qb2luKHByb2Nlc3MuY3dkKCkpKTsK</text>
+        <text encoding="base64">ICBpZigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coX19kaXJuYW1lKTsK</text>
+        <text encoding="base64">ICBpZihyZXMuY29kZSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBub0luZm86IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZDb25maWcub3V0cHV0LnBhdGgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
