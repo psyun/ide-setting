@@ -163,6 +163,12 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="52" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1479181402233">
+        <mark key="[" line="22" column="68" />
+        <mark key="]" line="22" column="67" />
+        <mark key="^" line="22" column="67" />
+        <mark key="." line="22" column="67" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Typograph/index.js" timestamp="1478248783542">
         <mark key="[" line="49" column="21" />
         <mark key="]" line="49" column="17" />
@@ -197,6 +203,7 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/react-native/react-native.js" timestamp="1479181423872" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/grid/index.js" timestamp="1478263475367">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="42" column="1" />
