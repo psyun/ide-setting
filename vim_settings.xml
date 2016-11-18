@@ -169,11 +169,11 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="52" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1479465307613">
-        <mark key="[" line="35" column="28" />
-        <mark key="]" line="36" column="31" />
-        <mark key="^" line="36" column="31" />
-        <mark key="." line="36" column="31" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1479466518492">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="29" column="34" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.ios.js" timestamp="1479464932252">
         <mark key="[" line="34" column="23" />
@@ -565,11 +565,11 @@
       <jump line="121" column="36" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc3R5bGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>firm</text>
@@ -578,34 +578,34 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYGNvZGU6JHtjb2RlfSBkYXRhOiR7ZGF0YX1gKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc3R5bGUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEdXTXlCYXNlSW5mb1ZDKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc3R5bGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNvY2tldCgpLnJlcXVlc3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNvY2tldC5yZXF1ZXN0KDIyMDQsICcxMjM0NTZoaWhpaGloaScpOwo=</text>
+        <text encoding="base64">ICAgIFNvY2tldCgpLnJlcXVlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNvY2tldE1hbmFnZXIucmVxdWVzdChjb2RlLCBkYXRhKTsK</text>
+        <text encoding="base64">ICAgIFNvY2tldC5yZXF1ZXN0KDIyMDQsICcxMjM0NTZoaWhpaGloaScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFNvY2tldE1hbmFnZXIucmVxdWVzdChjb2RlLCBkYXRhKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgb25NZXNzYWdlKCkgewoK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgb25NZXNzYWdlKCkgewoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
