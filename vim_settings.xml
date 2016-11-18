@@ -45,11 +45,10 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.android.js" timestamp="1479456449371">
-        <mark key="[" line="28" column="50" />
-        <mark key="]" line="28" column="50" />
-        <mark key="." line="28" column="50" />
-        <mark key="^" line="28" column="50" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.android.js" timestamp="1479456633767">
+        <mark key="[" line="28" column="68" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/routes/index.js" timestamp="1478961026453">
         <mark key="[" line="33" column="0" />
@@ -560,7 +559,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERldmljZUV2ZW50RW1pdHRlci4K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJycpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -572,36 +571,36 @@
         <text encoding="base64">ICAgICAge3RleHQ6J0EzMVMnLHZhbHVlOidBMzFTJyx9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERldmljZUV2ZW50RW1pdHRlci4K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNvY2tldE1hbmFnZXIK</text>
+        <text encoding="base64">ICAgIERldmljZUV2ZW50RW1pdHRlci4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFNvY2tldE1hbmFnZXIK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{...getFieldProps('firmwareType', {
             initialValue: row.firmwareType
           })}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICB0aGlzLnN0YXRlLm9sZFZhbHVlID0gdGhpcy5wcm9wcy5kZWZhdWx0VmFsdWU7CiAgICB0aGlzLnByb3BzLm9uQ2hhbmdlKHRoaXMuc3RhdGUub2xkVmFsdWUsIHRoaXMucHJvcHMuZGVmYXVsdFZhbHVlKTsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25DaGFuZ2UodGhpcy5zdGF0ZS5vbGRWYWx1ZSwgdGhpcy5wcm9wcy5kZWZhdWx0VmFsdWUpOwo=</text>
+        <text encoding="base64">CiAgICB0aGlzLnN0YXRlLm9sZFZhbHVlID0gdGhpcy5wcm9wcy5kZWZhdWx0VmFsdWU7CiAgICB0aGlzLnByb3BzLm9uQ2hhbmdlKHRoaXMuc3RhdGUub2xkVmFsdWUsIHRoaXMucHJvcHMuZGVmYXVsdFZhbHVlKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25DaGFuZ2UodGhpcy5zdGF0ZS5vbGRWYWx1ZSwgdGhpcy5wcm9wcy5kZWZhdWx0VmFsdWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7c2hvd0Zpcm13YXJlVHlwZSAmJgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
