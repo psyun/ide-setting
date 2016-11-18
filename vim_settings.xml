@@ -80,11 +80,11 @@
         <mark key="." line="25" column="7" />
         <mark key="^" line="25" column="7" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" timestamp="1478330006280">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="117" column="21" />
-        <mark key="." line="73" column="0" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" timestamp="1479485511093">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="77" column="21" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/reducer.js" timestamp="1478244611700">
         <mark key="[" line="28" column="0" />
@@ -113,6 +113,7 @@
         <mark key="." line="95" column="12" />
         <mark key="^" line="95" column="12" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/EventEmitter/NativeEventEmitter.js" timestamp="1479485240567" />
       <file name="/workspace/website/mhome/www/views/product/product.scss" timestamp="1475917100239">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="18" column="18" />
@@ -169,11 +170,11 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="52" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1479466518492">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="34" />
-        <mark key="." line="29" column="34" />
-        <mark key="^" line="29" column="34" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1479484440932">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="18" column="1" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.ios.js" timestamp="1479464932252">
         <mark key="[" line="34" column="23" />
@@ -206,16 +207,13 @@
         <mark key="." line="92" column="20" />
         <mark key="^" line="92" column="20" />
       </file>
-      <file name="/workspace/website/webpack/package.json" timestamp="1478869185957">
-        <mark key="'" line="22" column="21" />
-      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/package.json" timestamp="1478272300621">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="25" column="20" />
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/react-native/react-native.js" timestamp="1479181423872" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/react-native/react-native.js" timestamp="1479484877286" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/grid/index.js" timestamp="1478263475367">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="42" column="1" />
@@ -286,6 +284,7 @@
         <mark key="." line="72" column="40" />
         <mark key="^" line="72" column="40" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/PushNotificationIOS/PushNotificationIOS.js" timestamp="1479483510917" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/FontFamily.js" timestamp="1478185482693">
         <mark key="[" line="23" column="34" />
         <mark key="]" line="23" column="36" />
@@ -346,11 +345,10 @@
         <mark key="." line="26" column="9" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/AppStarter.js" timestamp="1479465095198">
-        <mark key="[" line="50" column="17" />
-        <mark key="]" line="51" column="42" />
-        <mark key="." line="51" column="42" />
-        <mark key="^" line="51" column="42" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/AppStarter.js" timestamp="1479482501413">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/basic-info.js" timestamp="1478252809235">
         <mark key="[" line="21" column="0" />
@@ -565,56 +563,56 @@
       <jump line="121" column="36" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coTmF0aXZlTW9kdWxlcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>SocketEventEmitter</text>
       </register>
       <register name="/" type="4">
-        <text>firm</text>
+        <text>NativeEmi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYGNvZGU6JHtjb2RlfSBkYXRhOiR7ZGF0YX1gKTsK</text>
+        <text encoding="base64">ICB0aGlzLmxpc3RlbmVyID0gbXlOYXRpdmVFdnQuYWRkTGlzdGVuZXIoJ2lzZUNhbGxiYWNrJywgdGhpcy5pc2VDYWxsYmFjay5iaW5kKHRoaXMpKTsgIC8v5a+55bqU5LqG5Y6f55Sf56uv55qE5ZCN5a2XICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEdXTXlCYXNlSW5mb1ZDKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coTmF0aXZlTW9kdWxlcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc3R5bGUpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMubGlzdGVuZXIgPSBTb2NrZXRFdmVudEVtaXR0ZXIuYWRkTGlzdGVuZXIoJ2lzZUNhbGxiYWNrJywgKGRhdGEpPT4gewogICAgICBjb25zb2xlLmxvZyhgZGF0YTp7ZGF0YX1gKTsKICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coTmF0aXZlTW9kdWxlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNvY2tldCgpLnJlcXVlc3QK</text>
+        <text encoding="base64">aW1wb3J0IFNvY2tldE1hbmFnZXIgZnJvbSAnLi4vLi4vLi4vbmF0aXZlLW1vZHVsZXMvc29ja2V0JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNvY2tldC5yZXF1ZXN0KDIyMDQsICcxMjM0NTZoaWhpaGloaScpOwo=</text>
+        <text encoding="base64">CmltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7CmltcG9ydCB7IE5hdGl2ZU1vZHVsZXMsIE5hdGl2ZUV2ZW50RW1pdHRlciB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cgpjb25zdCBTb2NrZXRNYW5hZ2VyID0gTmF0aXZlTW9kdWxlcy5HV0pTTWFuYWdlcjsKY29uc3QgU29ja2V0TWFuYWdlckV2ZW50RW1pdHRlciA9IG5ldyBOYXRpdmVFdmVudEVtaXR0ZXIoU29ja2V0TWFuYWdlcik7CgpjbGFzcyBTb2NrZXQgewogIGNvbnN0cnVjdG9yKCkgewogICAgdGhpcy5saXN0ZW5lciA9IFNvY2tldE1hbmFnZXJFdmVudEVtaXR0ZXIuYWRkTGlzdGVuZXIoJ1Rlc3RDYWxsQmFjaycsIChuYW1lKT0+IHsKICAgICAgY29uc29sZS5sb2coYGNvZGU6JHtjb2RlfSBkYXRhOiR7ZGF0YX1gKTsKICAgIH0pOwoKICB9CgogIHJlcXVlc3QoY29kZSwgZGF0YSkgewogIH0KfQoKZXhwb3J0IGRlZmF1bHQgU29ja2V0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNvY2tldE1hbmFnZXIucmVxdWVzdChjb2RlLCBkYXRhKTsK</text>
+        <text encoding="base64">ICovCgppbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnOwppbXBvcnQgeyBOYXRpdmVNb2R1bGVzLCBOYXRpdmVFdmVudEVtaXR0ZXIgfSBmcm9tICdyZWFjdC1uYXRpdmUnOwoKY29uc3QgU29ja2V0TWFuYWdlciA9IE5hdGl2ZU1vZHVsZXMuR1dKU01hbmFnZXI7CmNvbnN0IFNvY2tldE1hbmFnZXJFdmVudEVtaXR0ZXIgPSBuZXcgTmF0aXZlRXZlbnRFbWl0dGVyKFNvY2tldE1hbmFnZXIpOwoKY2xhc3MgU29ja2V0IHsKICBjb25zdHJ1Y3RvcigpIHsKICAgIHRoaXMubGlzdGVuZXIgPSBTb2NrZXRNYW5hZ2VyRXZlbnRFbWl0dGVyLmFkZExpc3RlbmVyKCdUZXN0Q2FsbEJhY2snLCAobmFtZSk9PiB7CiAgICAgIGNvbnNvbGUubG9nKGBjb2RlOiR7Y29kZX0gZGF0YToke2RhdGF9YCk7CiAgICB9KTsKCiAgfQoKICByZXF1ZXN0KGNvZGUsIGRhdGEpIHsKICB9Cn0KCmV4cG9ydCBkZWZhdWx0IFNvY2tldDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFNvY2tldE1hbmFnZS5yZXF1ZXN0KDEyMywgJzMyMzQyMycpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgb25NZXNzYWdlKCkgewoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgU29ja2V0TWFuYWdlID0gbmV3IFNvY2tldE1hbmFnZXIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>firm</last-search>
+      <last-search>NativeEmi</last-search>
       <last-offset />
-      <last-pattern>firm</last-pattern>
+      <last-pattern>NativeEmi</last-pattern>
       <last-replace>、</last-replace>
       <last-substitute>webpack-dev</last-substitute>
       <last-dir>1</last-dir>
@@ -622,7 +620,6 @@
     </search>
     <history>
       <history-search>
-        <entry>span</entry>
         <entry>star-column</entry>
         <entry>\/、</entry>
         <entry>\\</entry>
@@ -642,9 +639,9 @@
         <entry>path</entry>
         <entry>webpack-dev</entry>
         <entry>firm</entry>
+        <entry>NativeEmi</entry>
       </history-search>
       <history-cmd>
-        <entry>qw</entry>
         <entry>lw</entry>
         <entry>wqa</entry>
         <entry>Lw</entry>
@@ -663,6 +660,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>wq</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
