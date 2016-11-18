@@ -400,10 +400,12 @@
         <mark key="." line="29" column="39" />
         <mark key="^" line="29" column="39" />
       </file>
-      <file name="/workspace/gowild-app/react-native/AwesomeProject/index.ios.js" timestamp="1479501240425">
-        <mark key="]" line="28" column="24" />
-        <mark key="." line="28" column="24" />
-        <mark key="^" line="28" column="24" />
+      <file name="/workspace/gowild-app/react-native/AwesomeProject/index.ios.js" timestamp="1479502522125">
+        <mark key="'" line="46" column="36" />
+        <mark key="[" line="29" column="74" />
+        <mark key="]" line="30" column="23" />
+        <mark key="^" line="30" column="23" />
+        <mark key="." line="30" column="23" />
       </file>
       <file name="/workspace/website/gowild-manage-system/index.html" timestamp="1478871144815">
         <mark key="[" line="9" column="6" />
@@ -466,7 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="45" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="26" column="112" filename="/workspace/website/mhome/www/views/wifi-qr-code/wifi-qr-code.js" />
       <jump line="111" column="64" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
@@ -566,13 +567,14 @@
       <jump line="44" column="0" filename="/workspace/website/gowild-manage-system/server.js" />
       <jump line="28" column="50" filename="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" />
       <jump line="121" column="36" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
+      <jump line="45" column="36" filename="/workspace/gowild-app/react-native/AwesomeProject/index.ios.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYGRhdGE6JHtkYXRhfWApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>SocketEventEmitter</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>NativeEmi</text>
@@ -581,34 +583,34 @@
         <text encoding="base64">ICB0aGlzLmxpc3RlbmVyID0gbXlOYXRpdmVFdnQuYWRkTGlzdGVuZXIoJ2lzZUNhbGxiYWNrJywgdGhpcy5pc2VDYWxsYmFjay5iaW5kKHRoaXMpKTsgIC8v5a+55bqU5LqG5Y6f55Sf56uv55qE5ZCN5a2XICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYGRhdGE6JHtkYXRhfWApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fSBmcm9tICdyZWFjdC1uYXRpdmUnOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBOYXRpdmVNb2R1bGVzLAogIE5hdGl2ZUV2ZW50RW1pdHRlciwKfSBmcm9tICdyZWFjdC1uYXRpdmUnOwoKY29uc3QgU29ja2V0TWFuYWdlciA9IE5hdGl2ZU1vZHVsZXMuU29ja2V0TWFuYWdlcjsKY29uc3QgU29ja2V0RXZlbnRFbWl0dGVyID0gbmV3IE5hdGl2ZUV2ZW50RW1pdHRlcihTb2NrZXRNYW5hZ2VyKTsKCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coTmF0aXZlTW9kdWxlcyk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fSBmcm9tICdyZWFjdC1uYXRpdmUnOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGlzdGVuZXIgPSBTb2NrZXRFdmVudEVtaXR0ZXIuYWRkTGlzdGVuZXIoJ2lzZUNhbGxiYWNrJywgKGRhdGEpPT4gewogICAgICBjb25zb2xlLmxvZyhgZGF0YTp7ZGF0YX1gKTsKICAgIH0pCg==</text>
+        <text encoding="base64">ICBOYXRpdmVNb2R1bGVzLAogIE5hdGl2ZUV2ZW50RW1pdHRlciwKfSBmcm9tICdyZWFjdC1uYXRpdmUnOwoKY29uc3QgU29ja2V0TWFuYWdlciA9IE5hdGl2ZU1vZHVsZXMuU29ja2V0TWFuYWdlcjsKY29uc3QgU29ja2V0RXZlbnRFbWl0dGVyID0gbmV3IE5hdGl2ZUV2ZW50RW1pdHRlcihTb2NrZXRNYW5hZ2VyKTsKCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coTmF0aXZlTW9kdWxlcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFNvY2tldE1hbmFnZXIgZnJvbSAnLi4vLi4vLi4vbmF0aXZlLW1vZHVsZXMvc29ja2V0JzsK</text>
+        <text encoding="base64">ICAgIHRoaXMubGlzdGVuZXIgPSBTb2NrZXRFdmVudEVtaXR0ZXIuYWRkTGlzdGVuZXIoJ2lzZUNhbGxiYWNrJywgKGRhdGEpPT4gewogICAgICBjb25zb2xlLmxvZyhgZGF0YTp7ZGF0YX1gKTsKICAgIH0pCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7CmltcG9ydCB7IE5hdGl2ZU1vZHVsZXMsIE5hdGl2ZUV2ZW50RW1pdHRlciB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cgpjb25zdCBTb2NrZXRNYW5hZ2VyID0gTmF0aXZlTW9kdWxlcy5HV0pTTWFuYWdlcjsKY29uc3QgU29ja2V0TWFuYWdlckV2ZW50RW1pdHRlciA9IG5ldyBOYXRpdmVFdmVudEVtaXR0ZXIoU29ja2V0TWFuYWdlcik7CgpjbGFzcyBTb2NrZXQgewogIGNvbnN0cnVjdG9yKCkgewogICAgdGhpcy5saXN0ZW5lciA9IFNvY2tldE1hbmFnZXJFdmVudEVtaXR0ZXIuYWRkTGlzdGVuZXIoJ1Rlc3RDYWxsQmFjaycsIChuYW1lKT0+IHsKICAgICAgY29uc29sZS5sb2coYGNvZGU6JHtjb2RlfSBkYXRhOiR7ZGF0YX1gKTsKICAgIH0pOwoKICB9CgogIHJlcXVlc3QoY29kZSwgZGF0YSkgewogIH0KfQoKZXhwb3J0IGRlZmF1bHQgU29ja2V0Owo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coTmF0aXZlTW9kdWxlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCgppbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnOwppbXBvcnQgeyBOYXRpdmVNb2R1bGVzLCBOYXRpdmVFdmVudEVtaXR0ZXIgfSBmcm9tICdyZWFjdC1uYXRpdmUnOwoKY29uc3QgU29ja2V0TWFuYWdlciA9IE5hdGl2ZU1vZHVsZXMuR1dKU01hbmFnZXI7CmNvbnN0IFNvY2tldE1hbmFnZXJFdmVudEVtaXR0ZXIgPSBuZXcgTmF0aXZlRXZlbnRFbWl0dGVyKFNvY2tldE1hbmFnZXIpOwoKY2xhc3MgU29ja2V0IHsKICBjb25zdHJ1Y3RvcigpIHsKICAgIHRoaXMubGlzdGVuZXIgPSBTb2NrZXRNYW5hZ2VyRXZlbnRFbWl0dGVyLmFkZExpc3RlbmVyKCdUZXN0Q2FsbEJhY2snLCAobmFtZSk9PiB7CiAgICAgIGNvbnNvbGUubG9nKGBjb2RlOiR7Y29kZX0gZGF0YToke2RhdGF9YCk7CiAgICB9KTsKCiAgfQoKICByZXF1ZXN0KGNvZGUsIGRhdGEpIHsKICB9Cn0KCmV4cG9ydCBkZWZhdWx0IFNvY2tldDsK</text>
+        <text encoding="base64">aW1wb3J0IFNvY2tldE1hbmFnZXIgZnJvbSAnLi4vLi4vLi4vbmF0aXZlLW1vZHVsZXMvc29ja2V0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
