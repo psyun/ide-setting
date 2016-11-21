@@ -113,7 +113,6 @@
         <mark key="." line="95" column="12" />
         <mark key="^" line="95" column="12" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/EventEmitter/NativeEventEmitter.js" timestamp="1479485240567" />
       <file name="/workspace/website/mhome/www/views/product/product.scss" timestamp="1475917100239">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="18" column="18" />
@@ -213,7 +212,6 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/react-native/react-native.js" timestamp="1479484877286" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/grid/index.js" timestamp="1478263475367">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="42" column="1" />
@@ -284,7 +282,6 @@
         <mark key="." line="72" column="40" />
         <mark key="^" line="72" column="40" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/PushNotificationIOS/PushNotificationIOS.js" timestamp="1479483510917" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/FontFamily.js" timestamp="1478185482693">
         <mark key="[" line="23" column="34" />
         <mark key="]" line="23" column="36" />
@@ -400,7 +397,7 @@
         <mark key="." line="29" column="39" />
         <mark key="^" line="29" column="39" />
       </file>
-      <file name="/workspace/gowild-app/react-native/AwesomeProject/index.ios.js" timestamp="1479505544817">
+      <file name="/workspace/gowild-app/react-native/AwesomeProject/index.ios.js" timestamp="1479738622614">
         <mark key="'" line="46" column="36" />
         <mark key="[" line="29" column="74" />
         <mark key="]" line="30" column="23" />
@@ -457,8 +454,6 @@
         <mark key="^" line="188" column="37" />
         <mark key="." line="188" column="37" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/Components/SwitchIOS/SwitchIOS.ios.js" timestamp="1479455230929" />
-      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/Image/Image.ios.js" timestamp="1479455739125" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/date-picker/index.js" timestamp="1478339996870">
         <mark key="'" line="265" column="8" />
         <mark key="[" line="330" column="10" />
