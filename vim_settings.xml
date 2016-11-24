@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/chronicle/actions.js" timestamp="1478253056997">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+      </file>
       <file name="/workspace/website/home/src/home/download/index.html" timestamp="1479898628543">
         <mark key="'" line="220" column="88" />
         <mark key="[" line="24" column="0" />
@@ -10,9 +16,39 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="6" column="22" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/batch-option-bar/batch-option-item.js" timestamp="1474962247303">
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="25" column="13" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="25" column="13" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Container/MainContainer.js" timestamp="1478333325646">
+        <mark key="[" line="66" column="20" />
+        <mark key="]" line="67" column="27" />
+        <mark key="^" line="67" column="27" />
+        <mark key="." line="67" column="27" />
+      </file>
       <file name="/a.dummy" timestamp="1479954292202">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/global/globalActions.js" timestamp="1478244166591">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="12" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.android.js" timestamp="1479462761282">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="29" column="46" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/List/item.js" timestamp="1478329749250">
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="86" column="21" />
+        <mark key="^" line="86" column="21" />
+        <mark key="." line="86" column="21" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/select/index.js" timestamp="1479111761086">
         <mark key="'" line="145" column="55" />
@@ -33,12 +69,36 @@
         <mark key="." line="201" column="52" />
         <mark key="^" line="201" column="52" />
       </file>
+      <file name="/workspace/website/mhome/www/views/product/product.scss" timestamp="1475917100239">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/utils/passport-result.js" timestamp="1478958625369">
+        <mark key="[" line="37" column="1" />
+        <mark key="]" line="37" column="29" />
+        <mark key="^" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+      </file>
       <file name="/workspace/website/home/src/home/where-to-buy/store.html" timestamp="1479954352927">
         <mark key="'" line="179" column="88" />
         <mark key="[" line="191" column="69" />
         <mark key="]" line="191" column="84" />
         <mark key="." line="191" column="84" />
         <mark key="^" line="191" column="84" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/index.js" timestamp="1478253880045">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="7" />
+        <mark key="." line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/chronicle.js" timestamp="1478252982995">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="25" column="24" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="25" column="24" />
       </file>
       <file name="/workspace/website/mhome/www/views/dash/dash.html" timestamp="1478834864233">
         <mark key="'" line="62" column="0" />
@@ -53,6 +113,12 @@
         <mark key="." line="47" column="31" />
         <mark key="^" line="47" column="31" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Typograph/index.js" timestamp="1478248783542">
+        <mark key="[" line="49" column="21" />
+        <mark key="]" line="49" column="17" />
+        <mark key="^" line="49" column="17" />
+        <mark key="." line="49" column="17" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/grid.scss" timestamp="1478844979445">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="91" column="30" />
@@ -60,12 +126,30 @@
         <mark key="." line="92" column="20" />
         <mark key="^" line="92" column="20" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/grid/index.js" timestamp="1478263475367">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="1" />
+        <mark key="^" line="42" column="1" />
+        <mark key="." line="42" column="1" />
+      </file>
       <file name="/workspace/website/home/src/home/product/product-video.html" timestamp="1479898070719">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="18" />
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" timestamp="1478253336306">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+        <mark key="^" line="26" column="1" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/friend.js" timestamp="1478252924569">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="22" column="1" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="1" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1479135570260">
         <mark key="'" line="117" column="17" />
@@ -79,6 +163,24 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/InitialState.js" timestamp="1478254012826">
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="34" column="26" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/smart-plus/smart-plus.scss" timestamp="1475912499564">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/index.android.js" timestamp="1478223255717">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="28" />
+        <mark key="." line="23" column="28" />
+        <mark key="^" line="23" column="28" />
       </file>
       <file name="/workspace/website/gowild-manage-system/config/base.js" timestamp="1478873521608">
         <mark key="'" line="43" column="3" />
@@ -99,12 +201,24 @@
         <mark key="^" line="175" column="86" />
         <mark key="." line="175" column="86" />
       </file>
+      <file name="/workspace/website/gwai/www/views/libraries/dash/dash.js" timestamp="1476354975857">
+        <mark key="[" line="64" column="7" />
+        <mark key="]" line="66" column="36" />
+        <mark key="^" line="66" column="36" />
+        <mark key="." line="66" column="36" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/server.js" timestamp="1478940592497">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="58" column="96" />
         <mark key="]" line="59" column="1" />
         <mark key="." line="59" column="1" />
         <mark key="^" line="59" column="1" />
+      </file>
+      <file name="/workspace/website/webpack/webpack.production.config.js" timestamp="1478868089623">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="20" />
       </file>
       <file name="/workspace/website/home/src/css/bundle.css" timestamp="1479902107919">
         <mark key="'" line="0" column="0" />
@@ -119,15 +233,18 @@
         <mark key="." line="29" column="39" />
         <mark key="^" line="29" column="39" />
       </file>
-      <file name="/workspace/website/home/src/components/header/header.html" timestamp="1479897969888">
-        <mark key="[" line="7" column="31" />
-      </file>
       <file name="/workspace/gowild-app/react-native/AwesomeProject/index.ios.js" timestamp="1479738622614">
         <mark key="'" line="46" column="36" />
         <mark key="[" line="29" column="74" />
         <mark key="]" line="30" column="23" />
         <mark key="^" line="30" column="23" />
         <mark key="." line="30" column="23" />
+      </file>
+      <file name="/workspace/website/webpack/server.js" timestamp="1478872697849">
+        <mark key="[" line="22" column="75" />
+        <mark key="]" line="22" column="68" />
+        <mark key="^" line="22" column="68" />
+        <mark key="." line="22" column="68" />
       </file>
       <file name="/workspace/website/home/src/home/where-to-buy/partner.html" timestamp="1479954336649">
         <mark key="'" line="208" column="0" />
@@ -143,11 +260,59 @@
         <mark key="^" line="93" column="26" />
         <mark key="." line="120" column="11" />
       </file>
+      <file name="/workspace/antd/form/src/createBaseForm.js" timestamp="1475047387364">
+        <mark key="[" line="198" column="9" />
+        <mark key="]" line="200" column="37" />
+        <mark key="." line="200" column="37" />
+        <mark key="^" line="200" column="37" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/node_modules/rc-form/lib/createBaseForm.js" timestamp="1475057672300">
+        <mark key="[" line="186" column="9" />
+        <mark key="]" line="188" column="37" />
+        <mark key="^" line="188" column="37" />
+        <mark key="." line="188" column="37" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Container/AppView.js" timestamp="1478187243723">
+        <mark key="[" line="64" column="35" />
+        <mark key="]" line="65" column="33" />
+        <mark key="." line="65" column="33" />
+        <mark key="^" line="65" column="33" />
+      </file>
       <file name="/workspace/website/home/src/home/plus/index.html" timestamp="1479894493455">
         <mark key="'" line="195" column="166" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/xb-system-info/index.js" timestamp="1476847124688">
+        <mark key="[" line="31" column="56" />
+        <mark key="]" line="31" column="61" />
+        <mark key="." line="31" column="61" />
+        <mark key="^" line="31" column="61" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/List/List.js" timestamp="1478330840181">
+        <mark key="[" line="62" column="46" />
+        <mark key="]" line="63" column="6" />
+        <mark key="." line="63" column="6" />
+        <mark key="^" line="63" column="6" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/search-form/index.js" timestamp="1475058282850">
+        <mark key="[" line="39" column="47" />
+        <mark key="]" line="39" column="47" />
+        <mark key="." line="39" column="47" />
+        <mark key="^" line="39" column="47" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/intial-state.js" timestamp="1478248544230">
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/reducer.js" timestamp="1478244611700">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="14" />
+        <mark key="^" line="29" column="14" />
+        <mark key="." line="29" column="14" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" timestamp="1478851696809">
         <mark key="'" line="38" column="10" />
@@ -163,6 +328,18 @@
         <mark key="." line="95" column="12" />
         <mark key="^" line="95" column="12" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/reducer.js" timestamp="1478253380305">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+      </file>
+      <file name="/workspace/website/webpack/index.css" timestamp="1478847076320">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1478768790081">
         <mark key="'" line="44" column="43" />
         <mark key="[" line="206" column="21" />
@@ -170,11 +347,41 @@
         <mark key="." line="206" column="24" />
         <mark key="^" line="206" column="24" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/chronicle/reducer.js" timestamp="1478253273206">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+      </file>
       <file name="/workspace/website/home/src/home/support/after-sales.html" timestamp="1479894662687">
         <mark key="'" line="355" column="166" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.ios.js" timestamp="1479464932252">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="35" column="27" />
+        <mark key="." line="35" column="27" />
+        <mark key="^" line="35" column="27" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" timestamp="1478340256069">
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="^" line="177" column="45" />
+        <mark key="." line="248" column="0" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/hobby/intial-state.js" timestamp="1478253750415">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+        <mark key="^" line="22" column="15" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/package.json" timestamp="1478272300621">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="20" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/js-base64/base64.js" timestamp="1479986639094" />
       <file name="/workspace/website/home/src/css/site.css" timestamp="1479902078218">
@@ -198,6 +405,24 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/batch-area/index.js" timestamp="1474941503055">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+      </file>
+      <file name="/workspace/website/gwai/www/views/qa/edit/edit.html" timestamp="1475130607144">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="29" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/hobby.js" timestamp="1478252958485">
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="22" column="17" />
+        <mark key="^" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+      </file>
       <file name="/workspace/website/home/src/index.html" timestamp="1479954327247">
         <mark key="'" line="169" column="0" />
         <mark key="[" line="137" column="76" />
@@ -205,11 +430,29 @@
         <mark key="." line="137" column="91" />
         <mark key="^" line="137" column="91" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" timestamp="1478327413657">
+        <mark key="[" line="72" column="39" />
+        <mark key="]" line="72" column="40" />
+        <mark key="." line="72" column="40" />
+        <mark key="^" line="72" column="40" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/FontFamily.js" timestamp="1478185482693">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="36" />
+        <mark key="." line="23" column="36" />
+        <mark key="^" line="23" column="36" />
+      </file>
       <file name="/workspace/website/home/src/home/support/tech.html" timestamp="1479894652739">
         <mark key="'" line="314" column="166" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Colors.js" timestamp="1478185965076">
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="6" />
+        <mark key="^" line="24" column="6" />
+        <mark key="." line="24" column="6" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" timestamp="1478676184190">
         <mark key="'" line="0" column="0" />
@@ -218,17 +461,53 @@
         <mark key="." line="112" column="63" />
         <mark key="^" line="112" column="63" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/keda/index.js" timestamp="1478774205723">
+        <mark key="[" line="87" column="39" />
+        <mark key="]" line="87" column="67" />
+        <mark key="^" line="87" column="67" />
+        <mark key="." line="87" column="67" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/intial-state.js" timestamp="1478273254164">
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+        <mark key="^" line="26" column="9" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/AppStarter.js" timestamp="1479974767928">
         <mark key="[" line="50" column="27" />
         <mark key="]" line="50" column="25" />
         <mark key="." line="50" column="25" />
         <mark key="^" line="50" column="25" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/basic-info.js" timestamp="1478252809235">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/chronicle/intial-state.js" timestamp="1478268874166">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="38" column="5" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="34" column="5" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/date-picker/style.js" timestamp="1478340104730">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="13" />
+        <mark key="^" line="43" column="15" />
+        <mark key="." line="28" column="13" />
+      </file>
       <file name="/workspace/website/home/src/download/index.html" timestamp="1479954363713">
         <mark key="[" line="179" column="57" />
         <mark key="]" line="179" column="72" />
         <mark key="^" line="179" column="72" />
         <mark key="." line="179" column="72" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/product/xb/xb.scss" timestamp="1475917041592">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="/workspace/website/home/src/home/ours/index.html" timestamp="1479954305498">
         <mark key="'" line="24" column="0" />
@@ -237,12 +516,24 @@
         <mark key="^" line="152" column="24" />
         <mark key="." line="165" column="76" />
       </file>
-      <file name="/workspace/website/home/src/home/product/gongzixiaobai.html" timestamp="1479898637602">
-        <mark key="'" line="739" column="0" />
+      <file name="/workspace/website/gowild-manage-system/index.html" timestamp="1478871144815">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
+      <file name="/workspace/website/home/src/home/product/gongzixiaobai.html" timestamp="1479988021492">
+        <mark key="'" line="240" column="55" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="33" column="31" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/index.ios.js" timestamp="1478245211346">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="28" />
+        <mark key="." line="23" column="28" />
+        <mark key="^" line="23" column="28" />
       </file>
       <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1478774088031">
         <mark key="'" line="47" column="3" />
@@ -263,6 +554,18 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/workspace/website/home/src/components/clip-box/clip-box.js" timestamp="1479992320398">
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="19" />
+        <mark key="^" line="66" column="34" />
+        <mark key="." line="66" column="19" />
+      </file>
+      <file name="/workspace/website/mhome/www/views/views.scss" timestamp="1475913087635">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/date-picker/index.js" timestamp="1478339996870">
         <mark key="'" line="265" column="8" />
         <mark key="[" line="330" column="10" />
@@ -272,9 +575,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="21" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
-      <jump line="129" column="21" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
-      <jump line="112" column="17" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="61" column="14" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/chronicle/index.js" />
       <jump line="24" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/hobby/actions.js" />
       <jump line="23" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/hobby/actions.js" />
@@ -372,13 +672,16 @@
       <jump line="0" column="0" filename="/workspace/website/home/src/home/where-to-buy/index.html" />
       <jump line="187" column="16" filename="/workspace/website/home/src/css/base.css" />
       <jump line="0" column="0" filename="/workspace/website/home/src/css/bundle.css" />
+      <jump line="240" column="55" filename="/workspace/website/home/src/home/product/gongzixiaobai.html" />
+      <jump line="103" column="25" filename="/workspace/website/home/src/components/clip-box/clip-box.js" />
+      <jump line="61" column="36" filename="/workspace/website/home/src/components/clip-box/clip-box.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpzQmFzZTY0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>originalEvent</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>originalEvent</text>
       </register>
       <register name="/" type="4">
         <text>零售</text>
@@ -387,34 +690,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPGJyLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpzQmFzZTY0KTsK</text>
+        <text encoding="base64">ICAgICAgICBfc2VsZi5fc2Nyb2xsVXAoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpzQmFzZTY0IGZyb20gJ2pzLWJhc2U2NCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBfc2VsZi5fc2Nyb2xsRG93bigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNyY1N0cik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW1TY3JvbGxWYWx1ZSk7CiAgICBjb25zb2xlLmxvZyh0aGlzLm1heFNjcm9sbFZhbHVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBzcmNTdHIgPSBqc0Jhc2U2NChjb2RlLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5hY3RpdmVJbmRleCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBjb2RlOiR7Y29kZX1gKQo=</text>
+        <text encoding="base64">ICAgIC8v5aaC5p6c5ruR5Yqo5YC85aSn5LqOMAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coU29ja2V0TWFuYWdlcik7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFNvY2tldEV2ZW50RW1pdHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hY3RpdmVJbmRleCAtPSAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -425,7 +728,7 @@
       <last-offset />
       <last-pattern>零售</last-pattern>
       <last-replace>、</last-replace>
-      <last-substitute>webpack-dev</last-substitute>
+      <last-substitute>零售</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
