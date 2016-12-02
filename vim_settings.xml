@@ -145,6 +145,12 @@
         <mark key="." line="191" column="84" />
         <mark key="^" line="191" column="84" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/test.js" timestamp="1480668090099">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/localStorageUtil.js" timestamp="1478958575013">
         <mark key="'" line="53" column="26" />
         <mark key="[" line="27" column="42" />
@@ -197,11 +203,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1480414295997">
-        <mark key="[" line="47" column="25" />
-        <mark key="]" line="47" column="31" />
-        <mark key="." line="47" column="31" />
-        <mark key="^" line="47" column="31" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1480668200866">
+        <mark key="[" line="46" column="42" />
+        <mark key="]" line="47" column="23" />
+        <mark key="." line="47" column="23" />
+        <mark key="^" line="47" column="23" />
       </file>
       <file name="/workspace/website/home/src/home/support/after-sales.html" timestamp="1479894662687">
         <mark key="'" line="355" column="166" />
@@ -244,6 +250,7 @@
         <mark key="^" line="93" column="26" />
         <mark key="." line="120" column="11" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/js-base64/base64.js" timestamp="1480666540489" />
       <file name="/workspace/website/home/src/js/os.js" timestamp="1479898657807">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -400,11 +407,11 @@
       <jump line="61" column="36" filename="/workspace/website/home/src/components/clip-box/clip-box.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5vcmlnaW5hbEV2ZW50LikK</text>
+      <register name="&quot;" type="4">
+        <text>decode</text>
       </register>
       <register name="-" type="4">
-        <text>originalEvent</text>
+        <text>decode</text>
       </register>
       <register name="/" type="4">
         <text>零售</text>
@@ -413,34 +420,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPGJyLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5vcmlnaW5hbEV2ZW50LikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNyY1N0cik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
+        <text encoding="base64">dmFyIEJhc2U2NCA9IHJlcXVpcmUoJycpLkJhc2U2NDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5vcmlnaW5hbEV2ZW50LndoZWVsRGVsdGFZKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvZGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBfc2VsZi5fc2Nyb2xsVXAoKTsK</text>
+        <text encoding="base64">dmFyIEJhc2U2NCA9IHJlcXVpcmUoJ2pzLWJhc2U2NCcpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfc2VsZi5fc2Nyb2xsRG93bigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW1TY3JvbGxWYWx1ZSk7CiAgICBjb25zb2xlLmxvZyh0aGlzLm1heFNjcm9sbFZhbHVlKTsK</text>
+        <text encoding="base64">QmFzZTY0LmZyb21CYXNlNjQoJ1pHRnVhMjluWVdrPScpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5hY3RpdmVJbmRleCk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coanNCYXNlNjQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS4K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coanNCYXNlNjQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
