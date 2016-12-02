@@ -85,10 +85,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/AppStarter.js" timestamp="1480669135117">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/AppStarter.js" timestamp="1480671448055">
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="50" column="35" />
+        <mark key="." line="50" column="35" />
+        <mark key="^" line="50" column="35" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" timestamp="1478851696809">
         <mark key="'" line="38" column="10" />
@@ -202,11 +203,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1480668200866">
-        <mark key="[" line="46" column="42" />
-        <mark key="]" line="47" column="23" />
-        <mark key="." line="47" column="23" />
-        <mark key="^" line="47" column="23" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1480671027945">
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="39" column="30" />
+        <mark key="." line="39" column="30" />
+        <mark key="^" line="39" column="30" />
       </file>
       <file name="/workspace/website/home/src/home/support/after-sales.html" timestamp="1479894662687">
         <mark key="'" line="355" column="166" />
@@ -407,7 +408,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>decode</text>
@@ -419,34 +420,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPGJyLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNvY2tldE1hbmFnZXIucmVxdWVzdCgxMjMsICIxMzQyNDIiKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhZGRDb21tYW5kQ29kZXMoKXsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNyY1N0cik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIEJhc2U2NCA9IHJlcXVpcmUoJycpLkJhc2U2NDsK</text>
+        <text encoding="base64">ICAgIFNvY2tldE1hbmFnZXIucmVxdWVzdCgxMjMsICIxMzQyNDIiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvZGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIEJhc2U2NCA9IHJlcXVpcmUoJ2pzLWJhc2U2NCcpOwoK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNyY1N0cik7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIEJhc2U2NCA9IHJlcXVpcmUoJycpLkJhc2U2NDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QmFzZTY0LmZyb21CYXNlNjQoJ1pHRnVhMjluWVdrPScpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvZGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
