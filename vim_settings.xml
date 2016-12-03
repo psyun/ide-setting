@@ -77,12 +77,12 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="52" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1480736333250">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1480738014446">
         <mark key="'" line="25" column="21" />
-        <mark key="[" line="56" column="47" />
-        <mark key="]" line="56" column="47" />
-        <mark key="." line="56" column="47" />
-        <mark key="^" line="56" column="47" />
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="38" />
+        <mark key="." line="38" column="38" />
+        <mark key="^" line="38" column="38" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/grid.scss" timestamp="1478844979445">
         <mark key="'" line="7" column="4" />
@@ -178,7 +178,7 @@
         <mark key="^" line="10" column="11" />
         <mark key="." line="10" column="11" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" timestamp="1480736911876">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" timestamp="1480737744060">
         <mark key="'" line="193" column="0" />
         <mark key="[" line="214" column="13" />
         <mark key="]" line="214" column="13" />
@@ -367,8 +367,8 @@
       <jump line="193" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhciBzcmNTdHIgPSBCYXNlNjQuZGVjb2RlKGNvZGUuZGF0YSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -380,34 +380,34 @@
         <text>U</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY29kZSgnc2Rmc2RmcycpKTsK</text>
+        <text encoding="base64">ICAgIHZhciBzcmNTdHIgPSBCYXNlNjQuZGVjb2RlKGNvZGUuZGF0YSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY29kZSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY29kZSgnc2Rmc2RmcycpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZW5jb2RlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY29kZSk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coZW5jb2RlKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgZGVjb2RlVG9GaWxlOiBmdW5jdGlvbiAoc3RyLCBmaWxlUGF0aCkgewogICAgLy8gcmV2ZXJzZSBwcm9jZXNzCiAgICB2YXIgZGF0YSA9IHRoaXMuZGVjb2RlKHN0cik7CiAgICBmcy53cml0ZUZpbGVTeW5jKGZpbGVQYXRoLCBkYXRhLCAnYmluYXJ5Jyk7CiAgfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZW5jb2RlRmlsZTogZnVuY3Rpb24gKGZpbGUpIHsKICAgIHZhciBpbnB1dERhdGEgPSBmcy5yZWFkRmlsZVN5bmMoZmlsZSksCiAgICAgIGZpbGVUb1N0ciA9ICcnLAogICAgICBpLAogICAgICBsZW5ndGgsCiAgICAgIGlucHV0U2xpY2VkID0gW10sCiAgICAgIGVuY29kZWRTdHJpbmcgPSAnJzsKCiAgICBmb3IgKGkgPSAwOyBpIDwgaW5wdXREYXRhLmxlbmd0aDsgKytpKSB7CiAgICAgIGZpbGVUb1N0ciArPSBTdHJpbmcuZnJvbUNoYXJDb2RlKGlucHV0RGF0YVtpXSk7CiAgICB9CgogICAgZm9yIChpID0gMCwgbGVuZ3RoID0gZmlsZVRvU3RyLmxlbmd0aDsgaSA8IGxlbmd0aDsgaSA9IGkgKyAzKSB7CiAgICAgIGlucHV0U2xpY2VkLnB1c2goZmlsZVRvU3RyLnNsaWNlKGksIGkgKyAzKSk7CiAgICB9CgogICAgZm9yIChpID0gMCwgbGVuZ3RoID0gaW5wdXRTbGljZWQubGVuZ3RoOyBpIDwgbGVuZ3RoOyArK2kpIHsKICAgICAgZW5jb2RlZFN0cmluZyArPSBlbmNvZGluZ1N5c3RlbShpbnB1dFNsaWNlZFtpXSk7CiAgICB9CiAgICByZXR1cm4gZW5jb2RlZFN0cmluZzsKICB9LA==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY29kZSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZW5jb2RlRmlsZTogZnVuY3Rpb24gKGZpbGUpIHsKICAgIHZhciBpbnB1dERhdGEgPSBmcy5yZWFkRmlsZVN5bmMoZmlsZSksCiAgICAgIGZpbGVUb1N0ciA9ICcnLAogICAgICBpLAogICAgICBsZW5ndGgsCiAgICAgIGlucHV0U2xpY2VkID0gW10sCiAgICAgIGVuY29kZWRTdHJpbmcgPSAnJzsKCiAgICBmb3IgKGkgPSAwOyBpIDwgaW5wdXREYXRhLmxlbmd0aDsgKytpKSB7CiAgICAgIGZpbGVUb1N0ciArPSBTdHJpbmcuZnJvbUNoYXJDb2RlKGlucHV0RGF0YVtpXSk7CiAgICB9CgogICAgZm9yIChpID0gMCwgbGVuZ3RoID0gZmlsZVRvU3RyLmxlbmd0aDsgaSA8IGxlbmd0aDsgaSA9IGkgKyAzKSB7CiAgICAgIGlucHV0U2xpY2VkLnB1c2goZmlsZVRvU3RyLnNsaWNlKGksIGkgKyAzKSk7CiAgICB9CgogICAgZm9yIChpID0gMCwgbGVuZ3RoID0gaW5wdXRTbGljZWQubGVuZ3RoOyBpIDwgbGVuZ3RoOyArK2kpIHsKICAgICAgZW5jb2RlZFN0cmluZyArPSBlbmNvZGluZ1N5c3RlbShpbnB1dFNsaWNlZFtpXSk7CiAgICB9CiAgICByZXR1cm4gZW5jb2RlZFN0cmluZzsKICB9LA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGJhc2U2NCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY29kZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
