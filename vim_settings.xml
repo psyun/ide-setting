@@ -77,7 +77,7 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="52" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1480738014446">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1480738036483">
         <mark key="'" line="25" column="21" />
         <mark key="[" line="38" column="38" />
         <mark key="]" line="38" column="38" />
@@ -171,12 +171,12 @@
         <mark key="^" line="179" column="72" />
         <mark key="." line="179" column="72" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/test.js" timestamp="1480735417533">
-        <mark key="'" line="1" column="47" />
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="11" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="10" column="11" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/test.js" timestamp="1480741621531">
+        <mark key="'" line="5" column="35" />
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" timestamp="1480737744060">
         <mark key="'" line="193" column="0" />
@@ -265,7 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="40" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/chronicle/add/index.js" />
       <jump line="104" column="31" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/chronicle/add/index.js" />
       <jump line="267" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/chronicle/add/index.js" />
       <jump line="70" column="28" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/chronicle/list/index.js" />
@@ -365,6 +364,7 @@
       <jump line="0" column="88" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" />
       <jump line="169" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" />
       <jump line="193" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" />
+      <jump line="5" column="35" filename="/workspace/gowild-app/gowild-holoera-app/test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
