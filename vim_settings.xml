@@ -182,14 +182,14 @@
         <mark key="^" line="179" column="72" />
         <mark key="." line="179" column="72" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/test.js" timestamp="1480755291823">
+      <file name="/workspace/gowild-app/gowild-holoera-app/test.js" timestamp="1480757248072">
         <mark key="'" line="5" column="35" />
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="90" />
+        <mark key="^" line="5" column="90" />
+        <mark key="." line="5" column="90" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" timestamp="1480737744060">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" timestamp="1480757053206">
         <mark key="'" line="193" column="0" />
         <mark key="[" line="214" column="13" />
         <mark key="]" line="214" column="13" />
@@ -379,10 +379,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AppManager</text>
+        <text>f/4APgCCAgi3DxATGHggECgAMDs6AzExNkIG5YC+5ZCsSIXr95+MK1ACWgznvZHnu5zmrYzmiYtgBmhkcAA=</text>
       </register>
       <register name="-" type="4">
-        <text>AppManager</text>
+        <text>f/4APgCCAgi3DxATGHggECgAMDs6AzExNkIG5YC+5ZCsSIXr95+MK1ACWgznvZHnu5zmrYzmiYtgBmhkcAA=</text>
       </register>
       <register name="/" type="4">
         <text>fs</text>
