@@ -188,18 +188,18 @@
         <mark key="^" line="179" column="72" />
         <mark key="." line="179" column="72" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/test.js" timestamp="1480901528416">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="54" />
-        <mark key="^" line="5" column="54" />
-        <mark key="." line="5" column="54" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/test.js" timestamp="1480913973768">
+        <mark key="[" line="2" column="113" />
+        <mark key="]" line="2" column="113" />
+        <mark key="^" line="2" column="113" />
+        <mark key="." line="2" column="113" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" timestamp="1480758533160">
-        <mark key="'" line="193" column="0" />
-        <mark key="[" line="214" column="13" />
-        <mark key="]" line="214" column="13" />
-        <mark key="^" line="214" column="13" />
-        <mark key="." line="214" column="13" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" timestamp="1480913922532">
+        <mark key="'" line="196" column="0" />
+        <mark key="[" line="86" column="31" />
+        <mark key="]" line="87" column="32" />
+        <mark key="^" line="87" column="32" />
+        <mark key="." line="87" column="32" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/localStorageUtil.js" timestamp="1478958575013">
         <mark key="'" line="53" column="26" />
@@ -384,7 +384,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">dmFyIGRhdGEgPSBiYXNlNjQuZGVjb2RlKCdmLzRBUGdDQ0FnaTNEeEFUR0hnZ0VDZ0FNRHM2QXpFeE5rSUc1WUMrNVpDc1NJWHI5NStNSzFBQ1dnem52WkhudTV6bXJZem1pWXRnQm1oa2NBQT0nKTsK</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -396,34 +396,34 @@
         <text>U</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">dmFyIGRhdGEgPSBiYXNlNjQuZGVjb2RlKCdmLzRBUGdDQ0FnaTNEeEFUR0hnZ0VDZ0FNRHM2QXpFeE5rSUc1WUMrNVpDc1NJWHI5NStNSzFBQ1dnem52WkhudTV6bXJZem1pWXRnQm1oa2NBQT0nKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhieXRlcyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dmFyIG1lc3NhZ2UgPSBVcGRhdGVGYWNlRm9yQXBwTXNnLmRlc2VyaWFsaXplQmluYXJ5KCcnKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobWVzc2FnZS5zZXJpYWxpemVCaW5hcnkoKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobWVzc2FnZS5zZXJpYWxpemVCaW5hcnkoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhieXRlcyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc3JjU3RyID0gJzEyMzQ1Nic7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobWVzc2FnZS5zZXJpYWxpemVCaW5hcnkoKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZW5jb2RlU3RyID0gYmFzZTY0LmVuY29kZShzcmNTdHIpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobWVzc2FnZS5zZXJpYWxpemVCaW5hcnkoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZW5jb2RlU3RyKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
