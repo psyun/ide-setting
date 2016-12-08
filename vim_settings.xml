@@ -15,11 +15,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/upgradeApp/index.js" timestamp="1481182630584">
+      <file name="/workspace/website/gowild-manage-system/src/containers/upgradeApp/index.js" timestamp="1481184013167">
         <mark key="'" line="148" column="17" />
-        <mark key="[" line="132" column="32" />
-        <mark key="]" line="132" column="33" />
-        <mark key="." line="132" column="33" />
+        <mark key="[" line="151" column="32" />
+        <mark key="]" line="151" column="33" />
+        <mark key="." line="151" column="33" />
         <mark key="^" line="205" column="35" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/routes/index.js" timestamp="1478961026453">
@@ -130,6 +130,7 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1481184094286" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1479135570260">
         <mark key="'" line="117" column="17" />
         <mark key="[" line="67" column="32" />
