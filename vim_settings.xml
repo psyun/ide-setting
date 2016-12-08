@@ -15,11 +15,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/upgradeApp/index.js" timestamp="1481181283097">
+      <file name="/workspace/website/gowild-manage-system/src/containers/upgradeApp/index.js" timestamp="1481182630584">
         <mark key="'" line="148" column="17" />
-        <mark key="[" line="205" column="12" />
-        <mark key="]" line="205" column="35" />
-        <mark key="." line="205" column="35" />
+        <mark key="[" line="132" column="32" />
+        <mark key="]" line="132" column="33" />
+        <mark key="." line="132" column="33" />
         <mark key="^" line="205" column="35" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/routes/index.js" timestamp="1478961026453">
@@ -43,12 +43,12 @@
       <file name="/workspace/website/gowild-manage-system/src/components/select/index.js" timestamp="1479111761086">
         <mark key="'" line="140" column="55" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" timestamp="1481180822899">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="112" column="10" />
-        <mark key="]" line="115" column="15" />
-        <mark key="." line="112" column="10" />
-        <mark key="^" line="112" column="9" />
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" timestamp="1481182522583">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="46" column="18" />
+        <mark key="]" line="47" column="14" />
+        <mark key="." line="47" column="14" />
+        <mark key="^" line="47" column="14" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1481177945800">
         <mark key="[" line="151" column="8" />
@@ -307,8 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
-      <jump line="20" column="0" filename="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" />
       <jump line="135" column="40" filename="/workspace/website/gowild-manage-system/src/components/select/index.js" />
       <jump line="138" column="22" filename="/workspace/website/gowild-manage-system/src/components/select/index.js" />
       <jump line="5" column="0" filename="/workspace/website/webpack/webpack.config.js" />
@@ -407,6 +405,8 @@
       <jump line="1413" column="0" filename="/workspace/gowild-app/gowild-holoera-app/test_pb.js" />
       <jump line="21" column="13" filename="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" />
       <jump line="146" column="17" filename="/workspace/website/gowild-manage-system/src/containers/upgradeApp/index.js" />
+      <jump line="143" column="35" filename="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" />
+      <jump line="155" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/modal-form/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
