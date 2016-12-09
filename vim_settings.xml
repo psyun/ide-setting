@@ -26,7 +26,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/List/item.js" timestamp="1481276454755">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/List/item.js" timestamp="1481288898622">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
@@ -176,14 +176,14 @@
         <mark key="^" line="128" column="70" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1479135570260">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1481289667732">
         <mark key="'" line="117" column="17" />
-        <mark key="[" line="67" column="32" />
-        <mark key="]" line="67" column="21" />
-        <mark key="." line="67" column="21" />
-        <mark key="^" line="67" column="21" />
+        <mark key="[" line="245" column="3" />
+        <mark key="]" line="246" column="28" />
+        <mark key="." line="246" column="28" />
+        <mark key="^" line="246" column="28" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Button/BackButton.js" timestamp="1481285799777">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Button/BackButton.js" timestamp="1481288818197">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="25" column="6" />
         <mark key="." line="25" column="6" />
@@ -336,12 +336,12 @@
         <mark key="^" line="30" column="23" />
         <mark key="." line="30" column="23" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/memory/index.js" timestamp="1481276830055">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/memory/index.js" timestamp="1481289007190">
         <mark key="'" line="134" column="0" />
-        <mark key="[" line="63" column="49" />
-        <mark key="]" line="63" column="57" />
-        <mark key="." line="63" column="57" />
-        <mark key="^" line="63" column="57" />
+        <mark key="[" line="110" column="21" />
+        <mark key="]" line="110" column="26" />
+        <mark key="." line="110" column="26" />
+        <mark key="^" line="110" column="26" />
       </file>
       <file name="/workspace/website/home/src/home/product/gongzixiaobai.html" timestamp="1479988021492">
         <mark key="'" line="240" column="55" />
@@ -506,7 +506,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhBcHBNYW5hZ2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtbc3R5bGVzLmNvbCxzdHlsZXMubGFiZWxdfT4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bnVtYmVyPXtwYXJzZUludChyb3dJRCkgKyAxfSA=</text>
@@ -515,37 +515,37 @@
         <text>reload</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxTY2VuZSBrZXk9ImJhc2ljSW5mbyIgdGl0bGU9IuWfuuacrOS/oeaBryIgY29tcG9uZW50PXtCYXNpY0luZm99Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtbc3R5bGVzLmNvbCxzdHlsZXMubGFiZWxdfT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhBcHBNYW5hZ2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgQXBwIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coTmF0aXZlTW9kdWxlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhBcHBNYW5hZ2VyKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">e3RoaXMucHJvcHMubnVtYmVyICYmCiAgICAgICAgICA8VmlldyBzdHlsZT17W3N0eWxlcy5udW1iZXIsc3R5bGVzLmNvbF19PgogICAgICAgICAgICA8SDI+e3RoaXMucHJvcHMubnVtYmVyfTwvSDI+CiAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -597,12 +597,12 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>we</entry>
         <entry>wqa</entry>
-        <entry>Qa</entry>
         <entry>wq</entry>
-        <entry>qa</entry>
         <entry>QA</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>Qa</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
