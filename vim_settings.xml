@@ -175,12 +175,12 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1481527397307">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1481529946884">
         <mark key="'" line="138" column="14" />
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="^" line="213" column="24" />
-        <mark key="." line="269" column="0" />
+        <mark key="[" line="229" column="15" />
+        <mark key="]" line="226" column="28" />
+        <mark key="^" line="226" column="28" />
+        <mark key="." line="226" column="28" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/date-picker/index.js" timestamp="1481527500060">
         <mark key="[" line="277" column="0" />
@@ -292,7 +292,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuZGVybGF5Q29sb3I9eycjMDAwMDAwNzcnfQo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmdMZWZ0OjEwLAo=</text>
       </register>
       <register name="-" type="4">
         <text>{width:100,height:34,backgroundColor:'blue'}</text>
@@ -301,7 +301,7 @@
         <text>reload</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy50ZXh0V3JhcHBlcn0+Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmdMZWZ0OjEwLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHVuZGVybGF5Q29sb3I9eycjMDAwMDAwNzcnfQo=</text>
