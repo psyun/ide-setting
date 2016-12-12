@@ -175,11 +175,12 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1481524116523">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1481525144104">
         <mark key="'" line="138" column="14" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+        <mark key="[" line="246" column="15" />
+        <mark key="]" line="247" column="3" />
+        <mark key="." line="247" column="3" />
+        <mark key="^" line="247" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -285,11 +286,11 @@
       <jump line="138" column="14" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>{width:100,height:34,backgroundColor:'blue'}</text>
       </register>
       <register name="-" type="4">
-        <text>011824</text>
+        <text>{width:100,height:34,backgroundColor:'blue'}</text>
       </register>
       <register name="/" type="4">
         <text>reload</text>
@@ -328,7 +329,7 @@
         <text encoding="base64">ICAgIG1heDogUmVhY3QuUHJvcFR5cGVzLm51bWJlciwK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -382,8 +383,8 @@
         <entry>Qa</entry>
         <entry>qa</entry>
         <entry>;w</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
