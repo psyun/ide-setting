@@ -152,17 +152,18 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1481712009050">
-        <mark key="[" line="51" column="23" />
-        <mark key="]" line="52" column="20" />
-        <mark key="." line="52" column="20" />
-        <mark key="^" line="52" column="20" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1481717187566">
+        <mark key="[" line="62" column="32" />
+        <mark key="]" line="62" column="36" />
+        <mark key="." line="62" column="36" />
+        <mark key="^" line="62" column="36" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" timestamp="1481711355198">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" timestamp="1481717391058">
         <mark key="'" line="38" column="49" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="25" />
+        <mark key="." line="52" column="25" />
+        <mark key="^" line="52" column="25" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/loading.scss" timestamp="1481188701487">
         <mark key="[" line="2" column="15" />
@@ -332,7 +333,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBheWxvYWQ6IGZhY2UuVXBkYXRlRmFjZURldGVjdEZvckFwcE1zZy5kZXNlcmlhbGl6ZUJpbmFyeSgpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaGhoaCcpCg==</text>
       </register>
       <register name="-" type="4">
         <text>string</text>
@@ -347,36 +348,34 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBheWxvYWQ6IGZhY2UuVXBkYXRlRmFjZURldGVjdEZvckFwcE1zZy5kZXNlcmlhbGl6ZUJpbmFyeSgpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaGhoaCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNyY1N0ci5sZW5ndGgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY3J5cHRTdHIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8v5Yqg5a+G5oiQYmFzZTY0Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubGlzdGVuZXIgPSBTb2NrZXRFdmVudEVtaXR0ZXIuYWRkTGlzdGVuZXIoJ29uUmVzcG9uc2UnLCB0aGlzLmhhbmRsZVJlc3BvbnNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvZGUpOwo=</text>
+        <text encoding="base64">ICAgIHBheWxvYWQ6IGZhY2UuVXBkYXRlRmFjZURldGVjdEZvckFwcE1zZy5kZXNlcmlhbGl6ZUJpbmFyeSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYnl0ZVN0cmluZyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>}
-    //加密成base64
-    c</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY3J5cHRTdHIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBjYWxsYmFjayR7cmVzfWApOwo=</text>
+        <text encoding="base64">ICAgIC8v5Yqg5a+G5oiQYmFzZTY0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
