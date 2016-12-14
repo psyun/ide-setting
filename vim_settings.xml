@@ -152,17 +152,17 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1481708113034">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1481711411524">
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="20" />
+        <mark key="^" line="52" column="20" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" timestamp="1481706380110">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" timestamp="1481711355198">
         <mark key="'" line="38" column="49" />
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="41" column="30" />
-        <mark key="." line="41" column="30" />
-        <mark key="^" line="41" column="30" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/loading.scss" timestamp="1481188701487">
         <mark key="[" line="2" column="15" />
@@ -332,62 +332,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYnl0ZVN0cmluZyk7Cg==</text>
+        <text encoding="base64">ICAgIHBheWxvYWQ6IGZhY2UuVXBkYXRlRmFjZURldGVjdEZvckFwcE1zZy5kZXNlcmlhbGl6ZUJpbmFyeSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>callback''</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>encode</text>
       </register>
       <register name="0" type="4">
-        <text>GET_FRIEND_LIST</text>
+        <text>return {
+      type: MODIFY_BASIC_INFO,
+      payload: face.UpdateFaceDetectForAppMsg.deserializeBinary(res)
+    }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYnl0ZVN0cmluZyk7Cg==</text>
+        <text encoding="base64">ICAgIHBheWxvYWQ6IGZhY2UuVXBkYXRlRmFjZURldGVjdEZvckFwcE1zZy5kZXNlcmlhbGl6ZUJpbmFyeSgpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>}
-    //加密成base64
-    c</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBjYWxsYmFjayR7cmVzfWApOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY3J5cHRTdHIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY3J5cHRTdHIpOwo=</text>
+        <text encoding="base64">ICAgIC8v5Yqg5a+G5oiQYmFzZTY0Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXF1ZXN0KGNvZGUsIGRhdGEsIHJlc3BvbnNlQ29kZSwgaGFuZGxlcikgewogICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvZGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cGRhdGVGYWNlTXNnLnRvT2JqZWN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYnl0ZVN0cmluZyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>var test = {
-  accountId: '12312',
-  email: '',
-  nickname: '',
-  age: '',
-  height: '',
-  weight: '',
-  career: '',
-  birthday: '',
-  faceid: 0,
-};
-for (var i in test) {
-  console.log(i);
-  console.log(test[i]);
-}</text>
+        <text>}
+    //加密成base64
+    c</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBjYWxsYmFjayR7cmVzfWApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
