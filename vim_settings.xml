@@ -152,13 +152,13 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1481701685868">
-        <mark key="[" line="39" column="39" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="34" />
-        <mark key="^" line="39" column="34" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1481707010583">
+        <mark key="[" line="74" column="42" />
+        <mark key="]" line="75" column="27" />
+        <mark key="." line="75" column="27" />
+        <mark key="^" line="75" column="27" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" timestamp="1481703904030">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" timestamp="1481706380110">
         <mark key="'" line="38" column="49" />
         <mark key="[" line="39" column="38" />
         <mark key="]" line="41" column="30" />
@@ -332,8 +332,10 @@
       <jump line="0" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBjYWxsYmFjayR7cmVzfWApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>}
+    //加密成base64
+    c</text>
       </register>
       <register name="-" type="4">
         <text>callback''</text>
@@ -344,22 +346,27 @@
       <register name="0" type="4">
         <text>GET_FRIEND_LIST</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBjYWxsYmFjayR7cmVzfWApOwo=</text>
+      <register name="1" type="4">
+        <text>}
+    //加密成base64
+    c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY3J5cHRTdHIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBjYWxsYmFjayR7cmVzfWApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY3J5cHRTdHIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXF1ZXN0KGNvZGUsIGRhdGEsIHJlc3BvbnNlQ29kZSwgaGFuZGxlcikgewogICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICByZXF1ZXN0KGNvZGUsIGRhdGEsIHJlc3BvbnNlQ29kZSwgaGFuZGxlcikgewogICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyh1cGRhdGVGYWNlTXNnLnRvT2JqZWN0KCkpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>var test = {
   accountId: '12312',
   email: '',
@@ -376,17 +383,14 @@ for (var i in test) {
   console.log(test[i]);
 }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">bwo=</text>
-      </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBheWxvYWQ6Cg==</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNocm9uaWNsZVJlZHVjZXIgZnJvbSAnLi9jaHJvbmljbGUvcmVkdWNlcic7Cg==</text>
+        <text encoding="base64">ICAgIHBheWxvYWQ6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
