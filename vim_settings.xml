@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Button/BackButton.js" timestamp="1481288818197">
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="25" column="6" />
-        <mark key="." line="25" column="6" />
-        <mark key="^" line="25" column="6" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Button/BackButton.js" timestamp="1481893259677">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Container/AppView.js" timestamp="1481294561562">
         <mark key="[" line="52" column="10" />
@@ -21,6 +20,12 @@
         <mark key="]" line="9" column="25" />
         <mark key="." line="45" column="4" />
         <mark key="^" line="45" column="41" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" timestamp="1481892645959">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/utils/protobuf-utils.js" timestamp="1481552997972">
         <mark key="[" line="39" column="6" />
@@ -111,9 +116,6 @@
         <mark key="^" line="179" column="72" />
         <mark key="." line="179" column="72" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" timestamp="1481698101827">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/reducer.js" timestamp="1481891548555">
         <mark key="'" line="26" column="25" />
         <mark key="[" line="25" column="16" />
@@ -128,11 +130,11 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="110" column="26" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1481891822215">
-        <mark key="[" line="82" column="5" />
-        <mark key="]" line="83" column="35" />
-        <mark key="." line="83" column="35" />
-        <mark key="^" line="83" column="35" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1481891949470">
+        <mark key="[" line="86" column="14" />
+        <mark key="]" line="86" column="14" />
+        <mark key="." line="86" column="14" />
+        <mark key="^" line="86" column="14" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" timestamp="1481890915716">
         <mark key="'" line="47" column="24" />
@@ -204,9 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="/workspace/website/home/src/home/ours/index.html" />
-      <jump line="160" column="66" filename="/workspace/website/home/src/index.html" />
-      <jump line="144" column="0" filename="/workspace/website/home/src/index.html" />
       <jump line="174" column="28" filename="/workspace/website/home/src/home/where-to-buy/index.html" />
       <jump line="20" column="34" filename="/workspace/website/home/src/home/where-to-buy/index.html" />
       <jump line="181" column="55" filename="/workspace/website/home/src/home/where-to-buy/index.html" />
@@ -304,10 +303,13 @@
       <jump line="47" column="24" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" />
       <jump line="23" column="22" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" />
       <jump line="82" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" />
+      <jump line="139" column="25" filename="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" />
+      <jump line="48" column="4" filename="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" />
+      <jump line="72" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GET_FRIEND_SUCESS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubmF2aWdhdGlvblN0YXRlKTsK</text>
       </register>
       <register name="-" type="4">
         <text>faceList</text>
@@ -319,40 +321,34 @@
         <text>GET_FRIEND_SUCESS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZm9yKGxldCBpID0wO2k8KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubmF2aWdhdGlvblN0YXRlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuewo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpOwogICAgY29uc29sZS5sb2coQWN0aW9ucyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5zdGF0ZSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-    id: 1,
-    nickname: '张三',
-  }, {
-    id: 2,
-    nickname: '李四'
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBQcm9wVHlwZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjcmVhdG9ycyk7Cg==</text>
+        <text encoding="base64">ICAgIC8vVE9ETyByZW1vdmUgaGFuZGxlZCBjYWxsYmFjayBmcm9tIGNhbGxiYWNrUXVldWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgIHRvZG8K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gY3JlYXRvcnM7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY2FsbGJhY2tRdWV1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyaWVuZAo=</text>
+        <text encoding="base64">ICAgICAgZm9yKGxldCBpID0wO2k8KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -406,10 +402,10 @@
         <entry>q:Q</entry>
         <entry>Qa</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>w'</entry>
-        <entry>wq</entry>
         <entry>qa</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
