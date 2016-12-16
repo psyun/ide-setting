@@ -138,11 +138,12 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/Router.js" timestamp="1481899940855">
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="38" column="38" />
-        <mark key="^" line="38" column="38" />
-        <mark key="." line="38" column="38" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/Router.js" timestamp="1481901572602">
+        <mark key="'" line="26" column="21" />
+        <mark key="[" line="54" column="35" />
+        <mark key="]" line="54" column="35" />
+        <mark key="." line="54" column="35" />
+        <mark key="^" line="54" column="35" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/Scene.js" timestamp="1481899911895" />
       <file name="/workspace/website/gowild-manage-system/src/containers/upgradeApp/upgrade-app.scss" timestamp="1481181171695">
@@ -157,7 +158,10 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Colors.js" timestamp="1481897590456" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Colors.js" timestamp="1481901564532">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="25" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/intial-state.js" timestamp="1481890126106">
         <mark key="[" line="23" column="19" />
         <mark key="]" line="23" column="20" />
@@ -221,6 +225,7 @@
         <mark key="^" line="68" column="49" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/Router.js" timestamp="1481901605102" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/date-picker/index.js" timestamp="1481535559700">
         <mark key="[" line="277" column="0" />
         <mark key="]" line="277" column="0" />
@@ -228,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="16" filename="/workspace/website/home/src/css/base.css" />
       <jump line="0" column="0" filename="/workspace/website/home/src/css/bundle.css" />
       <jump line="240" column="55" filename="/workspace/website/home/src/home/product/gongzixiaobai.html" />
       <jump line="103" column="25" filename="/workspace/website/home/src/components/clip-box/clip-box.js" />
@@ -328,10 +332,11 @@
       <jump line="79" column="6" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/memory/index.js" />
       <jump line="45" column="5" filename="/workspace/gowild-app/gowild-holoera-app/app/components/Button/BackButton.js" />
       <jump line="68" column="20" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/memory/index.js" />
+      <jump line="26" column="21" filename="/workspace/gowild-app/gowild-holoera-app/app/Router.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcE1hbmFnZXIgZnJvbSAnLi4vLi4vbmF0aXZlLW1vZHVsZXMvYXBwJzsK</text>
+      <register name="&quot;" type="4">
+        <text>011824</text>
       </register>
       <register name="-" type="4">
         <text>transparent</text>
@@ -340,37 +345,37 @@
         <text>encode</text>
       </register>
       <register name="0" type="4">
-        <text>GET_FRIEND_SUCESS</text>
+        <text>011824</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcE1hbmFnZXIgZnJvbSAnLi4vLi4vbmF0aXZlLW1vZHVsZXMvYXBwJzsK</text>
+        <text encoding="base64">aW1wb3J0IFZpZXcgZnJvbSAnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ29rJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFwcE1hbmFnZXIgZnJvbSAnLi4vLi4vbmF0aXZlLW1vZHVsZXMvYXBwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMub25QcmVzc0JhY2spOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ29rJyk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMub25QcmVzc0JhY2spOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQWN0aW9ucy5wb3AoKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ29rJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQWN0aW9ucy5wb3AoKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFjdGlvbnMucG9wKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG5vb3AgZnJvbSAnLi4vLi4vdXRpbHMvbm9vcCc7Cg==</text>
+        <text encoding="base64">ICAgIEFjdGlvbnMucG9wKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
