@@ -85,12 +85,12 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" timestamp="1481877552290">
-        <mark key="'" line="50" column="12" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="131" column="16" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" timestamp="1481884789807">
+        <mark key="'" line="67" column="21" />
+        <mark key="[" line="134" column="4" />
+        <mark key="]" line="135" column="27" />
+        <mark key="." line="135" column="27" />
+        <mark key="^" line="135" column="27" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/intial-state.js" timestamp="1481875126854">
         <mark key="[" line="31" column="8" />
@@ -224,10 +224,10 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" timestamp="1481876239379">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="45" column="75" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" timestamp="1481884777281">
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
         <mark key="^" line="45" column="75" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/friend.js" timestamp="1481875591562">
@@ -236,7 +236,7 @@
         <mark key="." line="24" column="52" />
         <mark key="^" line="24" column="52" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1481877483080">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1481884677902">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="105" column="47" />
         <mark key="]" line="105" column="48" />
@@ -245,9 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="0" filename="/workspace/website/home/src/home/where-to-buy/partner.html" />
-      <jump line="179" column="88" filename="/workspace/website/home/src/home/where-to-buy/store.html" />
-      <jump line="258" column="34" filename="/workspace/website/home/src/index.html" />
       <jump line="35" column="0" filename="/workspace/website/home/src/index.html" />
       <jump line="1149" column="22" filename="/workspace/website/home/src/css/base.css" />
       <jump line="166" column="0" filename="/workspace/website/home/src/index.html" />
@@ -342,16 +339,19 @@
       <jump line="158" column="22" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="6" column="1" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/reducer.js" />
       <jump line="51" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" />
-      <jump line="0" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="131" column="9" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" />
       <jump line="50" column="12" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" />
+      <jump line="136" column="12" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" />
+      <jump line="253" column="19" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
+      <jump line="0" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
+      <jump line="66" column="21" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gY3JlYXRvcnM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>aciton</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>encode</text>
