@@ -85,12 +85,12 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" timestamp="1481884789807">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" timestamp="1481887986081">
         <mark key="'" line="67" column="21" />
-        <mark key="[" line="134" column="4" />
-        <mark key="]" line="135" column="27" />
-        <mark key="." line="135" column="27" />
-        <mark key="^" line="135" column="27" />
+        <mark key="[" line="135" column="14" />
+        <mark key="]" line="135" column="21" />
+        <mark key="." line="135" column="21" />
+        <mark key="^" line="135" column="21" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/intial-state.js" timestamp="1481875126854">
         <mark key="[" line="31" column="8" />
@@ -348,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>friendAciton</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>friendAciton</text>
       </register>
       <register name="/" type="4">
         <text>encode</text>
