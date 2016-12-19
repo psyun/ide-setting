@@ -65,12 +65,11 @@
         <mark key="^" line="86" column="14" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/Actions.js" timestamp="1481900094027" />
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" timestamp="1482150414750">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" timestamp="1482154386805">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="196" column="38" />
-        <mark key="]" line="196" column="37" />
-        <mark key="." line="196" column="37" />
-        <mark key="^" line="196" column="37" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/index.js" timestamp="1481188720957">
         <mark key="[" line="20" column="0" />
@@ -122,6 +121,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="47" column="5" />
+      </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/Reducer.js" timestamp="1481899769733">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" timestamp="1481901179703">
         <mark key="'" line="71" column="0" />
@@ -330,11 +335,11 @@
       <jump line="0" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>friend.selectedFriend.birthday</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLi4udGhpcy5zdGF0ZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>friend.selectedFriend.birthday</text>
+        <text>this.props.friend.selectedFriend</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
@@ -343,37 +348,37 @@
         <text>UPDATE_FIELD</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoYW5nZWRGaWVsZCA9IHt9Owo=</text>
+        <text encoding="base64">ICAgICAgLi4udGhpcy5zdGF0ZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZWRGaWVsZFtuYW1lXSA9IHZhbHVlOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNoYW5nZWRGaWVsZCA9IHt9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGNoYW5nZWRGaWVsZFtuYW1lXSA9IHZhbHVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyaWVuZAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLi4uY2hhbmdlZEZpZWxkCg==</text>
+        <text encoding="base64">ICAgIGZyaWVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgLi4uY2hhbmdlZEZpZWxkCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmFtZTogdmFsdWUsCg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -427,8 +432,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
