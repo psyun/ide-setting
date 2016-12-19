@@ -52,7 +52,7 @@
         <mark key="^" line="42" column="27" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/ActionConst.js" timestamp="1481896332276" />
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/reducer.js" timestamp="1482137979620">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/reducer.js" timestamp="1482142480138">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="51" column="8" />
@@ -65,12 +65,12 @@
         <mark key="^" line="86" column="14" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/Actions.js" timestamp="1481900094027" />
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" timestamp="1482138049737">
-        <mark key="'" line="145" column="49" />
-        <mark key="[" line="115" column="34" />
-        <mark key="]" line="115" column="33" />
-        <mark key="." line="115" column="33" />
-        <mark key="^" line="115" column="33" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" timestamp="1482143000784">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="191" column="27" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/index.js" timestamp="1481188720957">
         <mark key="[" line="20" column="0" />
@@ -109,12 +109,12 @@
         <mark key="." line="28" column="14" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1482140240371">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1482142903486">
         <mark key="'" line="170" column="37" />
-        <mark key="[" line="139" column="56" />
-        <mark key="]" line="139" column="56" />
-        <mark key="." line="139" column="56" />
-        <mark key="^" line="139" column="56" />
+        <mark key="[" line="198" column="54" />
+        <mark key="]" line="198" column="55" />
+        <mark key="." line="198" column="55" />
+        <mark key="^" line="139" column="57" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Button/BackButton.js" timestamp="1481901267384">
         <mark key="'" line="44" column="5" />
@@ -216,6 +216,9 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/Components/TextInput/TextInput.js" timestamp="1482141542616">
+        <mark key="'" line="413" column="34" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" timestamp="1482130155595">
         <mark key="[" line="101" column="14" />
         <mark key="]" line="101" column="17" />
@@ -225,12 +228,6 @@
       <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/Router.js" timestamp="1481946430133" />
     </filemarks>
     <jumps>
-      <jump line="202" column="13" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="67" column="40" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
-      <jump line="281" column="15" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="309" column="0" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="27" column="5" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
-      <jump line="26" column="6" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
       <jump line="59" column="60" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" />
       <jump line="145" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/memory/index.js" />
       <jump line="138" column="14" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
@@ -285,7 +282,6 @@
       <jump line="16" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
       <jump line="54" column="8" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
       <jump line="271" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
-      <jump line="0" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
       <jump line="113" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
       <jump line="72" column="22" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" />
       <jump line="42" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" />
@@ -325,58 +321,65 @@
       <jump line="33" column="49" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
       <jump line="43" column="3" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
       <jump line="140" column="49" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
+      <jump line="407" column="37" filename="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/Components/TextInput/TextInput.js" />
+      <jump line="409" column="4" filename="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/Components/TextInput/TextInput.js" />
+      <jump line="411" column="27" filename="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/Components/TextInput/TextInput.js" />
+      <jump line="413" column="34" filename="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/Components/TextInput/TextInput.js" />
+      <jump line="100" column="33" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
+      <jump line="290" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
+      <jump line="0" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBVUERBVEVfRlJJRU5EX0ZJRUxELAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>WillMount</text>
+        <text>value</text>
       </register>
       <register name="0" type="4">
         <text>UPDATE_FIELD</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBVUERBVEVfRlJJRU5EX0ZJRUxELAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVUERBVEVfRlJJRU5EX0ZJRUxELAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNhc2UK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIFVQREFURV9GUklFTkRfRklFTEQ6CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgc2VsZWN0ZWRGcmllbmQ6IGFjdGlvbi5wYXlsb2FkLAogICAgICB9CiAgICAgIGJyZWFrOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuLgo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0ZWRGcmllbmQgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuLgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0ZWRGcmllbmQgPSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0ZWRGcmllbmQgPSBzdGF0ZTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>WillMount</last-search>
+      <last-search>value</last-search>
       <last-offset />
-      <last-pattern>WillMount</last-pattern>
+      <last-pattern>value</last-pattern>
       <last-replace>、</last-replace>
       <last-substitute>base64</last-substitute>
       <last-dir>1</last-dir>
@@ -384,7 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDzotK3kubBcPg==</entry>
         <entry>零售</entry>
         <entry>base64</entry>
         <entry>byte</entry>
@@ -404,6 +406,7 @@
         <entry>friendListi</entry>
         <entry>component</entry>
         <entry>WillMount</entry>
+        <entry>value</entry>
       </history-search>
       <history-cmd>
         <entry>new</entry>
@@ -421,10 +424,10 @@
         <entry>Qa</entry>
         <entry>W</entry>
         <entry>w'</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>qa</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
