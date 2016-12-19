@@ -224,12 +224,11 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" timestamp="1482127948288">
-        <mark key="'" line="66" column="39" />
-        <mark key="[" line="108" column="25" />
-        <mark key="]" line="109" column="20" />
-        <mark key="^" line="109" column="20" />
-        <mark key="." line="109" column="20" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" timestamp="1482130155595">
+        <mark key="[" line="101" column="14" />
+        <mark key="]" line="101" column="17" />
+        <mark key="." line="101" column="17" />
+        <mark key="^" line="101" column="17" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/Router.js" timestamp="1481946430133" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/date-picker/index.js" timestamp="1481535559700">
@@ -239,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="8" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" />
       <jump line="74" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" />
       <jump line="66" column="2" filename="/workspace/gowild-app/gowild-holoera-app/test.js" />
       <jump line="4" column="46" filename="/workspace/gowild-app/gowild-holoera-app/test.js" />
@@ -339,49 +337,50 @@
       <jump line="119" column="12" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
       <jump line="44" column="42" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
       <jump line="67" column="39" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
+      <jump line="95" column="3" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAgIHBhZGRpbmdUb3A6MTAsCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>hobbyList[i]</text>
       </register>
       <register name="/" type="4">
         <text>encode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuaXRlbX0+PEgyPuWNjuivree7hOWQiDwvSDI+PC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmdUb3A6MTAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMzAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZQo=</text>
+        <text encoding="base64">ICAgIGFsaWduU2VsZjogJ2NlbnRlcicsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4K</text>
+        <text encoding="base64">ICAgICAgY29sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3PuWNjuivree7hOWQiDwvVmlldz4K</text>
+        <text encoding="base64">ICAgICAgbGV0IGNvbHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3PjwvVmlldz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBpLGoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGFuZGxlUm93UHJlc3MgPSB0aGlzLmhhbmRsZVJvd1ByZXNzLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPExpc3QgZGF0YT17dGhpcy5wcm9wcy5ob2JieS5ob2JieUxpc3R9CiAgICAgICAgICAgICAgICAgIHJlbmRlclJvdz17dGhpcy5yZW5kZXJSb3d9CiAgICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPExpc3QgZGF0YT17dGhpcy5wcm9wcy5ob2JieS5ob2JieUxpc3R9CiAgICAgICAgICAgICAgICAgIHJlbmRlclJvdz17dGhpcy5yZW5kZXJSb3d9CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgPC9NYWluQ29udGFpbmVyPgogICAgICA8L0FwcFZpZXc+CiAgICApCiAgfQp9Cgpjb25zdCBzdHlsZXMgPSBTdHlsZVNoZWV0LmNyZWF0ZSh7CiAgY29udGFpbmVyOiB7CiAgICBwYWRkaW5nTGVmdDogMzAsCiAgICBwYWRkaW5nUmlnaHQ6IDMwLAogICAgdG9wOiAwLAogICAgYm90dG9tOiAwLAogICAgZmxleDogMSwKICB9LAogIHJvdzogewogICAgZmxleDogMSwKICAgIGZsZXhEaXJlY3Rpb246ICdyb3cnLAogIH0sCiAgY29sOiB7CiAgICBmbGV4OiAxLAogICAgcGFkZGluZ1RvcDogMTQsCiAgICBwYWRkaW5nQm90dG9tOiAxNCwKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogIH0sCiAgZmlyc3RDaGlsZDogewogICAgYWxpZ25JdGVtczogJ2ZsZXgtc3RhcnQnLAogICAgZmxleDogMSwKICB9LAogIGxhc3RDaGlsZDogewogICAgYWxpZ25JdGVtczogJ2ZsZXgtZW5kJywK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmhvYmJ5LmhvYmJ5TGlzdC5tYXAoKHJvdywgaW5kZXgpPT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
