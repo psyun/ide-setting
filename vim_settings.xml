@@ -224,12 +224,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" timestamp="1481873075069">
-        <mark key="'" line="50" column="15" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="68" column="49" />
-        <mark key="." line="55" column="0" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" timestamp="1482115640427">
+        <mark key="'" line="44" column="42" />
+        <mark key="[" line="43" column="38" />
+        <mark key="]" line="44" column="42" />
+        <mark key="." line="44" column="42" />
+        <mark key="^" line="44" column="42" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/Router.js" timestamp="1481946430133" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/date-picker/index.js" timestamp="1481535559700">
@@ -239,12 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="16" filename="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" />
-      <jump line="61" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/app/index.js" />
-      <jump line="423" column="7" filename="/workspace/gowild-app/gowild-holoera-app/test_pb.js" />
-      <jump line="927" column="25" filename="/workspace/gowild-app/gowild-holoera-app/test_pb.js" />
-      <jump line="991" column="20" filename="/workspace/gowild-app/gowild-holoera-app/test_pb.js" />
-      <jump line="1001" column="12" filename="/workspace/gowild-app/gowild-holoera-app/test_pb.js" />
       <jump line="28" column="79" filename="/workspace/gowild-app/gowild-holoera-app/test_pb.js" />
       <jump line="101" column="8" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" />
       <jump line="74" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/encode.js" />
@@ -339,13 +333,19 @@
       <jump line="74" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" />
       <jump line="38" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" />
       <jump line="27" column="19" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" />
+      <jump line="113" column="18" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
+      <jump line="75" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
+      <jump line="16" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
+      <jump line="49" column="17" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
+      <jump line="119" column="12" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
+      <jump line="44" column="42" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YWN0aW9uczog</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">YWN0aW9uczog</text>
       </register>
       <register name="/" type="4">
         <text>encode</text>
@@ -354,34 +354,34 @@
         <text encoding="base64">ICBHRVRfRlJJRU5ELAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZyaWVuZExpc3QgPSBzdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvcihsZXQgaSA9IDA7aTxzdGF0ZS5mKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZyaWVuZExpc3QgPSBzdGF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvcigpCg==</text>
+        <text encoding="base64">ICAgIGZvcihsZXQgaSA9IDA7aTxzdGF0ZS5mKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4ge30K</text>
+        <text encoding="base64">ICAgIGZvcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlKQo=</text>
+        <text encoding="base64">ICByZXR1cm4ge30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRpc3BhdGNoKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBHRVRfRlJJRU5ELAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRpc3BhdGNoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U29ja2V0TWFuYWdlci5yZXF1ZXN0KHByb3RvY29sQ29kZS4pCg==</text>
+        <text encoding="base64">ICBHRVRfRlJJRU5ELAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
