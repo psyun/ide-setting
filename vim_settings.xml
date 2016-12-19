@@ -219,7 +219,7 @@
       <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/Components/TextInput/TextInput.js" timestamp="1482141542616">
         <mark key="'" line="413" column="34" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" timestamp="1482130155595">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" timestamp="1482152433390">
         <mark key="[" line="101" column="14" />
         <mark key="]" line="101" column="17" />
         <mark key="." line="101" column="17" />
@@ -373,7 +373,7 @@
         <text encoding="base64">ICAgICAgbmFtZTogdmFsdWUsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -427,8 +427,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
