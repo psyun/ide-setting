@@ -109,11 +109,12 @@
         <mark key="." line="28" column="14" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1482137206484">
-        <mark key="'" line="169" column="37" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="76" column="2" />
-        <mark key="." line="83" column="0" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1482140240371">
+        <mark key="'" line="170" column="37" />
+        <mark key="[" line="139" column="56" />
+        <mark key="]" line="139" column="56" />
+        <mark key="." line="139" column="56" />
+        <mark key="^" line="139" column="56" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Button/BackButton.js" timestamp="1481901267384">
         <mark key="'" line="44" column="5" />
@@ -121,12 +122,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="47" column="5" />
-      </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/Reducer.js" timestamp="1481899769733">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" timestamp="1481901179703">
         <mark key="'" line="71" column="0" />
