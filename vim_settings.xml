@@ -219,11 +219,11 @@
       <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native/Libraries/Components/TextInput/TextInput.js" timestamp="1482141542616">
         <mark key="'" line="413" column="34" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" timestamp="1482217723534">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="10" />
-        <mark key="." line="64" column="10" />
-        <mark key="^" line="64" column="10" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" timestamp="1482219432043">
+        <mark key="[" line="81" column="15" />
+        <mark key="]" line="81" column="40" />
+        <mark key="^" line="81" column="40" />
+        <mark key="." line="81" column="40" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/Router.js" timestamp="1481946430133" />
     </filemarks>
@@ -331,37 +331,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoYW5nZWRGaWVsZCA9IHt9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT48SDI+5Y2O6K+t57uE5ZCIPC9IMj48L1ZpZXc+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT48SDI+5Y2O6K+t57uE5ZCIPC9IMj48L1ZpZXc+Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT48SDI+5Y2O6K+t57uE5ZCIPC9IMj48L1ZpZXc+Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29scy5wdXNoKDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT57aG9iYnkudmFsdWV9PC9WaWV3Pik7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGNoYW5nZWRGaWVsZCA9IHt9Owo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>changedField[name] = value;
     this.setState({
       ...changedField
     })</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICBjb25zdCBFZGl0RmllbGQgPSAocHJvcHMpPT4gewogICAgICByZXR1cm4gKAogICAgICAgIDxWaWV3IHN0eWxlPXtbc3R5bGVzLmNvbCxzdHlsZXMubGFzdENoaWxkXX0+CiAgICAgICAgICB7cHJvcHMuY2hpbGRyZW59CiAgICAgICAgPC9WaWV3PgogICAgICApCiAgICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxFZGl0RmllbGQ+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvRWRpdEZpZWxkPgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxFZGl0RmllbGQ+Cg==</text>
