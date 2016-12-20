@@ -109,11 +109,11 @@
         <mark key="." line="28" column="14" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1482228297901">
-        <mark key="'" line="99" column="63" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1482240054821">
+        <mark key="'" line="98" column="63" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/Button/BackButton.js" timestamp="1481901267384">
         <mark key="'" line="44" column="5" />
@@ -330,10 +330,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBJbWFnZVBpY2tlcklPUywK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>value</text>
@@ -342,34 +342,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT48SDI+5Y2O6K+t57uE5ZCIPC9IMj48L1ZpZXc+Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICBJbWFnZVBpY2tlcklPUywK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIEltYWdlUGlja2VySU9TLm9wZW5TZWxlY3REaWFsb2coe30sIChyZXMpPT4gewogICAgICBjb25zb2xlLmxvZyhyZXMpOwogICAgfSwgKCk9PiB7CiAgICAgIAogICAgfSk7</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBDYW1lcmFSb2xsLAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKENhbWVyYVJvbGwpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIENhbWVyYVJvbGwuZ2V0UGhvdG9zKCkudGhlbigocmVzKT0+IHsKICAgICAgY29uc29sZS5sb2cocmVzKTsKICAgIH0pCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGFuZGxlQ2hhbmdlTmFtZSA9IHRoaXMuaGFuZGxlQ2hhbmdlTmFtZS5iaW5kKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
