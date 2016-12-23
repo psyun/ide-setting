@@ -149,19 +149,18 @@
         <mark key="." line="78" column="19" />
         <mark key="^" line="78" column="25" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" timestamp="1482477048817">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="39" column="22" />
-        <mark key="]" line="40" column="20" />
-        <mark key="^" line="40" column="20" />
-        <mark key="." line="40" column="20" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" timestamp="1482477814135">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" timestamp="1482404740704">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" timestamp="1482478070686">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="184" column="81" />
-        <mark key="]" line="184" column="81" />
-        <mark key="^" line="184" column="81" />
-        <mark key="." line="184" column="81" />
+        <mark key="[" line="184" column="39" />
+        <mark key="]" line="184" column="85" />
+        <mark key="^" line="184" column="38" />
+        <mark key="." line="184" column="39" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/loading.scss" timestamp="1481188701487">
         <mark key="[" line="2" column="15" />
@@ -202,12 +201,12 @@
         <mark key="^" line="43" column="22" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" timestamp="1482409517192">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" timestamp="1482478275246">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="94" column="49" />
-        <mark key="]" line="95" column="24" />
-        <mark key="." line="95" column="24" />
-        <mark key="^" line="95" column="24" />
+        <mark key="[" line="105" column="30" />
+        <mark key="]" line="106" column="22" />
+        <mark key="." line="106" column="22" />
+        <mark key="^" line="106" column="22" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/friend.js" timestamp="1482134670496">
         <mark key="[" line="28" column="8" />
@@ -224,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
-      <jump line="48" column="45" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="62" column="9" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="64" column="35" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="101" column="8" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
@@ -324,13 +321,15 @@
       <jump line="75" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="201" column="97" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="195" column="30" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
+      <jump line="40" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" />
+      <jump line="84" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>this.props.friend.selectedFriend.birthday || 0</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>this.props.friend.selectedFriend.birthday || 0</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
@@ -339,34 +338,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29sfT48SDI+5Y2O6K+t57uE5ZCIPC9IMj48L1ZpZXc+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNyY1N0cik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhieXRlQXJyYXkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb2RlbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGQgPSBuZXcgRGF0ZSgpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh2YWx1ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGQuZ2V0VGltZSgpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNyY1N0cik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbHVlLmdldFQK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGQgPSBuZXcgRGF0ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhieXRlQXJyYXkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGQuZ2V0VGltZSgpKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
+        <text encoding="base64">ICAgIHZhbHVlLmdldFQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBJbWFnZVBpY2tlcklPUywK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -420,9 +419,9 @@
         <entry>W</entry>
         <entry>w'</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>qa</entry>
-        <entry>q</entry>
         <entry>e</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
