@@ -162,8 +162,8 @@
         <mark key="." line="105" column="20" />
         <mark key="^" line="105" column="20" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" timestamp="1482484669632">
-        <mark key="'" line="116" column="28" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" timestamp="1482733420168">
+        <mark key="'" line="104" column="16" />
         <mark key="[" line="184" column="39" />
         <mark key="]" line="184" column="85" />
         <mark key="^" line="184" column="38" />
@@ -226,8 +226,8 @@
         <mark key="^" line="1182" column="12" />
         <mark key="." line="1182" column="12" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" timestamp="1482501127441">
-        <mark key="'" line="122" column="11" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" timestamp="1482733472928">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="133" column="30" />
         <mark key="]" line="134" column="29" />
         <mark key="." line="134" column="29" />
@@ -239,7 +239,7 @@
         <mark key="." line="28" column="14" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/hobby/actions.js" timestamp="1482733063036">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/hobby/actions.js" timestamp="1482733381651">
         <mark key="[" line="45" column="48" />
         <mark key="]" line="46" column="20" />
         <mark key="." line="46" column="20" />
@@ -247,8 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="9" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" />
-      <jump line="50" column="12" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" />
       <jump line="136" column="12" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/list/index.js" />
       <jump line="253" column="19" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="0" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
@@ -347,6 +345,8 @@
       <jump line="744" column="34" filename="/workspace/website/home/src/css/site.css" />
       <jump line="34" column="61" filename="/workspace/website/home/src/home/download/index.html" />
       <jump line="0" column="0" filename="/workspace/website/home/src/home/download/index.html" />
+      <jump line="104" column="16" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
+      <jump line="1" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -392,7 +392,7 @@
         <text encoding="base64">IDxkaXYgY2xhc3M9InZpZXcgZG93bmxvYWQtdmlldyI+CiAgICAgICAgPGRpdiBjbGFzcz0iYXJ0aWNsZS10YWJsZSI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFydGljbGUtdGFibGUtY2VsbCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkb3dubG9hZC13cmFwcGVyIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtb2JpbGUtYXZhdGFyIGFuaW1hdGUtc2xpcC11cCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIuLi8uLi9pbWcvZG93bmxvYWQveHhiLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZG93bmxvYWQtY29udGFpbmVyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgxPuWFrOWtkC7lsI/nmb3pnZLmmKXniYg8L2gxPgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoMT7miYvmnLpBUFDkuIvovb08L2gxPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYnRuLXdyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icXItY29kZS1jb250YWluZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InFyLWNvZGUgeHhiUXJDb2RlQW5kcm9pZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIuLi8uLi9pbWcvZG93bmxvYWQveHhiLXFyY29kZS5qcGciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InFyLWNvZGUgeHhiUXJDb2RlSU9TIGFjdGl2ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIuLi8uLi9pbWcvZG93bmxvYWQveHhiLXFyY29kZS5qcGciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJidG4tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGRhdGEtYWN0aXZlPSJ4eGJRckNvZGVJT1MiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImJ0biBidG4tYmxvY2sgYnRuLWRlZmF1bHQgaWNvbiBpY29uLWlvcyBhY3RpdmUiPmlwaG9uZTwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBkYXRhLWFjdGl2ZT0ieHhiUXJDb2RlQW5kcm9pZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0iYnRuIGJ0bi1ibG9jayBidG4tZGVmYXVsdCBpY29uIGljb24tYW5kcm9pZCI+QW5kcm9pZCA8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -446,8 +446,8 @@
         <entry>w'</entry>
         <entry>q</entry>
         <entry>Qa</entry>
-        <entry>qa</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
