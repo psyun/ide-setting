@@ -84,6 +84,12 @@
         <mark key="^" line="89" column="9" />
         <mark key="." line="89" column="9" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1482821042288">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/reducer.js" timestamp="1482485896110">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -272,6 +278,7 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1482809434340" />
+      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1482820796328" />
       <file name="/workspace/website/gowild-manage-system/src/components/loading/loading.scss" timestamp="1481188701487">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="3" column="20" />
@@ -285,7 +292,12 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="68" column="26" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/node_modules/rc-form/lib/createBaseForm.js" timestamp="1482808152152" />
+      <file name="/workspace/website/gowild-manage-system/node_modules/rc-form/lib/createBaseForm.js" timestamp="1482820873495">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/components/date-picker/index.js" timestamp="1482734470050" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/img/avatar.js" timestamp="1482742700010">
         <mark key="'" line="20" column="115966" />
@@ -296,8 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="25" filename="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" />
-      <jump line="48" column="4" filename="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" />
       <jump line="72" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" />
       <jump line="100" column="0" filename="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/Reducer.js" />
       <jump line="79" column="6" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/memory/index.js" />
@@ -396,58 +406,62 @@
       <jump line="20" column="115966" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/img/avatar.js" />
       <jump line="48" column="55" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/hobby/actions.js" />
       <jump line="20" column="2" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
+      <jump line="5" column="0" filename="/workspace/website/gowild-manage-system/node_modules/rc-form/lib/createBaseForm.js" />
+      <jump line="149" column="0" filename="/workspace/website/gowild-manage-system/node_modules/rc-form/lib/createBaseForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>query</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigncGFyYW0gaXMgbnVsbCcpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>query</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>getFieldPro</text>
       </register>
       <register name="0" type="4">
         <text>GET_HOBBY_LIST_SUCCESS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgRm9ybUl0ZW0gPSBGb3JtLkl0ZW07Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigncGFyYW0gaXMgbnVsbCcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhvYmJ5TGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgcmV0dXJuIAo=</text>
+      <register name="3" type="4">
+        <text>else {
+          fieldMeta.initialValue = '';
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvcihsZSkK</text>
+        <text encoding="base64">Y29uc3QgRm9ybUl0ZW0gPSBGb3JtLkl0ZW07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAnZmxleC1zdGFydCcsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhvYmJ5TGlzdCk7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgcmV0dXJuIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWN0aW9uLnBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICAgIGZvcihsZSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhHRVRfSE9CQllfTElTVF9TVUNDRVNTKTsK</text>
+        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAnZmxleC1zdGFydCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQ6CiAgICAgIGNvbnNvbGUubG9nKGFjdGlvbi50eXBlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhvYmJ5TGlzdCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wqa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>getFieldPro</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>getFieldPro</last-pattern>
       <last-replace>、</last-replace>
       <last-substitute>base64</last-substitute>
       <last-dir>1</last-dir>
@@ -455,7 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>base64</entry>
         <entry>byte</entry>
         <entry>Byte</entry>
         <entry>fs</entry>
@@ -475,6 +488,7 @@
         <entry>WillMount</entry>
         <entry>value</entry>
         <entry>update</entry>
+        <entry>getFieldPro</entry>
       </history-search>
       <history-cmd>
         <entry>vsp webpack.production.config.js</entry>
@@ -493,10 +507,10 @@
         <entry>w'</entry>
         <entry>Qa</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>wqa</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
