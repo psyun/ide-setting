@@ -168,12 +168,12 @@
         <mark key="." line="47" column="76" />
         <mark key="^" line="47" column="76" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1482742813592">
-        <mark key="'" line="266" column="0" />
-        <mark key="[" line="97" column="44" />
-        <mark key="]" line="97" column="41" />
-        <mark key="^" line="97" column="41" />
-        <mark key="." line="97" column="41" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" timestamp="1482841608883">
+        <mark key="'" line="62" column="25" />
+        <mark key="[" line="106" column="18" />
+        <mark key="]" line="106" column="16" />
+        <mark key="^" line="106" column="16" />
+        <mark key="." line="106" column="16" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/hobby.js" timestamp="1482565371237">
         <mark key="[" line="26" column="7" />
@@ -303,7 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/components/Header.js" />
       <jump line="100" column="0" filename="/workspace/gowild-app/gowild-holoera-app/node_modules/react-native-router-flux/src/Reducer.js" />
       <jump line="79" column="6" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/memory/index.js" />
       <jump line="45" column="5" filename="/workspace/gowild-app/gowild-holoera-app/app/components/Button/BackButton.js" />
@@ -403,10 +402,11 @@
       <jump line="20" column="2" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
       <jump line="5" column="0" filename="/workspace/website/gowild-manage-system/node_modules/rc-form/lib/createBaseForm.js" />
       <jump line="149" column="0" filename="/workspace/website/gowild-manage-system/node_modules/rc-form/lib/createBaseForm.js" />
+      <jump line="61" column="25" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGFnaW5hdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>param[key]</text>
@@ -418,36 +418,34 @@
         <text encoding="base64">cGFnaW5hdGlvbiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGFnaW5hdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGFnaW5hdGlvbjogLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">cmVmcmVzaENvbnRyb2w9ezxSZWZyZXNoQ29udHJvbAogICAgICAgICAgICAgIHJlZnJlc2hpbmc9e3RoaXMuc3RhdGUuaXNSZWZyZXNoaW5nfQogICAgICAgICAgICAgIG9uUmVmcmVzaD17dGhpcy5oYW5kbGVSZWZyZXNofQogICAgICAgICAgICAgIHRpbnRDb2xvcj0iI2ZmMDAwMCIKICAgICAgICAgICAgICB0aXRsZT0i5q2j5Zyo6YeN5paw5Yqg6L29Li4uIgogICAgICAgICAgICAgIHRpdGxlQ29sb3I9IiMwMGZmMDAiCiAgICAgICAgICAgICAgY29sb3JzPXtbJyNmZjAwMDAnLCAnIzAwZmYwMCcsICcjMDAwMGZmJ119CiAgICAgICAgICAgICAgcHJvZ3Jlc3NCYWNrZ3JvdW5kQ29sb3I9IiNmZmZmMDAiCiAgICAgICAgICAgIC8+fQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWx1ZSA9IAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PFJlZnJlc2hDb250cm9sCiAgICAgICAgICAgICAgcmVmcmVzaGluZz17dGhpcy5zdGF0ZS5pc1JlZnJlc2hpbmd9CiAgICAgICAgICAgICAgb25SZWZyZXNoPXt0aGlzLmhhbmRsZVJlZnJlc2h9CiAgICAgICAgICAgICAgdGludENvbG9yPSIjZmYwMDAwIgogICAgICAgICAgICAgIHRpdGxlPSLmraPlnKjph43mlrDliqDovb0uLi4iCiAgICAgICAgICAgICAgdGl0bGVDb2xvcj0iIzAwZmYwMCIKICAgICAgICAgICAgICBjb2xvcnM9e1snI2ZmMDAwMCcsICcjMDBmZjAwJywgJyMwMDAwZmYnXX0KICAgICAgICAgICAgICBwcm9ncmVzc0JhY2tncm91bmRDb2xvcj0iI2ZmZmYwMCIKICAgICAgICAgICAgLz4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvblJlZnJlc2g9e3RoaXMuX29uUmVmcmVzaH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFyYW1ba2V5XSAhPSB1bmRlZmluZWQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvblJlZnJlc2g9e3RoaXMuX29uUmVmcmVzaH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigncGFyYW0gaXMgbnVsbCcpOwo=</text>
+        <text encoding="base64">ICAgICAgcGFnaW5hdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcGFnaW5hdGlvbjogLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>else {
-          fieldMeta.initialValue = '';
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB2YWx1ZSA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgRm9ybUl0ZW0gPSBGb3JtLkl0ZW07Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
