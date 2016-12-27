@@ -85,11 +85,11 @@
         <mark key="^" line="79" column="29" />
         <mark key="." line="79" column="29" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1482830674151">
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="31" column="42" />
-        <mark key="." line="31" column="42" />
-        <mark key="^" line="31" column="42" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1482843926633">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+        <mark key="^" line="30" column="11" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/reducer.js" timestamp="1482485896110">
         <mark key="[" line="47" column="0" />
@@ -396,11 +396,11 @@
       <jump line="61" column="25" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpc2pkZnMnKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>param[key]</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>getFieldPro</text>
@@ -409,22 +409,22 @@
         <text>ownerInfo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpc2pkZnMnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgJHtrZXl9OiR7dHlwZW9mIHZhbHVlfT09PT09PT09JHt2YWx1ZSBpbnN0YW5jZW9mIERhdGV9YCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5hY3Rpb24ucGF5bG9hZCwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpc2pkZnMnKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAuLi5hY3Rpb24ucGF5bG9hZCwK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">cmVmcmVzaENvbnRyb2w9ezxSZWZyZXNoQ29udHJvbAogICAgICAgICAgICAgIHJlZnJlc2hpbmc9e3RoaXMuc3RhdGUuaXNSZWZyZXNoaW5nfQogICAgICAgICAgICAgIG9uUmVmcmVzaD17dGhpcy5oYW5kbGVSZWZyZXNofQogICAgICAgICAgICAgIHRpbnRDb2xvcj0iI2ZmMDAwMCIKICAgICAgICAgICAgICB0aXRsZT0i5q2j5Zyo6YeN5paw5Yqg6L29Li4uIgogICAgICAgICAgICAgIHRpdGxlQ29sb3I9IiMwMGZmMDAiCiAgICAgICAgICAgICAgY29sb3JzPXtbJyNmZjAwMDAnLCAnIzAwZmYwMCcsICcjMDAwMGZmJ119CiAgICAgICAgICAgICAgcHJvZ3Jlc3NCYWNrZ3JvdW5kQ29sb3I9IiNmZmZmMDAiCiAgICAgICAgICAgIC8+fQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PFJlZnJlc2hDb250cm9sCiAgICAgICAgICAgICAgcmVmcmVzaGluZz17dGhpcy5zdGF0ZS5pc1JlZnJlc2hpbmd9CiAgICAgICAgICAgICAgb25SZWZyZXNoPXt0aGlzLmhhbmRsZVJlZnJlc2h9CiAgICAgICAgICAgICAgdGludENvbG9yPSIjZmYwMDAwIgogICAgICAgICAgICAgIHRpdGxlPSLmraPlnKjph43mlrDliqDovb0uLi4iCiAgICAgICAgICAgICAgdGl0bGVDb2xvcj0iIzAwZmYwMCIKICAgICAgICAgICAgICBjb2xvcnM9e1snI2ZmMDAwMCcsICcjMDBmZjAwJywgJyMwMDAwZmYnXX0KICAgICAgICAgICAgICBwcm9ncmVzc0JhY2tncm91bmRDb2xvcj0iI2ZmZmYwMCIKICAgICAgICAgICAgLz4=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvblJlZnJlc2g9e3RoaXMuX29uUmVmcmVzaH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBvblJlZnJlc2g9e3RoaXMuX29uUmVmcmVzaH0K</text>
@@ -433,13 +433,13 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGFnaW5hdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvblJlZnJlc2g9e3RoaXMuX29uUmVmcmVzaH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFnaW5hdGlvbjogLAo=</text>
+        <text encoding="base64">ICAgICAgcGFnaW5hdGlvbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -493,8 +493,8 @@
         <entry>qa</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
