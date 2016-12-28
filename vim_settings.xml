@@ -61,11 +61,11 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/home/index.js" timestamp="1482922603595">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="77" column="42" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/home/index.js" timestamp="1482927382106">
+        <mark key="[" line="97" column="36" />
+        <mark key="]" line="110" column="22" />
+        <mark key="." line="110" column="22" />
+        <mark key="^" line="110" column="22" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/search-form/index.js" timestamp="1482805427469">
         <mark key="[" line="26" column="0" />
@@ -428,11 +428,14 @@
       <jump line="229" column="4" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this.setState({
+            panes,
+            activeTabKey,
+        })</text>
       </register>
       <register name="-" type="4">
-        <text>console.log(</text>
+        <text>Window</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -440,35 +443,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFuZXMucHVzaCg8VGFiUGFuZSB0YWI9e2l0ZW0uaXRlbS5wcm9wcy5jaGlsZHJlbn0ga2V5PXtpdGVtLmtleX0+PENvbXBvbmVudCAvPjwvVGFiUGFuZT4pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
+      <register name="1" type="4">
+        <text>this.setState({
+            panes,
+            activeTabKey,
+        })</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFhiTG9nIGZyb20gJy4uL3JvYm90L3hiLWxvZyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coUGFzc0NvbXBvbmVudCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFhiTG9nIGZyb20gJy4uL3JvYm90L3hiLWxvZyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coPFhiTG9nIC8+KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coUGFzc0NvbXBvbmVudCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFuZXMucHVzaCg8VGFiUGFuZSB0YWI9e3RpdGxlfSBrZXk9e2tleX0+PENvbXBvbmVudCAvPjwvVGFiUGFuZT4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coPFhiTG9nIC8+KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coQ29tcG9uZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFuZXMucHVzaCg8VGFiUGFuZSB0YWI9e3RpdGxlfSBrZXk9e2tleX0+PENvbXBvbmVudCAvPjwvVGFiUGFuZT4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
