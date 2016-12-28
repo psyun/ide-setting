@@ -23,6 +23,12 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="2" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/Header.js" timestamp="1482910632458">
+        <mark key="[" line="188" column="25" />
+        <mark key="]" line="188" column="38" />
+        <mark key="^" line="188" column="38" />
+        <mark key="." line="188" column="38" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/utils/protobuf-utils.js" timestamp="1481552997972">
         <mark key="[" line="39" column="6" />
         <mark key="]" line="40" column="4" />
@@ -85,11 +91,11 @@
         <mark key="^" line="79" column="29" />
         <mark key="." line="79" column="29" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1482893931761">
-        <mark key="[" line="251" column="47" />
-        <mark key="]" line="252" column="50" />
-        <mark key="^" line="252" column="50" />
-        <mark key="." line="252" column="50" />
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1482910818756">
+        <mark key="[" line="270" column="72" />
+        <mark key="]" line="270" column="92" />
+        <mark key="." line="270" column="92" />
+        <mark key="^" line="270" column="92" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1482843926633">
         <mark key="[" line="30" column="8" />
@@ -103,11 +109,11 @@
         <mark key="^" line="49" column="8" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1482908241744">
-        <mark key="[" line="74" column="37" />
-        <mark key="]" line="74" column="41" />
-        <mark key="." line="74" column="41" />
-        <mark key="^" line="74" column="41" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1482910168214">
+        <mark key="[" line="74" column="38" />
+        <mark key="]" line="74" column="34" />
+        <mark key="." line="74" column="34" />
+        <mark key="^" line="74" column="34" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1482748537044">
         <mark key="[" line="107" column="0" />
@@ -409,10 +415,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>menuItem.children[j].key}</text>
+        <text encoding="base64">PjwvQ2hlY2tib3g+</text>
       </register>
       <register name="-" type="4">
-        <text>menuItem.children[j].key}</text>
+        <text encoding="base64">PjwvQ2hlY2tib3g+</text>
       </register>
       <register name="/" type="4">
         <text>getFieldPro</text>
@@ -421,34 +427,34 @@
         <text>ownerInfo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgJHtrZXl9OiR7dHlwZW9mIHZhbHVlfT09PT09PT09JHt2YWx1ZSBpbnN0YW5jZW9mIERhdGV9YCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hlY2tlZD17cm93LnNlbGVjdGVkfT48L0NoZWNrYm94Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpc2pkZnMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5hY3Rpb24ucGF5bG9hZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGtleT17YGNvbC0ke3Jvd0luZGV4fS0ke2NvbEluZGV4fWB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgJHtrZXl9OiR7dHlwZW9mIHZhbHVlfT09PT09PT09JHt2YWx1ZSBpbnN0YW5jZW9mIERhdGV9YCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cmVmcmVzaENvbnRyb2w9ezxSZWZyZXNoQ29udHJvbAogICAgICAgICAgICAgIHJlZnJlc2hpbmc9e3RoaXMuc3RhdGUuaXNSZWZyZXNoaW5nfQogICAgICAgICAgICAgIG9uUmVmcmVzaD17dGhpcy5oYW5kbGVSZWZyZXNofQogICAgICAgICAgICAgIHRpbnRDb2xvcj0iI2ZmMDAwMCIKICAgICAgICAgICAgICB0aXRsZT0i5q2j5Zyo6YeN5paw5Yqg6L29Li4uIgogICAgICAgICAgICAgIHRpdGxlQ29sb3I9IiMwMGZmMDAiCiAgICAgICAgICAgICAgY29sb3JzPXtbJyNmZjAwMDAnLCAnIzAwZmYwMCcsICcjMDAwMGZmJ119CiAgICAgICAgICAgICAgcHJvZ3Jlc3NCYWNrZ3JvdW5kQ29sb3I9IiNmZmZmMDAiCiAgICAgICAgICAgIC8+fQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpc2pkZnMnKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PFJlZnJlc2hDb250cm9sCiAgICAgICAgICAgICAgcmVmcmVzaGluZz17dGhpcy5zdGF0ZS5pc1JlZnJlc2hpbmd9CiAgICAgICAgICAgICAgb25SZWZyZXNoPXt0aGlzLmhhbmRsZVJlZnJlc2h9CiAgICAgICAgICAgICAgdGludENvbG9yPSIjZmYwMDAwIgogICAgICAgICAgICAgIHRpdGxlPSLmraPlnKjph43mlrDliqDovb0uLi4iCiAgICAgICAgICAgICAgdGl0bGVDb2xvcj0iIzAwZmYwMCIKICAgICAgICAgICAgICBjb2xvcnM9e1snI2ZmMDAwMCcsICcjMDBmZjAwJywgJyMwMDAwZmYnXX0KICAgICAgICAgICAgICBwcm9ncmVzc0JhY2tncm91bmRDb2xvcj0iI2ZmZmYwMCIKICAgICAgICAgICAgLz4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAuLi5hY3Rpb24ucGF5bG9hZCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvblJlZnJlc2g9e3RoaXMuX29uUmVmcmVzaH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvblJlZnJlc2g9e3RoaXMuX29uUmVmcmVzaH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">cmVmcmVzaENvbnRyb2w9ezxSZWZyZXNoQ29udHJvbAogICAgICAgICAgICAgIHJlZnJlc2hpbmc9e3RoaXMuc3RhdGUuaXNSZWZyZXNoaW5nfQogICAgICAgICAgICAgIG9uUmVmcmVzaD17dGhpcy5oYW5kbGVSZWZyZXNofQogICAgICAgICAgICAgIHRpbnRDb2xvcj0iI2ZmMDAwMCIKICAgICAgICAgICAgICB0aXRsZT0i5q2j5Zyo6YeN5paw5Yqg6L29Li4uIgogICAgICAgICAgICAgIHRpdGxlQ29sb3I9IiMwMGZmMDAiCiAgICAgICAgICAgICAgY29sb3JzPXtbJyNmZjAwMDAnLCAnIzAwZmYwMCcsICcjMDAwMGZmJ119CiAgICAgICAgICAgICAgcHJvZ3Jlc3NCYWNrZ3JvdW5kQ29sb3I9IiNmZmZmMDAiCiAgICAgICAgICAgIC8+fQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFnaW5hdGlvbgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">PFJlZnJlc2hDb250cm9sCiAgICAgICAgICAgICAgcmVmcmVzaGluZz17dGhpcy5zdGF0ZS5pc1JlZnJlc2hpbmd9CiAgICAgICAgICAgICAgb25SZWZyZXNoPXt0aGlzLmhhbmRsZVJlZnJlc2h9CiAgICAgICAgICAgICAgdGludENvbG9yPSIjZmYwMDAwIgogICAgICAgICAgICAgIHRpdGxlPSLmraPlnKjph43mlrDliqDovb0uLi4iCiAgICAgICAgICAgICAgdGl0bGVDb2xvcj0iIzAwZmYwMCIKICAgICAgICAgICAgICBjb2xvcnM9e1snI2ZmMDAwMCcsICcjMDBmZjAwJywgJyMwMDAwZmYnXX0KICAgICAgICAgICAgICBwcm9ncmVzc0JhY2tncm91bmRDb2xvcj0iI2ZmZmYwMCIKICAgICAgICAgICAgLz4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -497,15 +503,15 @@
         <entry>w]</entry>
         <entry>q:Q</entry>
         <entry>W</entry>
-        <entry encoding="base64">JzwsJz5x</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>w'</entry>
         <entry>Qa</entry>
-        <entry>qa</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
