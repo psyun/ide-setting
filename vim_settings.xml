@@ -120,10 +120,11 @@
         <mark key="^" line="49" column="8" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/services/auth-service.js" timestamp="1482999821871">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="/workspace/website/gowild-manage-system/src/services/auth-service.js" timestamp="1483003604238">
+        <mark key="[" line="62" column="13" />
+        <mark key="]" line="62" column="19" />
+        <mark key="." line="62" column="19" />
+        <mark key="^" line="62" column="19" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1482998293939">
         <mark key="'" line="131" column="20" />
@@ -315,11 +316,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1483001658221">
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="45" column="38" />
-        <mark key="^" line="45" column="38" />
-        <mark key="." line="45" column="38" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1483004188293">
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="50" />
+        <mark key="^" line="48" column="50" />
+        <mark key="." line="48" column="50" />
       </file>
       <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1482931106567">
         <mark key="[" line="52" column="33" />
