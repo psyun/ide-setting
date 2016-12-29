@@ -23,7 +23,7 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="2" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/Header.js" timestamp="1482931726700">
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/Header.js" timestamp="1482980499937">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
@@ -54,6 +54,7 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/routes/index.js" timestamp="1482980728991" />
       <file name="/workspace/gowild-app/gowild-holoera-app/test.proto" timestamp="1481127865374">
         <mark key="[" line="49" column="1" />
         <mark key="]" line="50" column="0" />
@@ -230,6 +231,7 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/entries/index.js" timestamp="1482980700191" />
       <file name="/workspace/website/gowild-manage-system/src/containers/upgradeApp/upgrade-app.scss" timestamp="1481181171695">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="4" column="16" />
@@ -303,7 +305,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1482809434340" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1482982048172">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="85" column="88" />
+        <mark key="." line="105" column="0" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1482931106567">
         <mark key="[" line="52" column="33" />
         <mark key="]" line="52" column="32" />
@@ -447,10 +454,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNpemluZ0luZGV4KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcHRzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>params[key]</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -459,34 +466,42 @@
         <text encoding="base64">IFJlYWN0LmNyZWF0ZUVsZW1lbnQoQ29tcG9uZW50LCB7CiAgICAgICAgICAgICAgICBwYW5lbDogewogICAgICAgICAgICAgICAgICAgIG9wZW46ICh0aXRsZSwgY29tcG9uZW50KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IGtleSA9IE1hdGgucmFuZG9tKCkgKiAxMDA7CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBjbG9zZTogZnVuY3Rpb24gKCkgewoKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHJlbG9hZDogZnVuY3Rpb24gKCkgewoKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIGNoYW5nZVRpdGxlOiBmdW5jdGlvbiAoKSB7CgogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNpemluZ0luZGV4KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcHRzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PGRpdiBzdHlsZT17e3dpZHRoOjEwMCxoZWlnaHQ6MTAwLGJhY2tncm91bmRDb2xvcjoncmVkJ319CiAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpPT57dGhpcy5wcm9wcy5wYW5lbC5vcGVuKCflk4jlk4jlk4gnLFJvYm90TG9nKX19PgoKICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
+        <text>/**
+ *
+ * @param url
+ * @param params
+ */</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlKTsK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="6" type="4">
+        <text>* @example
+ * httpFetch(url,{
+ * method:'get',
+ * data:{}
+ * });</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5ICsgJz0nICsgcGFyYW1zW2tleV0gKyAnJic7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMuZ2V0UGFuZUJ5S2V5KGl0ZW0ua2V5KSkgCg==</text>
+        <text encoding="base64">ICAgICAgICB1cmwgKz0gJz8nICsgcGFyYW1zU3RyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
