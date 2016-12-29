@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/workspace/website/home/src/home/download/index.html" timestamp="1482733048090">
@@ -114,7 +114,6 @@
         <mark key="." line="30" column="11" />
         <mark key="^" line="30" column="11" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/date-time-range/index.js" timestamp="1482996588362" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/reducer.js" timestamp="1482485896110">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -301,7 +300,6 @@
         <mark key="^" line="179" column="72" />
         <mark key="." line="179" column="72" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/localStorageUtil.js" timestamp="1482995780539" />
       <file name="/workspace/website/home/src/home/ours/index.html" timestamp="1482583479485">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="66" />
@@ -312,11 +310,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1482997394320">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="14" />
-        <mark key="^" line="26" column="14" />
-        <mark key="." line="26" column="14" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1482997786364">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
       </file>
       <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1482931106567">
         <mark key="[" line="52" column="33" />
