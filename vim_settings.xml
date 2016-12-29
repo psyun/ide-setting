@@ -105,6 +105,12 @@
         <mark key="." line="270" column="92" />
         <mark key="^" line="270" column="92" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/login/index.js" timestamp="1482983177135">
+        <mark key="[" line="50" column="45" />
+        <mark key="]" line="50" column="47" />
+        <mark key="^" line="50" column="47" />
+        <mark key="." line="50" column="47" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1482843926633">
         <mark key="[" line="30" column="8" />
         <mark key="]" line="30" column="11" />
@@ -305,11 +311,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1482982048172">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="85" column="88" />
-        <mark key="." line="105" column="0" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1482983260249">
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+        <mark key="." line="26" column="14" />
       </file>
       <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1482931106567">
         <mark key="[" line="52" column="33" />
@@ -453,11 +459,11 @@
       <jump line="229" column="4" filename="/workspace/website/gowild-manage-system/src/components/grid/Body.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcHRzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>======`);</text>
       </register>
       <register name="-" type="4">
-        <text>params[key]</text>
+        <text>======`);</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
