@@ -95,12 +95,12 @@
         <mark key="^" line="79" column="29" />
         <mark key="." line="79" column="29" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1483005559863">
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1483006663305">
         <mark key="'" line="168" column="20" />
-        <mark key="[" line="270" column="72" />
-        <mark key="]" line="270" column="92" />
-        <mark key="." line="270" column="92" />
-        <mark key="^" line="270" column="92" />
+        <mark key="[" line="191" column="62" />
+        <mark key="]" line="191" column="76" />
+        <mark key="." line="191" column="76" />
+        <mark key="^" line="191" column="76" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/login/index.js" timestamp="1483001792730">
         <mark key="'" line="45" column="15" />
@@ -322,11 +322,10 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1483005237272">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="28" column="36" />
-        <mark key="." line="28" column="36" />
-        <mark key="^" line="28" column="36" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1483007396315">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1482931106567">
         <mark key="[" line="52" column="33" />
@@ -464,49 +463,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
+        <text encoding="base64">aW1wb3J0IHtBY3Rpb25zfSBmcm9tICdyZWFjdC1yb3V0ZXInOwo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>onPress={command.handler}</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IFJlYWN0LmNyZWF0ZUVsZW1lbnQoQ29tcG9uZW50LCB7CiAgICAgICAgICAgICAgICBwYW5lbDogewogICAgICAgICAgICAgICAgICAgIG9wZW46ICh0aXRsZSwgY29tcG9uZW50KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IGtleSA9IE1hdGgucmFuZG9tKCkgKiAxMDA7CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBjbG9zZTogZnVuY3Rpb24gKCkgewoKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHJlbG9hZDogZnVuY3Rpb24gKCkgewoKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIGNoYW5nZVRpdGxlOiBmdW5jdGlvbiAoKSB7CgogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gey4uLmJ1dHRvblByb3BzfT57dGl0bGV9PC9CdXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
+        <text encoding="base64">aW1wb3J0IHtBY3Rpb25zfSBmcm9tICdyZWFjdC1yb3V0ZXInOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBY3Rpb25zLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uUHJlc3M6IGNvbW1hbmQuaGFuZGxlciwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGlzQXV0aG9yaXplZChjb2RlKSB7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHVuYXV0aG9yaXplZCgpIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgJHtlcnJvcn1gKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGlzQXV0aG9yaXplZChjb2RlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -559,9 +558,9 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
