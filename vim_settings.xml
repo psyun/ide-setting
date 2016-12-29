@@ -102,11 +102,10 @@
         <mark key="." line="270" column="92" />
         <mark key="^" line="270" column="92" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/login/index.js" timestamp="1482983177135">
-        <mark key="[" line="43" column="45" />
-        <mark key="]" line="43" column="47" />
-        <mark key="^" line="43" column="47" />
-        <mark key="." line="43" column="47" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/login/index.js" timestamp="1482998394157">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1482843926633">
         <mark key="[" line="30" column="8" />
@@ -120,11 +119,17 @@
         <mark key="^" line="49" column="8" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1482997361936">
-        <mark key="'" line="410" column="464" />
-        <mark key="[" line="410" column="11" />
-        <mark key="]" line="410" column="11" />
-        <mark key="." line="410" column="464" />
+      <file name="/workspace/website/gowild-manage-system/src/services/auth-service.js" timestamp="1482998490969">
+        <mark key="[" line="68" column="14" />
+        <mark key="]" line="68" column="13" />
+        <mark key="^" line="68" column="13" />
+        <mark key="." line="68" column="13" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1482998293939">
+        <mark key="'" line="131" column="20" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1482748537044">
         <mark key="[" line="107" column="0" />
@@ -310,11 +315,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1482997786364">
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="14" />
-        <mark key="^" line="22" column="14" />
-        <mark key="." line="22" column="14" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1482998226561">
+        <mark key="[" line="92" column="6" />
+        <mark key="]" line="93" column="5" />
+        <mark key="^" line="93" column="5" />
+        <mark key="." line="93" column="5" />
       </file>
       <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1482931106567">
         <mark key="[" line="52" column="33" />
@@ -349,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
       <jump line="16" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
       <jump line="49" column="17" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
       <jump line="119" column="12" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
@@ -449,10 +453,11 @@
       <jump line="180" column="15" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="432" column="11" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
       <jump line="410" column="464" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
+      <jump line="131" column="20" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH1dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKChlcnJvcikgPT4gewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coYD09PT09PT09JHtlcnJvcn1gKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -464,34 +469,34 @@
         <text encoding="base64">IFJlYWN0LmNyZWF0ZUVsZW1lbnQoQ29tcG9uZW50LCB7CiAgICAgICAgICAgICAgICBwYW5lbDogewogICAgICAgICAgICAgICAgICAgIG9wZW46ICh0aXRsZSwgY29tcG9uZW50KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IGtleSA9IE1hdGgucmFuZG9tKCkgKiAxMDA7CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBjbG9zZTogZnVuY3Rpb24gKCkgewoKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHJlbG9hZDogZnVuY3Rpb24gKCkgewoKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIGNoYW5nZVRpdGxlOiBmdW5jdGlvbiAoKSB7CgogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH1dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKChlcnJvcikgPT4gewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coYD09PT09PT09JHtlcnJvcn1gKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogJzE2JywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1Y2M5MDNmNDRlOWJiYzRlMTljOTlmYjE5YWM4NTkyZjM1ZmEwMDM4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogJzE3JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogJzE4JywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogJzEwJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogJzk4JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1Y2M5MDNmNDRlOWJiYzRlMTljOTlmYjE5YWM4NTkyZjM1ZmEwMDM4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogJzk5JywK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogJzE3JywK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogJzE2JywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1dCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -546,9 +551,9 @@
         <entry>wqa</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>qa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
