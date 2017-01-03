@@ -164,11 +164,10 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="/workspace/website/home/src/home/product/holoera.html" timestamp="1483415222182">
-        <mark key="[" line="95" column="64" />
-        <mark key="]" line="95" column="56" />
-        <mark key="." line="95" column="56" />
-        <mark key="^" line="95" column="56" />
+      <file name="/workspace/website/home/src/home/product/holoera.html" timestamp="1483419442606">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/index.js" timestamp="1481188720957">
         <mark key="[" line="20" column="0" />
@@ -480,8 +479,8 @@
       <jump line="782" column="7" filename="/workspace/website/home/src/home/css/site.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.children;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhciBlbGUgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCd0YWItbGlzdCcpOwogICAgY29uc29sZS5sb2coZWxlKTsK</text>
       </register>
       <register name="-" type="4">
         <text>.children;</text>
@@ -493,34 +492,34 @@
         <text encoding="base64">LmhvbG9lcmEtc3dpcGVyID4gLnN3aXBlci13cmFwcGVyIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJycpCg==</text>
+        <text encoding="base64">ICAgIHZhciBlbGUgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCd0YWItbGlzdCcpOwogICAgY29uc29sZS5sb2coZWxlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iLi4vLi4vaW1nL3Byb2R1Y3QvaG9sb2VyYS9iYW5uZXItMDEucG5nIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InN3aXBlci1zbGlkZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii4uLy4uL2ltZy9wcm9kdWN0L2hvbG9lcmEvYmFubmVyLTAxLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InN3aXBlci1zbGlkZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iLi4vLi4vaW1nL3Byb2R1Y3QvaG9sb2VyYS9iYW5uZXItMDEucG5nIj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqKioqKioqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InN3aXBlci1zbGlkZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii4uLy4uL2ltZy9wcm9kdWN0L2hvbG9lcmEvYmFubmVyLTAxLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InN3aXBlci1zbGlkZSI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvcGxheTogMzAwMCwK</text>
+        <text encoding="base64">LyoqKioqKioqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb3VzZXdoZWVsQ29udHJvbDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICBhdXRvcGxheTogMzAwMCwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb3VzZXdoZWVsQ29udHJvbDogdHJ1ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
