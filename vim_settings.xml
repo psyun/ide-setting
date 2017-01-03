@@ -85,11 +85,11 @@
         <mark key="^" line="79" column="29" />
         <mark key="." line="79" column="29" />
       </file>
-      <file name="/workspace/website/home/src/js/holoera.js" timestamp="1483440856127">
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="28" column="14" />
-        <mark key="^" line="28" column="14" />
+      <file name="/workspace/website/home/src/js/holoera.js" timestamp="1483442847219">
+        <mark key="[" line="27" column="62" />
+        <mark key="]" line="27" column="61" />
+        <mark key="." line="27" column="61" />
+        <mark key="^" line="27" column="61" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1483006663305">
         <mark key="'" line="168" column="20" />
@@ -160,12 +160,12 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="/workspace/website/home/src/home/product/holoera.html" timestamp="1483439974276">
+      <file name="/workspace/website/home/src/home/product/holoera.html" timestamp="1483442796023">
         <mark key="'" line="95" column="4" />
-        <mark key="[" line="66" column="30" />
-        <mark key="]" line="67" column="23" />
-        <mark key="." line="67" column="23" />
-        <mark key="^" line="67" column="23" />
+        <mark key="[" line="68" column="53" />
+        <mark key="]" line="68" column="109" />
+        <mark key="." line="68" column="109" />
+        <mark key="^" line="68" column="109" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/index.js" timestamp="1481188720957">
         <mark key="[" line="20" column="0" />
@@ -475,10 +475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'https://os.alipayobjects.com/rmsportal/NDbkJhpzmLxtPhB.png</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>'https://os.alipayobjects.com/rmsportal/NDbkJhpzmLxtPhB.png</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aHVtYlVybFw+</text>
@@ -517,7 +517,7 @@
         <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -571,8 +571,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
