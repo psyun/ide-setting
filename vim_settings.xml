@@ -85,11 +85,11 @@
         <mark key="^" line="79" column="29" />
         <mark key="." line="79" column="29" />
       </file>
-      <file name="/workspace/website/home/src/js/holoera.js" timestamp="1483442847219">
-        <mark key="[" line="27" column="62" />
-        <mark key="]" line="27" column="61" />
-        <mark key="." line="27" column="61" />
-        <mark key="^" line="27" column="61" />
+      <file name="/workspace/website/home/src/js/holoera.js" timestamp="1483497447961">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="23" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1483006663305">
         <mark key="'" line="168" column="20" />
@@ -160,7 +160,7 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="/workspace/website/home/src/home/product/holoera.html" timestamp="1483442796023">
+      <file name="/workspace/website/home/src/home/product/holoera.html" timestamp="1483497452817">
         <mark key="'" line="95" column="4" />
         <mark key="[" line="68" column="53" />
         <mark key="]" line="68" column="109" />
@@ -475,10 +475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aHVtYlVybFw+</text>
