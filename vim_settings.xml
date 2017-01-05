@@ -85,12 +85,11 @@
         <mark key="^" line="79" column="29" />
         <mark key="." line="79" column="29" />
       </file>
-      <file name="/workspace/website/home/src/js/holoera.js" timestamp="1483583556929">
-        <mark key="'" line="35" column="30" />
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="35" column="27" />
-        <mark key="." line="35" column="27" />
-        <mark key="^" line="35" column="27" />
+      <file name="/workspace/website/home/src/js/holoera.js" timestamp="1483586359860">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/Body.js" timestamp="1483006663305">
         <mark key="'" line="168" column="20" />
@@ -111,12 +110,12 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="/workspace/website/home/src/home/css/site.css" timestamp="1483522873462">
+      <file name="/workspace/website/home/src/home/css/site.css" timestamp="1483586091201">
         <mark key="'" line="896" column="11" />
-        <mark key="[" line="864" column="0" />
-        <mark key="]" line="865" column="18" />
-        <mark key="." line="865" column="18" />
-        <mark key="^" line="865" column="18" />
+        <mark key="[" line="954" column="17" />
+        <mark key="]" line="954" column="15" />
+        <mark key="^" line="954" column="15" />
+        <mark key="." line="954" column="15" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1482843926633">
         <mark key="[" line="30" column="8" />
@@ -167,12 +166,12 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="/workspace/website/home/src/home/product/holoera.html" timestamp="1483581958176">
-        <mark key="'" line="134" column="4" />
-        <mark key="[" line="71" column="46" />
-        <mark key="]" line="71" column="60" />
-        <mark key="." line="71" column="60" />
-        <mark key="^" line="71" column="60" />
+      <file name="/workspace/website/home/src/home/product/holoera.html" timestamp="1483585873276">
+        <mark key="'" line="155" column="4" />
+        <mark key="[" line="109" column="56" />
+        <mark key="]" line="109" column="54" />
+        <mark key="." line="109" column="54" />
+        <mark key="^" line="109" column="54" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/index.js" timestamp="1481188720957">
         <mark key="[" line="20" column="0" />
@@ -336,12 +335,12 @@
         <mark key="^" line="52" column="32" />
         <mark key="." line="52" column="32" />
       </file>
-      <file name="/workspace/website/home/src/css/base.css" timestamp="1483519900815">
+      <file name="/workspace/website/home/src/css/base.css" timestamp="1483585162034">
         <mark key="'" line="1205" column="26" />
-        <mark key="[" line="1289" column="7" />
-        <mark key="]" line="1289" column="5" />
-        <mark key="." line="1289" column="5" />
-        <mark key="^" line="1289" column="5" />
+        <mark key="[" line="1296" column="30" />
+        <mark key="]" line="1296" column="30" />
+        <mark key="." line="1296" column="30" />
+        <mark key="^" line="1296" column="30" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/loading.scss" timestamp="1481188701487">
         <mark key="[" line="2" column="15" />
@@ -467,47 +466,53 @@
       <jump line="33" column="30" filename="/workspace/website/home/src/js/holoera.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZW5kRnJhbWUg</text>
+      <register name="&quot;" type="8">
+        <text>camera
+00%;
+0%;
+camera</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW5kRnJhbWUg</text>
+        <text encoding="base64">YmFsbC1jYW1lcmEg</text>
       </register>
       <register name="/" type="4">
         <text>%</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgMjVweCkgcm90YXRlKDkwZGVnKTsKICAgIC1tb3otdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgMjVweCkgcm90YXRlKDkwZGVnKTsKICAgIC1tcy10cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAyNXB4KSByb3RhdGUoOTBkZWcpOwogICAgLW8tdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgMjVweCkgcm90YXRlKDkwZGVnKTsKICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIDI1cHgpIHJvdGF0ZSg5MGRlZyk7</text>
+        <text encoding="base64">YmFsbC1wb3dlci1pbnRlcmZhY2Ug</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZW5kRnJhbWUgJSAzNSk7Cg==</text>
+      <register name="1" type="8">
+        <text>camera
+00%;
+0%;
+camera</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqY2FtZXJhKiovCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">JCgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZW5kRnJhbWUpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHJpZ2h0OiAtNTAlOwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJhbGwgYmFsIj48L2Rpdj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246IHdpZHRoIDFzOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRyYW5zaXRpb24tcHJvcGVydHk6IHdpZHRoOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJsaW5lIHZlcnRpY2FsIj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246IHdpZHRoIDFzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJsaW5lIHZlcnRpY2FsIj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgIC1vLXRyYW5zaXRpb246IHByb3AgdGltZTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDIvNTAwMAo=</text>
+        <text encoding="base64">ICAgIC1tcy10cmFuc2l0aW9uOiBwcm9wIHRpbWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Mi81MDAwCg==</text>
+        <text encoding="base64">ICAgIC1tb3otdHJhbnNpdGlvbjogcHJvcCB0aW1lOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
