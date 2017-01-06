@@ -79,7 +79,8 @@
         <mark key="^" line="50" column="10" />
         <mark key="." line="50" column="10" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/grid/index.js" timestamp="1482805739021">
+      <file name="/workspace/website/gowild-manage-system/src/components/grid/index.js" timestamp="1483687275708">
+        <mark key="'" line="57" column="26" />
         <mark key="[" line="79" column="24" />
         <mark key="]" line="79" column="29" />
         <mark key="^" line="79" column="29" />
@@ -352,7 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="75" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="201" column="97" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="195" column="30" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
@@ -452,6 +452,7 @@
       <jump line="38" column="0" filename="/workspace/website/home/src/css/holoera.css" />
       <jump line="218" column="0" filename="/workspace/website/home/src/css/holoera.css" />
       <jump line="176" column="0" filename="/workspace/website/home/src/css/holoera.css" />
+      <jump line="57" column="26" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
