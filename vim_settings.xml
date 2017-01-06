@@ -98,12 +98,6 @@
         <mark key="." line="191" column="76" />
         <mark key="^" line="191" column="76" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/login/index.js" timestamp="1483001792730">
-        <mark key="'" line="45" column="15" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/passport-result.js" timestamp="1483005027782">
         <mark key="[" line="37" column="1" />
         <mark key="]" line="39" column="31" />
@@ -132,12 +126,6 @@
         <mark key="]" line="62" column="19" />
         <mark key="." line="62" column="19" />
         <mark key="^" line="62" column="19" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1482998293939">
-        <mark key="'" line="131" column="20" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1482748537044">
         <mark key="[" line="107" column="0" />
@@ -354,6 +342,7 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="68" column="26" />
       </file>
+      <file name="/workspace/website/home/src/wechat-iframe.html" timestamp="1483672284008" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/img/avatar.js" timestamp="1482742700010">
         <mark key="'" line="20" column="115966" />
         <mark key="[" line="20" column="16" />
