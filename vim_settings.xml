@@ -142,12 +142,12 @@
         <mark key="^" line="254" column="19" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="/workspace/website/home/src/css/holoera.css" timestamp="1483696208980">
-        <mark key="'" line="176" column="0" />
-        <mark key="[" line="224" column="22" />
-        <mark key="]" line="225" column="35" />
-        <mark key="." line="225" column="35" />
-        <mark key="^" line="225" column="35" />
+      <file name="/workspace/website/home/src/css/holoera.css" timestamp="1483697979626">
+        <mark key="'" line="233" column="24" />
+        <mark key="[" line="252" column="16" />
+        <mark key="]" line="252" column="16" />
+        <mark key="." line="252" column="16" />
+        <mark key="^" line="252" column="16" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/hobby/intial-state.js" timestamp="1482562447792">
         <mark key="[" line="23" column="1" />
@@ -363,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" />
       <jump line="0" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/hobby/actions.js" />
       <jump line="90" column="22" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
       <jump line="150" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
@@ -463,58 +462,59 @@
       <jump line="204" column="59" filename="/workspace/website/home/src/js/threesixty.js" />
       <jump line="63" column="0" filename="/workspace/website/home/src/js/threesixty.js" />
       <jump line="535" column="9" filename="/workspace/website/home/src/js/threesixty.js" />
+      <jump line="233" column="24" filename="/workspace/website/home/src/css/holoera.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1sZWZ0LWNvbG9yOiByZWQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c29saWQg</text>
       </register>
       <register name="-" type="4">
-        <text>top</text>
+        <text encoding="base64">c29saWQg</text>
       </register>
       <register name="/" type="4">
-        <text>/***</text>
+        <text encoding="base64">XDwxOGMzZWFcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci10b3AtY29sb3I6IHJlZDsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgIHdpZHRoOiAyMDBweDsKICAgIGhlaWdodDogNDAwcHg7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjMThjM2VhOwogICAgYm9yZGVyLXJpZ2h0LWNvbG9yOiB0cmFuc3BhcmVudDsKICAgIGJvcmRlci1yYWRpdXM6IDIwMHB4IDAgMCAyMDBweDs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1sZWZ0LWNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsdWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci10b3AtY29sb3I6IHJlZDsK</text>
+        <text encoding="base64">ICAgIGJvcmRlci1sZWZ0LWNvbG9yOiByZWQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b20tY29sb3I6IHJlZDsK</text>
+        <text encoding="base64">ICAgIGJvcmRlci10b3AtY29sb3I6IHJlZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcgo=</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b20tY29sb3I6IHJlZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJlZDsK</text>
+        <text encoding="base64">ICAgIGJvcmRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJlZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC1vLXRyYW5zZm9ybTogOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC1tcy10cmFuc2Zvcm06IDsK</text>
+        <text encoding="base64">ICAgIC1vLXRyYW5zZm9ybTogOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC1tb3otdHJhbnNmb3JtOiA7Cg==</text>
+        <text encoding="base64">ICAgIC1tcy10cmFuc2Zvcm06IDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>/***</last-search>
+      <last-search encoding="base64">XDwxOGMzZWFcPg==</last-search>
       <last-offset />
-      <last-pattern>/***</last-pattern>
+      <last-pattern encoding="base64">XDwxOGMzZWFcPg==</last-pattern>
       <last-replace>、</last-replace>
       <last-substitute>/***</last-substitute>
       <last-dir>-1</last-dir>
@@ -522,7 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry>encode</entry>
         <entry>owner</entry>
         <entry>friendListi</entry>
         <entry>component</entry>
@@ -542,6 +541,7 @@
         <entry>Progress</entry>
         <entry>%</entry>
         <entry>/***</entry>
+        <entry encoding="base64">XDwxOGMzZWFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vsp webpack.production.config.js</entry>
