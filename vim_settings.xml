@@ -515,7 +515,7 @@
     })</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -565,12 +565,12 @@
         <entry>wqa</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>qa</entry>
         <entry>wq</entry>
         <entry>q</entry>
         <entry>we</entry>
         <entry>Pw</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
