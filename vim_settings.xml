@@ -141,12 +141,12 @@
         <mark key="^" line="254" column="19" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="/workspace/website/home/src/css/holoera.css" timestamp="1483928079729">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="369" column="20" />
-        <mark key="]" line="369" column="20" />
-        <mark key="." line="369" column="20" />
-        <mark key="^" line="369" column="20" />
+      <file name="/workspace/website/home/src/css/holoera.css" timestamp="1483949362149">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="^" line="28" column="15" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/hobby/intial-state.js" timestamp="1482562447792">
         <mark key="[" line="23" column="1" />
@@ -154,12 +154,12 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="/workspace/website/home/src/home/product/holoera.html" timestamp="1483942935622">
-        <mark key="'" line="313" column="0" />
-        <mark key="[" line="228" column="84" />
-        <mark key="]" line="228" column="85" />
-        <mark key="." line="228" column="85" />
-        <mark key="^" line="234" column="88" />
+      <file name="/workspace/website/home/src/home/product/holoera.html" timestamp="1483948783110">
+        <mark key="'" line="317" column="0" />
+        <mark key="[" line="312" column="0" />
+        <mark key="]" line="313" column="34" />
+        <mark key="." line="312" column="0" />
+        <mark key="^" line="61" column="23" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/index.js" timestamp="1481188720957">
         <mark key="[" line="20" column="0" />
@@ -208,12 +208,12 @@
         <mark key="." line="134" column="29" />
         <mark key="^" line="134" column="29" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1483442347434">
+      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1483947961739">
         <mark key="'" line="46" column="12" />
-        <mark key="[" line="47" column="10" />
-        <mark key="]" line="47" column="10" />
-        <mark key="^" line="47" column="10" />
-        <mark key="." line="47" column="10" />
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="22" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="39" column="22" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/friend.js" timestamp="1482134670496">
         <mark key="[" line="28" column="8" />
@@ -247,10 +247,10 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="/workspace/website/home/src/index.html" timestamp="1483410000575">
+      <file name="/workspace/website/home/src/index.html" timestamp="1483948779211">
         <mark key="'" line="137" column="21" />
-        <mark key="[" line="311" column="0" />
-        <mark key="]" line="318" column="6" />
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="314" column="34" />
         <mark key="." line="125" column="70" />
         <mark key="^" line="126" column="37" />
       </file>
@@ -368,9 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="28" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/friend/update/index.js" />
-      <jump line="32" column="28" filename="/workspace/gowild-app/gowild-holoera-app/proto/face.proto" />
-      <jump line="6" column="0" filename="/workspace/gowild-app/gowild-holoera-app/proto/face.proto" />
       <jump line="49" column="0" filename="/workspace/gowild-app/gowild-holoera-app/proto/face.proto" />
       <jump line="124" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" />
       <jump line="86" column="4" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" />
@@ -468,51 +465,54 @@
       <jump line="242" column="0" filename="/workspace/website/home/src/home/product/holoera.html" />
       <jump line="67" column="35" filename="/workspace/website/home/src/css/holoera.css" />
       <jump line="51" column="0" filename="/workspace/website/home/src/css/holoera.css" />
+      <jump line="379" column="30" filename="/workspace/website/home/src/css/holoera.css" />
+      <jump line="198" column="22" filename="/workspace/website/home/src/css/holoera.css" />
+      <jump line="41" column="4" filename="/workspace/website/home/src/css/holoera.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LnN3aXBlci1jb250YWluZXItYmFubmVyIC5zd2lwZXItcGFnaW5hdGlvbiAuc3dpcGVyLXBhZ2luYXRpb24tYnVsbGV0IHsK</text>
       </register>
       <register name="-" type="4">
-        <text>Url</text>
+        <text encoding="base64">LnN3aXBlci1jb250YWluZXItaG9yaXpvbnRhbCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zZVdyYXBwZXIuZmluZCgnaW1nJykuYXR0cignc3JjJywgJy4uLy4uL2ltZy9wcm9kdWN0L2hvbG9lcmEvcG9zZS0wMi5wbmcnKTsK</text>
+        <text encoding="base64">LnN3aXBlci1jb250YWluZXItYmFubmVyIC5zd2lwZXItcGFnaW5hdGlvbiAuc3dpcGVyLXBhZ2luYXRpb24tYnVsbGV0IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMxOGM0ZWM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHotaW5kZXg6IDk5OTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NlV3JhcHBlci5maW5kKCdpbWcnKS5hdHRyKCdzcmMnLCAnLi4vLi4vaW1nL3Byb2R1Y3QvaG9sb2VyYS9wb3NlLTAyLnBuZycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmRhdGFzZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICQoJy5jbG90aGVzLXdyYXBwZXInKS5jbGljayhmdW5jdGlvbiAoZSkgewogICAgICAgICQoJy5wb3NlLXdyYXBwZXInKS5maW5kKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>.click(function (e) {
-        
-    })</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwb3NlV3JhcHBlci5maW5kKCdpbWcnKS5hdHRyKCdzcmMnLCAnLi4vLi4vaW1nL3Byb2R1Y3QvaG9sb2VyYS9wb3NlLTAyLnBuZycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGg1PjQzNDUzMzwvaDU+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmRhdGFzZXQpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii4uLy4uL2ltZy9wcm9kdWN0L2hvbG9lcmEvaWNvbi1lbmVyZ3kucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZW5lcmd5LXByb2dyZXNzIj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICQoJy5jbG90aGVzLXdyYXBwZXInKS5jbGljayhmdW5jdGlvbiAoZSkgewogICAgICAgICQoJy5wb3NlLXdyYXBwZXInKS5maW5kKCkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="9" type="4">
+        <text>.click(function (e) {
+        
+    })</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
