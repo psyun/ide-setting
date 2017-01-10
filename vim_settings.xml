@@ -224,12 +224,12 @@
       <file name="/workspace/website/home/src/js/threesixty.js" timestamp="1483690236040">
         <mark key="'" line="535" column="9" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/Router.js" timestamp="1484049525366">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/Router.js" timestamp="1484050577010">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="89" column="48" />
-        <mark key="]" line="90" column="19" />
-        <mark key="." line="90" column="19" />
-        <mark key="^" line="90" column="19" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="88" column="19" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="/workspace/website/hello-world/src/index.html" timestamp="1482732996513">
         <mark key="[" line="12" column="29" />
@@ -419,8 +419,8 @@
       <jump line="35" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/Router.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{this.props.global.toastTitle}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsZWZ0OiAxMCwK</text>
       </register>
       <register name="-" type="4">
         <text>{this.props.global.toastTitle}</text>
@@ -449,34 +449,34 @@ function mapDispatchToProps(dispatch) {
 export default connect(mapStateToProps, mapDispatchToProps)(BasicInfo);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0OiAxMCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtbc3R5bGVzLm1lc3NhZ2VNb2RhbF19Pgo=</text>
+        <text encoding="base64">ICAgICAgICB0b3A6IDEwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQXBwQ29tcG9uZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtbc3R5bGVzLm1lc3NhZ2VNb2RhbF19Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOgo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQXBwQ29tcG9uZW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLnN0b3JlKTsK</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gKCkgewogICAgcmV0dXJuICgKICAgICAgICA8VmlldyBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJyMwMTE4MjQnLCBmbGV4OiAxfX0+CiAgICAgICAgICAgIDxSb3V0ZXIgc2NlbmVzPXtzY2VuZXN9IGhpZGVOYXZCYXI9e3RydWV9Lz4KICAgICAgICA8L1ZpZXc+CiAgICApCn0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLnN0b3JlKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gKCkgewogICAgcmV0dXJuICgKICAgICAgICA8VmlldyBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJyMwMTE4MjQnLCBmbGV4OiAxfX0+CiAgICAgICAgICAgIDxSb3V0ZXIgc2NlbmVzPXtzY2VuZXN9IGhpZGVOYXZCYXI9e3RydWV9Lz4KICAgICAgICA8L1ZpZXc+CiAgICApCn0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
