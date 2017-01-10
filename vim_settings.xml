@@ -224,12 +224,12 @@
       <file name="/workspace/website/home/src/js/threesixty.js" timestamp="1483690236040">
         <mark key="'" line="535" column="9" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/Router.js" timestamp="1484050577010">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="88" column="19" />
-        <mark key="." line="85" column="0" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/Router.js" timestamp="1484052756303">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="86" column="17" />
+        <mark key="]" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+        <mark key="^" line="64" column="26" />
       </file>
       <file name="/workspace/website/hello-world/src/index.html" timestamp="1482732996513">
         <mark key="[" line="12" column="29" />
@@ -420,63 +420,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0OiAxMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW5XaWR0aDogODAsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>{this.props.global.toastTitle}</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>logo</text>
       </register>
-      <register name="0" type="4">
-        <text>function mapStateToProps(state) {
-    return {
-        ...state
-    };
-}
-
-function mapDispatchToProps(dispatch) {
-    var creators = {
-        ...basicInfoAction,
-    };
-
-    return {
-        actions: bindActionCreators(creators, dispatch),
-        dispatch
-    };
-}
-
-export default connect(mapStateToProps, mapDispatchToProps)(BasicInfo);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3A6KHdpZHRoIC0gdGhpcy5zdGF0ZS50b2FzdC53aWR0aCkvMgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0OiAxMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW5XaWR0aDogODAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b3A6IDEwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbldpZHRoOiA4MCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiA4MCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtbc3R5bGVzLm1lc3NhZ2VNb2RhbF19Pgo=</text>
+        <text encoding="base64">ICAgICAgICBmb250U2l6ZTogMTYsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQXBwQ29tcG9uZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nVG9wOiAxMiwKICAgICAgICBwYWRkaW5nQm90dG9tOiAxMiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogODAsCiAgICAgICAgaGVpZ2h0OiAzMCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOgo=</text>
+        <text encoding="base64">ICAgICAgICBwb3NpdGlvbjogJ2Fic29sdXRlJywK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLnN0b3JlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZWZ0Oih3aWQpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gKCkgewogICAgcmV0dXJuICgKICAgICAgICA8VmlldyBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJyMwMTE4MjQnLCBmbGV4OiAxfX0+CiAgICAgICAgICAgIDxSb3V0ZXIgc2NlbmVzPXtzY2VuZXN9IGhpZGVOYXZCYXI9e3RydWV9Lz4KICAgICAgICA8L1ZpZXc+CiAgICApCn0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB7d2lkdGgsIGhlaWdodH0gPSBEaW1lbnNpb25zLmdldCgnd2luZG93Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
