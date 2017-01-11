@@ -28,12 +28,12 @@
         <mark key="." line="40" column="4" />
         <mark key="^" line="40" column="4" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/global/globalActions.js" timestamp="1484055597529">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/global/globalActions.js" timestamp="1484119318916">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="12" />
-        <mark key="." line="31" column="12" />
-        <mark key="^" line="36" column="10" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="28" column="16" />
+        <mark key="^" line="28" column="16" />
+        <mark key="." line="28" column="16" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" timestamp="1484058199722">
         <mark key="[" line="54" column="16" />
@@ -281,12 +281,12 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/Router.js" timestamp="1484055054218">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="100" column="12" />
-        <mark key="]" line="101" column="28" />
-        <mark key="." line="101" column="28" />
-        <mark key="^" line="101" column="28" />
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/Router.js" timestamp="1484119346627">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="90" column="58" />
+        <mark key="]" line="90" column="59" />
+        <mark key="^" line="90" column="59" />
+        <mark key="." line="90" column="59" />
       </file>
       <file name="/workspace/website/hello-world/src/index.html" timestamp="1482732996513">
         <mark key="[" line="12" column="29" />
@@ -503,11 +503,11 @@
       <jump line="88" column="47" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLnNlbGVjdGVkS2V5cyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ios</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>ios</text>
       </register>
       <register name="/" type="4">
         <text>logo</text>
@@ -519,34 +519,35 @@
                         })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLnNlbGVjdGVkS2V5cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dGhpcy5wcm9wcy5nbG9iYWwudG9hc3QuYWN0aXZhdGVkICYmIHRvYXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gKAo=</text>
+      <register name="5" type="4">
+        <text>,
+                ToastAndroid</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBjb21tYW5kcyA9IGF1dGhvcml6ZWRNb2R1bGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZEtleT17dGhpcy5zdGF0ZS5hY3RpdmVUYWJLZXl9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgZGlzcGF0Y2goaGlkZVRvYXN0KCkpOwogICAgICAgIH0sIDIwMDApOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
