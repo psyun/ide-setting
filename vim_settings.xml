@@ -362,11 +362,11 @@
         <mark key="^" line="179" column="72" />
         <mark key="." line="179" column="72" />
       </file>
-      <file name="/workspace/website/gwai/www/utils/Hapi.js" timestamp="1484123232262">
-        <mark key="[" line="77" column="69" />
-        <mark key="]" line="77" column="68" />
-        <mark key="^" line="77" column="68" />
-        <mark key="." line="77" column="68" />
+      <file name="/workspace/website/gwai/www/utils/Hapi.js" timestamp="1484124559110">
+        <mark key="[" line="50" column="27" />
+        <mark key="]" line="50" column="31" />
+        <mark key="." line="50" column="31" />
+        <mark key="^" line="50" column="31" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" timestamp="1484054878546">
         <mark key="[" line="55" column="3" />
@@ -513,8 +513,8 @@
       <jump line="88" column="47" filename="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ContentType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcy5kYXRhKTsK</text>
       </register>
       <register name="-" type="4">
         <text>ContentType</text>
@@ -526,35 +526,34 @@
         <text>buildRequest(code, params)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL+S9v+eUqOacjeWKoeWZqOS7o+eQhgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcy5kYXRhKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhOiB7Y29udGVudDogYnVpbGRSZXF1ZXN0KGNvZGUsIHBhcmFtcyl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc0RhdGEucmVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhOiB7Y29udGVudDogYnVpbGRSZXF1ZXN0KGNvZGUsIHBhcmFtcyl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL+S9v+eUqOacjeWKoeWZqOS7o+eQhgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dGhpcy5wcm9wcy5nbG9iYWwudG9hc3QuYWN0aXZhdGVkICYmIHRvYXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhOiB7Y29udGVudDogYnVpbGRSZXF1ZXN0KGNvZGUsIHBhcmFtcyl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhOiB7Y29udGVudDogYnVpbGRSZXF1ZXN0KGNvZGUsIHBhcmFtcyl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dGhpcy5wcm9wcy5nbG9iYWwudG9hc3QuYWN0aXZhdGVkICYmIHRvYXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3Pgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>,
-                ToastAndroid</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -611,8 +610,8 @@
         <entry>qa</entry>
         <entry>w'</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
