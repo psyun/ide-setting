@@ -168,12 +168,12 @@
         <mark key="^" line="254" column="19" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="/workspace/website/home/src/css/holoera.css" timestamp="1484201537046">
+      <file name="/workspace/website/home/src/css/holoera.css" timestamp="1484211184233">
         <mark key="'" line="622" column="0" />
-        <mark key="[" line="557" column="4" />
-        <mark key="]" line="557" column="7" />
-        <mark key="." line="557" column="7" />
-        <mark key="^" line="557" column="7" />
+        <mark key="[" line="2" column="60" />
+        <mark key="]" line="2" column="66" />
+        <mark key="." line="2" column="66" />
+        <mark key="^" line="2" column="66" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/hobby/intial-state.js" timestamp="1482562447792">
         <mark key="[" line="23" column="1" />
@@ -532,10 +532,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">e3RoaXMucHJvcHMuYmFzaWNJbmZvLm93bmVySW5mby5uaWNrbmFtZX08</text>
+        <text>141414</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e3RoaXMucHJvcHMuYmFzaWNJbmZvLm93bmVySW5mby5uaWNrbmFtZX08</text>
+        <text>141414</text>
       </register>
       <register name="/" type="4">
         <text>logo</text>
