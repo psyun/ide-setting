@@ -130,6 +130,12 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/holoera/hobby/index.js" timestamp="1484209505040">
+        <mark key="[" line="48" column="18" />
+        <mark key="]" line="48" column="20" />
+        <mark key="^" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/reducer.js" timestamp="1482485896110">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -262,6 +268,12 @@
         <mark key="^" line="47" column="14" />
         <mark key="." line="47" column="14" />
       </file>
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/holoera/basic-info/index.js" timestamp="1484210239475">
+        <mark key="[" line="134" column="44" />
+        <mark key="]" line="134" column="45" />
+        <mark key="^" line="134" column="45" />
+        <mark key="." line="134" column="45" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/hobby.js" timestamp="1484053151404">
         <mark key="[" line="26" column="7" />
         <mark key="]" line="26" column="16" />
@@ -288,12 +300,12 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
-      <file name="/workspace/gowild-app/gowild-holoera-app/app/Router.js" timestamp="1484208482835">
+      <file name="/workspace/gowild-app/gowild-holoera-app/app/Router.js" timestamp="1484209567858">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="105" column="32" />
-        <mark key="]" line="105" column="42" />
-        <mark key="^" line="105" column="42" />
-        <mark key="." line="105" column="42" />
+        <mark key="[" line="112" column="57" />
+        <mark key="]" line="112" column="61" />
+        <mark key="^" line="112" column="61" />
+        <mark key="." line="112" column="61" />
       </file>
       <file name="/workspace/website/hello-world/src/index.html" timestamp="1482732996513">
         <mark key="[" line="12" column="29" />
@@ -520,16 +532,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KCl9IA==</text>
+        <text encoding="base64">e3RoaXMucHJvcHMuYmFzaWNJbmZvLm93bmVySW5mby5uaWNrbmFtZX08</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCl9IA==</text>
+        <text encoding="base64">e3RoaXMucHJvcHMuYmFzaWNJbmZvLm93bmVySW5mby5uaWNrbmFtZX08</text>
       </register>
       <register name="/" type="4">
         <text>logo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2VXcmFwcGVyLmZpbmQoJy5wb3NlLWl0ZW0nKS5yZW1vdmVDbGFzcygnYWN0aXZlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEgyPnt0aGlzLnByb3BzLmJhc2ljSW5mby5vd25lckluZm8ubmlja25hbWV9PC9IMj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
