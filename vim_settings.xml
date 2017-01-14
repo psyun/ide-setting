@@ -166,12 +166,12 @@
         <mark key="^" line="254" column="19" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="/workspace/website/home/src/css/holoera.css" timestamp="1484364633091">
+      <file name="/workspace/website/home/src/css/holoera.css" timestamp="1484375131683">
         <mark key="'" line="334" column="0" />
-        <mark key="[" line="640" column="26" />
-        <mark key="]" line="640" column="25" />
-        <mark key="." line="640" column="25" />
-        <mark key="^" line="640" column="25" />
+        <mark key="[" line="640" column="0" />
+        <mark key="]" line="641" column="26" />
+        <mark key="." line="641" column="26" />
+        <mark key="^" line="641" column="26" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/hobby/intial-state.js" timestamp="1482562447792">
         <mark key="[" line="23" column="1" />
@@ -179,9 +179,9 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="/workspace/website/home/src/home/product/holoera.html" timestamp="1484365557546">
+      <file name="/workspace/website/home/src/home/product/holoera.html" timestamp="1484375253628">
         <mark key="'" line="30" column="31" />
-        <mark key="[" line="87" column="60" />
+        <mark key="[" line="80" column="80" />
         <mark key="]" line="87" column="63" />
         <mark key="^" line="87" column="63" />
         <mark key="." line="87" column="63" />
@@ -297,12 +297,12 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
-      <file name="/workspace/website/home/src/js/threesixty.js" timestamp="1484365917886">
-        <mark key="'" line="567" column="29" />
-        <mark key="[" line="150" column="45" />
-        <mark key="]" line="150" column="45" />
-        <mark key="." line="150" column="45" />
-        <mark key="^" line="150" column="45" />
+      <file name="/workspace/website/home/src/js/threesixty.js" timestamp="1484375067058">
+        <mark key="'" line="566" column="29" />
+        <mark key="[" line="186" column="37" />
+        <mark key="]" line="186" column="35" />
+        <mark key="." line="186" column="35" />
+        <mark key="^" line="186" column="35" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/Router.js" timestamp="1484209567858">
         <mark key="'" line="38" column="0" />
@@ -401,12 +401,12 @@
         <mark key="." line="27" column="44" />
         <mark key="^" line="27" column="44" />
       </file>
-      <file name="/workspace/website/home/src/css/base.css" timestamp="1484144389844">
-        <mark key="'" line="1205" column="26" />
-        <mark key="[" line="1309" column="14" />
-        <mark key="]" line="1309" column="12" />
-        <mark key="." line="1309" column="12" />
-        <mark key="^" line="1309" column="12" />
+      <file name="/workspace/website/home/src/css/base.css" timestamp="1484375224412">
+        <mark key="'" line="253" column="7" />
+        <mark key="[" line="1206" column="14" />
+        <mark key="]" line="1206" column="12" />
+        <mark key="." line="1206" column="12" />
+        <mark key="^" line="1206" column="12" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/loading.scss" timestamp="1481188701487">
         <mark key="[" line="2" column="15" />
@@ -430,7 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="20" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
       <jump line="30" column="7" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" />
       <jump line="92" column="22" filename="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" />
       <jump line="265" column="0" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
@@ -530,13 +529,14 @@
       <jump line="50" column="19" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/holoera/memory/index.js" />
       <jump line="549" column="29" filename="/workspace/website/home/src/js/threesixty.js" />
       <jump line="334" column="0" filename="/workspace/website/home/src/css/holoera.css" />
+      <jump line="253" column="7" filename="/workspace/website/home/src/css/base.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZnJhbWVzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>anotherFrames</text>
       </register>
       <register name="/" type="4">
         <text>logo</text>
@@ -545,40 +545,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICQuZWFjaChiYXNlLiRlbC5maW5kKEFwcENvbmZpZy5pbWdMaXN0KS5maW5kKCdpbWcnKSwgZnVuY3Rpb24gKGksIGl0ZW0pIHsKICAgICAgICAgICAgICAgICAgICAkKGl0ZW0pLmF0dHIoJ3NyYycsIGFub3RoZXJGcmFtZXNbaV0uc3JjKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZnJhbWVOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZnJhbWVzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJhbWVEYXRhWydncmF5J10ucHVzaCh7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogJ2dyYXknLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRGcmFtZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5vdGhlckZyYW1lcy5wdXNoKCQoYW5vdGhlckltYWdlKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>else {
-                $.each(base.$el.find(AppConfig.imgList).find('img'), function (i, item) {
-                    $(item).attr('src', frames[i].src);
-                });
-            }
-
-            currentFrame = !currentFrame;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5vdGhlckZyYW1lcyA9IFtdLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCQoc2VsZWN0RnJhbWVbaV0pLmF0dHIoJ3NyYycpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvcDo7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZnJhbWVOYW1lKTsKICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZWN0RnJhbWUpOwogICAgICAgICAgICBjb25zb2xlLmxvZygnPT09PT09PT09PT09PT09PScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
