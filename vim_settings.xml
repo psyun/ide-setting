@@ -436,12 +436,12 @@
         <mark key="." line="27" column="44" />
         <mark key="^" line="27" column="44" />
       </file>
-      <file name="/workspace/website/home/src/css/base.css" timestamp="1484377872862">
-        <mark key="'" line="1209" column="4" />
-        <mark key="[" line="1210" column="12" />
-        <mark key="]" line="1210" column="13" />
-        <mark key="." line="1210" column="13" />
-        <mark key="^" line="1210" column="20" />
+      <file name="/workspace/website/home/src/css/base.css" timestamp="1484398668091">
+        <mark key="'" line="1203" column="0" />
+        <mark key="[" line="1209" column="13" />
+        <mark key="]" line="1209" column="11" />
+        <mark key="^" line="1209" column="11" />
+        <mark key="." line="1209" column="11" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/loading.scss" timestamp="1481188701487">
         <mark key="[" line="2" column="15" />
@@ -465,7 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="2" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/hobby/index.js" />
       <jump line="5" column="0" filename="/workspace/website/gowild-manage-system/node_modules/rc-form/lib/createBaseForm.js" />
       <jump line="149" column="0" filename="/workspace/website/gowild-manage-system/node_modules/rc-form/lib/createBaseForm.js" />
       <jump line="61" column="25" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/index.js" />
@@ -565,10 +564,11 @@
       <jump line="532" column="111" filename="/workspace/website/home/src/js/threesixty.js" />
       <jump line="1207" column="4" filename="/workspace/website/home/src/css/base.css" />
       <jump line="71" column="105" filename="/workspace/website/gowild-manage-system/src/containers/login/index.js" />
+      <jump line="1203" column="0" filename="/workspace/website/home/src/css/base.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAwJTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG9uQ2xpY2s9e3RoaXMuaGFuZGxlTG9naW59</text>
@@ -580,34 +580,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJ1bGVzOiBbe3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36L6T5YWl5a+G56CBJyx9XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAwJTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text>position: absolute;
+    bottom: 100px;
+    height: 3px;
+    width: 0%;
+    margin: 10% auto;
+    background: #0f91c2;
+    border-radius: 3px;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPElucHV0IHBsYWNlaG9sZGVyPSLnlKjmiLflkI0iIHsuLi5nZXRGaWVsZFByb3BzKCd1c2VybmFtZScpfS8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2V0RmllbGREZWNvcmF0b3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ey4uLmdldEZpZWxkUHJvcHMoJ3VzZXJBY2NvdW50JywgewogICAgICAgICAgICAgICAgICAgIH0pfSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPElucHV0IHBsYWNlaG9sZGVyPSLnlKjmiLflkI0iIHsuLi5nZXRGaWVsZFByb3BzKCd1c2VybmFtZScpfS8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiByb3cudXNlckFjY291bnQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2V0RmllbGREZWNvcmF0b3IK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
