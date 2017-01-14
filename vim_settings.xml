@@ -178,11 +178,11 @@
         <mark key="^" line="49" column="8" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/services/auth-service.js" timestamp="1484383802210">
-        <mark key="[" line="62" column="13" />
-        <mark key="]" line="62" column="19" />
-        <mark key="." line="62" column="19" />
-        <mark key="^" line="62" column="19" />
+      <file name="/workspace/website/gowild-manage-system/src/services/auth-service.js" timestamp="1484398853497">
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="38" column="7" />
+        <mark key="." line="38" column="7" />
+        <mark key="^" line="38" column="7" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1484055520583">
         <mark key="[" line="89" column="20" />
@@ -568,7 +568,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAwJTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2hBdXRob3JpdHkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG9uQ2xpY2s9e3RoaXMuaGFuZGxlTG9naW59</text>
@@ -580,12 +580,21 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJ1bGVzOiBbe3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36L6T5YWl5a+G56CBJyx9XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAwJTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2hBdXRob3JpdHkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGlmICh0aGlzLmF1dGhJbmZvLnRva2VuKSB7CiAgICAgICAgICAgIHRoaXMuYXV0aEluZm8uYXV0aG9yaXplZE1vZHVsZSA9IGh0dHBGZXRjaCh0aGlzLmdldFVybCgnL3JvbGUvZ2V0QWNjb3VudEF1dGhvcml0eScpLCB7CiAgICAgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC50aGVuKChyZXMpID0+IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzLmFjY291bnRBdXRob3JpdHlWb0xpc3Q7CiAgICAgICAgICAgICAgICB9KQogICAgICAgIH0=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">aWYgKHRoaXMuYXV0aEluZm8udG9rZW4pIHsKICAgICAgICAgICAgdGhpcy5hdXRoSW5mby5hdXRob3JpemVkTW9kdWxlID0gaHR0cEZldGNoKHRoaXMuZ2V0VXJsKCcvcm9sZS9nZXRBY2NvdW50QXV0aG9yaXR5JyksIHsKICAgICAgICAgICAgICAgIG1ldGhvZDogJ3Bvc3QnLAogICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgLnRoZW4oKHJlcykgPT4gewogICAgICAgICAgICAgICAgICAgIHJldHVybiByZXMuYWNjb3VudEF1dGhvcml0eVZvTGlzdDsKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAwJTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>position: absolute;
     bottom: 100px;
     height: 3px;
@@ -594,26 +603,17 @@
     background: #0f91c2;
     border-radius: 3px;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPElucHV0IHBsYWNlaG9sZGVyPSLnlKjmiLflkI0iIHsuLi5nZXRGaWVsZFByb3BzKCd1c2VybmFtZScpfS8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2V0RmllbGREZWNvcmF0b3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
