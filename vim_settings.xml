@@ -448,11 +448,11 @@
         <mark key="." line="27" column="44" />
         <mark key="^" line="27" column="44" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1484575462867">
-        <mark key="[" line="65" column="39" />
-        <mark key="]" line="65" column="38" />
-        <mark key="^" line="65" column="38" />
-        <mark key="." line="65" column="38" />
+      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1484580580966">
+        <mark key="[" line="67" column="30" />
+        <mark key="]" line="67" column="29" />
+        <mark key="^" line="67" column="29" />
+        <mark key="." line="67" column="29" />
       </file>
       <file name="/workspace/website/home/src/css/base.css" timestamp="1484398668091">
         <mark key="'" line="1203" column="0" />
@@ -592,10 +592,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>172.26.1.171</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>172.26.1.171</text>
       </register>
       <register name="/" type="4">
         <text>logo</text>
