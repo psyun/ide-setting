@@ -457,11 +457,11 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="68" column="26" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/chat/index.js" timestamp="1484557115602">
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="25" column="13" />
-        <mark key="^" line="25" column="13" />
-        <mark key="." line="25" column="13" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/chat/index.js" timestamp="1484558180962">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="23" />
+        <mark key="^" line="36" column="23" />
+        <mark key="." line="36" column="23" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/img/avatar.js" timestamp="1482742700010">
         <mark key="'" line="20" column="115966" />
@@ -574,11 +574,11 @@
       <jump line="1203" column="0" filename="/workspace/website/home/src/css/base.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2hBdXRob3JpdHkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2xhc3NOYW1lPSIiPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9uQ2xpY2s9e3RoaXMuaGFuZGxlTG9naW59</text>
+        <text encoding="base64">Y2xhc3NOYW1lPSIiPg==</text>
       </register>
       <register name="/" type="4">
         <text>logo</text>
