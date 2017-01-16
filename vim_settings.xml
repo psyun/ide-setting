@@ -307,6 +307,7 @@
         <mark key="^" line="134" column="45" />
         <mark key="." line="134" column="45" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/config.js" timestamp="1484556969433" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/hobby.js" timestamp="1484053151404">
         <mark key="[" line="26" column="7" />
         <mark key="]" line="26" column="16" />
@@ -455,6 +456,12 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
         <mark key="^" line="68" column="26" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/chat/index.js" timestamp="1484557115602">
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="25" column="13" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="25" column="13" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/img/avatar.js" timestamp="1482742700010">
         <mark key="'" line="20" column="115966" />
