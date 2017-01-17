@@ -448,11 +448,11 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="27" column="44" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1484580580966">
-        <mark key="[" line="67" column="30" />
-        <mark key="]" line="67" column="29" />
-        <mark key="^" line="67" column="29" />
-        <mark key="." line="67" column="29" />
+      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1484637533578">
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="52" column="35" />
+        <mark key="^" line="52" column="35" />
+        <mark key="." line="52" column="35" />
       </file>
       <file name="/workspace/website/home/src/css/base.css" timestamp="1484398668091">
         <mark key="'" line="1203" column="0" />
@@ -634,7 +634,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -686,10 +686,10 @@
         <entry>.w</entry>
         <entry>a</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
