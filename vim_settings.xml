@@ -38,6 +38,12 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/smart-authorize/index.js" timestamp="1484726624418">
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="60" column="19" />
+        <mark key="." line="60" column="19" />
+        <mark key="^" line="60" column="19" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/proto/hobby.proto" timestamp="1482749083733">
         <mark key="[" line="22" column="28" />
         <mark key="]" line="22" column="23" />
@@ -118,11 +124,11 @@
         <mark key="^" line="148" column="75" />
         <mark key="." line="148" column="75" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1484385598756">
-        <mark key="[" line="142" column="46" />
-        <mark key="]" line="142" column="40" />
-        <mark key="." line="142" column="40" />
-        <mark key="^" line="142" column="40" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1484727083967">
+        <mark key="[" line="93" column="92" />
+        <mark key="]" line="37" column="40" />
+        <mark key="." line="37" column="40" />
+        <mark key="^" line="37" column="40" />
       </file>
       <file name="/workspace/website/home/src/js/holoera.js" timestamp="1484377438714">
         <mark key="'" line="20" column="8" />
@@ -587,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>logo</text>
