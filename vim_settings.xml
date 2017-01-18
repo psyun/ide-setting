@@ -256,12 +256,12 @@
         <mark key="." line="134" column="29" />
         <mark key="^" line="134" column="29" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1484745917220">
+      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1484748454353">
         <mark key="'" line="46" column="12" />
-        <mark key="[" line="153" column="62" />
-        <mark key="]" line="153" column="61" />
-        <mark key="." line="153" column="61" />
-        <mark key="^" line="153" column="61" />
+        <mark key="[" line="121" column="25" />
+        <mark key="]" line="121" column="25" />
+        <mark key="." line="121" column="25" />
+        <mark key="^" line="123" column="22" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/friend.js" timestamp="1482134670496">
         <mark key="[" line="28" column="8" />
@@ -585,58 +585,58 @@
       <jump line="147" column="21" filename="/workspace/website/gowild-manage-system/src/components/grid/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>vent</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZX0=</text>
+        <text>vent</text>
       </register>
       <register name="/" type="4">
-        <text>logo</text>
+        <text>uploader</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlUHJvcE5hbWU6ICdmaWxlbGlzdCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgZmlsZUxpc3QsCiAgICAgICAgfSkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5zaG9wSXRlbVVwbG9hZGVyKSB7CiAgICAgICAgICAgIHRoaXMuc2hvcEl0ZW1VcGxvYWRlci51cGRhdGVEZWZhdWx0RmlsZUxpc3QoZmlsZUxpc3QpOwogICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlTGlzdCk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>{
-                                       this.shopItemUploader = ref;
-                                   }</text>
+        <text>this.setState({
+            fileList,
+        })</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZVByb3BOYW1lOiAnZmlsZWxpc3QnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJlZm9yZVVwbG9hZD17dGhpcy5oYW5kbGVCZWZvcmVVcGxvYWR9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUZpbGVDaGFuZ2V9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGVMaXN0PXt0aGlzLnN0YXRlLmZpbGVMaXN0fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXBsb2FkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlTGlzdCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZj0ndXBsb2FkZXInCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3JtYWxpemU6IHRoaXMubm9ybUZpbGUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logo</last-search>
+      <last-search>uploader</last-search>
       <last-offset />
-      <last-pattern>logo</last-pattern>
+      <last-pattern>uploader</last-pattern>
       <last-replace>、</last-replace>
       <last-substitute>logo</last-substitute>
       <last-dir>1</last-dir>
@@ -644,7 +644,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
         <entry>getFieldPro</entry>
         <entry>XbLog</entry>
         <entry>render</entry>
@@ -664,6 +663,7 @@
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>ball</entry>
         <entry>logo</entry>
+        <entry>uploader</entry>
       </history-search>
       <history-cmd>
         <entry>;w</entry>
