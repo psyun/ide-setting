@@ -256,12 +256,12 @@
         <mark key="." line="134" column="29" />
         <mark key="^" line="134" column="29" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1484748454353">
+      <file name="/workspace/website/gowild-manage-system/src/components/qiniu-uploader/index.js" timestamp="1484749457285">
         <mark key="'" line="46" column="12" />
-        <mark key="[" line="121" column="25" />
-        <mark key="]" line="121" column="25" />
-        <mark key="." line="121" column="25" />
-        <mark key="^" line="123" column="22" />
+        <mark key="[" line="102" column="27" />
+        <mark key="]" line="102" column="28" />
+        <mark key="^" line="102" column="28" />
+        <mark key="." line="102" column="28" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/constants/friend.js" timestamp="1482134670496">
         <mark key="[" line="28" column="8" />
@@ -586,10 +586,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vent</text>
+        <text>this.props.defaultFileListthis.state.fileList</text>
       </register>
       <register name="-" type="4">
-        <text>vent</text>
+        <text>this.props.defaultFileListthis.state.fileList</text>
       </register>
       <register name="/" type="4">
         <text>uploader</text>
@@ -598,36 +598,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlUHJvcE5hbWU6ICdmaWxlbGlzdCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgZmlsZUxpc3QsCiAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlTGlzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5LiN5Y+L5aW955qE5pa55byPCiAgICAgKiBAcGFyYW0gZmlsZUxpc3QKICAgICAqLwogICAgdXBkYXRlRGVmYXVsdEZpbGVMaXN0KGZpbGVMaXN0KSB7CiAgICAgICAgdGhpcy5zdGF0ZS5maWxlTGlzdCA9IGZpbGVMaXN0OwogICAgfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZURlZmF1bHRGaWxlTGlzdCA9IHRoaXMudXBkYXRlRGVmYXVsdEZpbGVMaXN0LmJpbmQodGhpcyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgZmlsZUxpc3QsCiAgICAgICAgfSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlTGlzdCk7Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>this.setState({
             fileList,
         })</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJlZm9yZVVwbG9hZD17dGhpcy5oYW5kbGVCZWZvcmVVcGxvYWR9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUZpbGVDaGFuZ2V9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGVMaXN0PXt0aGlzLnN0YXRlLmZpbGVMaXN0fQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlTGlzdCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZj0ndXBsb2FkZXInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJlZm9yZVVwbG9hZD17dGhpcy5oYW5kbGVCZWZvcmVVcGxvYWR9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3JtYWxpemU6IHRoaXMubm9ybUZpbGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUZpbGVDaGFuZ2V9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
