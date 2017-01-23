@@ -120,6 +120,12 @@
         <mark key="^" line="50" column="10" />
         <mark key="." line="50" column="10" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" timestamp="1485162656795">
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="48" column="27" />
+        <mark key="." line="48" column="27" />
+        <mark key="^" line="48" column="27" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/search-form/search-form.scss" timestamp="1484391713659">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="27" />
@@ -349,11 +355,11 @@
         <mark key="^" line="27" column="23" />
         <mark key="." line="27" column="23" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" timestamp="1485152631079">
-        <mark key="[" line="83" column="51" />
-        <mark key="]" line="83" column="73" />
-        <mark key="^" line="83" column="73" />
-        <mark key="." line="83" column="73" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" timestamp="1485162580493">
+        <mark key="[" line="101" column="27" />
+        <mark key="]" line="101" column="38" />
+        <mark key="^" line="101" column="38" />
+        <mark key="." line="101" column="38" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/intial-state.js" timestamp="1481890126106">
         <mark key="[" line="23" column="19" />
@@ -581,46 +587,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdXJhdGlvbjogZHVyYXRpb24sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>jpg</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text>uploader</text>
       </register>
-      <register name="0" type="4">
-        <text>AddRoleFormItem</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdXJhdGlvbjogZHVyYXRpb24sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZHVyYXRpb24gPSB0aGlzLnByb3BzLmR1cmF0aW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXNjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqcGcK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2snKTsK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMudHJhbnNwb3J0Lmluc2VydC5mb3JtQ29tcG9uZW50KTsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SW5wdXQgey4uLmdldEZpZWxkUHJvcHMoJ3JvbGVOYW1lJyl9IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBqcGcK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy4pCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2snKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMudHJhbnNwb3J0Lmluc2VydC5mb3JtQ29tcG9uZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
