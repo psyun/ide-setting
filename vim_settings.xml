@@ -120,21 +120,11 @@
         <mark key="^" line="50" column="10" />
         <mark key="." line="50" column="10" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" timestamp="1485152673730">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/search-form/search-form.scss" timestamp="1484391713659">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="8" column="26" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/mgr-user/index.js" timestamp="1484397055196">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="55" />
-        <mark key="." line="102" column="27" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/passport-result.js" timestamp="1483005027782">
         <mark key="[" line="37" column="1" />
@@ -360,10 +350,10 @@
         <mark key="." line="27" column="23" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" timestamp="1485152631079">
-        <mark key="[" line="106" column="51" />
-        <mark key="]" line="106" column="73" />
-        <mark key="^" line="106" column="73" />
-        <mark key="." line="106" column="73" />
+        <mark key="[" line="83" column="51" />
+        <mark key="]" line="83" column="73" />
+        <mark key="^" line="83" column="73" />
+        <mark key="." line="83" column="73" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/intial-state.js" timestamp="1481890126106">
         <mark key="[" line="23" column="19" />
