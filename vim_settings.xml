@@ -77,11 +77,11 @@
         <mark key="." line="141" column="49" />
         <mark key="^" line="141" column="49" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/home/index.js" timestamp="1484733708789">
-        <mark key="[" line="121" column="33" />
-        <mark key="]" line="121" column="32" />
-        <mark key="." line="121" column="32" />
-        <mark key="^" line="121" column="32" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/home/index.js" timestamp="1485152367520">
+        <mark key="[" line="162" column="50" />
+        <mark key="]" line="163" column="45" />
+        <mark key="." line="163" column="45" />
+        <mark key="^" line="163" column="45" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/elastic-search/dubbo/index.js" timestamp="1484130336507">
         <mark key="[" line="35" column="25" />
@@ -120,11 +120,21 @@
         <mark key="^" line="50" column="10" />
         <mark key="." line="50" column="10" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" timestamp="1485152673730">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/search-form/search-form.scss" timestamp="1484391713659">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="8" column="26" />
+      </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/mgr-user/index.js" timestamp="1484397055196">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="55" />
+        <mark key="." line="102" column="27" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/passport-result.js" timestamp="1483005027782">
         <mark key="[" line="37" column="1" />
@@ -349,7 +359,7 @@
         <mark key="^" line="27" column="23" />
         <mark key="." line="27" column="23" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" timestamp="1484909063079">
+      <file name="/workspace/website/gowild-manage-system/src/containers/robot/xb-info-edit/index.js" timestamp="1485152631079">
         <mark key="[" line="106" column="51" />
         <mark key="]" line="106" column="73" />
         <mark key="^" line="106" column="73" />
@@ -580,8 +590,8 @@
       <jump line="76" column="20" filename="/workspace/website/gowild-manage-system/src/components/grid/grid.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jpg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>jpg</text>
@@ -593,37 +603,37 @@
         <text>AddRoleFormItem</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2snKTsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMudHJhbnNwb3J0Lmluc2VydC5mb3JtQ29tcG9uZW50KTsK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SW5wdXQgey4uLmdldEZpZWxkUHJvcHMoJ3JvbGVOYW1lJyl9IC8+Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy4pCg==</text>
+        <text encoding="base64">ICAgICAgICBqcGcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGQgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2snKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICA8Rm9ybUl0ZW0KICAgICAgICAgICAgICAgICAgICBsYWJlbD0iTUFDIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIDxJbnB1dCB7Li4uZ2V0RmllbGRQcm9wcygnbWFjJyl9IC8+CiAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMudHJhbnNwb3J0Lmluc2VydC5mb3JtQ29tcG9uZW50KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEFkZFJvbGVGb3JtSXRlbXMgZnJvbSAiLi8iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SW5wdXQgey4uLmdldEZpZWxkUHJvcHMoJ3JvbGVOYW1lJyl9IC8+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aW1wb3J0IGh0dHBGZXRjaCBmcm9tICIuLi8uLi91dGlscy9odHRwLWZldGNoIjsKaW1wb3J0IHtSRVNUX1NFUlZFUl9ST09UfSBmcm9tICIuLi8uLi9jb25maWciOwppbXBvcnQge0Zvcm0sIFRyZWUsIElucHV0fSBmcm9tICJhbnRkIjsKY29uc3QgRm9ybUl0ZW0gPSBGb3JtLkl0ZW07CmNvbnN0IFRyZWVOb2RlID0gVHJlZS5UcmVlTm9kZTsKCi8qKgogKiBzZWFyY2ggbW9kdWxlIGxpc3QsIHJldHVybiB0aGUgaW5kZXggb2YgZ2l2ZW4gbW9kdWxlIG5hbWUscmV0dXJuIC0xIGlmIG5vdCBleGlzdHMKICogQHBhcmFtIG1vZHVsZXMKICogQHBhcmFtIG5hbWUKICogQHJldHVybnMge251bWJlcn0KICovCmZ1bmN0aW9uIGdldE1vZHVsZUluZGV4QnlOYW1lKG1vZHVsZXMsIG5hbWUpIHsKICAgIGZvciAodmFyIGkgPSAwOyBpIDwgbW9kdWxlcy5sZW5ndGg7IGkrKykgewogICAgICAgIGlmIChtb2R1bGVzW2ldLnRpdGxlID09IG5hbWUpIHsKICAgICAgICAgICAgcmV0dXJuIGk7CiAgICAgICAgfQogICAgfQoKICAgIHJldHVybiAtMTsKfQoKZnVuY3Rpb24gZ2V0VHJlZURhdGEobGlzdCkgewogICAgbGV0IG1vZHVsZXMgPSBbXTsKCiAgICBmb3IgKHZhciBpID0gMDsgaSA8IGxpc3QubGVuZ3RoOyBpKyspIHsKICAgICAgICBjb25zdCBpZHggPSBnZXRNb2R1bGVJbmRleEJ5TmFtZShtb2R1bGVzLCBsaXN0W2ldLnJlc291cmNlTW9kdWxlKTsKICAgICAgICBpZiAoaWR4ID09PSAtMSkgewogICAgICAgICAgICBjb25zdCBmaXJzdENoaWxkcmVuID0gewogICAgICAgICAgICAgICAgdGl0bGU6IGxpc3RbaV0ucmVzb3VyY2VDb210LAogICAgICAgICAgICAgICAgaWQ6IGxpc3RbaV0uaWQsCiAgICAgICAgICAgIH07CgogICAgICAgICAgICAvLyBwdXNoIG1vZHVsZSBpdGVtCiAgICAgICAgICAgIG1vZHVsZXMucHVzaCh7CiAgICAgICAgICAgICAgICB0aXRsZTogbGlzdFtpXS5yZXNvdXJjZU1vZHVsZSwKICAgICAgICAgICAgICAgIGlkOiBgcGFyZW50XyR7bGlzdFtpXS5pZH1gLAogICAgICAgICAgICAgICAgY2hpbGRyZW46IFtmaXJzdENoaWxkcmVuXSwKICAgICAgICAgICAgfSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLy8gaWYgbW9kdWxlIGV4aXN0cyAsIHB1c2ggaXRlbSB0byBjaGlsZHJlbgogICAgICAgICAgICBtb2R1bGVzW2lkeF0uY2hpbGRyZW4ucHVzaCh7CiAgICAgICAgICAgICAgICB0aXRsZTogbGlzdFtpXS5yZXNvdXJjZUNvbXQsCiAgICAgICAgICAgICAgICBpZDogbGlzdFtpXS5pZCwKICAgICAgICAgICAgfSk7CiAgICAgICAgfQogICAgfQoKICAgIHJldHVybiBtb2R1bGVzOwp9CgpjbGFzcyBBZGRSb2xlRm9ybSBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CiAgICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgICAgIHN1cGVyKHByb3BzKTsKICAgICAgICB0aGlzLnN0YXRlID0gewogICAgICAgICAgICBkYXRhOiBbXSwKICAgICAgICAgICAgY2hlY2tlZE5vZGU6IFtdLAogICAgICAgIH0KCiAgICAgICAgdGhpcy5nZXRUcmVlTm9kZSA9IHRoaXMuZ2V0VHJlZU5vZGUuYmluZCh0aGlzKTsKICAgICAgICB0aGlzLmhhbmRsZUNoZWNrID0gdGhpcy5oYW5kbGVDaGVjay5iaW5kKHRoaXMpOwogICAgfQoKICAgIGNvbXBvbmVudFdpbGxNb3VudCgpIHsKICAgICAgICBodHRwRmV0Y2goUkVTVF9TRVJWRVJfUk9PVCArICcvcm9sZS9saXN0UmVzJywgewogICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgZ2lkOiB0aGlzLnByb3BzLmlkZW50aXR5CiAgICAgICAgICAgIH0KICAgICAgICB9KQogICAgICAgICAgICAudGhlbigocmVzKSA9PiB7CiAgICAgICAgICAgICAgICBjb25zdCBrZXlzID0gcmVzLm1hcCgobm9kZSkgPT4gewogICAgICAgICAgICAgICAgICAgIGlmIChub2RlLmhhc0F1dGgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGAke25vZGUuaWR9YDsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIC8vIGJ1aWxkIHRyZWUgZGF0YQogICAgICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICAgICAgY2hlY2tlZE5vZGU6IGtleXMsCiAgICAgICAgICAgICAgICAgICAgZGF0YTogZ2V0VHJlZURhdGEocmVzKSwKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KQogICAgfQoKICAgIGdldFRyZWVOb2RlKHRyZWVEYXRhcykgewogICAgICAgIHJldHVybiB0cmVlRGF0YXMubWFwKChub2RlKSA9PiB7CiAgICAgICAgICAgIGlmICghbm9kZS5jaGlsZHJlbikgewogICAgICAgICAgICAgICAgcmV0dXJuICg8VHJlZU5vZGUgdGl0bGU9e25vZGUudGl0bGV9IGtleT17bm9kZS5pZH0+PC9UcmVlTm9kZT4pCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gPFRyZWVOb2RlIHRpdGxlPXtub2RlLnRpdGxlfSBrZXk9e25vZGUuaWR9Pnt0aGlzLmdldFRyZWVOb2RlKG5vZGUuY2hpbGRyZW4pfTwvVHJlZU5vZGU+OwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9CgogICAgaGFuZGxlQ2hlY2soY2hlY2tlZE5vZGUpIHsKICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgY2hlY2tlZE5vZGUsCiAgICAgICAgfSk7CiAgICAgICAgY29uc3Qge3NldEZpZWxkc1ZhbHVlfSA9dGhpcy5wcm9wcy5mb3JtOwogICAgICAgIGxldCBpZHMgPSBjaGVja2VkTm9kZQogICAgICAgICAgICAuZmlsdGVyKChpZCkgPT4gewogICAgICAgICAgICAgICAgdmFyIHJlZyA9IC9wYXJlbnQvZzsKICAgICAgICAgICAgICAgIGlmIChyZWcudGVzdChpZCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcmV0dXJuIGlkOwogICAgICAgICAgICB9KTsKCiAgICAgICAgc2V0RmllbGRzVmFsdWUoewogICAgICAgICAgICByZXNJZHM6IGlkcy5qb2luKCcsJykKICAgICAgICB9KTsKICAgIH0KCiAgICByZW5kZXIoKSB7CiAgICAgICAgY29uc3Qge2dldEZpZWxkUHJvcHN9ID10aGlzLnByb3BzLmZvcm07CiAgICAgICAgY29uc3Qgcm9sZUZvcm1Qcm9wcyA9IGdldEZpZWxkUHJvcHMoJ3Jlc0lkcycpOwoKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPFRyZWUgY2xhc3NOYW1lPSJteUNscyIgc2hvd0xpbmUgY2hlY2thYmxlCiAgICAgICAgICAgICAgICAgICAgICBjaGVja2VkS2V5cz17dGhpcy5zdGF0ZS5jaGVja2VkTm9kZX0KICAgICAgICAgICAgICAgICAgICAgIG9uQ2hlY2s9e3RoaXMuaGFuZGxlQ2hlY2t9PgogICAgICAgICAgICAgICAgICAgIHt0aGlzLmdldFRyZWVOb2RlKHRoaXMuc3RhdGUuZGF0YSl9CiAgICAgICAgICAgICAgICA8L1RyZWU+CgogICAgICAgICAgICAgICAgPEZvcm1JdGVtPgogICAgICAgICAgICAgICAgICAgIDxJbnB1dCB0eXBlPSJoaWRkZW4iIHsuLi5yb2xlRm9ybVByb3BzfS8+CiAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICApOwogICAgfQp9Cgptb2R1bGUuZXhwb3J0cyA9IEFkZFJvbGVGb3JtOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtCdXR0b259IGZyb20gImFudGQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGQgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -675,10 +685,10 @@
         <entry>a</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>qa</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
