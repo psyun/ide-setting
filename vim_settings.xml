@@ -120,6 +120,12 @@
         <mark key="^" line="106" column="44" />
         <mark key="." line="106" column="44" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1486710454051">
+        <mark key="[" line="154" column="47" />
+        <mark key="]" line="155" column="41" />
+        <mark key="^" line="155" column="41" />
+        <mark key="." line="155" column="41" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/components/gowild-uploader/index.js" timestamp="1485162656795">
         <mark key="[" line="48" column="24" />
         <mark key="]" line="48" column="27" />
@@ -638,7 +644,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KHJlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -692,8 +698,8 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
