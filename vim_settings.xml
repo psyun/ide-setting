@@ -20,6 +20,12 @@
         <mark key="." line="112" column="26" />
         <mark key="^" line="112" column="26" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1487129058404">
+        <mark key="[" line="96" column="58" />
+        <mark key="]" line="96" column="62" />
+        <mark key="^" line="96" column="62" />
+        <mark key="." line="96" column="62" />
+      </file>
       <file name="/workspace/website/home/src/js/holoera.js" timestamp="1486993556393">
         <mark key="'" line="78" column="6" />
         <mark key="[" line="35" column="32" />
@@ -187,6 +193,12 @@
       <file name="/workspace/website/home/src/home/support/tech.html" timestamp="1487058954576">
         <mark key="[" line="27" column="16" />
       </file>
+      <file name="/workspace/website/home/src/home/product/gongzixiaobai.html" timestamp="1487058915784">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="70" />
+        <mark key="^" line="32" column="51" />
+        <mark key="." line="32" column="51" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/basic-info/img/avatar.js" timestamp="1482742700010">
         <mark key="'" line="20" column="115966" />
         <mark key="[" line="20" column="16" />
@@ -298,11 +310,11 @@
       <jump line="202" column="12" filename="/workspace/website/home/src/css/holoera.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YSAK</text>
+      <register name="&quot;" type="4">
+        <text>version</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>version</text>
       </register>
       <register name="/" type="4">
         <text>icon-360</text>
