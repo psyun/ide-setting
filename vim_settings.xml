@@ -257,6 +257,12 @@
       <file name="/workspace/website/home/src/home/support/qa.html" timestamp="1487058948306">
         <mark key="[" line="27" column="16" />
       </file>
+      <file name="/workspace/website/home/src/js/holoera-canvas-bg.js" timestamp="1487562129220">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="121" column="3" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/workspace/website/home/src/home/where-to-buy/partner.html" timestamp="1487058967793">
         <mark key="[" line="27" column="16" />
       </file>
@@ -715,32 +721,56 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZik7Cg==</text>
+      <register name="2" type="4">
+        <text>/**
+ *create by psy at 2017/2/20
+ *
+ *
+ * @license
+ * Copyright (c) 2017 Gowild Inc. All Rights Reserved.
+ *
+ * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an &quot;AS IS&quot; BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ */</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFuaW1hdGlvbi1hcnJvdyI+PC9kaXY+Cg==</text>
+      <register name="3" type="4">
+        <text>/**
+ * Copyright (c) 2016 hustcc
+ * License: MIT
+ * Version: %%GULP_INJECT_VERSION%%
+ * GitHub: https://github.com/hustcc/canvas-nest.js
+ **/</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFuaW1hdGlvbi1hcnJvdyI+PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJodHRwczovL2l0ZW0uamQuY29tLzM4NDU3OTUuaHRtbCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmhvbG9lcmEtdGhyZWVzaXh0eSAuaWNvbi0zNjAgewogICAgCn0K</text>
+        <text encoding="base64">ICAgICAgICA8YSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
