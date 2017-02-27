@@ -183,7 +183,7 @@
         <mark key="^" line="47" column="14" />
         <mark key="." line="47" column="14" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/config.js" timestamp="1484559483096">
+      <file name="/workspace/website/gowild-manage-system/src/config.js" timestamp="1488172093504">
         <mark key="[" line="25" column="32" />
         <mark key="]" line="25" column="31" />
         <mark key="^" line="25" column="31" />
@@ -574,6 +574,12 @@
         <mark key="." line="89" column="7" />
         <mark key="^" line="89" column="7" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/services/base-service.js" timestamp="1488172119148">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1485165602122">
         <mark key="[" line="70" column="38" />
         <mark key="]" line="71" column="27" />
@@ -710,10 +716,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>manage</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>manage</text>
       </register>
       <register name="/" type="4">
         <text>clothes</text>
