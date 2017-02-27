@@ -70,6 +70,12 @@
         <mark key="." line="112" column="26" />
         <mark key="^" line="112" column="26" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/upgrade/index.js" timestamp="1488192137658">
+        <mark key="[" line="139" column="29" />
+        <mark key="]" line="142" column="8" />
+        <mark key="^" line="142" column="8" />
+        <mark key="." line="142" column="8" />
+      </file>
       <file name="/workspace/website/home/src/js/holoera.js" timestamp="1487575621220">
         <mark key="'" line="149" column="52" />
         <mark key="[" line="61" column="24" />
@@ -578,12 +584,6 @@
         <mark key="]" line="88" column="41" />
         <mark key="." line="89" column="7" />
         <mark key="^" line="89" column="7" />
-      </file>
-      <file name="/workspace/website/gowild-manage-system/src/services/base-service.js" timestamp="1488188539822">
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/utils/http-fetch.js" timestamp="1485165602122">
         <mark key="[" line="70" column="38" />
