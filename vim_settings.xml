@@ -401,12 +401,12 @@
         <mark key="^" line="49" column="8" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1488190547719">
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1488462331993">
         <mark key="'" line="36" column="16" />
-        <mark key="[" line="46" column="56" />
-        <mark key="]" line="46" column="56" />
-        <mark key="." line="46" column="56" />
-        <mark key="^" line="46" column="54" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="33" />
+        <mark key="^" line="25" column="33" />
       </file>
       <file name="/workspace/website/home/src/home/support/after-sales.html" timestamp="1487058941101">
         <mark key="[" line="27" column="16" />
@@ -721,10 +721,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>用户名</text>
+        <text>manager</text>
       </register>
       <register name="-" type="4">
-        <text>用户名</text>
+        <text>manager</text>
       </register>
       <register name="/" type="4">
         <text>clothes</text>
