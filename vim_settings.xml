@@ -206,11 +206,11 @@
         <mark key="]" line="530" column="0" />
         <mark key="." line="530" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/account-info/index.js" timestamp="1486725133758">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="133" column="63" />
-        <mark key="." line="78" column="0" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/account-info/index.js" timestamp="1488618093487">
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="52" column="38" />
+        <mark key="^" line="52" column="38" />
+        <mark key="." line="52" column="38" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/upgradeApp/upgrade-app.scss" timestamp="1481181171695">
         <mark key="[" line="3" column="15" />
@@ -566,12 +566,12 @@
         <mark key="." line="50" column="31" />
         <mark key="^" line="50" column="31" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/manager-info/index.js" timestamp="1488464599096">
-        <mark key="'" line="97" column="4" />
-        <mark key="[" line="89" column="40" />
-        <mark key="]" line="89" column="51" />
-        <mark key="." line="89" column="51" />
-        <mark key="^" line="89" column="51" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/manager-info/index.js" timestamp="1488618878449">
+        <mark key="'" line="106" column="4" />
+        <mark key="[" line="76" column="49" />
+        <mark key="]" line="76" column="42" />
+        <mark key="." line="76" column="42" />
+        <mark key="^" line="76" column="42" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/basic-info/actions.js" timestamp="1484054878546">
         <mark key="[" line="55" column="3" />
@@ -720,31 +720,47 @@
       <jump line="512" column="60" filename="/workspace/website/home/src/js/threesixty.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coQXBwQ29uZmlnLmN1cnJlbnRGcmFtZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>updateStatus</text>
       </register>
       <register name="-" type="4">
-        <text>mac</text>
+        <text>updateStatus</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudEZyYW1lOiAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ+aJgOWxnueuoeeQhuWRmCcsCiAgICAgICAgICAgICAgICAgICAgZmllbGRzOiAnc24nLAogICAgICAgICAgICAgICAgICAgIHJlbmRlcjogZGF0YSA9PiBgJHtkYXRhfWAsCiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coQXBwQ29uZmlnLmN1cnJlbnRGcmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlzYWJsZWQ6IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50RnJhbWU6IDE3LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc2VydDogewogICAgICAgICAgICAgICAgICAgIHVybDogJy9tYW5hZ2VJbmZvL2FkZCcsCiAgICAgICAgICAgICAgICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>{
+                        title: '查看信息',
+                        type: 'delete',
+                        url: 'www.baidu.com',
+                    },</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coQXBwQ29uZmlnLmN1cnJlbnRGcmFtZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJyZW50RnJhbWU6IDE3LAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc2VydDogewogICAgICAgICAgICAgICAgICAgIHVybDogJy9tYW5hZ2VJbmZvL2FkZCcsCiAgICAgICAgICAgICAgICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IEljb24gZnJvbSAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="4">
         <text>{
                     key: 'ROLE_MGRUSER',
                     iconType: '',
@@ -757,20 +773,8 @@
                     component: RoleManage,
                 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvY2hhdCIgY29tcG9uZW50PXt3aXRoUm91dGVyKENoYXQpfT48L1JvdXRlPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcHJvcGVydGllcy1pbmZvIiBjb21wb25lbnQ9e3dpdGhSb3V0ZXIoUHJvcGVydGllc0luZm8pfT48L1JvdXRlPgo=</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BlcnRpZXNJbmZvIGZyb20gIi4uL2NvbnRhaW5lcnMvcHJvcGVydGllcy1pbmZvIjsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENoYXQgZnJvbSAiLi4vY29udGFpbmVycy9jaGF0IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvY2hhdCIgY29tcG9uZW50PXt3aXRoUm91dGVyKENoYXQpfT48L1JvdXRlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
