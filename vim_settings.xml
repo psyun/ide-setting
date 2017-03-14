@@ -34,11 +34,11 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="2" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489474867696">
-        <mark key="[" line="103" column="67" />
-        <mark key="]" line="103" column="71" />
-        <mark key="^" line="103" column="71" />
-        <mark key="." line="103" column="71" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489477043906">
+        <mark key="[" line="101" column="31" />
+        <mark key="]" line="101" column="63" />
+        <mark key="." line="101" column="63" />
+        <mark key="^" line="101" column="63" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/song/index.js" timestamp="1486725109502">
         <mark key="[" line="85" column="0" />
@@ -213,10 +213,10 @@
         <mark key="^" line="175" column="18" />
         <mark key="." line="175" column="18" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1488180713784">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1489477327785">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/holoera/hobby/index.js" timestamp="1484209505040">
         <mark key="[" line="48" column="18" />
@@ -696,11 +696,11 @@
       <jump line="127" column="45" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MgrUser</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>MgrUser</text>
+        <text>value={this.state.checkedItems}</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -708,7 +708,22 @@
       <register name="0" type="4">
         <text encoding="base64">IDxGb3JtSXRlbQogICAgICAgICAgICAgICAgICAgIGxhYmVsPSLmuLjmiI/luIEiCiAgICAgICAgICAgICAgICAgICAgbGFiZWxDb2w9e3tzcGFuOiA2fX0KICAgICAgICAgICAgICAgICAgICB3cmFwcGVyQ29sPXt7c3BhbjogMTh9fQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIDxJbnB1dCB7Li4uZ2V0RmllbGRQcm9wcygnbWdyR2lmdEl0ZW1Wb0xpc3RbMF0uaXRlbUlkJyl9IC8+CiAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFN3aXRjaCwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Q29sPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L0NvbD4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFN3aXRjaCBkZWZhdWx0Q2hlY2tlZD17ZmFsc2V9IG9uQ2hhbmdlPXt0aGlzLm9ufS8+Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>{
                     key: 'ROLE_ROLELIST',
                     iconType: '',
@@ -716,36 +731,17 @@
                     component: RoleManage,
                 }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiByb3cuLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>handleVersionTypeChecked(e) {
-        this.setState({
-            versionTypeChecked: e,
-        });
-    }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlbmRlck1vZGFsRm9ybUl0ZW1zID0gdGhpcy5yZW5kZXJNb2RhbEZvcm1JdGVtcy5iaW5kKHRoaXMpOwogICAgICAgIHRoaXMuaGFuZGxlVmVyc2lvblR5cGVDaGVja2VkID0gdGhpcy5oYW5kbGVWZXJzaW9uVHlwZUNoZWNrZWQuYmluZCh0aGlzKTsKICAgICAgICB0aGlzLnJlbmRlclNlYXJjaEZvcm1JdGVtcyA9IHRoaXMucmVuZGVyU2VhcmNoRm9ybUl0ZW1zLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiByb3cuLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cmw6ICcvZGluc2VydCcsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFNlbGVjdCBmcm9tICcuLi8uLi9jb21wb25lbnRzL3NlbGVjdCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
