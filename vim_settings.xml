@@ -34,11 +34,11 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="2" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489477043906">
-        <mark key="[" line="101" column="31" />
-        <mark key="]" line="101" column="63" />
-        <mark key="." line="101" column="63" />
-        <mark key="^" line="101" column="63" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489481427314">
+        <mark key="[" line="79" column="27" />
+        <mark key="]" line="80" column="11" />
+        <mark key="." line="80" column="11" />
+        <mark key="^" line="80" column="11" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/song/index.js" timestamp="1486725109502">
         <mark key="[" line="85" column="0" />
@@ -696,11 +696,11 @@
       <jump line="127" column="45" filename="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtKTsK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>value={this.state.checkedItems}</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -709,39 +709,34 @@
         <text encoding="base64">IDxGb3JtSXRlbQogICAgICAgICAgICAgICAgICAgIGxhYmVsPSLmuLjmiI/luIEiCiAgICAgICAgICAgICAgICAgICAgbGFiZWxDb2w9e3tzcGFuOiA2fX0KICAgICAgICAgICAgICAgICAgICB3cmFwcGVyQ29sPXt7c3BhbjogMTh9fQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIDxJbnB1dCB7Li4uZ2V0RmllbGRQcm9wcygnbWdyR2lmdEl0ZW1Wb0xpc3RbMF0uaXRlbUlkJyl9IC8+CiAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN3aXRjaCwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcHRpb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Q29sPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwgRm9ybUl0ZW0gPgoKICAgICAgICAgICAgICAgIDwgLyBGb3JtSXRlbSA+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L0NvbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGb3JtPC9Gb3JtPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFN3aXRjaCBkZWZhdWx0Q2hlY2tlZD17ZmFsc2V9IG9uQ2hhbmdlPXt0aGlzLm9ufS8+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-                    key: 'ROLE_ROLELIST',
-                    iconType: '',
-                    title: '角色权限设置',
-                    component: RoleManage,
-                }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFN3aXRjaCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiByb3cuLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Q29sPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L0NvbD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFN3aXRjaCBkZWZhdWx0Q2hlY2tlZD17ZmFsc2V9IG9uQ2hhbmdlPXt0aGlzLm9ufS8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
