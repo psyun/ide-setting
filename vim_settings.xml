@@ -34,11 +34,11 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="2" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489472443042">
-        <mark key="[" line="96" column="46" />
-        <mark key="]" line="96" column="45" />
-        <mark key="^" line="96" column="45" />
-        <mark key="." line="96" column="45" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489474867696">
+        <mark key="[" line="103" column="67" />
+        <mark key="]" line="103" column="71" />
+        <mark key="^" line="103" column="71" />
+        <mark key="." line="103" column="71" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/song/index.js" timestamp="1486725109502">
         <mark key="[" line="85" column="0" />
@@ -236,7 +236,12 @@
         <mark key="^" line="49" column="8" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1489459942274" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/navigation-routes.js" timestamp="1489475126329">
+        <mark key="[" line="171" column="30" />
+        <mark key="]" line="171" column="35" />
+        <mark key="^" line="171" column="35" />
+        <mark key="." line="171" column="35" />
+      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/native-modules/socket/index.js" timestamp="1484055520583">
         <mark key="[" line="89" column="20" />
         <mark key="]" line="89" column="20" />
@@ -692,50 +697,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mac</text>
+        <text>MgrUser</text>
       </register>
       <register name="-" type="4">
-        <text>mac</text>
+        <text>MgrUser</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PEZvcm1JdGVtCiAgICAgICAgICAgICAgICAgICAgbGFiZWw9IueuoeeQhuWRmOi0puWPtyIKICAgICAgICAgICAgICAgICAgICBsYWJlbENvbD17e3NwYW46IDZ9fQogICAgICAgICAgICAgICAgICAgIHdyYXBwZXJDb2w9e3tzcGFuOiAxOH19CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCd1c2VybmFtZScsIHsKICAgICAgICAgICAgICAgICAgICAgICAgcnVsZXM6IFt7cmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfor7fovpPlhaXnrqHnkIblkZjotKblj7cnLH1dCiAgICAgICAgICAgICAgICAgICAgfSkoCiAgICAgICAgICAgICAgICAgICAgICAgIDxJbnB1dCAvPgogICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPg==</text>
+        <text encoding="base64">IDxGb3JtSXRlbQogICAgICAgICAgICAgICAgICAgIGxhYmVsPSLmuLjmiI/luIEiCiAgICAgICAgICAgICAgICAgICAgbGFiZWxDb2w9e3tzcGFuOiA2fX0KICAgICAgICAgICAgICAgICAgICB3cmFwcGVyQ29sPXt7c3BhbjogMTh9fQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIDxJbnB1dCB7Li4uZ2V0RmllbGRQcm9wcygnbWdyR2lmdEl0ZW1Wb0xpc3RbMF0uaXRlbUlkJyl9IC8+CiAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>{
+                    key: 'ROLE_ROLELIST',
+                    iconType: '',
+                    title: '角色权限设置',
+                    component: RoleManage,
+                }</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiByb3cuLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>handleVersionTypeChecked(e) {
         this.setState({
             versionTypeChecked: e,
         });
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlbmRlck1vZGFsRm9ybUl0ZW1zID0gdGhpcy5yZW5kZXJNb2RhbEZvcm1JdGVtcy5iaW5kKHRoaXMpOwogICAgICAgIHRoaXMuaGFuZGxlVmVyc2lvblR5cGVDaGVja2VkID0gdGhpcy5oYW5kbGVWZXJzaW9uVHlwZUNoZWNrZWQuYmluZCh0aGlzKTsKICAgICAgICB0aGlzLnJlbmRlclNlYXJjaEZvcm1JdGVtcyA9IHRoaXMucmVuZGVyU2VhcmNoRm9ybUl0ZW1zLmJpbmQodGhpcyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cmw6ICcvZGluc2VydCcsCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFNlbGVjdCBmcm9tICcuLi8uLi9jb21wb25lbnRzL3NlbGVjdCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlbmRlck1vZGFsRm9ybUl0ZW1zID0gdGhpcy5yZW5kZXJNb2RhbEZvcm1JdGVtcy5iaW5kKHRoaXMpOwogICAgICAgIHRoaXMuaGFuZGxlVmVyc2lvblR5cGVDaGVja2VkID0gdGhpcy5oYW5kbGVWZXJzaW9uVHlwZUNoZWNrZWQuYmluZCh0aGlzKTsKICAgICAgICB0aGlzLnJlbmRlclNlYXJjaEZvcm1JdGVtcyA9IHRoaXMucmVuZGVyU2VhcmNoRm9ybUl0ZW1zLmJpbmQodGhpcyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFFpbml1VXBsb2FkZXIgZnJvbSAiLi4vLi4vY29tcG9uZW50cy9xaW5pdS11cGxvYWRlciI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cmw6ICcvZGluc2VydCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN3aXRjaAo=</text>
+        <text encoding="base64">aW1wb3J0IFNlbGVjdCBmcm9tICcuLi8uLi9jb21wb25lbnRzL3NlbGVjdCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
