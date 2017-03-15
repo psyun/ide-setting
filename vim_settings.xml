@@ -281,12 +281,12 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="2" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489567299058">
+      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489569416667">
         <mark key="'" line="35" column="53" />
-        <mark key="[" line="359" column="27" />
-        <mark key="]" line="360" column="45" />
-        <mark key="." line="360" column="45" />
-        <mark key="^" line="360" column="45" />
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="48" column="33" />
+        <mark key="." line="48" column="33" />
+        <mark key="^" line="48" column="33" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/song/index.js" timestamp="1486725109502">
         <mark key="[" line="85" column="0" />
@@ -590,6 +590,12 @@
         <mark key="." line="71" column="27" />
         <mark key="^" line="71" column="27" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1489569041441">
+        <mark key="[" line="54" column="29" />
+        <mark key="]" line="54" column="30" />
+        <mark key="." line="54" column="30" />
+        <mark key="^" line="54" column="29" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/loading.scss" timestamp="1481188701487">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="3" column="20" />
@@ -714,46 +720,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>phoneList</text>
+        <text>gift</text>
       </register>
       <register name="-" type="4">
-        <text>phoneList</text>
+        <text>gift</text>
       </register>
       <register name="/" type="4">
         <text>getFieldProps</text>
       </register>
       <register name="0" type="4">
-        <text>`mgrGiftItemVoList[${index}].expireTime`</text>
+        <text>handleConditionChang</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxHaWZ0Q29uZGl0aW9uRm9ybSBmb3JtPXtmb3JtfS8+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRoaXMK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbkl0ZW0ucHVzaCg8T3B0R3JvdXAgbGFiZWw9e2l9Pnt0aGlzLmdldE9wdGlvbnMob3B0aW9uR3JvdXApfTwvT3B0R3JvdXA+KQo=</text>
+        <text encoding="base64">Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChsZXQgaSBpbiBvcHRpb25Hcm91cE1hcCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBvcHRpb25Hcm91cCA9IG9wdGlvbkdyb3VwTWFwW2ldOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdGV4dCA9IG9wdGlvblt0aGlzLnByb3BzLnRleHRGaWVsZF07CiAgICAgICAgICAgIGNvbnN0IHZhbHVlID0gb3B0aW9uW3RoaXMucHJvcHMudmFsdWVGaWVsZF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbkl0ZW0ucHVzaCg8T3B0R3JvdXAgbGFiZWw9e2l9Pnt0aGlzLmdldE9wdGlvbnMob3B0aW9uR3JvdXApfTwvT3B0R3JvdXA+KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
