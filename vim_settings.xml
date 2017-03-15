@@ -51,11 +51,10 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/components/select/index.js" timestamp="1489499918751">
-        <mark key="[" line="114" column="23" />
-        <mark key="]" line="112" column="15" />
-        <mark key="^" line="112" column="15" />
-        <mark key="." line="112" column="15" />
+      <file name="/workspace/website/gowild-manage-system/src/components/select/index.js" timestamp="1489547091643">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/elastic-search/dubbo/index.js" timestamp="1484130336507">
         <mark key="[" line="35" column="25" />
@@ -714,10 +713,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwaXJlVGltZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>expireTime</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>getFieldProps</text>
@@ -726,22 +725,22 @@
         <text>`mgrGiftItemVoList[${index}].expireTime`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwaXJlVGltZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvRm9ybUl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uSXRlbS5wdXNoKDxPcHRHcm91cCBsYWJlbD17fT4KICAgICAgICAgICAgICAgIDxPcHRpb24+PC9PcHRpb24+CiAgICAgICAgICAgIDwvT3B0R3JvdXA+KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SW5wdXQgdHlwZT0iaGlkZGVuIiB7Li4ucm9sZUZvcm1Qcm9wc30vPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGb3JtSXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9ucy5wdXNoKDxPcHRpb24ga2V5PXtgJHt2YWx1ZX1gfSB2YWx1ZT17dmFsdWV9Pnt0ZXh0fTwvT3B0aW9uPik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIDxUcmVlIGNsYXNzTmFtZT0ibXlDbHMiIHNob3dMaW5lIGNoZWNrYWJsZQogICAgICAgICAgICAgICAgICAgICAgY2hlY2tlZEtleXM9e3RoaXMuc3RhdGUuY2hlY2tlZE5vZGV9CiAgICAgICAgICAgICAgICAgICAgICBvbkNoZWNrPXt0aGlzLmhhbmRsZUNoZWNrfT4KICAgICAgICAgICAgICAgICAgICB7dGhpcy5nZXRUcmVlTm9kZSh0aGlzLnN0YXRlLmRhdGEpfQogICAgICAgICAgICAgICAgPC9UcmVlPgo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -750,10 +749,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByb2xlRm9ybVByb3BzID0gZ2V0RmllbGRQcm9wcygncmVzSWRzJyk7Cg==</text>
+        <text encoding="base64">ZXhwaXJlVGltZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7Z2V0RmllbGRQcm9wc30gPXRoaXMucHJvcHMuZm9ybTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvRm9ybUl0ZW0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
