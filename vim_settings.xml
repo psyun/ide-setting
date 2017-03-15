@@ -40,11 +40,6 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/routes/index.js" timestamp="1488196519267">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/test.proto" timestamp="1481127865374">
         <mark key="[" line="49" column="1" />
         <mark key="]" line="50" column="0" />
@@ -95,10 +90,11 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1489477327785">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="/workspace/website/gowild-manage-system/src/utils/param-util.js" timestamp="1489585665844">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="76" column="56" />
       </file>
       <file name="/workspace/gowild-app/gowild-holoera-app/app/containers/holoera/hobby/index.js" timestamp="1484209505040">
         <mark key="[" line="48" column="18" />
@@ -716,11 +712,11 @@
       <jump line="356" column="62" filename="/workspace/website/gowild-manage-system/src/containers/gift/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>使用英文逗号</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW1ba2V5XSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>使用英文逗号</text>
+        <text>Array</text>
       </register>
       <register name="/" type="4">
         <text>handleUploadPhoneSuccess</text>
@@ -729,34 +725,34 @@
         <text>handleUploadPhoneSuccess</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW1ba2V5XSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aUdvd2lsZFVwbG9hZGVybXBvcnQgIGZyb20gJy4uLy4uL2NvJwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkUGFyYW0ucHVzaChgJHtuYW1lfVske2l9XS4ke31gKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcmlhbGl6ZWRQYXJhbS5wdXNoKGAke2tleX09JHt2YWx1ZX1gKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxHaWZ0Q29uZGl0aW9uRm9ybSBmb3JtPXtmb3JtfS8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbSA9IGFycmF5W2ldOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMK</text>
+        <text encoding="base64">ICAgICAgICBpZihhcnJheSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">ICAgIGZvcihhcnJheSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvcigpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocGFyYW0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
