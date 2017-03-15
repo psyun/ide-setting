@@ -281,7 +281,7 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="2" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489569416667">
+      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489570215633">
         <mark key="'" line="35" column="53" />
         <mark key="[" line="48" column="27" />
         <mark key="]" line="48" column="33" />
@@ -361,11 +361,8 @@
         <mark key="^" line="106" column="44" />
         <mark key="." line="106" column="44" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/gift/gift-condition-form.js" timestamp="1489567343615">
-        <mark key="[" line="43" column="40" />
-        <mark key="]" line="43" column="49" />
-        <mark key="." line="43" column="49" />
-        <mark key="^" line="43" column="49" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/gift/gift-condition-form.js" timestamp="1489570283437">
+        <mark key="[" line="38" column="33" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/search-form/search-form.scss" timestamp="1484391713659">
         <mark key="[" line="5" column="0" />
