@@ -281,12 +281,12 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="2" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489499690739">
-        <mark key="'" line="341" column="35" />
-        <mark key="[" line="259" column="51" />
-        <mark key="]" line="257" column="98" />
-        <mark key="." line="257" column="98" />
-        <mark key="^" line="257" column="98" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489567299058">
+        <mark key="'" line="35" column="53" />
+        <mark key="[" line="359" column="27" />
+        <mark key="]" line="360" column="45" />
+        <mark key="." line="360" column="45" />
+        <mark key="^" line="360" column="45" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/song/index.js" timestamp="1486725109502">
         <mark key="[" line="85" column="0" />
@@ -361,11 +361,11 @@
         <mark key="^" line="106" column="44" />
         <mark key="." line="106" column="44" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/gift/gift-condition-form.js" timestamp="1489499088632">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="32" column="3" />
-        <mark key="." line="36" column="0" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/gift/gift-condition-form.js" timestamp="1489567343615">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="43" column="49" />
+        <mark key="." line="43" column="49" />
+        <mark key="^" line="43" column="49" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/search-form/search-form.scss" timestamp="1484391713659">
         <mark key="[" line="5" column="0" />
@@ -611,8 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="450" column="30" filename="/workspace/website/home/src/css/holoera.css" />
-      <jump line="622" column="0" filename="/workspace/website/home/src/css/holoera.css" />
       <jump line="50" column="19" filename="/workspace/gowild-app/gowild-holoera-app/app/containers/holoera/memory/index.js" />
       <jump line="549" column="29" filename="/workspace/website/home/src/js/threesixty.js" />
       <jump line="334" column="0" filename="/workspace/website/home/src/css/holoera.css" />
@@ -711,13 +709,15 @@
       <jump line="225" column="58" filename="/workspace/website/gowild-manage-system/src/containers/gift/index.js" />
       <jump line="220" column="34" filename="/workspace/website/gowild-manage-system/src/containers/gift/index.js" />
       <jump line="335" column="35" filename="/workspace/website/gowild-manage-system/src/containers/gift/index.js" />
+      <jump line="358" column="26" filename="/workspace/website/gowild-manage-system/src/containers/gift/index.js" />
+      <jump line="35" column="53" filename="/workspace/website/gowild-manage-system/src/containers/gift/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>phoneList</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>phoneList</text>
       </register>
       <register name="/" type="4">
         <text>getFieldProps</text>
@@ -726,34 +726,34 @@
         <text>`mgrGiftItemVoList[${index}].expireTime`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbkl0ZW0ucHVzaCg8T3B0R3JvdXAgbGFiZWw9e2l9Pnt0aGlzLmdldE9wdGlvbnMob3B0aW9uR3JvdXApfTwvT3B0R3JvdXA+KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbkl0ZW0ucHVzaCg8T3B0R3JvdXAgbGFiZWw9e2l9Pnt0aGlzLmdldE9wdGlvbnMob3B0aW9uR3JvdXApfTwvT3B0R3JvdXA+KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChsZXQgaSBpbiBvcHRpb25Hcm91cE1hcCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBvcHRpb25Hcm91cCA9IG9wdGlvbkdyb3VwTWFwW2ldOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChsZXQgaSBpbiBvcHRpb25Hcm91cE1hcCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdGV4dCA9IG9wdGlvblt0aGlzLnByb3BzLnRleHRGaWVsZF07CiAgICAgICAgICAgIGNvbnN0IHZhbHVlID0gb3B0aW9uW3RoaXMucHJvcHMudmFsdWVGaWVsZF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBvcHRpb25Hcm91cCA9IG9wdGlvbkdyb3VwTWFwW2ldOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdGV4dCA9IG9wdGlvblt0aGlzLnByb3BzLnRleHRGaWVsZF07CiAgICAgICAgICAgIGNvbnN0IHZhbHVlID0gb3B0aW9uW3RoaXMucHJvcHMudmFsdWVGaWVsZF07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhncm91cE9wdGlvbk1hcCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
