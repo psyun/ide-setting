@@ -153,7 +153,6 @@
         <mark key="." line="32" column="42" />
         <mark key="^" line="32" column="42" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/role-manage/add-role-form.js" timestamp="1489498952737" />
       <file name="/workspace/gowild-app/gowild-holoera-app/app/reducers/friend/actions.js" timestamp="1482734015533">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="133" column="30" />
@@ -277,13 +276,7 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="2" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489580844239">
-        <mark key="'" line="361" column="62" />
-        <mark key="[" line="355" column="31" />
-        <mark key="]" line="355" column="30" />
-        <mark key="." line="355" column="30" />
-        <mark key="^" line="355" column="30" />
-      </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489645491236" />
       <file name="/workspace/website/gowild-manage-system/src/containers/song/index.js" timestamp="1486725109502">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="41" />
@@ -357,8 +350,10 @@
         <mark key="^" line="106" column="44" />
         <mark key="." line="106" column="44" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/gift/gift-condition-form.js" timestamp="1489570283437">
-        <mark key="[" line="38" column="33" />
+      <file name="/workspace/website/gowild-manage-system/src/containers/gift/gift-condition-form.js" timestamp="1489645502903">
+        <mark key="[" line="71" column="47" />
+        <mark key="]" line="71" column="47" />
+        <mark key="." line="71" column="47" />
       </file>
       <file name="/workspace/website/gowild-manage-system/src/components/grid/search-form/search-form.scss" timestamp="1484391713659">
         <mark key="[" line="5" column="0" />
@@ -712,11 +707,11 @@
       <jump line="356" column="62" filename="/workspace/website/gowild-manage-system/src/containers/gift/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW1ba2V5XSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>`mgrGiftItemVoList[${index}].count`</text>
       </register>
       <register name="-" type="4">
-        <text>Array</text>
+        <text>`mgrGiftItemVoList[${index}].count`</text>
       </register>
       <register name="/" type="4">
         <text>handleUploadPhoneSuccess</text>
