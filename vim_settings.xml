@@ -232,6 +232,12 @@
         <mark key="^" line="27" column="23" />
         <mark key="." line="27" column="23" />
       </file>
+      <file name="/workspace/website/gowild-manage-system/src/containers/product/index.js" timestamp="1490262173609">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
+      </file>
       <file name="/workspace/website/gowild-manage-system/src/containers/data-tables/cm-item/index.js" timestamp="1484746244459">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
@@ -276,7 +282,6 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="2" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/src/containers/gift/index.js" timestamp="1489645491236" />
       <file name="/workspace/website/gowild-manage-system/src/containers/song/index.js" timestamp="1486725109502">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="41" />
@@ -573,12 +578,6 @@
         <mark key="." line="71" column="27" />
         <mark key="^" line="71" column="27" />
       </file>
-      <file name="/workspace/website/gowild-manage-system/webpack.config.js" timestamp="1489569041441">
-        <mark key="[" line="54" column="29" />
-        <mark key="]" line="54" column="30" />
-        <mark key="." line="54" column="30" />
-        <mark key="^" line="54" column="29" />
-      </file>
       <file name="/workspace/website/gowild-manage-system/src/components/loading/loading.scss" timestamp="1481188701487">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="3" column="20" />
@@ -703,10 +702,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LmpvaW4oJyYnKTs=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>handleUploadPhoneSuccess</text>
@@ -715,22 +714,22 @@
         <text>handleUploadPhoneSuccess</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcmlsaXplZFBhcmFtLnB1c2goYCR7a2V5fT0ke3ZhbHVlfWApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcmlsaXplZFBhcmFtLnB1c2goYCR7a2V5fT0ke3ZhbHVlfWApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcmlsaXplZFBhcmFtLnB1c2goYCR7a2V5fT0ke3ZhbHVlfWApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBzZXJpbGl6ZWRQYXJhbSA9IFtdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGxldCBzZXJpbGl6ZWRQYXJhbSA9IFtdOwo=</text>
@@ -739,10 +738,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBzZXJpbGl6ZWRQYXJhbSA9IFtdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcmlsaXplZFBhcmFtLnB1c2goYCR7a2V5fT0ke3ZhbHVlfWApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
